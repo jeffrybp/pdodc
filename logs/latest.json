@@ -1,14 +1,19 @@
 {
-  "time": "2025-06-17T15:37:57.894Z",
+  "time": "2025-06-17T16:23:27.168Z",
   "headers": {
-    "luws": "E475E73F-EC83-0C68-1B8E-2C37D6853780_22522467",
-    "x-signature": "5d84246390ea759d047c7f539d514050ef6d3bcf2387a1037954ff1da4c934c4",
-    "x-client": 1750174681.992,
-    "x-api-platform": "web-desktop",
-    "x-request-from": "https://www.vidio.com/live/6299-bein-1",
-    "x-user-email": "jeffrybp1991@gmail.com",
-    "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/o6dI0Sda//5gBfz+MUoKpWh/noqwESjKK7wwixgeAbnMtNtTF6O/utdn5FnWnMFW+B5j3RzRzoP8+59/6pi++s=",
-    "content-type": "application/vnd.api+json",
-    "x-secure-level": "2"
+    "luws": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36",
+    "x-signature": "2b98e29a8167ed66dfff9dd7a72b3be63ef1b63a9a7e41bc7c4c772ca908072c",
+    "x-client": 1750177408.664,
+    "x-api-platform": "web",
+    "x-request-from": "browser",
+    "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/srd2pMrZ1R4z1sgqx/u/mp4ZM4euIIwga1ysrZ7/NhdcrZGJ+WIa7n1Nby57QzeH//9pxeqZBWy0i0wHZeufwE=",
+    "content-type": "application/json",
+    "x-secure-level": "2",
+    "204-dash": null,
+    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/live/204/master.m3u8?hdnts=exp=1750191806~acl=/live/204/master.m3u8!/hls-p/ingest_204*/*!/hls-b/ingest_204*/*~id=allUsers~hmac=c85cba8052bb6ebb3ba78be3dd5fbd4b227182f004008e3ebbf2b5e701fe217b",
+    "205-dash": null,
+    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/live/205/master.m3u8?hdnts=exp=1750191806~acl=/live/205/master.m3u8!/hls-p/ingest_205*/*!/hls-b/ingest_205*/*~id=allUsers~hmac=27cee3aff30b5accdd105acefaad5661a1ff6ae943b60014799b7a20713f5b25",
+    "206-dash": null,
+    "206-hls": null
   }
 }
