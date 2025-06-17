@@ -1,15 +1,13 @@
 {
-  "time": "2025-06-17T13:27:41.518Z",
+  "time": "2025-06-17T13:29:59.028Z",
   "headers": {
-    "luws": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36",
-    "x-signature": "00c1689128fc242c548b0502e468b06980e4d53f092ecb08e632553e56d50686",
-    "x-client": 1750166862.726,
-    "x-api-platform": "web",
-    "x-request-from": "browser",
+    "luws": "8E8151BA-42C7-6CBA-30AA-564D3A1ECE23_",
+    "x-signature": "37db24b6efc972b548e29e92aa8ccba946f4ceb7572feb46766d44a2d5911df6",
+    "x-client": 1750167000.383,
+    "x-api-platform": "web-desktop",
+    "x-request-from": "https://www.vidio.com/live/18913",
     "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/srd2pMrZ1R4z1sgqx/u/mp4ZM4euIIwga1ysrZ7/NhdcrZGJ+WIa7n1Nby57QzeH//9pxeqZBWy0i0wHZeufwE=",
-    "content-type": "application/json",
-    "x-secure-level": "2",
-    "204-dash": null,
-    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/live/204/master.m3u8?hdnts=exp=1750181261~acl=/live/204/master.m3u8!/hls-p/ingest_204*/*!/hls-b/ingest_204*/*~id=allUsers~hmac=3acbfd82b2d1e9d9452b30c8f2ba36451664b905632e3ebdc59519eb72e0f71a"
+    "content-type": "application/vnd.api+json",
+    "x-secure-level": "2"
   }
 }
