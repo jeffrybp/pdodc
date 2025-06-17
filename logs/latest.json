@@ -1,23 +1,19 @@
 {
-  "time": "2025-06-17T13:38:55.084Z",
+  "time": "2025-06-17T13:40:08.297Z",
   "headers": {
     "luws": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36",
-    "x-signature": "813e61053ff156c5831bf8c40365adee09df07b1fb3cad572f40dd24d95479e9",
-    "x-client": 1750167535.726,
+    "x-signature": "d1d5d7acd8e82598a2324c5ab6548bb8252ff7ab7bd903ffd712dd03d8a16710",
+    "x-client": 1750167609.053,
     "x-api-platform": "web",
     "x-request-from": "browser",
     "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/srd2pMrZ1R4z1sgqx/u/mp4ZM4euIIwga1ysrZ7/NhdcrZGJ+WIa7n1Nby57QzeH//9pxeqZBWy0i0wHZeufwE=",
     "content-type": "application/json",
     "x-secure-level": "2",
     "204-dash": null,
-    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/live/204/master.m3u8?hdnts=exp=1750181934~acl=/live/204/master.m3u8!/hls-p/ingest_204*/*!/hls-b/ingest_204*/*~id=allUsers~hmac=7b9165ca9bfc656574f778cd0a09b4a5c00f2955f645decc1b069329ca03093d",
+    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/live/204/master.m3u8?hdnts=exp=1750182007~acl=/live/204/master.m3u8!/hls-p/ingest_204*/*!/hls-b/ingest_204*/*~id=allUsers~hmac=e56f2d5e7232a91c00e06e25749f43640127501b0dc1c15e7a2bf9f02cee28ca",
     "205-dash": null,
-    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/live/205/master.m3u8?hdnts=exp=1750181934~acl=/live/205/master.m3u8!/hls-p/ingest_205*/*!/hls-b/ingest_205*/*~id=allUsers~hmac=adf71a3dfbf1941c4804080bda083ac20fc0ba8662abadf1c9a134f5d76d86d9",
+    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/live/205/master.m3u8?hdnts=exp=1750182007~acl=/live/205/master.m3u8!/hls-p/ingest_205*/*!/hls-b/ingest_205*/*~id=allUsers~hmac=19f8240e41c35891f40fdcdec5f3cb6b602b8053230ec653c3cf04058725c81c",
     "206-dash": null,
-    "206-hls": null,
-    "733-dash": null,
-    "733-hls": null,
-    "734-dash": null,
-    "734-hls": null
+    "206-hls": null
   }
 }
