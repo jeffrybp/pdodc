@@ -1,18 +1,18 @@
 {
-  "time": "2025-06-18T17:00:37.769Z",
+  "time": "2025-06-18T18:00:39.552Z",
   "headers": {
     "luws": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36",
-    "x-signature": "6a0c18c45c0e3cc9b378ff4db67905efc831705c5140b645a667737b357e4a74",
-    "x-client": 1750266037.698,
+    "x-signature": "0a62e4239091e2d5cbbdb2eb4d5d5129018dedc56d99a95ea0dbdce43e626c21",
+    "x-client": 1750269640.262,
     "x-api-platform": "web",
     "x-request-from": "browser",
     "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/kWG2Fnd9YCH41C7VggoN6gWerLaaSKDYjNpWu8J3TpoWDlJcdoDlMXS+5erNRbpcKZ9YQSWx0j13WRItb34OSA=",
     "content-type": "application/json",
     "x-secure-level": "2",
     "204-dash": null,
-    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/live/204/master.m3u8?hdnts=exp=1750280436~acl=/live/204/master.m3u8!/hls-p/ingest_204*/*!/hls-b/ingest_204*/*~id=allUsers~hmac=364f3bf57cfe3ce3f8a9df87fec29cda5147fc46930d41f93b41df987389bd60",
+    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/live/204/master.m3u8?hdnts=exp=1750284038~acl=/live/204/master.m3u8!/hls-p/ingest_204*/*!/hls-b/ingest_204*/*~id=allUsers~hmac=7a4e712164cad91989eea4a0d0cf4a2b7884824f42a69cad6b67f707e0ef8a2d",
     "205-dash": null,
-    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/live/205/master.m3u8?hdnts=exp=1750280436~acl=/live/205/master.m3u8!/hls-p/ingest_205*/*!/hls-b/ingest_205*/*~id=allUsers~hmac=f73ed7e1921baa03a6a78e942b9a6ab25571b5554741ec4f74e8c6c539050528",
+    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/live/205/master.m3u8?hdnts=exp=1750284038~acl=/live/205/master.m3u8!/hls-p/ingest_205*/*!/hls-b/ingest_205*/*~id=allUsers~hmac=6305751baceabaaf99a60b90f691750edba3a7be1070099664ce91a3acb99833",
     "206-dash": null,
     "206-hls": null,
     "all-sections": "204-205-206-733-734-777-782-783-874-1561-6317-6685-6786-6852-8237-17875-17884-17938-17939-18834-18851-18853-18913-18954"
