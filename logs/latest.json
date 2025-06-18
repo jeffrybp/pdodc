@@ -1,9 +1,9 @@
 {
-  "time": "2025-06-18T14:26:19.847Z",
+  "time": "2025-06-18T15:26:22.134Z",
   "headers": {
     "luws": "8E8151BA-42C7-6CBA-30AA-564D3A1ECE23_",
-    "x-signature": "97a037fd699b42de0c3d0c1ce2c8d18ee515a7befd35ea0e1e41cbf93e1f629a",
-    "x-client": 1750256780.183,
+    "x-signature": "a5decbb504262904fa0e04a82538f565fa000df12d7ac3c673ce6c58b933fa66",
+    "x-client": 1750260382.851,
     "x-api-platform": "web",
     "x-request-from": "browser",
     "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/kWG2Fnd9YCH41C7VggoN6gWerLaaSKDYjNpWu8J3TpoWDlJcdoDlMXS+5erNRbpcKZ9YQSWx0j13WRItb34OSA=",
@@ -11,10 +11,10 @@
     "x-secure-level": "2",
     "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36",
     "204-dash": null,
-    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/live/204/master.m3u8?hdnts=exp=1750271179~acl=/live/204/master.m3u8!/hls-p/ingest_204*/*!/hls-b/ingest_204*/*~id=allUsers~hmac=738b6caed5fdc997cf9137bc65cb94738f8c5e282559bf028505c8cfbd6cc7a9",
+    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/live/204/master.m3u8?hdnts=exp=1750274781~acl=/live/204/master.m3u8!/hls-p/ingest_204*/*!/hls-b/ingest_204*/*~id=allUsers~hmac=2624557cac2ecb9291da27c784d859af3bf40f0c47d1dd31b77782ce21af5585",
     "205-dash": null,
-    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/live/205/master.m3u8?hdnts=exp=1750271179~acl=/live/205/master.m3u8!/hls-p/ingest_205*/*!/hls-b/ingest_205*/*~id=allUsers~hmac=9ccfe443310fb3ebda4a51be1bca5449db4fd1428d9609cac6e2c2fcb7d59b94",
+    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/live/205/master.m3u8?hdnts=exp=1750274781~acl=/live/205/master.m3u8!/hls-p/ingest_205*/*!/hls-b/ingest_205*/*~id=allUsers~hmac=15dde5c5c207e1bc69fda7495aa5aaac7b25b9efa4f6459f80eb79f14f8bf618",
     "206-dash": null,
-    "206-hls": null
+    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1750274781~acl=/stream/206/file/*~id=allUsers~hmac=e3018e274f912fce7c0168951011e4000039d1113644ba8d6131bb320de21f50"
   }
 }
