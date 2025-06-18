@@ -1,19 +1,16 @@
 {
-  "time": "2025-06-18T02:31:02.710Z",
+  "time": "2025-06-18T02:34:16.843Z",
   "headers": {
-    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36",
-    "x-signature": "80f8b60cdf786a0837d7df49ffb2bf43499cd0329de9fc77efde0b8e1b4a5841",
-    "x-client": 1750213863.369,
+    "luws": "8E8151BA-42C7-6CBA-30AA-564D3A1ECE23_",
+    "x-signature": "1fcedeb3f9204ef58ebaf09b66cf3379f9595ee37ad46309f0bc6b6128b02372",
+    "x-client": 1750214058.245,
     "x-api-platform": "web",
     "x-request-from": "browser",
     "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/o1UHoc5pdJeXE/6Zcii7gz22sQkwU9hI9EWg0JGu39E0GMEqCv+UoHs4eEvo0zufXSUfoaD7wROf7KRFvUOJfM=",
     "content-type": "application/json",
     "x-secure-level": "2",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36",
     "204-dash": null,
-    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/live/204/master.m3u8?hdnts=exp=1750228261~acl=/live/204/master.m3u8!/hls-p/ingest_204*/*!/hls-b/ingest_204*/*~id=allUsers~hmac=f3d8d55b617f78ae65155aa8a52f7635d0ee0b03ecfae176ba60edbe69bebc42",
-    "205-dash": null,
-    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/live/205/master.m3u8?hdnts=exp=1750228261~acl=/live/205/master.m3u8!/hls-p/ingest_205*/*!/hls-b/ingest_205*/*~id=allUsers~hmac=f981eb43234385beb135fb62862e6ec8456c1df0d84cdb80236f1ac855fa59b4",
-    "206-dash": null,
-    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/live/206/master.m3u8?hdnts=exp=1750228262~acl=/live/206/master.m3u8!/hls-p/ingest_206*/*!/hls-b/ingest_206*/*~id=allUsers~hmac=5a8a0cfe871ccc64b7dcd4f2ba6e9adb8805535ab146f6ea54c7c30e5e0ac3ad"
+    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/live/204/master.m3u8?hdnts=exp=1750228456~acl=/live/204/master.m3u8!/hls-p/ingest_204*/*!/hls-b/ingest_204*/*~id=allUsers~hmac=e90b9e03f5cd19b61159a1d411305aceec97a4725d62288c366639910999d01e"
   }
 }
