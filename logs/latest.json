@@ -1,20 +1,19 @@
 {
-  "time": "2025-06-18T15:26:22.134Z",
+  "time": "2025-06-18T16:13:35.167Z",
   "headers": {
-    "luws": "8E8151BA-42C7-6CBA-30AA-564D3A1ECE23_",
-    "x-signature": "a5decbb504262904fa0e04a82538f565fa000df12d7ac3c673ce6c58b933fa66",
-    "x-client": 1750260382.851,
+    "luws": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36",
+    "x-signature": "71ee7149ac7034ee129360b012bc53ceb7d9bfe297d73fa74a91b99aa8ca3b83",
+    "x-client": 1750263218.631,
     "x-api-platform": "web",
     "x-request-from": "browser",
-    "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/kWG2Fnd9YCH41C7VggoN6gWerLaaSKDYjNpWu8J3TpoWDlJcdoDlMXS+5erNRbpcKZ9YQSWx0j13WRItb34OSA=",
+    "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/ln0wgJ8Oc/Dc10kAPYUBkFCJE6UbSL1LkKTr75YfG17V9z3ImJM1gURHWq8a68ozO/HImumjIBTxl8KfysRUzQ=",
     "content-type": "application/json",
     "x-secure-level": "2",
-    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36",
     "204-dash": null,
-    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/live/204/master.m3u8?hdnts=exp=1750274781~acl=/live/204/master.m3u8!/hls-p/ingest_204*/*!/hls-b/ingest_204*/*~id=allUsers~hmac=2624557cac2ecb9291da27c784d859af3bf40f0c47d1dd31b77782ce21af5585",
+    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/live/204/master.m3u8?hdnts=exp=1750277614~acl=/live/204/master.m3u8!/hls-p/ingest_204*/*!/hls-b/ingest_204*/*~id=allUsers~hmac=ed0bc9b14b4a804293133fe59c86f45424be3ede22ceff0b671f9c6561c82cb9",
     "205-dash": null,
-    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/live/205/master.m3u8?hdnts=exp=1750274781~acl=/live/205/master.m3u8!/hls-p/ingest_205*/*!/hls-b/ingest_205*/*~id=allUsers~hmac=15dde5c5c207e1bc69fda7495aa5aaac7b25b9efa4f6459f80eb79f14f8bf618",
+    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/live/205/master.m3u8?hdnts=exp=1750277614~acl=/live/205/master.m3u8!/hls-p/ingest_205*/*!/hls-b/ingest_205*/*~id=allUsers~hmac=e41c67bbe99aa529eb4f5ce9b12179eb88b759fb7d876d9e1cb6f88d3cc57947",
     "206-dash": null,
-    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1750274781~acl=/stream/206/file/*~id=allUsers~hmac=e3018e274f912fce7c0168951011e4000039d1113644ba8d6131bb320de21f50"
+    "206-hls": null
   }
 }
