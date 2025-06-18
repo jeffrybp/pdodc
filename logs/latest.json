@@ -1,16 +1,20 @@
 {
-  "time": "2025-06-18T02:34:16.843Z",
+  "time": "2025-06-18T02:35:29.737Z",
   "headers": {
-    "luws": "8E8151BA-42C7-6CBA-30AA-564D3A1ECE23_",
-    "x-signature": "1fcedeb3f9204ef58ebaf09b66cf3379f9595ee37ad46309f0bc6b6128b02372",
-    "x-client": 1750214058.245,
+    "luws": "8328A44A-2D92-BDF8-4AFE-AE308F3AE92B_",
+    "x-signature": "24af1d11f2ff14e07a5e246910126061cc6f779caca74293c4d0506f2ea0d599",
+    "x-client": 1750214130.831,
     "x-api-platform": "web",
     "x-request-from": "browser",
-    "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/o1UHoc5pdJeXE/6Zcii7gz22sQkwU9hI9EWg0JGu39E0GMEqCv+UoHs4eEvo0zufXSUfoaD7wROf7KRFvUOJfM=",
+    "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/jkGwrRHty6wJnOqxMhWp++i5KUxXn/Qq4r5Mp99Ug7Qd6HQAcIkd9Fal98AADm23gb8f2YHvZeTB2QAL/e+kl0=",
     "content-type": "application/json",
     "x-secure-level": "2",
     "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36",
     "204-dash": null,
-    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/live/204/master.m3u8?hdnts=exp=1750228456~acl=/live/204/master.m3u8!/hls-p/ingest_204*/*!/hls-b/ingest_204*/*~id=allUsers~hmac=e90b9e03f5cd19b61159a1d411305aceec97a4725d62288c366639910999d01e"
+    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/live/204/master.m3u8?hdnts=exp=1750228529~acl=/live/204/master.m3u8!/hls-p/ingest_204*/*!/hls-b/ingest_204*/*~id=allUsers~hmac=3e1b3bde3519b4855f16eb41d744396b8057a73d781538a43d794580638d700b",
+    "205-dash": null,
+    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/live/205/master.m3u8?hdnts=exp=1750228529~acl=/live/205/master.m3u8!/hls-p/ingest_205*/*!/hls-b/ingest_205*/*~id=allUsers~hmac=a502b80820fd76af76597c1833df4aa5116d92c65cb1f3b5e853f65563453207",
+    "206-dash": null,
+    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/live/206/master.m3u8?hdnts=exp=1750228529~acl=/live/206/master.m3u8!/hls-p/ingest_206*/*!/hls-b/ingest_206*/*~id=allUsers~hmac=fb115af3e92ad97964ce4a4fc636dead2b3c8284c3339411c9496d80a0a69937"
   }
 }
