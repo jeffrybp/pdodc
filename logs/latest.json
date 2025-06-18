@@ -1,21 +1,20 @@
 {
-  "time": "2025-06-18T16:18:38.720Z",
+  "time": "2025-06-18T16:23:19.535Z",
   "headers": {
     "luws": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36",
-    "x-signature": "061810b64448996ab8304338bceac42152940366829bf289ac025e00bce8dde1",
-    "x-client": 1750263521.275,
+    "x-signature": "53da548051ff178abc099ef0081a45976a8f3be7c0c4c4886d403db4cf8d593c",
+    "x-client": 1750263802.331,
     "x-api-platform": "web",
     "x-request-from": "browser",
     "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/ln0wgJ8Oc/Dc10kAPYUBkFCJE6UbSL1LkKTr75YfG17V9z3ImJM1gURHWq8a68ozO/HImumjIBTxl8KfysRUzQ=",
     "content-type": "application/json",
     "x-secure-level": "2",
     "204-dash": null,
-    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/live/204/master.m3u8?hdnts=exp=1750277917~acl=/live/204/master.m3u8!/hls-p/ingest_204*/*!/hls-b/ingest_204*/*~id=allUsers~hmac=36916f2352854cf7db854431d4cfed1a1f0c4f9b03edd4bfd2b64e46740a50f0",
+    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/live/204/master.m3u8?hdnts=exp=1750278198~acl=/live/204/master.m3u8!/hls-p/ingest_204*/*!/hls-b/ingest_204*/*~id=allUsers~hmac=927ebbc2c2b33f3d0a819d4d9991b6c591ac7596b5bb9eff25eb55e2af778fc1",
     "205-dash": null,
-    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/live/205/master.m3u8?hdnts=exp=1750277917~acl=/live/205/master.m3u8!/hls-p/ingest_205*/*!/hls-b/ingest_205*/*~id=allUsers~hmac=46cf4d7d78f05ad0f65837c5894bbf5749a01fe8936ddfb0ff4e8191b00c42c1",
+    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/live/205/master.m3u8?hdnts=exp=1750278198~acl=/live/205/master.m3u8!/hls-p/ingest_205*/*!/hls-b/ingest_205*/*~id=allUsers~hmac=8337ef4f9d8d2d26285253dc16bbc54a3ce2f1059a36e1086589fdd991fa01a2",
     "206-dash": null,
     "206-hls": null,
-    "4552-sections": "",
-    "4840-sections": "6317-6685-6786-17875-18851-18853-18913-18954"
+    "all-sections": "204-205-206-733-734-777-782-783-874-1561-6317-6685-6786-6852-8237-17875-17884-17938-17939-18834-18851-18853-18913-18954-4359910-4359911-4359913-4359984-4359986-4362624-4362633-4364708-4364709-4364715-4364716-4364724-4364725-4364727-4364728-4364736-4364737-4364738-4364739-4364740"
   }
 }
