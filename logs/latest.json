@@ -1,20 +1,20 @@
 {
-  "time": "2025-06-19T18:53:09.552Z",
+  "time": "2025-06-19T19:53:12.159Z",
   "headers": {
     "luws": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36",
-    "x-signature": "beda72462c46b654ef0ebac279d3fedb78fa68b5f5c178ec5b024d4e85d17573",
-    "x-client": 1750359189.819,
+    "x-signature": "4edec62f9000e8950ac6a1bea6b10e9f40bcad80baf9fc9ba5b0f1b312763f8f",
+    "x-client": 1750362792.567,
     "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/uFz9XDsBJqXcUpA+9RNsblKmpojc0hfpAAg9zwPFclTPYNSk3KDJkqdhnxzvFceP6SoBWdL0DFevFAaJrnU4Ds=",
     "x-secure-level": "2",
     "x-api-platform": "web",
     "x-request-from": "browser",
     "content-type": "application/json",
     "204-dash": null,
-    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/live/204/master.m3u8?hdnts=exp=1750373588~acl=/live/204/master.m3u8!/hls-p/ingest_204*/*!/hls-b/ingest_204*/*~id=allUsers~hmac=fa7f083abc4703e9ac67cc8ce802488ad9419c039ab701374bbdb3855320841a",
+    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/live/204/master.m3u8?hdnts=exp=1750377191~acl=/live/204/master.m3u8!/hls-p/ingest_204*/*!/hls-b/ingest_204*/*~id=allUsers~hmac=13fc5ddfdc8083ad35e144af54d247f9df415e34aa7d7bf1270fe8f5c1924772",
     "205-dash": null,
-    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/live/205/master.m3u8?hdnts=exp=1750373588~acl=/live/205/master.m3u8!/hls-p/ingest_205*/*!/hls-b/ingest_205*/*~id=allUsers~hmac=0a3f7b0b4e42577c35dbed0bc41b2a52f64f1b118324f5de0a0a402bdfc48808",
+    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/live/205/master.m3u8?hdnts=exp=1750377191~acl=/live/205/master.m3u8!/hls-p/ingest_205*/*!/hls-b/ingest_205*/*~id=allUsers~hmac=bf77cf897a35d4729c8c79188ccd6c44ee69a52d426b12856d7f43a7d8c7c20f",
     "206-dash": null,
-    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1750373589~acl=/stream/206/file/*~id=allUsers~hmac=bfdb8223a6d29401eeffa2ae8b662bf6be9494cbb842d686ddb2a9c5c5e4c749",
+    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1750377191~acl=/stream/206/file/*~id=allUsers~hmac=545003d6aab0d2d72b76eaaba9ef18e5530d7d312767e41c01ca7988e6141bff",
     "all-sections": "16890-17140-17875-18189-18190-18832-18834-18851-18853-18954-6317-6685-6786"
   },
   "sections": {
@@ -23,12 +23,6 @@
       "web_url": "18834",
       "cover_url": "https://thumbor.prod.vidiocdn.com/0FVMDw6JH4HKhqaZp9QPYLbKqw8=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18834/byon-combat-showbiz-vol-5-4b168f.jpg",
       "start_time": "2025-06-28T13:00:00.000Z"
-    },
-    "4364736": {
-      "title": "ATP 500: HSBC Championships 2025 - Day 4",
-      "web_url": "6317",
-      "cover_url": "https://thumbor.prod.vidiocdn.com/irt5pDGLhEQusFCbBIXJkFRPWGc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4364736/d81a7d.jpg",
-      "start_time": "2025-06-19T11:00:00.000Z"
     },
     "4366866": {
       "title": "Travelers Championship - Round 1",
@@ -101,12 +95,6 @@
       "web_url": "16890",
       "cover_url": "https://thumbor.prod.vidiocdn.com/5Cq1wjFFTmFkjzLJHg4X16Jen4M=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4366904/55881c.jpg",
       "start_time": "2025-06-20T12:30:00.000Z"
-    },
-    "4367067": {
-      "title": "KPMG Women's PGA Championship 2025 - Round 1 - Game 1",
-      "web_url": "18190",
-      "cover_url": "https://thumbor.prod.vidiocdn.com/C_Odo-EjqWMuLIXPJ4BkQQf-azA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4367067/c5bee4.jpg",
-      "start_time": "2025-06-19T15:00:00.000Z"
     },
     "4367068": {
       "title": "Travelers Championship - Round 2",
