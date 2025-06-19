@@ -1,18 +1,18 @@
 {
-  "time": "2025-06-19T08:19:57.215Z",
+  "time": "2025-06-19T08:51:06.432Z",
   "headers": {
     "luws": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36",
-    "x-signature": "b1675b31f530669046bf7a9a35961f32c9e8d2eda93963a371218939449ed78f",
-    "x-client": 1750321197.026,
+    "x-signature": "c19160ee84ed83f5b98179524409f7d9a3177df41e1c18d3cb08e6848d55efe7",
+    "x-client": 1750323065.667,
     "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/uFz9XDsBJqXcUpA+9RNsblKmpojc0hfpAAg9zwPFclTPYNSk3KDJkqdhnxzvFceP6SoBWdL0DFevFAaJrnU4Ds=",
     "x-secure-level": "2",
     "x-api-platform": "web",
     "x-request-from": "browser",
     "content-type": "application/json",
     "204-dash": null,
-    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/live/204/master.m3u8?hdnts=exp=1750335596~acl=/live/204/master.m3u8!/hls-p/ingest_204*/*!/hls-b/ingest_204*/*~id=allUsers~hmac=162587bef0c3b3a6d1447ccd42f83c62e3e1e7b0df4ab6782ace64a7e54dd702",
+    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/live/204/master.m3u8?hdnts=exp=1750337464~acl=/live/204/master.m3u8!/hls-p/ingest_204*/*!/hls-b/ingest_204*/*~id=allUsers~hmac=b913042f88195ccbe24a3bdcc5cf8badebbfeb75b64fdcd048304af5630e9257",
     "205-dash": null,
-    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/live/205/master.m3u8?hdnts=exp=1750335596~acl=/live/205/master.m3u8!/hls-p/ingest_205*/*!/hls-b/ingest_205*/*~id=allUsers~hmac=78deafcd744d97bb3985e1c9cd9ae5a138f1adf5cdbab43bb3c4709b00a50675",
+    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/live/205/master.m3u8?hdnts=exp=1750337465~acl=/live/205/master.m3u8!/hls-p/ingest_205*/*!/hls-b/ingest_205*/*~id=allUsers~hmac=fe01de836f6f88e4a370951c9389e780ada00c7ede06ec81eeec924e478d6662",
     "206-dash": null,
     "206-hls": null,
     "all-sections": "16890-17140-17875-18189-18190-18832-18834-18851-18853-18913-18954-6317-6685-6786"
