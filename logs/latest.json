@@ -1,18 +1,18 @@
 {
-  "time": "2025-06-19T15:53:01.941Z",
+  "time": "2025-06-19T16:53:04.518Z",
   "headers": {
     "luws": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36",
-    "x-signature": "a8aee0dd9beecd86ddb839555d8aa69446b8798695b03d6407e276fc4974dc52",
-    "x-client": 1750348382.208,
+    "x-signature": "22ad2e9ac48ccfae18177f8c6953b38d264e734b872a3ce2a10e9e1431b70be9",
+    "x-client": 1750351984.593,
     "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/uFz9XDsBJqXcUpA+9RNsblKmpojc0hfpAAg9zwPFclTPYNSk3KDJkqdhnxzvFceP6SoBWdL0DFevFAaJrnU4Ds=",
     "x-secure-level": "2",
     "x-api-platform": "web",
     "x-request-from": "browser",
     "content-type": "application/json",
     "204-dash": null,
-    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/live/204/master.m3u8?hdnts=exp=1750362781~acl=/live/204/master.m3u8!/hls-p/ingest_204*/*!/hls-b/ingest_204*/*~id=allUsers~hmac=0522a3046a30f01a144ce6859cc7b20b0df13ca8b12efd6589830df30028e5e5",
+    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/live/204/master.m3u8?hdnts=exp=1750366383~acl=/live/204/master.m3u8!/hls-p/ingest_204*/*!/hls-b/ingest_204*/*~id=allUsers~hmac=5423ae0b7c0e92c1f41142f12939359328fafca1f2406a059392835f5aa7d175",
     "205-dash": null,
-    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/live/205/master.m3u8?hdnts=exp=1750362781~acl=/live/205/master.m3u8!/hls-p/ingest_205*/*!/hls-b/ingest_205*/*~id=allUsers~hmac=5c525e6bcf5d24fb2d4dd775c3b0974ddb695f6351242ab1d36a96bd38842205",
+    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/live/205/master.m3u8?hdnts=exp=1750366383~acl=/live/205/master.m3u8!/hls-p/ingest_205*/*!/hls-b/ingest_205*/*~id=allUsers~hmac=cee1e79b0b18d4d76442b05664c9cd0c003ae00e0342804b14efcf44cade572f",
     "206-dash": null,
     "206-hls": null,
     "all-sections": "16890-17140-17875-18189-18190-18832-18834-18851-18853-18913-18954-6317-6685-6786"
@@ -47,12 +47,6 @@
       "web_url": "6317",
       "cover_url": "https://thumbor.prod.vidiocdn.com/irt5pDGLhEQusFCbBIXJkFRPWGc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4364736/d81a7d.jpg",
       "start_time": "2025-06-19T11:00:00.000Z"
-    },
-    "4364738": {
-      "title": "WTA 250: Lexus Nottingham Open 2025 - Day 1",
-      "web_url": "6685",
-      "cover_url": "https://thumbor.prod.vidiocdn.com/6TSYWPzbo0GFSj2b0ePWmz_WgvM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4364738/02f888.jpg",
-      "start_time": "2025-06-19T10:30:00.000Z"
     },
     "4364740": {
       "title": "Bahrain vs Indonesia - AVC Men's Volleyball Nations Cup",
@@ -221,12 +215,6 @@
       "web_url": "18954",
       "cover_url": "https://thumbor.prod.vidiocdn.com/H61QNZKZNBTOSC-9RRnFFcJDf7Q=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4367088/866653.jpg",
       "start_time": "2025-06-19T17:45:00.000Z"
-    },
-    "4367089": {
-      "title": "Women: United States vs Poland - Volleyball Nations League",
-      "web_url": "18954",
-      "cover_url": "https://thumbor.prod.vidiocdn.com/869-QU3gVW4HX29HkHFYk-Pdbe0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4367089/508034.jpg",
-      "start_time": "2025-06-19T14:15:00.000Z"
     },
     "4367090": {
       "title": "Women: Bulgaria vs Czechia - Volleyball Nations League",
