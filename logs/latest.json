@@ -1,21 +1,21 @@
 {
-  "time": "2025-06-19T16:53:04.518Z",
+  "time": "2025-06-19T17:53:07.030Z",
   "headers": {
     "luws": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36",
-    "x-signature": "22ad2e9ac48ccfae18177f8c6953b38d264e734b872a3ce2a10e9e1431b70be9",
-    "x-client": 1750351984.593,
+    "x-signature": "3b473ca53d7cb5ca2856a1f13b7b16a988eaa3a8a5aa26088b517e3a4dc8345d",
+    "x-client": 1750355587.153,
     "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/uFz9XDsBJqXcUpA+9RNsblKmpojc0hfpAAg9zwPFclTPYNSk3KDJkqdhnxzvFceP6SoBWdL0DFevFAaJrnU4Ds=",
     "x-secure-level": "2",
     "x-api-platform": "web",
     "x-request-from": "browser",
     "content-type": "application/json",
     "204-dash": null,
-    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/live/204/master.m3u8?hdnts=exp=1750366383~acl=/live/204/master.m3u8!/hls-p/ingest_204*/*!/hls-b/ingest_204*/*~id=allUsers~hmac=5423ae0b7c0e92c1f41142f12939359328fafca1f2406a059392835f5aa7d175",
+    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/live/204/master.m3u8?hdnts=exp=1750369986~acl=/live/204/master.m3u8!/hls-p/ingest_204*/*!/hls-b/ingest_204*/*~id=allUsers~hmac=f35f81c4e2f8b870ff4a25fcfa438161e01e5469a19afcf8a5739d16b26b13f8",
     "205-dash": null,
-    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/live/205/master.m3u8?hdnts=exp=1750366383~acl=/live/205/master.m3u8!/hls-p/ingest_205*/*!/hls-b/ingest_205*/*~id=allUsers~hmac=cee1e79b0b18d4d76442b05664c9cd0c003ae00e0342804b14efcf44cade572f",
+    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/live/205/master.m3u8?hdnts=exp=1750369986~acl=/live/205/master.m3u8!/hls-p/ingest_205*/*!/hls-b/ingest_205*/*~id=allUsers~hmac=f2f97cc92f323b23455f0bdd882ff568d5b3ae69b9035c437d49094fbf825ec3",
     "206-dash": null,
-    "206-hls": null,
-    "all-sections": "16890-17140-17875-18189-18190-18832-18834-18851-18853-18913-18954-6317-6685-6786"
+    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1750369986~acl=/stream/206/file/*~id=allUsers~hmac=dbad3afb0dce59fc7e05ed49a919637c1de9087d7d7b7368bb6c49f74914576a",
+    "all-sections": "16890-17140-17875-18189-18190-18832-18834-18851-18853-18954-6317-6685-6786"
   },
   "sections": {
     "18834": {
@@ -23,18 +23,6 @@
       "web_url": "18834",
       "cover_url": "https://thumbor.prod.vidiocdn.com/0FVMDw6JH4HKhqaZp9QPYLbKqw8=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18834/byon-combat-showbiz-vol-5-4b168f.jpg",
       "start_time": "2025-06-28T13:00:00.000Z"
-    },
-    "4364725": {
-      "title": "ATP 500: Terra Wortmann Open 2025 - Day 4",
-      "web_url": "17875",
-      "cover_url": "https://thumbor.prod.vidiocdn.com/nMdH_nfMDjiUSTCB2lT95W9gLG8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4364725/a74a3e.jpg",
-      "start_time": "2025-06-19T09:30:00.000Z"
-    },
-    "4364727": {
-      "title": "WTA 500: Berlin Tennis Open 2025 - Day 4",
-      "web_url": "6786",
-      "cover_url": "https://thumbor.prod.vidiocdn.com/D1J58BdYj2H_MKoUbb-MHkGTfk8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4364727/ad85ad.jpg",
-      "start_time": "2025-06-19T09:30:00.000Z"
     },
     "4364728": {
       "title": "Women: Canada vs Turkey - Volleyball Nations League",
@@ -47,12 +35,6 @@
       "web_url": "6317",
       "cover_url": "https://thumbor.prod.vidiocdn.com/irt5pDGLhEQusFCbBIXJkFRPWGc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4364736/d81a7d.jpg",
       "start_time": "2025-06-19T11:00:00.000Z"
-    },
-    "4364740": {
-      "title": "Bahrain vs Indonesia - AVC Men's Volleyball Nations Cup",
-      "web_url": "18913",
-      "cover_url": "https://thumbor.prod.vidiocdn.com/dsPHiAz1dSLz0h36df-bSfmUROQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4364740/f550ea.jpg",
-      "start_time": "2025-06-19T15:27:00.000Z"
     },
     "4366866": {
       "title": "Travelers Championship - Round 1",
