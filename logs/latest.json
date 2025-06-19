@@ -1,18 +1,18 @@
 {
-  "time": "2025-06-19T13:52:57.796Z",
+  "time": "2025-06-19T14:52:59.564Z",
   "headers": {
     "luws": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36",
-    "x-signature": "5a56c55d5f0389686f0f72e858a3c5aef148473388348dd068fcc7126e98628e",
-    "x-client": 1750341178.359,
+    "x-signature": "a88a0715a1713a9f9c8c4325775d3f0d8949b4533a747225341657716696279e",
+    "x-client": 1750344780.067,
     "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/uFz9XDsBJqXcUpA+9RNsblKmpojc0hfpAAg9zwPFclTPYNSk3KDJkqdhnxzvFceP6SoBWdL0DFevFAaJrnU4Ds=",
     "x-secure-level": "2",
     "x-api-platform": "web",
     "x-request-from": "browser",
     "content-type": "application/json",
     "204-dash": null,
-    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/live/204/master.m3u8?hdnts=exp=1750355576~acl=/live/204/master.m3u8!/hls-p/ingest_204*/*!/hls-b/ingest_204*/*~id=allUsers~hmac=26b9c5fe49b980976306c5ff9fc340a97007bc95c6a4d5bcc9d50265be4ea46f",
+    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/live/204/master.m3u8?hdnts=exp=1750359178~acl=/live/204/master.m3u8!/hls-p/ingest_204*/*!/hls-b/ingest_204*/*~id=allUsers~hmac=6070829351e6e9b82fa93155d7509d7cfa65d5f3cb52d04dbeb5d6d5c1f24432",
     "205-dash": null,
-    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/live/205/master.m3u8?hdnts=exp=1750355577~acl=/live/205/master.m3u8!/hls-p/ingest_205*/*!/hls-b/ingest_205*/*~id=allUsers~hmac=8b320d8d743381bc6750bd2cf4074a806c512f1ad83519c4c7364f70bcfef837",
+    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/live/205/master.m3u8?hdnts=exp=1750359178~acl=/live/205/master.m3u8!/hls-p/ingest_205*/*!/hls-b/ingest_205*/*~id=allUsers~hmac=0a08c7459784963a31b586062b5ec2b7fdc7cad3ad7f758a9f8bfdaa9a9f6ede",
     "206-dash": null,
     "206-hls": null,
     "all-sections": "16890-17140-17875-18189-18190-18832-18834-18851-18853-18913-18954-6317-6685-6786"
@@ -29,12 +29,6 @@
       "web_url": "18851",
       "cover_url": "https://thumbor.prod.vidiocdn.com/2cWmunqF3hqOjDXFaPX73AfMROc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4364715/3902db.jpg",
       "start_time": "2025-06-19T12:15:00.000Z"
-    },
-    "4364716": {
-      "title": "Women: Belgium vs Dominican Republic - Volleyball Nations League",
-      "web_url": "18853",
-      "cover_url": "https://thumbor.prod.vidiocdn.com/FLZ6ewpg6G3pgnyGeF-tFBXqVQ4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4364716/537016.jpg",
-      "start_time": "2025-06-19T12:45:00.000Z"
     },
     "4364725": {
       "title": "ATP 500: Terra Wortmann Open 2025 - Day 4",
