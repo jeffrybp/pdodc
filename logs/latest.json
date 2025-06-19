@@ -1,20 +1,20 @@
 {
-  "time": "2025-06-19T21:53:17.425Z",
+  "time": "2025-06-19T22:53:20.199Z",
   "headers": {
     "luws": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36",
-    "x-signature": "3e657346481c77a48087293ad552496fca4618cadd133c91a319efe554d86524",
-    "x-client": 1750369998.141,
+    "x-signature": "2f2911eed869c29f18ffebfa33ba445319ea722b3a5598a2e016dff75e28931d",
+    "x-client": 1750373600.959,
     "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/uFz9XDsBJqXcUpA+9RNsblKmpojc0hfpAAg9zwPFclTPYNSk3KDJkqdhnxzvFceP6SoBWdL0DFevFAaJrnU4Ds=",
     "x-secure-level": "2",
     "x-api-platform": "web",
     "x-request-from": "browser",
     "content-type": "application/json",
     "204-dash": null,
-    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/live/204/master.m3u8?hdnts=exp=1750384396~acl=/live/204/master.m3u8!/hls-p/ingest_204*/*!/hls-b/ingest_204*/*~id=allUsers~hmac=096e720071bf54cad7c237e641eb82702a8c2e3b28ce59182868693d64db2911",
+    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/live/204/master.m3u8?hdnts=exp=1750387999~acl=/live/204/master.m3u8!/hls-p/ingest_204*/*!/hls-b/ingest_204*/*~id=allUsers~hmac=44cc2c112ea988e8b0404d6e154050710a47050c62c27837378d9284d2b0d86a",
     "205-dash": null,
-    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/live/205/master.m3u8?hdnts=exp=1750384396~acl=/live/205/master.m3u8!/hls-p/ingest_205*/*!/hls-b/ingest_205*/*~id=allUsers~hmac=74a000ff97c928ba46bad1eecf86438080a9dfb2487eab477973564d5dc9298e",
+    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/live/205/master.m3u8?hdnts=exp=1750387999~acl=/live/205/master.m3u8!/hls-p/ingest_205*/*!/hls-b/ingest_205*/*~id=allUsers~hmac=4cd2b003b2bf535048e3c5ea5f8144b86cd2dcd6e6110810451ec9b6bd93b269",
     "206-dash": null,
-    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1750384396~acl=/stream/206/file/*~id=allUsers~hmac=45b15a4724e622d97c64efc509879fe2f11f8c988a046ef5529ba25200369b49",
+    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1750387999~acl=/stream/206/file/*~id=allUsers~hmac=3ecb0e1868299fc3552b94b6f4e4419d65b041405a632dcfc3f8e898573224b9",
     "all-sections": "16890-17140-17875-18189-18190-18832-18834-18851-18853-18954-6317-6685-6786"
   },
   "sections": {
@@ -23,12 +23,6 @@
       "web_url": "18834",
       "cover_url": "https://thumbor.prod.vidiocdn.com/0FVMDw6JH4HKhqaZp9QPYLbKqw8=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18834/byon-combat-showbiz-vol-5-4b168f.jpg",
       "start_time": "2025-06-28T13:00:00.000Z"
-    },
-    "4366866": {
-      "title": "Travelers Championship - Round 1",
-      "web_url": "18189",
-      "cover_url": "https://thumbor.prod.vidiocdn.com/EVIgZPs4bWBeX3QlB4O5NQvs0GM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4366866/a77cc5.jpg",
-      "start_time": "2025-06-19T19:00:00.000Z"
     },
     "4366867": {
       "title": "NBA Finals - Game 6: Oklahoma City Thunder vs Indiana Pacers - NBA",
