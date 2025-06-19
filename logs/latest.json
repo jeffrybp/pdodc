@@ -1,20 +1,20 @@
 {
-  "time": "2025-06-19T17:53:07.030Z",
+  "time": "2025-06-19T18:53:09.552Z",
   "headers": {
     "luws": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36",
-    "x-signature": "3b473ca53d7cb5ca2856a1f13b7b16a988eaa3a8a5aa26088b517e3a4dc8345d",
-    "x-client": 1750355587.153,
+    "x-signature": "beda72462c46b654ef0ebac279d3fedb78fa68b5f5c178ec5b024d4e85d17573",
+    "x-client": 1750359189.819,
     "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/uFz9XDsBJqXcUpA+9RNsblKmpojc0hfpAAg9zwPFclTPYNSk3KDJkqdhnxzvFceP6SoBWdL0DFevFAaJrnU4Ds=",
     "x-secure-level": "2",
     "x-api-platform": "web",
     "x-request-from": "browser",
     "content-type": "application/json",
     "204-dash": null,
-    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/live/204/master.m3u8?hdnts=exp=1750369986~acl=/live/204/master.m3u8!/hls-p/ingest_204*/*!/hls-b/ingest_204*/*~id=allUsers~hmac=f35f81c4e2f8b870ff4a25fcfa438161e01e5469a19afcf8a5739d16b26b13f8",
+    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/live/204/master.m3u8?hdnts=exp=1750373588~acl=/live/204/master.m3u8!/hls-p/ingest_204*/*!/hls-b/ingest_204*/*~id=allUsers~hmac=fa7f083abc4703e9ac67cc8ce802488ad9419c039ab701374bbdb3855320841a",
     "205-dash": null,
-    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/live/205/master.m3u8?hdnts=exp=1750369986~acl=/live/205/master.m3u8!/hls-p/ingest_205*/*!/hls-b/ingest_205*/*~id=allUsers~hmac=f2f97cc92f323b23455f0bdd882ff568d5b3ae69b9035c437d49094fbf825ec3",
+    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/live/205/master.m3u8?hdnts=exp=1750373588~acl=/live/205/master.m3u8!/hls-p/ingest_205*/*!/hls-b/ingest_205*/*~id=allUsers~hmac=0a3f7b0b4e42577c35dbed0bc41b2a52f64f1b118324f5de0a0a402bdfc48808",
     "206-dash": null,
-    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1750369986~acl=/stream/206/file/*~id=allUsers~hmac=dbad3afb0dce59fc7e05ed49a919637c1de9087d7d7b7368bb6c49f74914576a",
+    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1750373589~acl=/stream/206/file/*~id=allUsers~hmac=bfdb8223a6d29401eeffa2ae8b662bf6be9494cbb842d686ddb2a9c5c5e4c749",
     "all-sections": "16890-17140-17875-18189-18190-18832-18834-18851-18853-18954-6317-6685-6786"
   },
   "sections": {
@@ -23,12 +23,6 @@
       "web_url": "18834",
       "cover_url": "https://thumbor.prod.vidiocdn.com/0FVMDw6JH4HKhqaZp9QPYLbKqw8=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18834/byon-combat-showbiz-vol-5-4b168f.jpg",
       "start_time": "2025-06-28T13:00:00.000Z"
-    },
-    "4364728": {
-      "title": "Women: Canada vs Turkey - Volleyball Nations League",
-      "web_url": "18853",
-      "cover_url": "https://thumbor.prod.vidiocdn.com/D4aVw9ruLD8E0lonOm_rPDLMxZc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4364728/33b2b7.jpg",
-      "start_time": "2025-06-19T16:15:00.000Z"
     },
     "4364736": {
       "title": "ATP 500: HSBC Championships 2025 - Day 4",
