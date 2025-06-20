@@ -1,20 +1,20 @@
 {
-  "time": "2025-06-19T23:53:22.572Z",
+  "time": "2025-06-20T00:48:39.505Z",
   "headers": {
     "luws": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36",
-    "x-signature": "eb31e55992924e380b7d315a8da7d55e8f6c79593093a34c7799290e6c79e53d",
-    "x-client": 1750377203.656,
+    "x-signature": "1b7fd917f62797cef0cd2c469c44e4c477619359f241363473ce7d6ad11f3b00",
+    "x-client": 1750380519.679,
     "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/uFz9XDsBJqXcUpA+9RNsblKmpojc0hfpAAg9zwPFclTPYNSk3KDJkqdhnxzvFceP6SoBWdL0DFevFAaJrnU4Ds=",
     "x-secure-level": "2",
     "x-api-platform": "web",
     "x-request-from": "browser",
     "content-type": "application/json",
     "204-dash": null,
-    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/live/204/master.m3u8?hdnts=exp=1750391601~acl=/live/204/master.m3u8!/hls-p/ingest_204*/*!/hls-b/ingest_204*/*~id=allUsers~hmac=d1fa92b09d32d0d0641990baf8ddb42679b5b9a6dc1a5d48c8ac78c78bf02daf",
+    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/live/204/master.m3u8?hdnts=exp=1750394918~acl=/live/204/master.m3u8!/hls-p/ingest_204*/*!/hls-b/ingest_204*/*~id=allUsers~hmac=fca4314454c08b9b4240ab399edd80aefc019cc7f4a61538f3f008045232bdfe",
     "205-dash": null,
-    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/live/205/master.m3u8?hdnts=exp=1750391601~acl=/live/205/master.m3u8!/hls-p/ingest_205*/*!/hls-b/ingest_205*/*~id=allUsers~hmac=74314a37686e0badff7c7191077c5631f093ced014695081342c94805839daf4",
+    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/live/205/master.m3u8?hdnts=exp=1750394918~acl=/live/205/master.m3u8!/hls-p/ingest_205*/*!/hls-b/ingest_205*/*~id=allUsers~hmac=2811c8fbc8465341caf3d80ddc38d45f32edc0dde9db128a3fca0713a5f42042",
     "206-dash": null,
-    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1750391602~acl=/stream/206/file/*~id=allUsers~hmac=40e6dfdb2c1bdd267b7bebb05361457e1fe2e814c3a666b0b5e3047601ce5aed",
+    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1750394918~acl=/stream/206/file/*~id=allUsers~hmac=96064746d9164513808fee805de7c5ce0bb6a2770f4d9ec0236722c8d044a338",
     "all-sections": "16890-17140-17875-18189-18190-18832-18834-18851-18853-18954-6317-6685-6786"
   },
   "sections": {
@@ -203,12 +203,6 @@
       "web_url": "18190",
       "cover_url": "https://thumbor.prod.vidiocdn.com/PLq0ZRCMYFABGSOFWfVgvE7EKwM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4367155/0c76f3.jpg",
       "start_time": "2025-06-20T15:00:00.000Z"
-    },
-    "4367205": {
-      "title": "KPMG Women's PGA Championship 2025 - Round 1 - Game 2",
-      "web_url": "18190",
-      "cover_url": "https://thumbor.prod.vidiocdn.com/JtnLUkxJFc01MNd-AzOKWn0AUb0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4367205/75c11b.jpg",
-      "start_time": "2025-06-19T22:00:00.000Z"
     },
     "4367206": {
       "title": "ATP 500: HSBC Championships 2025 - Quarter Final",
