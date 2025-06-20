@@ -1,20 +1,20 @@
 {
-  "time": "2025-06-20T18:30:37.545Z",
+  "time": "2025-06-20T19:30:39.986Z",
   "headers": {
     "luws": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36",
-    "x-signature": "747c9d0a1020e8b194765b1c83148b66d913482c367df33b14090e4564d3e0c2",
-    "x-client": 1750444238.223,
+    "x-signature": "64c952823866e9392cd89f49611bc25575f3deba4402f6ded76dd4cfe5ab3210",
+    "x-client": 1750447840.31,
     "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/q0veA6PbkB8ZxW9c47VUUxbgzwz4WrueM8k11oAr2UE+iKzXsqiJTlzkvLoBHZVTbKoAr60XgoEHW633a+eHV8=",
     "x-secure-level": "2",
     "x-api-platform": "web",
     "x-request-from": "browser",
     "content-type": "application/json",
     "204-dash": null,
-    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/live/204/master.m3u8?hdnts=exp=1750458636~acl=/live/204/master.m3u8!/hls-p/ingest_204*/*!/hls-b/ingest_204*/*~id=allUsers~hmac=775231fc19b7d5c21622a1be13755342a5815ed7fe228b32b6fc9bc61a0193f4",
+    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/live/204/master.m3u8?hdnts=exp=1750462239~acl=/live/204/master.m3u8!/hls-p/ingest_204*/*!/hls-b/ingest_204*/*~id=allUsers~hmac=bf86648a04e4f9add3119b2c0cda885df8bbce71907305f45a8318efa177e09c",
     "205-dash": null,
-    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/live/205/master.m3u8?hdnts=exp=1750458636~acl=/live/205/master.m3u8!/hls-p/ingest_205*/*!/hls-b/ingest_205*/*~id=allUsers~hmac=a72a8bec56a0e19ee6797b19c51f7b17584bcc4fa7e31324e93bf11bf3af7898",
+    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/live/205/master.m3u8?hdnts=exp=1750462239~acl=/live/205/master.m3u8!/hls-p/ingest_205*/*!/hls-b/ingest_205*/*~id=allUsers~hmac=fe6af3bce7afe264a2006e35c0d488d3b57fe3e9132cbb40040889856bbb9ede",
     "206-dash": null,
-    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1750458637~acl=/stream/206/file/*~id=allUsers~hmac=85bb58ba2716221a15c35ca331872e035fcd793856d503be56e9b2b24fb54cda",
+    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1750462239~acl=/stream/206/file/*~id=allUsers~hmac=07664f1e4d70eaf0607613b06048f474bbd938edf049459d4068d49f68dcaa6a",
     "all-sections": "17140-17141-17505-17875-18189-18190-18832-18834-18851-18853-18913-18954-206-6317-6685-6786"
   },
   "sections": {
@@ -23,12 +23,6 @@
       "web_url": "18834",
       "cover_url": "https://thumbor.prod.vidiocdn.com/0FVMDw6JH4HKhqaZp9QPYLbKqw8=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18834/byon-combat-showbiz-vol-5-4b168f.jpg",
       "start_time": "2025-06-28T13:00:00.000Z"
-    },
-    "4366899": {
-      "title": "WTA 500: Berlin Tennis Open 2025 - Quarter Final",
-      "web_url": "6786",
-      "cover_url": "https://thumbor.prod.vidiocdn.com/AHkRXR2aievUASk8L6XxbrTAB2E=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4366899/ab4c72.jpg",
-      "start_time": "2025-06-20T09:30:00.000Z"
     },
     "4367068": {
       "title": "Travelers Championship - Round 2",
@@ -107,18 +101,6 @@
       "web_url": "17875",
       "cover_url": "https://thumbor.prod.vidiocdn.com/qlQrfuvojQfm9ezleB3Pp4mXZcY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4367080/66e6e9.jpg",
       "start_time": "2025-06-21T13:00:00.000Z"
-    },
-    "4367155": {
-      "title": "KPMG Women's PGA Championship 2025 - Round 2 - Game 1",
-      "web_url": "18190",
-      "cover_url": "https://thumbor.prod.vidiocdn.com/PLq0ZRCMYFABGSOFWfVgvE7EKwM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4367155/0c76f3.jpg",
-      "start_time": "2025-06-20T15:00:00.000Z"
-    },
-    "4367206": {
-      "title": "ATP 500: HSBC Championships 2025 - Quarter Final",
-      "web_url": "6317",
-      "cover_url": "https://thumbor.prod.vidiocdn.com/PrL3pGq_-5rIatwYTmLVsG107Yw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4367206/b9ea0c.jpg",
-      "start_time": "2025-06-20T11:00:00.000Z"
     },
     "4368867": {
       "title": "KPMG Women's PGA Championship 2025 - Round 2 - Game 2",
