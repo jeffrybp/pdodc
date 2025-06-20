@@ -1,21 +1,21 @@
 {
-  "time": "2025-06-20T10:30:20.719Z",
+  "time": "2025-06-20T11:30:23.441Z",
   "headers": {
     "luws": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36",
-    "x-signature": "028d8e3bd45f139ed68d1afbf6497ac71d0dcdf6fc9cbd218b81e6849b586107",
-    "x-client": 1750415421.016,
+    "x-signature": "a48741e17660eaa59dc85f7d671af5eb30046ac03946521827847f14afef51a0",
+    "x-client": 1750419023.615,
     "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/q0veA6PbkB8ZxW9c47VUUxbgzwz4WrueM8k11oAr2UE+iKzXsqiJTlzkvLoBHZVTbKoAr60XgoEHW633a+eHV8=",
     "x-secure-level": "2",
     "x-api-platform": "web",
     "x-request-from": "browser",
     "content-type": "application/json",
     "204-dash": null,
-    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/live/204/master.m3u8?hdnts=exp=1750429819~acl=/live/204/master.m3u8!/hls-p/ingest_204*/*!/hls-b/ingest_204*/*~id=allUsers~hmac=01f4e34f438a69be7bd607ac35871312b3a1d7d9c812dff4a8023626eddf8bbf",
+    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/live/204/master.m3u8?hdnts=exp=1750433422~acl=/live/204/master.m3u8!/hls-p/ingest_204*/*!/hls-b/ingest_204*/*~id=allUsers~hmac=eacd74578133e526fbb62818bbb84294793a40fc3e6ebfb53c38a24b6d69dbe9",
     "205-dash": null,
-    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/live/205/master.m3u8?hdnts=exp=1750429819~acl=/live/205/master.m3u8!/hls-p/ingest_205*/*!/hls-b/ingest_205*/*~id=allUsers~hmac=250fbfb505d534b8365412b732d6d1b620e0e33a4251f68eb287092e6eead55e",
+    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/live/205/master.m3u8?hdnts=exp=1750433422~acl=/live/205/master.m3u8!/hls-p/ingest_205*/*!/hls-b/ingest_205*/*~id=allUsers~hmac=4ad893bae67f2e8a52822ee65555df60cf0b1e8ca4da84c75a3560f3966ba3db",
     "206-dash": null,
-    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1750429820~acl=/stream/206/file/*~id=allUsers~hmac=68211fd462f6a90a6f7312b382a491c19770920eda8c8c0ef6e2574722dd44c9",
-    "all-sections": "16890-17140-17141-17875-18189-18190-18832-18834-18851-18853-18913-18954-206-6317-6685-6786"
+    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1750433422~acl=/stream/206/file/*~id=allUsers~hmac=4af3a10f2b64a4921e2c0b1864f0e5ec4249ee27a03b88272d094b6dd4da51c0",
+    "all-sections": "16890-17140-17141-17505-17875-18189-18190-18832-18834-18851-18853-18913-18954-206-6317-6685-6786"
   },
   "sections": {
     "18834": {
@@ -143,12 +143,6 @@
       "web_url": "17875",
       "cover_url": "https://thumbor.prod.vidiocdn.com/qlQrfuvojQfm9ezleB3Pp4mXZcY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4367080/66e6e9.jpg",
       "start_time": "2025-06-21T13:00:00.000Z"
-    },
-    "4367090": {
-      "title": "Women: Bulgaria vs Czechia - Volleyball Nations League",
-      "web_url": "18851",
-      "cover_url": "https://thumbor.prod.vidiocdn.com/Vpjt_nCoXDqhdXpWaL59flWur98=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4367090/aef57f.jpg",
-      "start_time": "2025-06-20T08:45:00.000Z"
     },
     "4367091": {
       "title": "Women: Korea vs Belgium - Volleyball Nations League",
@@ -389,6 +383,12 @@
       "web_url": "18853",
       "cover_url": "https://thumbor.prod.vidiocdn.com/bVc4swoS32oEF84NQ2V19fkdEoo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4369134/1be673.jpg",
       "start_time": "2025-06-22T16:15:00.000Z"
+    },
+    "4369136": {
+      "title": "WTA 500: Bad Homburg Open 2025 - Day 1",
+      "web_url": "17505",
+      "cover_url": "https://thumbor.prod.vidiocdn.com/45WE1-_D7pJyrYNaB164mddjGcU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4369136/d7d7ed.jpg",
+      "start_time": "2025-06-22T14:00:00.000Z"
     }
   }
 }
