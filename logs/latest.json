@@ -1,20 +1,20 @@
 {
-  "time": "2025-06-20T02:30:02.906Z",
+  "time": "2025-06-20T03:30:05.642Z",
   "headers": {
     "luws": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36",
-    "x-signature": "16e5037aaea782154940c425c5ae5c469d0915f7149b4d3aec0edabb1c653022",
-    "x-client": 1750386602.975,
+    "x-signature": "233864bcafdf1b77dbd82686ad2c47a96ae2ca520e2f244a91bc2d7b7fb3aefa",
+    "x-client": 1750390205.544,
     "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/uFz9XDsBJqXcUpA+9RNsblKmpojc0hfpAAg9zwPFclTPYNSk3KDJkqdhnxzvFceP6SoBWdL0DFevFAaJrnU4Ds=",
     "x-secure-level": "2",
     "x-api-platform": "web",
     "x-request-from": "browser",
     "content-type": "application/json",
     "204-dash": null,
-    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/live/204/master.m3u8?hdnts=exp=1750401001~acl=/live/204/master.m3u8!/hls-p/ingest_204*/*!/hls-b/ingest_204*/*~id=allUsers~hmac=6d8eb652759cd3fcdf3f52e82e1b2469ccadcde7666122768eabd346b9db4dfc",
+    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/live/204/master.m3u8?hdnts=exp=1750404604~acl=/live/204/master.m3u8!/hls-p/ingest_204*/*!/hls-b/ingest_204*/*~id=allUsers~hmac=0bdf66d708e52d1a2984d2455c01a7f6d0515d25e3636901d89bdb7f3420f140",
     "205-dash": null,
-    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/live/205/master.m3u8?hdnts=exp=1750401002~acl=/live/205/master.m3u8!/hls-p/ingest_205*/*!/hls-b/ingest_205*/*~id=allUsers~hmac=42d66042e88512f6f956d8bab6679d9a56842fdc5fd60c56682ca387470bca9d",
+    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/live/205/master.m3u8?hdnts=exp=1750404604~acl=/live/205/master.m3u8!/hls-p/ingest_205*/*!/hls-b/ingest_205*/*~id=allUsers~hmac=abb8bf8157a7444e368bcdac658798c0a00c42b5c7060de3a48ec96a624b578b",
     "206-dash": null,
-    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1750401002~acl=/stream/206/file/*~id=allUsers~hmac=640bbfbc1b566b135420977bdac4f7cd36df6d2d364e4f61f3ee8a09ae84a25c",
+    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1750404605~acl=/stream/206/file/*~id=allUsers~hmac=02e4521b2497f1ecd6610a0c7a16572744535746c0437c5cbaf9240db72779bd",
     "all-sections": "16890-17140-17875-18189-18190-18832-18834-18851-18853-18913-18954-6317-6685-6786"
   },
   "sections": {
@@ -23,12 +23,6 @@
       "web_url": "18834",
       "cover_url": "https://thumbor.prod.vidiocdn.com/0FVMDw6JH4HKhqaZp9QPYLbKqw8=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18834/byon-combat-showbiz-vol-5-4b168f.jpg",
       "start_time": "2025-06-28T13:00:00.000Z"
-    },
-    "4366867": {
-      "title": "NBA Finals - Game 6: Oklahoma City Thunder vs Indiana Pacers - NBA",
-      "web_url": "6786",
-      "cover_url": "https://thumbor.prod.vidiocdn.com/uPm6vKdkuW84yy1K7G0zRP_d9jU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4366867/d047c9.jpg",
-      "start_time": "2025-06-20T00:30:00.000Z"
     },
     "4366868": {
       "title": "Moto3 Free Practice 1: MotoGP 2025 Round 9 - Brembo Grand Prix of Italy",
