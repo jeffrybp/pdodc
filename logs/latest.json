@@ -1,20 +1,20 @@
 {
-  "time": "2025-06-20T21:30:45.174Z",
+  "time": "2025-06-20T22:30:47.677Z",
   "headers": {
     "luws": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36",
-    "x-signature": "8b1c1d7de1eedd2bb23abbd0e8c92c613815f66b71cd38808ce196ea8d3817d7",
-    "x-client": 1750455045.228,
+    "x-signature": "3f22bb8656b8ba09acfc0eaf85438d4f5ff243163769adc2f2527b5fb2059989",
+    "x-client": 1750458647.869,
     "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/q0veA6PbkB8ZxW9c47VUUxbgzwz4WrueM8k11oAr2UE+iKzXsqiJTlzkvLoBHZVTbKoAr60XgoEHW633a+eHV8=",
     "x-secure-level": "2",
     "x-api-platform": "web",
     "x-request-from": "browser",
     "content-type": "application/json",
     "204-dash": null,
-    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/live/204/master.m3u8?hdnts=exp=1750469444~acl=/live/204/master.m3u8!/hls-p/ingest_204*/*!/hls-b/ingest_204*/*~id=allUsers~hmac=36fec2e5eff78d67154cf3aae8e406893fbf22b30726178dbbfc2cbb7f19ad11",
+    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/live/204/master.m3u8?hdnts=exp=1750473047~acl=/live/204/master.m3u8!/hls-p/ingest_204*/*!/hls-b/ingest_204*/*~id=allUsers~hmac=41e67d658886ec8e4933da0635ef7a571f7a0480633feb962e268ddf6fb87a92",
     "205-dash": null,
-    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/live/205/master.m3u8?hdnts=exp=1750469444~acl=/live/205/master.m3u8!/hls-p/ingest_205*/*!/hls-b/ingest_205*/*~id=allUsers~hmac=9153763bc2ff02cc139efd7581bcd0f804d31e0bdff5d494d93971e13981260c",
+    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/live/205/master.m3u8?hdnts=exp=1750473047~acl=/live/205/master.m3u8!/hls-p/ingest_205*/*!/hls-b/ingest_205*/*~id=allUsers~hmac=7b11055641141911f635791aa00133846cbfa4bffbc94180f9e6827e52e42ed5",
     "206-dash": null,
-    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1750469444~acl=/stream/206/file/*~id=allUsers~hmac=f3f74edc89082134201baebdc9abf47d4f369bfed9cc2b0af0d9f454be6bc4ba",
+    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1750473047~acl=/stream/206/file/*~id=allUsers~hmac=f4d58f637a9bc7d83f25477cf4c94bc90b5fc84d6d9520e2369f15450d4b6469",
     "all-sections": "17140-17141-17505-17875-18189-18190-18832-18834-18851-18853-18913-18954-206-6317-6685-6786"
   },
   "sections": {
@@ -23,12 +23,6 @@
       "web_url": "18834",
       "cover_url": "https://thumbor.prod.vidiocdn.com/0FVMDw6JH4HKhqaZp9QPYLbKqw8=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18834/byon-combat-showbiz-vol-5-4b168f.jpg",
       "start_time": "2025-06-28T13:00:00.000Z"
-    },
-    "4367068": {
-      "title": "Travelers Championship - Round 2",
-      "web_url": "18189",
-      "cover_url": "https://thumbor.prod.vidiocdn.com/Z1cY9s4Bj0K49w27qYi0u1dUwOw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4367068/f70c38.jpg",
-      "start_time": "2025-06-20T19:00:00.000Z"
     },
     "4367069": {
       "title": "Sirkuit Nasional Bulutangkis 2025 - Solo: Final",
@@ -304,25 +298,25 @@
       "title": "Quarter Final 1: Australia vs South Korea - AVC Men's Volleyball Nations Cup",
       "web_url": "18913",
       "cover_url": "https://thumbor.prod.vidiocdn.com/S2x-PEAkWeLfCjXLoIHb21AvUs8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4370156/7ba629.jpg",
-      "start_time": "2025-06-21T08:30:00.000Z"
+      "start_time": "2025-06-21T08:00:00.000Z"
     },
     "4370157": {
       "title": "Quarter Final 2: Indonesia vs Pakistan - AVC Men's Volleyball Nations Cup",
       "web_url": "18913",
       "cover_url": "https://thumbor.prod.vidiocdn.com/oh5vJ0lv22iDNWasFljVM9yyF8o=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4370157/f0b92e.jpg",
-      "start_time": "2025-06-21T11:00:00.000Z"
+      "start_time": "2025-06-21T10:45:00.000Z"
     },
     "4370158": {
       "title": "Quarter Final 3: Qatar vs Vietnam - AVC Men's Volleyball Nations Cup",
       "web_url": "18913",
       "cover_url": "https://thumbor.prod.vidiocdn.com/g65hYFNj6Kwy_d7DRENV5XbbOCY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4370158/a6d606.jpg",
-      "start_time": "2025-06-21T13:30:00.000Z"
+      "start_time": "2025-06-21T13:15:00.000Z"
     },
     "4370159": {
       "title": "Quarter Final 4: Bahrain vs Chinese Taipei - AVC Men's Volleyball Nations Cup",
       "web_url": "18913",
       "cover_url": "https://thumbor.prod.vidiocdn.com/Ud3yb-lkC2EP2bGNI0t07mxTE_U=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4370159/34aecd.jpg",
-      "start_time": "2025-06-21T16:00:00.000Z"
+      "start_time": "2025-06-21T15:45:00.000Z"
     }
   }
 }
