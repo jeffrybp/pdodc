@@ -1,21 +1,21 @@
 {
-  "time": "2025-06-21T10:26:21.952Z",
+  "time": "2025-06-21T11:26:22.551Z",
   "headers": {
     "luws": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36",
-    "x-signature": "b6bc9c3d4987fd083f576dcc54f8d152f8dc2000c83e4f2d8e70efd53a376f0c",
-    "x-client": 1750501581.587,
+    "x-signature": "ef3681c43b399f3fa7a2d55a7aacf1c388a7539f054093d749da7ca109382c57",
+    "x-client": 1750505182.126,
     "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/lcopUcxck7rveJWzSZYToQhEDyUfAZMDESFPcmx8AGQveBengHOk7suMiZtiHJYGK5tBBHWLG8yPsKLs1IuKIQ=",
     "x-secure-level": "2",
     "x-api-platform": "web",
     "x-request-from": "browser",
     "content-type": "application/json",
     "204-dash": null,
-    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/live/204/master.m3u8?hdnts=exp=1750515980~acl=/live/204/master.m3u8!/hls-p/ingest_204*/*!/hls-b/ingest_204*/*~id=allUsers~hmac=8853f7547de6f1adc96d1f7d8f1e852da3dfb1ae5e180d1a00bd7cb75ee9ef4a",
+    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/live/204/master.m3u8?hdnts=exp=1750519580~acl=/live/204/master.m3u8!/hls-p/ingest_204*/*!/hls-b/ingest_204*/*~id=allUsers~hmac=a7ea45b83f3f56277340331b75668606e0d32fd7e33a433bbb343f3404202f66",
     "205-dash": null,
-    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/live/205/master.m3u8?hdnts=exp=1750515980~acl=/live/205/master.m3u8!/hls-p/ingest_205*/*!/hls-b/ingest_205*/*~id=allUsers~hmac=d5e654e60bede59e9b83a7109f14f8e32df8e81132d97e143fc297179bba4bc9",
+    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/live/205/master.m3u8?hdnts=exp=1750519580~acl=/live/205/master.m3u8!/hls-p/ingest_205*/*!/hls-b/ingest_205*/*~id=allUsers~hmac=b9658c88d3ab59c6720dfb292d1060fc33760578985391901a5441a795d78b2b",
     "206-dash": null,
     "206-hls": null,
-    "all-sections": "17140-17141-17505-17875-18190-18834-18851-18853-18913-18954-206-6317-6685-6786",
+    "all-sections": "17140-17141-17505-17875-18189-18190-18834-18851-18853-18913-18954-206-6317-6685-6786",
     "all-vidiolivetv": [
       {
         "content_id": 204,
@@ -713,17 +713,11 @@
       "cover_url": "https://thumbor.prod.vidiocdn.com/45WE1-_D7pJyrYNaB164mddjGcU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4369136/d7d7ed.jpg",
       "start_time": "2025-06-22T13:40:00.000Z"
     },
-    "4370156": {
-      "title": "Quarter Final 1: Australia vs South Korea - AVC Men's Volleyball Nations Cup",
-      "web_url": "18913",
-      "cover_url": "https://thumbor.prod.vidiocdn.com/S2x-PEAkWeLfCjXLoIHb21AvUs8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4370156/7ba629.jpg",
-      "start_time": "2025-06-21T08:00:00.000Z"
-    },
     "4370157": {
       "title": "Quarter Final 2: Indonesia vs Pakistan - AVC Men's Volleyball Nations Cup",
       "web_url": "18913",
       "cover_url": "https://thumbor.prod.vidiocdn.com/oh5vJ0lv22iDNWasFljVM9yyF8o=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4370157/f0b92e.jpg",
-      "start_time": "2025-06-21T10:45:00.000Z"
+      "start_time": "2025-06-21T10:30:00.000Z"
     },
     "4370158": {
       "title": "Quarter Final 3: Qatar vs Vietnam - AVC Men's Volleyball Nations Cup",
@@ -736,6 +730,12 @@
       "web_url": "18913",
       "cover_url": "https://thumbor.prod.vidiocdn.com/Ud3yb-lkC2EP2bGNI0t07mxTE_U=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4370159/34aecd.jpg",
       "start_time": "2025-06-21T15:45:00.000Z"
+    },
+    "4371631": {
+      "title": "Travelers Championship - Round 3",
+      "web_url": "18189",
+      "cover_url": "https://thumbor.prod.vidiocdn.com/zwDN989eRLleBshjjwDS0yYKuDQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4371631/d2f789.jpg",
+      "start_time": "2025-06-21T17:00:00.000Z"
     }
   }
 }
