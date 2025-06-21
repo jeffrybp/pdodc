@@ -1,9 +1,9 @@
 {
-  "time": "2025-06-21T15:23:31.207Z",
+  "time": "2025-06-21T15:25:08.949Z",
   "headers": {
     "luws": "068C4FB1-4617-7917-A150-90512D5278FF_22522467",
-    "x-signature": "d73640f9513dea66aee1f3cc6b4af7e99d4d28a10dc534cfb7f3763100540421",
-    "x-client": 1750519415.399,
+    "x-signature": "368c007383c9bef03e22297f75577b662c87b4019cd5bac71a565a32760b7e5b",
+    "x-client": 1750519511.102,
     "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/sPLbuAG+pBZNBiyb5tJaphmsEG5qrn5crkBId3LEbclpOQWDnMC6KF1D9yquOhigoFSRWvMsGSWMoZHH/5kZDA=",
     "x-secure-level": "2",
     "x-api-platform": "web-desktop",
@@ -11,13 +11,17 @@
     "content-type": "application/json",
     "cookie": "ahoy_visitor=1d49408b-e217-4977-8498-08d39ae6b94e; plenty_id=22522467; country_id=ID; shva=1; luws=068C4FB1-4617-7917-A150-90512D5278FF_22522467; ahoy_visit=0e93f0f0-a7bd-4547-930a-bdf4c2bc5783",
     "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36",
-    "x-user-email": "jeffrybp1991@gmail.com",
+    "x-user-email": null,
     "204-dash": null,
-    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/live/204/master.m3u8?hdnts=exp=1750533810~acl=/live/204/master.m3u8!/hls-p/ingest_204*/*!/hls-b/ingest_204*/*~id=allUsers~hmac=9428fb86caf41322a7ff040de0bff0656d41e70e6918cfd51bfdc09a80f7feec",
+    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/live/204/master.m3u8?hdnts=exp=1750533905~acl=/live/204/master.m3u8!/hls-p/ingest_204*/*!/hls-b/ingest_204*/*~id=allUsers~hmac=9e7265463ea2475f00aa51777d86fd8d6fa3749cca5414c1168b00093d596f81",
     "205-dash": null,
-    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/live/205/master.m3u8?hdnts=exp=1750533810~acl=/live/205/master.m3u8!/hls-p/ingest_205*/*!/hls-b/ingest_205*/*~id=allUsers~hmac=56918ad990ca34b9b740b65e3e3a39df2f7db6b9ee6e62a6818b7c95b18bb3af",
+    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/live/205/master.m3u8?hdnts=exp=1750533906~acl=/live/205/master.m3u8!/hls-p/ingest_205*/*!/hls-b/ingest_205*/*~id=allUsers~hmac=ef93ff57889cbc8b9b3efdfd05ca4518a2467b4536879a6a5d4aebadb4f15d5f",
     "206-dash": null,
     "206-hls": null,
+    "733-dash": null,
+    "733-hls": null,
+    "734-dash": null,
+    "734-hls": null,
     "all-sections": "17140-17141-17505-17875-18189-18190-18834-18851-18853-18913-18954-206-6317-6685-6786",
     "all-vidiolivetv": [
       {
