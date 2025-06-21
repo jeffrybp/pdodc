@@ -1,27 +1,20 @@
 {
-  "time": "2025-06-21T15:25:08.949Z",
+  "time": "2025-06-21T15:26:23.809Z",
   "headers": {
-    "luws": "068C4FB1-4617-7917-A150-90512D5278FF_22522467",
-    "x-signature": "368c007383c9bef03e22297f75577b662c87b4019cd5bac71a565a32760b7e5b",
-    "x-client": 1750519511.102,
-    "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/sPLbuAG+pBZNBiyb5tJaphmsEG5qrn5crkBId3LEbclpOQWDnMC6KF1D9yquOhigoFSRWvMsGSWMoZHH/5kZDA=",
+    "luws": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36",
+    "x-signature": "7d2ae117300a356260931e97706ba287815c57d59619733fd82a511433ddbfcb",
+    "x-client": 1750519583.314,
+    "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/lcopUcxck7rveJWzSZYToQhEDyUfAZMDESFPcmx8AGQveBengHOk7suMiZtiHJYGK5tBBHWLG8yPsKLs1IuKIQ=",
     "x-secure-level": "2",
-    "x-api-platform": "web-desktop",
+    "x-api-platform": "web",
     "x-request-from": "browser",
     "content-type": "application/json",
-    "cookie": "ahoy_visitor=1d49408b-e217-4977-8498-08d39ae6b94e; plenty_id=22522467; country_id=ID; shva=1; luws=068C4FB1-4617-7917-A150-90512D5278FF_22522467; ahoy_visit=0e93f0f0-a7bd-4547-930a-bdf4c2bc5783",
-    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36",
-    "x-user-email": null,
     "204-dash": null,
-    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/live/204/master.m3u8?hdnts=exp=1750533905~acl=/live/204/master.m3u8!/hls-p/ingest_204*/*!/hls-b/ingest_204*/*~id=allUsers~hmac=9e7265463ea2475f00aa51777d86fd8d6fa3749cca5414c1168b00093d596f81",
+    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/live/204/master.m3u8?hdnts=exp=1750533982~acl=/live/204/master.m3u8!/hls-p/ingest_204*/*!/hls-b/ingest_204*/*~id=allUsers~hmac=f9152b8b3d45307efcb703fe12bb76fd6b49a6bd06f19eb86a57e24dc6ba2e4c",
     "205-dash": null,
-    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/live/205/master.m3u8?hdnts=exp=1750533906~acl=/live/205/master.m3u8!/hls-p/ingest_205*/*!/hls-b/ingest_205*/*~id=allUsers~hmac=ef93ff57889cbc8b9b3efdfd05ca4518a2467b4536879a6a5d4aebadb4f15d5f",
+    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/live/205/master.m3u8?hdnts=exp=1750533982~acl=/live/205/master.m3u8!/hls-p/ingest_205*/*!/hls-b/ingest_205*/*~id=allUsers~hmac=4c27b6f217a78b39950afa4c22e7173fb950e1a5ac460fe3e151c5620d9686b9",
     "206-dash": null,
     "206-hls": null,
-    "733-dash": null,
-    "733-hls": null,
-    "734-dash": null,
-    "734-hls": null,
     "all-sections": "17140-17141-17505-17875-18189-18190-18834-18851-18853-18913-18954-206-6317-6685-6786",
     "all-vidiolivetv": [
       {
@@ -700,7 +693,7 @@
       "title": "WTA 250: Lexus Nottingham Open 2025 - Semifinal",
       "web_url": "6685",
       "cover_url": "https://thumbor.prod.vidiocdn.com/o2Q6kpiaz0bhPkVtK2SyOBKpimc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4371657/818bc3.jpg",
-      "start_time": "2025-06-21T15:30:00.000Z"
+      "start_time": "2025-06-21T15:20:00.000Z"
     }
   }
 }
