@@ -1,18 +1,18 @@
 {
-  "time": "2025-06-21T08:26:20.990Z",
+  "time": "2025-06-21T09:26:21.648Z",
   "headers": {
     "luws": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36",
-    "x-signature": "e9bccc365169bbf9d8f8e6729a2f08fb12d40f4ba572b4368c91f940ac1f6dcb",
-    "x-client": 1750494380.164,
+    "x-signature": "f1ce0e8d3fd1ee58006fe06877b1d78d4ad8119a5bdbe99d2f726755a92b2c00",
+    "x-client": 1750497981.103,
     "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/lcopUcxck7rveJWzSZYToQhEDyUfAZMDESFPcmx8AGQveBengHOk7suMiZtiHJYGK5tBBHWLG8yPsKLs1IuKIQ=",
     "x-secure-level": "2",
     "x-api-platform": "web",
     "x-request-from": "browser",
     "content-type": "application/json",
     "204-dash": null,
-    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/live/204/master.m3u8?hdnts=exp=1750508779~acl=/live/204/master.m3u8!/hls-p/ingest_204*/*!/hls-b/ingest_204*/*~id=allUsers~hmac=4b526f78f0bded4c4860b52acc0202f02bf793e62fe769cdf2d87704be3ec48c",
+    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/live/204/master.m3u8?hdnts=exp=1750512379~acl=/live/204/master.m3u8!/hls-p/ingest_204*/*!/hls-b/ingest_204*/*~id=allUsers~hmac=850427eb9007214ca6d698017d7abcca5bcbb59faafc1fde49b6a7dd7c23158f",
     "205-dash": null,
-    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/live/205/master.m3u8?hdnts=exp=1750508779~acl=/live/205/master.m3u8!/hls-p/ingest_205*/*!/hls-b/ingest_205*/*~id=allUsers~hmac=d37644ba060888b1e2fd928e24a5e12509f88ea86af829b888dfb5f69ff9ea3f",
+    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/live/205/master.m3u8?hdnts=exp=1750512380~acl=/live/205/master.m3u8!/hls-p/ingest_205*/*!/hls-b/ingest_205*/*~id=allUsers~hmac=0d2f739e40eae54ea9930097836a8505790e589a753cb40bb4e1c2d0b1be0a7f",
     "206-dash": null,
     "206-hls": null,
     "all-sections": "17140-17141-17505-17875-18190-18832-18834-18851-18853-18913-18954-206-6317-6685-6786",
@@ -496,12 +496,6 @@
       "web_url": "18832",
       "cover_url": "https://thumbor.prod.vidiocdn.com/13t5KxZOtKtm0sQSnpGWOonikIU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4367069/188fe0.jpg",
       "start_time": "2025-06-21T03:00:00.000Z"
-    },
-    "4367072": {
-      "title": "MotoGP Free Practice 2: MotoGP 2025 Round 9 - Brembo Grand Prix of Italy",
-      "web_url": "17140",
-      "cover_url": "https://thumbor.prod.vidiocdn.com/hKD77jSL8wZNAtCir3NPMwFde-Y=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4367072/11afb2.jpg",
-      "start_time": "2025-06-21T08:00:00.000Z"
     },
     "4367073": {
       "title": "MotoGP Qualifying: MotoGP 2025 Round 9 - Brembo Grand Prix of Italy",
