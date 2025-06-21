@@ -1,21 +1,21 @@
 {
-  "time": "2025-06-21T03:30:59.893Z",
+  "time": "2025-06-21T04:06:08.905Z",
   "headers": {
     "luws": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36",
-    "x-signature": "0c48ec6b6ce0f5ae331cd471a22df05e81d83a650d056a86e5beb6481feea854",
-    "x-client": 1750476660.409,
-    "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/q0veA6PbkB8ZxW9c47VUUxbgzwz4WrueM8k11oAr2UE+iKzXsqiJTlzkvLoBHZVTbKoAr60XgoEHW633a+eHV8=",
+    "x-signature": "f055c09c2dec3b5935f28af740554edde9aaa834cc0575a9621dfb49af145231",
+    "x-client": 1750478772.634,
+    "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/sPLbuAG+pBZNBiyb5tJaphmsEG5qrn5crkBId3LEbclpOQWDnMC6KF1D9yquOhigoFSRWvMsGSWMoZHH/5kZDA=",
     "x-secure-level": "2",
     "x-api-platform": "web",
     "x-request-from": "browser",
     "content-type": "application/json",
     "204-dash": null,
-    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/live/204/master.m3u8?hdnts=exp=1750491059~acl=/live/204/master.m3u8!/hls-p/ingest_204*/*!/hls-b/ingest_204*/*~id=allUsers~hmac=80e67a580edb2cac58833de931e9930d75e624a8137ab88bdbefd70d29d6f4b0",
+    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/live/204/master.m3u8?hdnts=exp=1750493167~acl=/live/204/master.m3u8!/hls-p/ingest_204*/*!/hls-b/ingest_204*/*~id=allUsers~hmac=d62d511a912a7148eca546ce341d84871d04ef763cccac5a7b47492375326b4c",
     "205-dash": null,
-    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/live/205/master.m3u8?hdnts=exp=1750491059~acl=/live/205/master.m3u8!/hls-p/ingest_205*/*!/hls-b/ingest_205*/*~id=allUsers~hmac=355ff9e3bcd72d236a28d13d2c4acb8b6ecfc9940f2375fcbef8e3faec5d62ba",
+    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/live/205/master.m3u8?hdnts=exp=1750493168~acl=/live/205/master.m3u8!/hls-p/ingest_205*/*!/hls-b/ingest_205*/*~id=allUsers~hmac=13c71469ece0c313772c247820362320dbd067d6b646bc547c17ceade17016f7",
     "206-dash": null,
-    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1750491059~acl=/stream/206/file/*~id=allUsers~hmac=8920dddaada36620d8c9bc34d01d1eebd9ac8aff4025b4f0cd1eaf94c3b97def",
-    "all-sections": "17140-17141-17505-17875-18189-18190-18832-18834-18851-18853-18913-18954-206-6317-6685-6786"
+    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1750493168~acl=/stream/206/file/*~id=allUsers~hmac=4c58302c4411d82bb14c8347df2f1a0c5af327e279ddf1f5c95a8002f576a4e6",
+    "all-sections": "17140-17141-17505-17875-18190-18832-18834-18851-18853-18913-18954-206-6317-6685-6786"
   },
   "sections": {
     "18834": {
@@ -131,12 +131,6 @@
       "web_url": "18853",
       "cover_url": "https://thumbor.prod.vidiocdn.com/Luhli_m1kNB94ldiT2cMt-mIqOY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4368909/3fbe9a.jpg",
       "start_time": "2025-06-21T16:15:00.000Z"
-    },
-    "4368962": {
-      "title": "Travelers Championship - Round 3",
-      "web_url": "18189",
-      "cover_url": "https://thumbor.prod.vidiocdn.com/a-Yo5-8kFmMjHJR2Mf7ZIdmGDuY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4368962/afecb7.jpg",
-      "start_time": "2025-06-21T17:00:00.000Z"
     },
     "4368963": {
       "title": "MotoGP Warm Up & Rider's Parade: MotoGP 2025 Round 9 - Brembo Grand Prix of Italy",
