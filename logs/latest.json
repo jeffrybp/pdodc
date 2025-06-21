@@ -1,18 +1,18 @@
 {
-  "time": "2025-06-21T13:26:24.042Z",
+  "time": "2025-06-21T14:26:24.679Z",
   "headers": {
     "luws": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36",
-    "x-signature": "24ff141b9fd8b19ed48280697a758c319e79acb2e9618ba62d884f025ea47586",
-    "x-client": 1750512382.876,
+    "x-signature": "1e1b148a5be460d381f067f97d5ec49bb85f6cc15278e05e4cdea7e55e8ea09f",
+    "x-client": 1750515982.974,
     "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/lcopUcxck7rveJWzSZYToQhEDyUfAZMDESFPcmx8AGQveBengHOk7suMiZtiHJYGK5tBBHWLG8yPsKLs1IuKIQ=",
     "x-secure-level": "2",
     "x-api-platform": "web",
     "x-request-from": "browser",
     "content-type": "application/json",
     "204-dash": null,
-    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/live/204/master.m3u8?hdnts=exp=1750526781~acl=/live/204/master.m3u8!/hls-p/ingest_204*/*!/hls-b/ingest_204*/*~id=allUsers~hmac=500013d6a29f416ba760d65209d34f017c7048ee0edf44717cef335202e35e2d",
+    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/live/204/master.m3u8?hdnts=exp=1750530382~acl=/live/204/master.m3u8!/hls-p/ingest_204*/*!/hls-b/ingest_204*/*~id=allUsers~hmac=4670e2986c7527b22c3a552075f8ba7a12dd2e8f8cc649716164cd68feb9d9d8",
     "205-dash": null,
-    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/live/205/master.m3u8?hdnts=exp=1750526782~acl=/live/205/master.m3u8!/hls-p/ingest_205*/*!/hls-b/ingest_205*/*~id=allUsers~hmac=491d4d41a7b92c027b79c102abc45c5c57b0a9c3cf0b367990efc922915f9831",
+    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/live/205/master.m3u8?hdnts=exp=1750530382~acl=/live/205/master.m3u8!/hls-p/ingest_205*/*!/hls-b/ingest_205*/*~id=allUsers~hmac=0b6604638daa1a1ed8636315c8fe191f2287b1b3c3dedeb5d1e13cd2b794ebe2",
     "206-dash": null,
     "206-hls": null,
     "all-sections": "17140-17141-17505-17875-18189-18190-18834-18851-18853-18913-18954-206-6317-6685-6786",
@@ -491,24 +491,6 @@
       "cover_url": "https://thumbor.prod.vidiocdn.com/0FVMDw6JH4HKhqaZp9QPYLbKqw8=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18834/byon-combat-showbiz-vol-5-4b168f.jpg",
       "start_time": "2025-06-28T13:00:00.000Z"
     },
-    "4367076": {
-      "title": "MotoGP Tissot SPRINT: MotoGP 2025 Round 9 - Brembo Grand Prix of Italy",
-      "web_url": "17140",
-      "cover_url": "https://thumbor.prod.vidiocdn.com/iucD2s3SQWDJXdo6Qjk_rKYQbUU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4367076/ad4a56.jpg",
-      "start_time": "2025-06-21T12:45:00.000Z"
-    },
-    "4367077": {
-      "title": "WTA 250: Lexus Nottingham Open 2025 - Semifinal",
-      "web_url": "6685",
-      "cover_url": "https://thumbor.prod.vidiocdn.com/Pte2jIJ4wPg7a3ranemzgYGZrl8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4367077/918e66.jpg",
-      "start_time": "2025-06-21T09:56:00.000Z"
-    },
-    "4367078": {
-      "title": "WTA 500: Berlin Tennis Open 2025 - Semifinal",
-      "web_url": "6786",
-      "cover_url": "https://thumbor.prod.vidiocdn.com/ftmrO0oBsRm3vml4wyPtn8JlkU8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4367078/389e65.jpg",
-      "start_time": "2025-06-21T10:00:00.000Z"
-    },
     "4367079": {
       "title": "ATP 500: HSBC Championships 2025 - Semifinal",
       "web_url": "6317",
@@ -526,12 +508,6 @@
       "web_url": "18190",
       "cover_url": "https://thumbor.prod.vidiocdn.com/MQGkfJEqgwduKQO_G9-1jI6e8gE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4368868/72773f.jpg",
       "start_time": "2025-06-21T15:00:00.000Z"
-    },
-    "4368882": {
-      "title": "Women: Japan vs China - Volleyball Nations League",
-      "web_url": "18851",
-      "cover_url": "https://thumbor.prod.vidiocdn.com/rypu_3zshEHwd-chGqprUKbKuYY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4368882/b517fd.jpg",
-      "start_time": "2025-06-21T11:45:00.000Z"
     },
     "4368897": {
       "title": "Women: Dominican Republic vs Brazil - Volleyball Nations League",
@@ -718,6 +694,12 @@
       "web_url": "18189",
       "cover_url": "https://thumbor.prod.vidiocdn.com/zwDN989eRLleBshjjwDS0yYKuDQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4371631/d2f789.jpg",
       "start_time": "2025-06-21T17:00:00.000Z"
+    },
+    "4371657": {
+      "title": "WTA 250: Lexus Nottingham Open 2025 - Semifinal",
+      "web_url": "6685",
+      "cover_url": "https://thumbor.prod.vidiocdn.com/o2Q6kpiaz0bhPkVtK2SyOBKpimc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4371657/818bc3.jpg",
+      "start_time": "2025-06-21T14:30:00.000Z"
     }
   }
 }
