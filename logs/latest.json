@@ -1,18 +1,21 @@
 {
-  "time": "2025-06-21T14:26:24.679Z",
+  "time": "2025-06-21T15:19:09.261Z",
   "headers": {
-    "luws": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36",
-    "x-signature": "1e1b148a5be460d381f067f97d5ec49bb85f6cc15278e05e4cdea7e55e8ea09f",
-    "x-client": 1750515982.974,
-    "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/lcopUcxck7rveJWzSZYToQhEDyUfAZMDESFPcmx8AGQveBengHOk7suMiZtiHJYGK5tBBHWLG8yPsKLs1IuKIQ=",
+    "luws": "068C4FB1-4617-7917-A150-90512D5278FF_22522467",
+    "x-signature": "70c61345f4f442802f7ba75ac5cb45801115937f3874a42b7c73b9740afd27d0",
+    "x-client": 1750519151.639,
+    "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/sPLbuAG+pBZNBiyb5tJaphmsEG5qrn5crkBId3LEbclpOQWDnMC6KF1D9yquOhigoFSRWvMsGSWMoZHH/5kZDA=",
     "x-secure-level": "2",
-    "x-api-platform": "web",
+    "x-api-platform": "web-desktop",
     "x-request-from": "browser",
     "content-type": "application/json",
+    "cookie": "ahoy_visitor=1d49408b-e217-4977-8498-08d39ae6b94e; plenty_id=22522467; country_id=ID; shva=1; luws=068C4FB1-4617-7917-A150-90512D5278FF_22522467; ahoy_visit=0e93f0f0-a7bd-4547-930a-bdf4c2bc5783",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36",
+    "x-user-email": null,
     "204-dash": null,
-    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/live/204/master.m3u8?hdnts=exp=1750530382~acl=/live/204/master.m3u8!/hls-p/ingest_204*/*!/hls-b/ingest_204*/*~id=allUsers~hmac=4670e2986c7527b22c3a552075f8ba7a12dd2e8f8cc649716164cd68feb9d9d8",
+    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/live/204/master.m3u8?hdnts=exp=1750533546~acl=/live/204/master.m3u8!/hls-p/ingest_204*/*!/hls-b/ingest_204*/*~id=allUsers~hmac=5baec567feb20980e5f04911ce34cd449643be7140a7d6b141220fcaa7358016",
     "205-dash": null,
-    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/live/205/master.m3u8?hdnts=exp=1750530382~acl=/live/205/master.m3u8!/hls-p/ingest_205*/*!/hls-b/ingest_205*/*~id=allUsers~hmac=0b6604638daa1a1ed8636315c8fe191f2287b1b3c3dedeb5d1e13cd2b794ebe2",
+    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/live/205/master.m3u8?hdnts=exp=1750533546~acl=/live/205/master.m3u8!/hls-p/ingest_205*/*!/hls-b/ingest_205*/*~id=allUsers~hmac=0e16c1147c15654f285ae0ad454d3b836f9b72cf5c3530fc83a26b3085f17cef",
     "206-dash": null,
     "206-hls": null,
     "all-sections": "17140-17141-17505-17875-18189-18190-18834-18851-18853-18913-18954-206-6317-6685-6786",
@@ -509,12 +512,6 @@
       "cover_url": "https://thumbor.prod.vidiocdn.com/MQGkfJEqgwduKQO_G9-1jI6e8gE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4368868/72773f.jpg",
       "start_time": "2025-06-21T15:00:00.000Z"
     },
-    "4368897": {
-      "title": "Women: Dominican Republic vs Brazil - Volleyball Nations League",
-      "web_url": "18853",
-      "cover_url": "https://thumbor.prod.vidiocdn.com/qwz90IyrWGUAexIehgZ6TBwTtC8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4368897/2da2b7.jpg",
-      "start_time": "2025-06-21T12:45:00.000Z"
-    },
     "4368898": {
       "title": "Women: Netherlands vs United States - Volleyball Nations League",
       "web_url": "18954",
@@ -699,7 +696,7 @@
       "title": "WTA 250: Lexus Nottingham Open 2025 - Semifinal",
       "web_url": "6685",
       "cover_url": "https://thumbor.prod.vidiocdn.com/o2Q6kpiaz0bhPkVtK2SyOBKpimc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4371657/818bc3.jpg",
-      "start_time": "2025-06-21T14:30:00.000Z"
+      "start_time": "2025-06-21T15:30:00.000Z"
     }
   }
 }
