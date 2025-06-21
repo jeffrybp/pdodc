@@ -1,21 +1,20 @@
 {
-  "time": "2025-06-21T07:23:21.197Z",
+  "time": "2025-06-21T07:26:19.955Z",
   "headers": {
     "luws": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36",
-    "x-signature": "e759e4a3d1ca7d00e6470719f45ec7e0bf4123a5115a2b027edf14175ded7255",
-    "x-client": 1750490604.744,
-    "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/sPLbuAG+pBZNBiyb5tJaphmsEG5qrn5crkBId3LEbclpOQWDnMC6KF1D9yquOhigoFSRWvMsGSWMoZHH/5kZDA=",
+    "x-signature": "e61b74fc908160ddc87568be708c18aa66768c6887078def7c882419d852e07b",
+    "x-client": 1750490778.883,
+    "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/lcopUcxck7rveJWzSZYToQhEDyUfAZMDESFPcmx8AGQveBengHOk7suMiZtiHJYGK5tBBHWLG8yPsKLs1IuKIQ=",
     "x-secure-level": "2",
     "x-api-platform": "web",
     "x-request-from": "browser",
     "content-type": "application/json",
-    "cookie": "ahoy_visitor=1d49408b-e217-4977-8498-08d39ae6b94e; plenty_id=22522467; country_id=ID; shva=1; luws=068C4FB1-4617-7917-A150-90512D5278FF_22522467; ahoy_visit=9fdb89da-9c18-4944-89d8-500cc5a73935",
     "204-dash": null,
-    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/live/204/master.m3u8?hdnts=exp=1750505000~acl=/live/204/master.m3u8!/hls-p/ingest_204*/*!/hls-b/ingest_204*/*~id=allUsers~hmac=34145a15f87bcf860f79abfbb225c74ee187d6fbaabf390172f7c2ab871f8bbb",
+    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/live/204/master.m3u8?hdnts=exp=1750505178~acl=/live/204/master.m3u8!/hls-p/ingest_204*/*!/hls-b/ingest_204*/*~id=allUsers~hmac=1246e795ba3650d8b3238d57c8bc834e9b58f06bdf91119ce74abedb4d57e092",
     "205-dash": null,
-    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/live/205/master.m3u8?hdnts=exp=1750505000~acl=/live/205/master.m3u8!/hls-p/ingest_205*/*!/hls-b/ingest_205*/*~id=allUsers~hmac=8cd829352a7f00574392567d32a798c7c0c50bb91b45d1269a3e729b132464a1",
+    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/live/205/master.m3u8?hdnts=exp=1750505178~acl=/live/205/master.m3u8!/hls-p/ingest_205*/*!/hls-b/ingest_205*/*~id=allUsers~hmac=373f3ca98b593f6478f2aa0101c3a2a7d889cd021ce94560836584c7809636c3",
     "206-dash": null,
-    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1750505000~acl=/stream/206/file/*~id=allUsers~hmac=c9400a7d0c87fea7bf113e336132366fc6276d984454f6800cdb0f4767e3507c",
+    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1750505178~acl=/stream/206/file/*~id=allUsers~hmac=474b506fa724e782603be4a59b36024913fdceec8e051f552209532973b215ad",
     "all-sections": "17140-17141-17505-17875-18190-18832-18834-18851-18853-18913-18954-206-6317-6685-6786",
     "all-vidiolivetv": [
       {
@@ -497,12 +496,6 @@
       "web_url": "18832",
       "cover_url": "https://thumbor.prod.vidiocdn.com/13t5KxZOtKtm0sQSnpGWOonikIU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4367069/188fe0.jpg",
       "start_time": "2025-06-21T03:00:00.000Z"
-    },
-    "4367070": {
-      "title": "Moto3 Free Practice 2: MotoGP 2025 Round 9 - Brembo Grand Prix of Italy",
-      "web_url": "17140",
-      "cover_url": "https://thumbor.prod.vidiocdn.com/yZOkvvmAIP-lBmYB7eS7LCuCJro=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4367070/0814be.jpg",
-      "start_time": "2025-06-21T06:35:00.000Z"
     },
     "4367071": {
       "title": "Moto2 Free Practice 2: MotoGP 2025 Round 9 - Brembo Grand Prix of Italy",
