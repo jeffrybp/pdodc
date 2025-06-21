@@ -1,9 +1,9 @@
 {
-  "time": "2025-06-21T16:37:00.303Z",
+  "time": "2025-06-21T17:00:32.069Z",
   "headers": {
     "luws": "8E8151BA-42C7-6CBA-30AA-564D3A1ECE23_",
-    "x-signature": "25bb0f583f38138155ef1513a28a72d57e9e27d36a664dfa2c952962fb1402a9",
-    "x-client": 1750523817.863,
+    "x-signature": "764e2276ff4f7dbcd100bc202f79a9b2a365d457efaa7d111b8438d2665976f3",
+    "x-client": 1750525230.835,
     "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/lcopUcxck7rveJWzSZYToQhEDyUfAZMDESFPcmx8AGQveBengHOk7suMiZtiHJYGK5tBBHWLG8yPsKLs1IuKIQ=",
     "x-secure-level": "2",
     "x-api-platform": "web-desktop",
@@ -13,13 +13,13 @@
     "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36",
     "x-user-email": "jeffrybp@outlook.co.id",
     "204-dash": null,
-    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/live/204/master.m3u8?hdnts=exp=1750538217~acl=/live/204/master.m3u8!/hls-p/ingest_204*/*!/hls-b/ingest_204*/*~id=allUsers~hmac=a60b01ea08da6b355cf3d537d8a202b717e54d9f310ffb215b88bcbf3df1b5b5",
+    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/live/204/master.m3u8?hdnts=exp=1750539629~acl=/live/204/master.m3u8!/hls-p/ingest_204*/*!/hls-b/ingest_204*/*~id=allUsers~hmac=27be866ef3a75ab2b6e760c757d0060ad8d168d78231b423716b11ef35946d21",
     "205-dash": null,
-    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/live/205/master.m3u8?hdnts=exp=1750538217~acl=/live/205/master.m3u8!/hls-p/ingest_205*/*!/hls-b/ingest_205*/*~id=allUsers~hmac=4ff109846a9f46bad1302e588a16982f20ed010c72507d5f0c548745e7b59158",
+    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/live/205/master.m3u8?hdnts=exp=1750539629~acl=/live/205/master.m3u8!/hls-p/ingest_205*/*!/hls-b/ingest_205*/*~id=allUsers~hmac=6425c1b6a4fc27f364684a6839d68d66501f4f710e776d53e9194a736c734e54",
     "206-dash": null,
     "206-hls": null,
-    "733-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/vp9/733_stream.mpd?hdnts=exp=1750538218~acl=/vp9/733_stream.mpd!/vp9/733/*!/vp9/*/733_stream.mpd!/vp9/*/733/*~id=9806201~hmac=234c3483982c10b70f1ca1e063dc3c989c2fa7151da045ec554ed80e7419bda3",
-    "733-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/live/733/master.m3u8?hdnts=exp=1750538218~acl=/live/733/master.m3u8!/hls-p/ingest_733*/*!/hls-b/ingest_733*/*~id=9806201~hmac=0fddcc5e630f1761bdf12daafc3c2824b42597cdb58a42ef8ae186644fce6b11",
+    "733-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/vp9/733_stream.mpd?hdnts=exp=1750539630~acl=/vp9/733_stream.mpd!/vp9/733/*!/vp9/*/733_stream.mpd!/vp9/*/733/*~id=9806201~hmac=7ce84a8537c885a4f7d70b57889d7a355fef7417773481e28ac5a93eb0bb2700",
+    "733-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/live/733/master.m3u8?hdnts=exp=1750539630~acl=/live/733/master.m3u8!/hls-p/ingest_733*/*!/hls-b/ingest_733*/*~id=9806201~hmac=e7b6d20eaa47336f23edfb5515605787d31a4919983586317ef59ba3b075befd",
     "734-dash": null,
     "734-hls": null,
     "all-sections": "17140-17141-17505-17875-18189-18190-18834-18851-18853-18913-18954-206-6317-6685-6786",
@@ -498,12 +498,6 @@
       "cover_url": "https://thumbor.prod.vidiocdn.com/0FVMDw6JH4HKhqaZp9QPYLbKqw8=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18834/byon-combat-showbiz-vol-5-4b168f.jpg",
       "start_time": "2025-06-28T13:00:00.000Z"
     },
-    "4367080": {
-      "title": "ATP 500: Terra Wortmann Open 2025 - Semifinal",
-      "web_url": "17875",
-      "cover_url": "https://thumbor.prod.vidiocdn.com/qlQrfuvojQfm9ezleB3Pp4mXZcY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4367080/66e6e9.jpg",
-      "start_time": "2025-06-21T13:00:00.000Z"
-    },
     "4368868": {
       "title": "KPMG Women's PGA Championship 2025 - Round 3",
       "web_url": "18190",
@@ -677,12 +671,6 @@
       "web_url": "18189",
       "cover_url": "https://thumbor.prod.vidiocdn.com/zwDN989eRLleBshjjwDS0yYKuDQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4371631/d2f789.jpg",
       "start_time": "2025-06-21T17:00:00.000Z"
-    },
-    "4371657": {
-      "title": "WTA 250: Lexus Nottingham Open 2025 - Semifinal",
-      "web_url": "6685",
-      "cover_url": "https://thumbor.prod.vidiocdn.com/o2Q6kpiaz0bhPkVtK2SyOBKpimc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4371657/818bc3.jpg",
-      "start_time": "2025-06-21T15:20:00.000Z"
     }
   }
 }
