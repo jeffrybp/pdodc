@@ -1,21 +1,21 @@
 {
-  "time": "2025-06-21T09:26:21.648Z",
+  "time": "2025-06-21T10:26:21.952Z",
   "headers": {
     "luws": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36",
-    "x-signature": "f1ce0e8d3fd1ee58006fe06877b1d78d4ad8119a5bdbe99d2f726755a92b2c00",
-    "x-client": 1750497981.103,
+    "x-signature": "b6bc9c3d4987fd083f576dcc54f8d152f8dc2000c83e4f2d8e70efd53a376f0c",
+    "x-client": 1750501581.587,
     "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/lcopUcxck7rveJWzSZYToQhEDyUfAZMDESFPcmx8AGQveBengHOk7suMiZtiHJYGK5tBBHWLG8yPsKLs1IuKIQ=",
     "x-secure-level": "2",
     "x-api-platform": "web",
     "x-request-from": "browser",
     "content-type": "application/json",
     "204-dash": null,
-    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/live/204/master.m3u8?hdnts=exp=1750512379~acl=/live/204/master.m3u8!/hls-p/ingest_204*/*!/hls-b/ingest_204*/*~id=allUsers~hmac=850427eb9007214ca6d698017d7abcca5bcbb59faafc1fde49b6a7dd7c23158f",
+    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/live/204/master.m3u8?hdnts=exp=1750515980~acl=/live/204/master.m3u8!/hls-p/ingest_204*/*!/hls-b/ingest_204*/*~id=allUsers~hmac=8853f7547de6f1adc96d1f7d8f1e852da3dfb1ae5e180d1a00bd7cb75ee9ef4a",
     "205-dash": null,
-    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/live/205/master.m3u8?hdnts=exp=1750512380~acl=/live/205/master.m3u8!/hls-p/ingest_205*/*!/hls-b/ingest_205*/*~id=allUsers~hmac=0d2f739e40eae54ea9930097836a8505790e589a753cb40bb4e1c2d0b1be0a7f",
+    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/live/205/master.m3u8?hdnts=exp=1750515980~acl=/live/205/master.m3u8!/hls-p/ingest_205*/*!/hls-b/ingest_205*/*~id=allUsers~hmac=d5e654e60bede59e9b83a7109f14f8e32df8e81132d97e143fc297179bba4bc9",
     "206-dash": null,
     "206-hls": null,
-    "all-sections": "17140-17141-17505-17875-18190-18832-18834-18851-18853-18913-18954-206-6317-6685-6786",
+    "all-sections": "17140-17141-17505-17875-18190-18834-18851-18853-18913-18954-206-6317-6685-6786",
     "all-vidiolivetv": [
       {
         "content_id": 204,
@@ -491,18 +491,6 @@
       "cover_url": "https://thumbor.prod.vidiocdn.com/0FVMDw6JH4HKhqaZp9QPYLbKqw8=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18834/byon-combat-showbiz-vol-5-4b168f.jpg",
       "start_time": "2025-06-28T13:00:00.000Z"
     },
-    "4367069": {
-      "title": "Sirkuit Nasional Bulutangkis 2025 - Solo: Final",
-      "web_url": "18832",
-      "cover_url": "https://thumbor.prod.vidiocdn.com/13t5KxZOtKtm0sQSnpGWOonikIU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4367069/188fe0.jpg",
-      "start_time": "2025-06-21T03:00:00.000Z"
-    },
-    "4367073": {
-      "title": "MotoGP Qualifying: MotoGP 2025 Round 9 - Brembo Grand Prix of Italy",
-      "web_url": "17140",
-      "cover_url": "https://thumbor.prod.vidiocdn.com/ED8rRFxT2K_5IXqcLj0EUgpRZCU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4367073/a87758.jpg",
-      "start_time": "2025-06-21T08:40:00.000Z"
-    },
     "4367074": {
       "title": "Moto3 Qualifying: MotoGP 2025 Round 9 - Brembo Grand Prix of Italy",
       "web_url": "17140",
@@ -525,7 +513,7 @@
       "title": "WTA 250: Lexus Nottingham Open 2025 - Semifinal",
       "web_url": "6685",
       "cover_url": "https://thumbor.prod.vidiocdn.com/Pte2jIJ4wPg7a3ranemzgYGZrl8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4367077/918e66.jpg",
-      "start_time": "2025-06-21T10:00:00.000Z"
+      "start_time": "2025-06-21T09:56:00.000Z"
     },
     "4367078": {
       "title": "WTA 500: Berlin Tennis Open 2025 - Semifinal",
@@ -550,12 +538,6 @@
       "web_url": "18190",
       "cover_url": "https://thumbor.prod.vidiocdn.com/MQGkfJEqgwduKQO_G9-1jI6e8gE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4368868/72773f.jpg",
       "start_time": "2025-06-21T15:00:00.000Z"
-    },
-    "4368870": {
-      "title": "Women: Czechia vs Thailand - Volleyball Nations League",
-      "web_url": "18851",
-      "cover_url": "https://thumbor.prod.vidiocdn.com/BN80INIkqfeHBC6gGc0CCztvrFo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4368870/c6b427.jpg",
-      "start_time": "2025-06-21T08:15:00.000Z"
     },
     "4368882": {
       "title": "Women: Japan vs China - Volleyball Nations League",
