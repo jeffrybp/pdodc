@@ -1,9 +1,9 @@
 {
-  "time": "2025-06-22T17:46:21.158Z",
+  "time": "2025-06-22T18:47:21.309Z",
   "headers": {
     "luws": "8E8151BA-42C7-6CBA-30AA-564D3A1ECE23_",
-    "x-signature": "f4391b8efe5fcd60d8aa7510f9ea41620053a94b5f633c3cec6dc573d5343733",
-    "x-client": 1750614379.86,
+    "x-signature": "38100afd413b9b46e000f8687537d5fac63ad0db38831c1b2685584cda24ea1d",
+    "x-client": 1750618039.399,
     "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/kqSSu3S7xFjD1CnwYWIIkPErMt5OYa5waE2Ucz7STU/Up1Di/l4cvgK5+DOj37jpJYwo3+L+GRewhVvZ93MJtM=",
     "x-secure-level": "2",
     "x-api-platform": "web-desktop",
@@ -13,16 +13,16 @@
     "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36",
     "x-user-email": "jeffrybp1991@gmail.com",
     "204-dash": null,
-    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/live/204/master.m3u8?hdnts=exp=1750628779~acl=/live/204/master.m3u8!/hls-p/ingest_204*/*!/hls-b/ingest_204*/*~id=allUsers~hmac=086f12479391c7d54319aa409435263ee6cca3ca545e61d27988936bc8fb3174",
+    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/live/204/master.m3u8?hdnts=exp=1750632439~acl=/live/204/master.m3u8!/hls-p/ingest_204*/*!/hls-b/ingest_204*/*~id=allUsers~hmac=7916681ad4cdebf844321497bb3e8bb982cf87600acf4309c9ba3e4802bf8d4c",
     "205-dash": null,
-    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/live/205/master.m3u8?hdnts=exp=1750628779~acl=/live/205/master.m3u8!/hls-p/ingest_205*/*!/hls-b/ingest_205*/*~id=allUsers~hmac=77a958d0916c14d255248ff0b5ba3df073208cf80bc444f2c8ceefb9ec21126f",
+    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/live/205/master.m3u8?hdnts=exp=1750632439~acl=/live/205/master.m3u8!/hls-p/ingest_205*/*!/hls-b/ingest_205*/*~id=allUsers~hmac=7488fb483f9d29890a11c2b781dcd6791f0d18c4ab7ec7e06a9b915692375aa2",
     "206-dash": null,
-    "206-hls": null,
-    "733-dash": "https://etslive-v3-vidio-com-preview-tokenized.akamaized.net/stream/733/file/dash/733_stream.mpd?hdnts=exp=1750614679~acl=/stream/733/file/*~id=22522467~hmac=28364f22fa9b009bb9064a7d9e20b26fceb7ed36d38692da1c3490d909526deb",
-    "733-hls": "https://etslive-v3-vidio-com-preview-tokenized.akamaized.net/stream/733/file/live/733/master.m3u8?hdnts=exp=1750614679~acl=/stream/733/file/*~id=22522467~hmac=28364f22fa9b009bb9064a7d9e20b26fceb7ed36d38692da1c3490d909526deb",
-    "734-dash": "https://etslive-v3-vidio-com-preview-tokenized.akamaized.net/stream/734/file/dash/734_stream.mpd?hdnts=exp=1750614679~acl=/stream/734/file/*~id=22522467~hmac=8149fb75a23eb410cc5e29b1f772cda5394092b15e0face18b52a87d2d47aede",
-    "734-hls": "https://etslive-v3-vidio-com-preview-tokenized.akamaized.net/stream/734/file/live/734/master.m3u8?hdnts=exp=1750614679~acl=/stream/734/file/*~id=22522467~hmac=8149fb75a23eb410cc5e29b1f772cda5394092b15e0face18b52a87d2d47aede",
-    "all-sections": "17875-18189-18190-18249-18250-18252-18253-18834-18853-18913-18954-6317-6786",
+    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1750632439~acl=/stream/206/file/*~id=allUsers~hmac=e56bf43a495e3ec71bd0ced7e5fcdda27123924ba06fc91f960b2a70fd3a8afe",
+    "733-dash": null,
+    "733-hls": null,
+    "734-dash": null,
+    "734-hls": null,
+    "all-sections": "17875-18189-18190-18249-18250-18252-18253-18834-18954-6317-6786",
     "all-vidiolivetv": [
       {
         "content_id": 204,
@@ -522,23 +522,11 @@
       "cover_url": "https://thumbor.prod.vidiocdn.com/0FVMDw6JH4HKhqaZp9QPYLbKqw8=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18834/byon-combat-showbiz-vol-5-4b168f.jpg",
       "start_time": "2025-06-28T13:00:00.000Z"
     },
-    "4368970": {
-      "title": "ATP 250: Mallorca Championships presented by Ecotrans Group 2025 - Day 1",
-      "web_url": "17875",
-      "cover_url": "https://thumbor.prod.vidiocdn.com/TnHbj7rchw8PaaFMEeTq77uw3rY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4368970/b7769e.jpg",
-      "start_time": "2025-06-22T16:00:00.000Z"
-    },
     "4368973": {
       "title": "KPMG Women's PGA Championship 2025 - Final Round",
       "web_url": "18190",
       "cover_url": "https://thumbor.prod.vidiocdn.com/gSlXX5hvekp-WtGCYlKMzHZ0HpU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4368973/e6670b.jpg",
       "start_time": "2025-06-22T15:00:00.000Z"
-    },
-    "4369134": {
-      "title": "Women: Turkey vs Brazil - Volleyball Nations League",
-      "web_url": "18853",
-      "cover_url": "https://thumbor.prod.vidiocdn.com/bVc4swoS32oEF84NQ2V19fkdEoo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4369134/1be673.jpg",
-      "start_time": "2025-06-22T16:15:00.000Z"
     },
     "4373516": {
       "title": "NBA Finals - Game 7: Indiana Pacers vs Oklahoma City Thunder - NBA",
@@ -556,7 +544,7 @@
       "title": "Women: Serbia vs Poland - Volleyball Nations League",
       "web_url": "18954",
       "cover_url": "https://thumbor.prod.vidiocdn.com/8r3tvrJgncMBHoBzVhd1ePaO4BQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4373649/908e41.jpg",
-      "start_time": "2025-06-22T18:00:00.000Z"
+      "start_time": "2025-06-22T17:55:00.000Z"
     },
     "4373650": {
       "title": "WTA 500: Bad Homburg Open 2025 - Day 2",
@@ -587,12 +575,6 @@
       "web_url": "17875",
       "cover_url": "https://thumbor.prod.vidiocdn.com/GgH9i4jaT3X6Q6PuktTPd5dgG30=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4373674/aeaa51.jpg",
       "start_time": "2025-06-23T16:00:00.000Z"
-    },
-    "4373727": {
-      "title": "CF 5-8: Indonesia vs Vietnam - AVC Men's Volleyball Nations Cup",
-      "web_url": "18913",
-      "cover_url": "https://thumbor.prod.vidiocdn.com/OcQ3KyzQMa6ivskgThH-9zmENjQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4373727/5217f2.jpg",
-      "start_time": "2025-06-22T15:28:00.000Z"
     }
   }
 }
