@@ -1,28 +1,28 @@
 {
-  "time": "2025-06-22T14:53:01.929Z",
+  "time": "2025-06-22T15:00:28.085Z",
   "headers": {
-    "luws": "4FC9D590-8384-7150-66F2-3DAA46424310_",
-    "x-signature": "8eb692879687c69bd02e72ddcabd4b62396bce91ab2259dbc3827000b7e33087",
-    "x-client": 1750603984.556,
-    "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/nCLInm6zfRfpiCBpqKvh1yi3kbKmi9G6L+K5OzPTF3D6Q0YqQIJwF5Vt6Q23T25NNWg1Uko9qaA+1aMML5YQ8Q=",
+    "luws": "8E8151BA-42C7-6CBA-30AA-564D3A1ECE23_",
+    "x-signature": "c2877349a74ae6fb347cd71e80bb69801bcaec20717d7793a78779d521c8fa7d",
+    "x-client": 1750604422.588,
+    "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/hqwaLwz0n33nsh14jTSMtw+IJbvvWCq+7WHJ8HgAmilFAyn3t740Lj4smZ4EX1sJ95pjhNThPvrOzfWcH/uKmU=",
     "x-secure-level": "2",
     "x-api-platform": "web-desktop",
     "x-request-from": "https://www.vidio.com/live/204",
     "content-type": "application/json",
-    "cookie": "ahoy_visitor=2deb6b8d-26e5-44d1-bb85-6d3bb86193dc; ahoy_visit=9f953350-1655-4c9f-a7ba-4f62574ed2d1; country_id=ID; luws=4FC9D590-8384-7150-66F2-3DAA46424310_; g_state={\"i_p\":1750689271030,\"i_l\":2}; shva=1; plenty_id=22522467",
+    "cookie": "luws=8E8151BA-42C7-6CBA-30AA-564D3A1ECE23_; ahoy_visitor=6e3be2bd-3fee-4c75-b69b-28bbf54baae8; country_id=ID; g_state={\"i_p\":1750688736787,\"i_l\":2}; ahoy_visit=0503eb1d-2740-44fa-8d10-2ef74b6d2ab9",
     "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36",
-    "x-user-email": "jeffrybp1991@gmail.com",
+    "x-user-email": null,
     "204-dash": null,
-    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/live/204/master.m3u8?hdnts=exp=1750618379~acl=/live/204/master.m3u8!/hls-p/ingest_204*/*!/hls-b/ingest_204*/*~id=allUsers~hmac=6ee6402cfc9bc4ea440eac9ef7446f66949d096e2f63deefd434e69009d6e8ab",
+    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/live/204/master.m3u8?hdnts=exp=1750618825~acl=/live/204/master.m3u8!/hls-p/ingest_204*/*!/hls-b/ingest_204*/*~id=allUsers~hmac=55eba3c7c181ec075e0124bc05e5dcac3b6470896838a2f1924770b62d3173fe",
     "205-dash": null,
-    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/live/205/master.m3u8?hdnts=exp=1750618379~acl=/live/205/master.m3u8!/hls-p/ingest_205*/*!/hls-b/ingest_205*/*~id=allUsers~hmac=b9e8d08db396bc860b3a6a16d9a5775c5268cd45fb92f23d147d4ab8b8f7f5d3",
+    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/live/205/master.m3u8?hdnts=exp=1750618825~acl=/live/205/master.m3u8!/hls-p/ingest_205*/*!/hls-b/ingest_205*/*~id=allUsers~hmac=7f674ccc36f0e69ba1721004ed473bcee4f722b81725ed078323da70d377fb93",
     "206-dash": null,
     "206-hls": null,
     "733-dash": null,
     "733-hls": null,
     "734-dash": null,
     "734-hls": null,
-    "all-sections": "17141-17505-17875-18189-18190-18249-18250-18252-18253-18834-18853-18913-18954-6317-6685-6786",
+    "all-sections": "17141-17505-17875-18189-18190-18249-18250-18252-18253-18834-18853-18913-18954-6317-6786",
     "all-vidiolivetv": [
       {
         "content_id": 204,
@@ -522,12 +522,6 @@
       "cover_url": "https://thumbor.prod.vidiocdn.com/0FVMDw6JH4HKhqaZp9QPYLbKqw8=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18834/byon-combat-showbiz-vol-5-4b168f.jpg",
       "start_time": "2025-06-28T13:00:00.000Z"
     },
-    "4368969": {
-      "title": "ATP 500: Terra Wortmann Open 2025 - Final",
-      "web_url": "17875",
-      "cover_url": "https://thumbor.prod.vidiocdn.com/9UhF2x-oz2Fdw3D-Rr0Lo09bD6w=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4368969/4af336.jpg",
-      "start_time": "2025-06-22T13:00:00.000Z"
-    },
     "4368970": {
       "title": "ATP 250: Mallorca Championships presented by Ecotrans Group 2025 - Day 1",
       "web_url": "17875",
@@ -641,12 +635,6 @@
       "web_url": "18913",
       "cover_url": "https://thumbor.prod.vidiocdn.com/OcQ3KyzQMa6ivskgThH-9zmENjQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4373727/5217f2.jpg",
       "start_time": "2025-06-22T16:00:00.000Z"
-    },
-    "4373884": {
-      "title": "WTA 250: Lexus Nottingham Open 2025 - Final",
-      "web_url": "6685",
-      "cover_url": "https://thumbor.prod.vidiocdn.com/APRPs5RBgbpI3qFnILTYNik_4gs=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4373884/b99f3c.jpg",
-      "start_time": "2025-06-22T13:14:00.000Z"
     }
   }
 }
