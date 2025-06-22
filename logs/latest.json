@@ -1,21 +1,21 @@
 {
-  "time": "2025-06-22T15:23:40.006Z",
+  "time": "2025-06-22T15:32:49.356Z",
   "headers": {
     "luws": "CB199467-B980-62D7-4026-07FB74A873EC_",
-    "x-signature": "285ccd6fa0e229a68b37d04b1aa62fed53573f4c898f3a9af9dc569c4b784699",
-    "x-client": 1750605819.689,
-    "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/oP7iOO0QtCrQsqa4uj5K2PvK6//ctM73sA25+eqbOKlOLTGNiGXjFZQ0utqt7j4vEEEGfm5AV/9u9XpdbNsSgw=",
+    "x-signature": "a4fb85c51bd49c22eb9b6e9c5d2120b487d2e35b77bda05c406e504407386ca9",
+    "x-client": 1750606371.517,
+    "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/kqSSu3S7xFjD1CnwYWIIkPErMt5OYa5waE2Ucz7STU/Up1Di/l4cvgK5+DOj37jpJYwo3+L+GRewhVvZ93MJtM=",
     "x-secure-level": "2",
     "x-api-platform": "web-desktop",
     "x-request-from": "https://www.vidio.com/live/7004-prambors-on-air",
     "content-type": "application/json",
-    "cookie": "ahoy_visitor=60d66794-a103-40d5-895a-925070783754; ahoy_visit=6b8af7d9-a5dc-4f67-bf3c-50d0458dc2e9; country_id=ID; luws=CB199467-B980-62D7-4026-07FB74A873EC_",
+    "cookie": "ahoy_visitor=60d66794-a103-40d5-895a-925070783754; ahoy_visit=6b8af7d9-a5dc-4f67-bf3c-50d0458dc2e9; country_id=ID; luws=CB199467-B980-62D7-4026-07FB74A873EC_; shva=1; plenty_id=22522467; _vidio_session=xxx;",
     "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36",
-    "x-user-email": null,
+    "x-user-email": "jeffrybp1991@gmail.com",
     "204-dash": null,
-    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/live/204/master.m3u8?hdnts=exp=1750620217~acl=/live/204/master.m3u8!/hls-p/ingest_204*/*!/hls-b/ingest_204*/*~id=allUsers~hmac=a8cb048b70da060faa781b20d168667685242e2b98bed4a1b60141e1014a615f",
+    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/live/204/master.m3u8?hdnts=exp=1750620766~acl=/live/204/master.m3u8!/hls-p/ingest_204*/*!/hls-b/ingest_204*/*~id=allUsers~hmac=8997bfaba2c5fe614d52bff2d1d206b1faaa9c558c69baac3f6a1be008a2a220",
     "205-dash": null,
-    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/live/205/master.m3u8?hdnts=exp=1750620217~acl=/live/205/master.m3u8!/hls-p/ingest_205*/*!/hls-b/ingest_205*/*~id=allUsers~hmac=8df5c10a45fea5369e96e7896bf24026ded297c44463b99336fa2dc14cae0a50",
+    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/live/205/master.m3u8?hdnts=exp=1750620766~acl=/live/205/master.m3u8!/hls-p/ingest_205*/*!/hls-b/ingest_205*/*~id=allUsers~hmac=d0e208c588fbb857f1dfeaa8963b237d546d8357a2582456a1b14f77fb8ab315",
     "206-dash": null,
     "206-hls": null,
     "733-dash": null,
@@ -618,17 +618,11 @@
       "cover_url": "https://thumbor.prod.vidiocdn.com/GgH9i4jaT3X6Q6PuktTPd5dgG30=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4373674/aeaa51.jpg",
       "start_time": "2025-06-23T16:00:00.000Z"
     },
-    "4373726": {
-      "title": "CF 5-8: Chinese Taipei vs Australia - AVC Men's Volleyball Nations Cup",
-      "web_url": "18913",
-      "cover_url": "https://thumbor.prod.vidiocdn.com/jMnk-30k4_CSD5OMq4FDlZ4zmQI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4373726/d6d0b0.jpg",
-      "start_time": "2025-06-22T13:00:00.000Z"
-    },
     "4373727": {
       "title": "CF 5-8: Indonesia vs Vietnam - AVC Men's Volleyball Nations Cup",
       "web_url": "18913",
       "cover_url": "https://thumbor.prod.vidiocdn.com/OcQ3KyzQMa6ivskgThH-9zmENjQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4373727/5217f2.jpg",
-      "start_time": "2025-06-22T16:00:00.000Z"
+      "start_time": "2025-06-22T15:28:00.000Z"
     }
   }
 }
