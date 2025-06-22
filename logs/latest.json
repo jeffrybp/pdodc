@@ -1,28 +1,28 @@
 {
-  "time": "2025-06-22T15:44:29.210Z",
+  "time": "2025-06-22T17:46:21.158Z",
   "headers": {
     "luws": "8E8151BA-42C7-6CBA-30AA-564D3A1ECE23_",
-    "x-signature": "4a21d17f3d7ff6fbcefe1be962be9ae453745b52fce9a58070e8e1d78d2e557b",
-    "x-client": 1750607068.901,
+    "x-signature": "f4391b8efe5fcd60d8aa7510f9ea41620053a94b5f633c3cec6dc573d5343733",
+    "x-client": 1750614379.86,
     "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/kqSSu3S7xFjD1CnwYWIIkPErMt5OYa5waE2Ucz7STU/Up1Di/l4cvgK5+DOj37jpJYwo3+L+GRewhVvZ93MJtM=",
     "x-secure-level": "2",
     "x-api-platform": "web-desktop",
     "x-request-from": "https://www.vidio.com/live/7004-prambors-on-air",
     "content-type": "application/json",
-    "cookie": "luws=8E8151BA-42C7-6CBA-30AA-564D3A1ECE23_; ahoy_visitor=6e3be2bd-3fee-4c75-b69b-28bbf54baae8; country_id=ID; g_state={\"i_p\":1750688736787,\"i_l\":2}; ahoy_visit=0503eb1d-2740-44fa-8d10-2ef74b6d2ab9; shva=1; plenty_id=22522467; _vidio_session=xxx;",
+    "cookie": "luws=8E8151BA-42C7-6CBA-30AA-564D3A1ECE23_; ahoy_visitor=6e3be2bd-3fee-4c75-b69b-28bbf54baae8; country_id=ID; g_state={\"i_p\":1750688736787,\"i_l\":2}; shva=1; plenty_id=22522467; ahoy_visit=62c134bf-d751-4fe4-8f09-eff3cdd5a979; _vidio_session=xxx;",
     "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36",
     "x-user-email": "jeffrybp1991@gmail.com",
     "204-dash": null,
-    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/live/204/master.m3u8?hdnts=exp=1750621468~acl=/live/204/master.m3u8!/hls-p/ingest_204*/*!/hls-b/ingest_204*/*~id=allUsers~hmac=1823d1bf3bed314e8ae05d29f1084929ae51fdf67576dc4d7f3d46f942134857",
+    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/live/204/master.m3u8?hdnts=exp=1750628779~acl=/live/204/master.m3u8!/hls-p/ingest_204*/*!/hls-b/ingest_204*/*~id=allUsers~hmac=086f12479391c7d54319aa409435263ee6cca3ca545e61d27988936bc8fb3174",
     "205-dash": null,
-    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/live/205/master.m3u8?hdnts=exp=1750621468~acl=/live/205/master.m3u8!/hls-p/ingest_205*/*!/hls-b/ingest_205*/*~id=allUsers~hmac=3af82f225ae0496da2741e5df1eeff5fc09e6aad36a97dbd1e4bbeba1f9177bd",
+    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/live/205/master.m3u8?hdnts=exp=1750628779~acl=/live/205/master.m3u8!/hls-p/ingest_205*/*!/hls-b/ingest_205*/*~id=allUsers~hmac=77a958d0916c14d255248ff0b5ba3df073208cf80bc444f2c8ceefb9ec21126f",
     "206-dash": null,
     "206-hls": null,
-    "733-dash": null,
-    "733-hls": null,
-    "734-dash": null,
-    "734-hls": null,
-    "all-sections": "17141-17505-17875-18189-18190-18249-18250-18252-18253-18834-18853-18913-18954-6317-6786",
+    "733-dash": "https://etslive-v3-vidio-com-preview-tokenized.akamaized.net/stream/733/file/dash/733_stream.mpd?hdnts=exp=1750614679~acl=/stream/733/file/*~id=22522467~hmac=28364f22fa9b009bb9064a7d9e20b26fceb7ed36d38692da1c3490d909526deb",
+    "733-hls": "https://etslive-v3-vidio-com-preview-tokenized.akamaized.net/stream/733/file/live/733/master.m3u8?hdnts=exp=1750614679~acl=/stream/733/file/*~id=22522467~hmac=28364f22fa9b009bb9064a7d9e20b26fceb7ed36d38692da1c3490d909526deb",
+    "734-dash": "https://etslive-v3-vidio-com-preview-tokenized.akamaized.net/stream/734/file/dash/734_stream.mpd?hdnts=exp=1750614679~acl=/stream/734/file/*~id=22522467~hmac=8149fb75a23eb410cc5e29b1f772cda5394092b15e0face18b52a87d2d47aede",
+    "734-hls": "https://etslive-v3-vidio-com-preview-tokenized.akamaized.net/stream/734/file/live/734/master.m3u8?hdnts=exp=1750614679~acl=/stream/734/file/*~id=22522467~hmac=8149fb75a23eb410cc5e29b1f772cda5394092b15e0face18b52a87d2d47aede",
+    "all-sections": "17875-18189-18190-18249-18250-18252-18253-18834-18853-18913-18954-6317-6786",
     "all-vidiolivetv": [
       {
         "content_id": 204,
@@ -528,47 +528,17 @@
       "cover_url": "https://thumbor.prod.vidiocdn.com/TnHbj7rchw8PaaFMEeTq77uw3rY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4368970/b7769e.jpg",
       "start_time": "2025-06-22T16:00:00.000Z"
     },
-    "4368972": {
-      "title": "ATP 500: HSBC Championships 2025 - Final",
-      "web_url": "6317",
-      "cover_url": "https://thumbor.prod.vidiocdn.com/LMhk0cVNBUAdHUU6owZO5x5BYWk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4368972/808478.jpg",
-      "start_time": "2025-06-22T13:00:00.000Z"
-    },
     "4368973": {
       "title": "KPMG Women's PGA Championship 2025 - Final Round",
       "web_url": "18190",
       "cover_url": "https://thumbor.prod.vidiocdn.com/gSlXX5hvekp-WtGCYlKMzHZ0HpU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4368973/e6670b.jpg",
       "start_time": "2025-06-22T15:00:00.000Z"
     },
-    "4369030": {
-      "title": "2025 MXGP of Great Britain: MXGP - Race 2",
-      "web_url": "17141",
-      "cover_url": "https://thumbor.prod.vidiocdn.com/_ZRURVshFqVKMq8f6gAL-_XklhM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4369030/e5b426.jpg",
-      "start_time": "2025-06-22T16:00:00.000Z"
-    },
-    "4369031": {
-      "title": "2025 MXGP of Great Britain: MX2 - Race 2",
-      "web_url": "17141",
-      "cover_url": "https://thumbor.prod.vidiocdn.com/q5gV0NZv6dURguUVAc1OHKiAhvE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4369031/57315b.jpg",
-      "start_time": "2025-06-22T15:00:00.000Z"
-    },
-    "4369107": {
-      "title": "Women: France vs United States - Volleyball Nations League",
-      "web_url": "18954",
-      "cover_url": "https://thumbor.prod.vidiocdn.com/ljD4QKqRdxwFRzAChD0NFcwBsxA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4369107/dde5be.jpg",
-      "start_time": "2025-06-22T14:15:00.000Z"
-    },
     "4369134": {
       "title": "Women: Turkey vs Brazil - Volleyball Nations League",
       "web_url": "18853",
       "cover_url": "https://thumbor.prod.vidiocdn.com/bVc4swoS32oEF84NQ2V19fkdEoo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4369134/1be673.jpg",
       "start_time": "2025-06-22T16:15:00.000Z"
-    },
-    "4369136": {
-      "title": "WTA 500: Bad Homburg Open 2025 - Day 1",
-      "web_url": "17505",
-      "cover_url": "https://thumbor.prod.vidiocdn.com/45WE1-_D7pJyrYNaB164mddjGcU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4369136/d7d7ed.jpg",
-      "start_time": "2025-06-22T14:08:00.000Z"
     },
     "4373516": {
       "title": "NBA Finals - Game 7: Indiana Pacers vs Oklahoma City Thunder - NBA",
