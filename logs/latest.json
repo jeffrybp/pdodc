@@ -1,21 +1,21 @@
 {
-  "time": "2025-06-23T12:36:05.527Z",
+  "time": "2025-06-23T13:57:11.184Z",
   "headers": {
     "luws": "8E8151BA-42C7-6CBA-30AA-564D3A1ECE23_",
-    "x-signature": "07d1b01864d8f140bd0971aaaf8560bf7d78f57dc5130079d74aeaf20828232e",
-    "x-client": 1750682165.317,
+    "x-signature": "a895576d9d0069da77302ffd349b10d97e1846d0374014b9ae5a199ae27d5fde",
+    "x-client": 1750687029.471,
     "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/kqSSu3S7xFjD1CnwYWIIkPErMt5OYa5waE2Ucz7STU/Up1Di/l4cvgK5+DOj37jpJYwo3+L+GRewhVvZ93MJtM=",
     "x-secure-level": "2",
     "x-api-platform": "web-desktop",
     "x-request-from": "https://www.vidio.com/live/7004-prambors-on-air",
     "content-type": "application/json",
-    "cookie": "luws=8E8151BA-42C7-6CBA-30AA-564D3A1ECE23_; ahoy_visitor=6e3be2bd-3fee-4c75-b69b-28bbf54baae8; country_id=ID; g_state={\"i_p\":1750688736787,\"i_l\":2}; shva=1; plenty_id=22522467; ahoy_visit=becfdde2-1fa9-45c6-bf69-04b0fddeba03; _vidio_session=xxx;",
+    "cookie": "luws=8E8151BA-42C7-6CBA-30AA-564D3A1ECE23_; ahoy_visitor=6e3be2bd-3fee-4c75-b69b-28bbf54baae8; country_id=ID; g_state={\"i_p\":1750688736787,\"i_l\":2}; shva=1; plenty_id=22522467; ahoy_visit=9810feb9-3634-489e-bc62-fe655997befa; _vidio_session=xxx;",
     "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36",
     "x-user-email": "jeffrybp1991@gmail.com",
     "204-dash": null,
-    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/live/204/master.m3u8?hdnts=exp=1750696564~acl=/live/204/master.m3u8!/hls-p/ingest_204*/*!/hls-b/ingest_204*/*~id=allUsers~hmac=7620d818d36cc0cf145d19bdc56b101d6e97a1db01ab83d381eac2d28541ee82",
+    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/live/204/master.m3u8?hdnts=exp=1750701428~acl=/live/204/master.m3u8!/hls-p/ingest_204*/*!/hls-b/ingest_204*/*~id=allUsers~hmac=58cbde01437a067c523d5b47e3ddb0972e02a8095190bfc175209814f48a0ffc",
     "205-dash": null,
-    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/live/205/master.m3u8?hdnts=exp=1750696564~acl=/live/205/master.m3u8!/hls-p/ingest_205*/*!/hls-b/ingest_205*/*~id=allUsers~hmac=d2405e9726386bfcd275bad925bbd280093b0c61cdbd6c663d538fcbc0a85408",
+    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/live/205/master.m3u8?hdnts=exp=1750701428~acl=/live/205/master.m3u8!/hls-p/ingest_205*/*!/hls-b/ingest_205*/*~id=allUsers~hmac=61260ff5308c4bb70e1f36c0f03140df821540405ac8157787cd5d39fb26e9e6",
     "206-dash": null,
     "206-hls": null,
     "733-dash": null,
@@ -534,12 +534,6 @@
       "cover_url": "https://thumbor.prod.vidiocdn.com/Uby0x_Nurt280t15pl0xy_eVF9I=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4373651/2b0ec0.jpg",
       "start_time": "2025-06-23T10:00:00.000Z"
     },
-    "4373652": {
-      "title": "ATP 250: Mallorca Championships presented by Ecotrans Group 2025 - Day 2",
-      "web_url": "17875",
-      "cover_url": "https://thumbor.prod.vidiocdn.com/QQJfiuFP67IoOz02XYzgPqANZOg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4373652/b713aa.jpg",
-      "start_time": "2025-06-23T11:00:00.000Z"
-    },
     "4373670": {
       "title": "ATP 250: Mallorca Championships presented by Ecotrans Group 2025 - Day 2",
       "web_url": "17875",
@@ -612,17 +606,11 @@
       "cover_url": "https://thumbor.prod.vidiocdn.com/TJ1clOVCcoTngw9kuhMiE4cOsHs=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4375556/2707cf.jpg",
       "start_time": "2025-06-24T15:00:00.000Z"
     },
-    "4375593": {
-      "title": "Final 5-6: Australia vs Indonesia - AVC Men's Volleyball Nations Cup",
-      "web_url": "18913",
-      "cover_url": "https://thumbor.prod.vidiocdn.com/1CHSov5Znw6b_956n806AkVfsPE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4375593/966ef9.jpg",
-      "start_time": "2025-06-23T10:22:00.000Z"
-    },
     "4375594": {
       "title": "Semifinal: Pakistan vs Qatar - AVC Men's Volleyball Nations Cup",
       "web_url": "18913",
       "cover_url": "https://thumbor.prod.vidiocdn.com/fIAcpKPmHTkufrV2hSakp5ycX5Q=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4375594/5a4435.jpg",
-      "start_time": "2025-06-23T13:30:00.000Z"
+      "start_time": "2025-06-23T13:00:00.000Z"
     },
     "4375595": {
       "title": "Semifinal: Bahrain vs South Korea - AVC Men's Volleyball Nations Cup",
