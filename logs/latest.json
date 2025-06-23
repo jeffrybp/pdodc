@@ -1,28 +1,28 @@
 {
-  "time": "2025-06-23T06:24:02.838Z",
+  "time": "2025-06-23T09:42:00.328Z",
   "headers": {
     "luws": "8E8151BA-42C7-6CBA-30AA-564D3A1ECE23_",
-    "x-signature": "528b8fa7ce03518c3e9b8504e8ffcfed8946fb31e8a0ba819e3e154c67065d27",
-    "x-client": 1750659842.837,
+    "x-signature": "4ba37d7b1676b526da5251e2a0938c78abec99c8f5bdc4ff59be7b7f0a18c905",
+    "x-client": 1750671719.779,
     "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/kqSSu3S7xFjD1CnwYWIIkPErMt5OYa5waE2Ucz7STU/Up1Di/l4cvgK5+DOj37jpJYwo3+L+GRewhVvZ93MJtM=",
     "x-secure-level": "2",
     "x-api-platform": "web-desktop",
     "x-request-from": "https://www.vidio.com/live/7004-prambors-on-air",
     "content-type": "application/json",
-    "cookie": "luws=8E8151BA-42C7-6CBA-30AA-564D3A1ECE23_; ahoy_visitor=6e3be2bd-3fee-4c75-b69b-28bbf54baae8; country_id=ID; g_state={\"i_p\":1750688736787,\"i_l\":2}; shva=1; plenty_id=22522467; ahoy_visit=38ab3a2c-c0d1-4ed3-b71c-f90be54260d1; _vidio_session=xxx;",
+    "cookie": "luws=8E8151BA-42C7-6CBA-30AA-564D3A1ECE23_; ahoy_visitor=6e3be2bd-3fee-4c75-b69b-28bbf54baae8; country_id=ID; g_state={\"i_p\":1750688736787,\"i_l\":2}; shva=1; plenty_id=22522467; ahoy_visit=1a4a0c5e-e264-4da3-bbf9-cf9ece59fd27; _vidio_session=xxx;",
     "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36",
     "x-user-email": "jeffrybp1991@gmail.com",
     "204-dash": null,
-    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/live/204/master.m3u8?hdnts=exp=1750674241~acl=/live/204/master.m3u8!/hls-p/ingest_204*/*!/hls-b/ingest_204*/*~id=allUsers~hmac=bcb9cdb5a61e11affd1724a0495ebc8bd1627d3e59a7cbd6e0335997624e7d90",
+    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/live/204/master.m3u8?hdnts=exp=1750686118~acl=/live/204/master.m3u8!/hls-p/ingest_204*/*!/hls-b/ingest_204*/*~id=allUsers~hmac=2c7f14747b95f4587be4a1ecdd4027442576c183452ea501e7468bec8c40d4eb",
     "205-dash": null,
-    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/live/205/master.m3u8?hdnts=exp=1750674242~acl=/live/205/master.m3u8!/hls-p/ingest_205*/*!/hls-b/ingest_205*/*~id=allUsers~hmac=5a60903bb878415382bb5ae375f20a17232dbf623b15f440099cc8ce4335be40",
+    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/live/205/master.m3u8?hdnts=exp=1750686118~acl=/live/205/master.m3u8!/hls-p/ingest_205*/*!/hls-b/ingest_205*/*~id=allUsers~hmac=70591afebc173ce35e9f2333474b659520b9ceb24a37bca43621fc93410d8d0f",
     "206-dash": null,
-    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1750674242~acl=/stream/206/file/*~id=allUsers~hmac=0475214291257b711afb025bfe91c902146ca16c741b2ba298d6889f954f10f0",
+    "206-hls": null,
     "733-dash": null,
     "733-hls": null,
     "734-dash": null,
     "734-hls": null,
-    "all-sections": "17139-17875-18249-18250-18252-18253-18834-18913-6299-6317-6786",
+    "all-sections": "17139-17875-18249-18250-18252-18253-18834-18913-6299-6317-6685-6786",
     "all-vidiolivetv": [
       {
         "content_id": 204,
@@ -517,7 +517,7 @@
       "start_time": "2025-06-24T14:10:00.000Z"
     },
     "18834": {
-      "title": "Byon Combat Showbiz Vol.5",
+      "title": "Redho Rocky vs Weerian - Light Flyweight - Byon Combat Showbiz Vol.5",
       "web_url": "18834",
       "cover_url": "https://thumbor.prod.vidiocdn.com/0FVMDw6JH4HKhqaZp9QPYLbKqw8=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18834/byon-combat-showbiz-vol-5-4b168f.jpg",
       "start_time": "2025-06-28T13:00:00.000Z"
@@ -616,7 +616,7 @@
       "title": "Final 7-8: Chinese Taipei vs Vietnam - AVC Men's Volleyball Nations Cup",
       "web_url": "18913",
       "cover_url": "https://thumbor.prod.vidiocdn.com/QRfO9qI8u7xxpYGqwY0WVW7D2Ik=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4375592/65f34e.jpg",
-      "start_time": "2025-06-23T08:30:00.000Z"
+      "start_time": "2025-06-23T08:00:00.000Z"
     },
     "4375593": {
       "title": "Final 5-6: Australia vs Indonesia - AVC Men's Volleyball Nations Cup",
@@ -635,6 +635,60 @@
       "web_url": "18913",
       "cover_url": "https://thumbor.prod.vidiocdn.com/Ex1DGxSNJKSLoGMyg4QyQJ8c7Q4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4375595/9fbab5.jpg",
       "start_time": "2025-06-23T16:00:00.000Z"
+    },
+    "4375675": {
+      "title": "WTA 500: Bad Homburg Open 2025 - Day 4",
+      "web_url": "6786",
+      "cover_url": "https://thumbor.prod.vidiocdn.com/_7LEAD4T_DVb3AAkd1N-8hzfQgw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4375675/0b5f92.jpg",
+      "start_time": "2025-06-25T09:30:00.000Z"
+    },
+    "4375676": {
+      "title": "WTA 250: Lexus Eastbourne Open 2025 - Day 1",
+      "web_url": "6685",
+      "cover_url": "https://thumbor.prod.vidiocdn.com/yNmyGGT4ylYTR_FYf3R4BBDpxgU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4375676/1c536e.jpg",
+      "start_time": "2025-06-25T10:00:00.000Z"
+    },
+    "4375677": {
+      "title": "Valladolid P2 Premier Padel 2025 - Day 3",
+      "web_url": "6299",
+      "cover_url": "https://thumbor.prod.vidiocdn.com/NQvtaXngln1ogOoUdIDkaJ-xDdE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4375677/316612.jpg",
+      "start_time": "2025-06-25T07:00:00.000Z"
+    },
+    "4375678": {
+      "title": "Valladolid P2 Premier Padel 2025 - Day 3",
+      "web_url": "6299",
+      "cover_url": "https://thumbor.prod.vidiocdn.com/xbuD4pO4UKGP69bNnKbXo-zdh6g=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4375678/fec3fd.jpg",
+      "start_time": "2025-06-25T15:00:00.000Z"
+    },
+    "4375895": {
+      "title": "Redho Rocky vs Weerian - Light Flyweight - Byon Combat Showbiz Vol.5",
+      "web_url": "18834",
+      "cover_url": "https://thumbor.prod.vidiocdn.com/0FVMDw6JH4HKhqaZp9QPYLbKqw8=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18834/byon-combat-showbiz-vol-5-4b168f.jpg",
+      "start_time": "2025-06-28T13:00:00.000Z"
+    },
+    "4375896": {
+      "title": "Danar Ilmawan vs Rifandi Sinaga - Bantamweight - Byon Combat Showbiz Vol.5",
+      "web_url": "18834",
+      "cover_url": "https://thumbor.prod.vidiocdn.com/0FVMDw6JH4HKhqaZp9QPYLbKqw8=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18834/byon-combat-showbiz-vol-5-4b168f.jpg",
+      "start_time": "2025-06-28T14:00:00.000Z"
+    },
+    "4375897": {
+      "title": "Putra Abdullah vs KKCHAL -  Lightweight - Byon Combat Showbiz Vol.5",
+      "web_url": "18834",
+      "cover_url": "https://thumbor.prod.vidiocdn.com/0FVMDw6JH4HKhqaZp9QPYLbKqw8=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18834/byon-combat-showbiz-vol-5-4b168f.jpg",
+      "start_time": "2025-06-28T15:00:00.000Z"
+    },
+    "4375898": {
+      "title": "Jaden Bachtera vs Andi Cobra - Featherweight - Byon Combat Showbiz Vol.5",
+      "web_url": "18834",
+      "cover_url": "https://thumbor.prod.vidiocdn.com/0FVMDw6JH4HKhqaZp9QPYLbKqw8=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18834/byon-combat-showbiz-vol-5-4b168f.jpg",
+      "start_time": "2025-06-28T16:00:00.000Z"
+    },
+    "4375899": {
+      "title": "KKAJHE vs Abdul Aziz - Lightweight -  Byon Combat Showbiz Vol.5",
+      "web_url": "18834",
+      "cover_url": "https://thumbor.prod.vidiocdn.com/0FVMDw6JH4HKhqaZp9QPYLbKqw8=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18834/byon-combat-showbiz-vol-5-4b168f.jpg",
+      "start_time": "2025-06-28T17:00:00.000Z"
     }
   }
 }
