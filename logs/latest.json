@@ -1,21 +1,21 @@
 {
-  "time": "2025-06-23T15:55:32.963Z",
+  "time": "2025-06-23T16:25:34.480Z",
   "headers": {
     "luws": "8E8151BA-42C7-6CBA-30AA-564D3A1ECE23_",
-    "x-signature": "527043f0e4c4e583612e91a7c76b667506e99062ac9e5685a19ee99353eba8f8",
-    "x-client": 1750694130.684,
+    "x-signature": "1d1e499825ff5c60904dc66d26e7f30382a37e10ee2139d075fd12afd530b5c3",
+    "x-client": 1750695933.563,
     "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/pcAxB3JWxC7WHwrj5fP1wzPDm3P5fL0cvysa9/caD3LOeXv0xMnjOej1A8oYrzG8fHUhI4YP1P0mNHePCO+6YE=",
     "x-secure-level": "2",
     "x-api-platform": "web-desktop",
     "x-request-from": "https://www.vidio.com/live/204",
     "content-type": "application/json",
-    "cookie": "luws=8E8151BA-42C7-6CBA-30AA-564D3A1ECE23_; ahoy_visitor=6e3be2bd-3fee-4c75-b69b-28bbf54baae8; country_id=ID; g_state={\"i_p\":1750688736787,\"i_l\":2}; shva=1; plenty_id=22522467; ahoy_visit=498aab55-b1d3-4be7-a42b-f661abfe11cf; _vidio_session=xxx;",
+    "cookie": "luws=8E8151BA-42C7-6CBA-30AA-564D3A1ECE23_; ahoy_visitor=6e3be2bd-3fee-4c75-b69b-28bbf54baae8; country_id=ID; g_state={\"i_p\":1750688736787,\"i_l\":2}; shva=1; plenty_id=22522467; ahoy_visit=4311e371-59b3-4a19-905d-827741f49b8c; _vidio_session=xxx;",
     "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36",
     "x-user-email": "jeffrybp1991@gmail.com",
     "204-dash": null,
-    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/live/204/master.m3u8?hdnts=exp=1750708530~acl=/live/204/master.m3u8!/hls-p/ingest_204*/*!/hls-b/ingest_204*/*~id=allUsers~hmac=b306de6e19dd29a0950e357a3e86598a25d27280e453a025f2eacbc819d2e16b",
+    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/live/204/master.m3u8?hdnts=exp=1750710332~acl=/live/204/master.m3u8!/hls-p/ingest_204*/*!/hls-b/ingest_204*/*~id=allUsers~hmac=28c9b2882692e6c72b8d79bbe79d7ec0954fda8670b00f076e3c070bb7938631",
     "205-dash": null,
-    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/live/205/master.m3u8?hdnts=exp=1750708530~acl=/live/205/master.m3u8!/hls-p/ingest_205*/*!/hls-b/ingest_205*/*~id=allUsers~hmac=e3a33c3b7cc15c7ff44b7d81da6c0d08e7a122028cfc7b32e396cbc6f04f6669",
+    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/live/205/master.m3u8?hdnts=exp=1750710332~acl=/live/205/master.m3u8!/hls-p/ingest_205*/*!/hls-b/ingest_205*/*~id=allUsers~hmac=914153b8d864f056f1757901511e40aca52e57a9cc98e94523134c419dbf5a19",
     "206-dash": null,
     "206-hls": null,
     "733-dash": null,
@@ -521,12 +521,6 @@
       "web_url": "18834",
       "cover_url": "https://thumbor.prod.vidiocdn.com/0FVMDw6JH4HKhqaZp9QPYLbKqw8=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18834/byon-combat-showbiz-vol-5-4b168f.jpg",
       "start_time": "2025-06-28T13:00:00.000Z"
-    },
-    "4373650": {
-      "title": "WTA 500: Bad Homburg Open 2025 - Day 2",
-      "web_url": "6786",
-      "cover_url": "https://thumbor.prod.vidiocdn.com/ABwrM6OfJzDnvsm6x68G31PlWJc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4373650/cabc0a.jpg",
-      "start_time": "2025-06-23T09:30:00.000Z"
     },
     "4373651": {
       "title": "ATP 250: Lexus Eastbourne Open 2025 - Day 1",
