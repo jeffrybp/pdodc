@@ -1,23 +1,23 @@
 {
-  "time": "2025-06-23T17:55:39.394Z",
+  "time": "2025-06-23T18:25:42.243Z",
   "headers": {
     "luws": "8E8151BA-42C7-6CBA-30AA-564D3A1ECE23_",
-    "x-signature": "fea02c77806316a5ee2d168b4461ca4861526816288f72f15020245fd0b7b9e4",
-    "x-client": 1750701339.239,
+    "x-signature": "2931f61c6cf592e93f67e9a9cf83d8d6bfa60d6fc0ecb15adc1e8bc6d9a9e062",
+    "x-client": 1750703141.145,
     "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/pcAxB3JWxC7WHwrj5fP1wzPDm3P5fL0cvysa9/caD3LOeXv0xMnjOej1A8oYrzG8fHUhI4YP1P0mNHePCO+6YE=",
     "x-secure-level": "2",
     "x-api-platform": "web-desktop",
     "x-request-from": "https://www.vidio.com/live/204",
     "content-type": "application/json",
-    "cookie": "luws=8E8151BA-42C7-6CBA-30AA-564D3A1ECE23_; ahoy_visitor=6e3be2bd-3fee-4c75-b69b-28bbf54baae8; country_id=ID; g_state={\"i_p\":1750688736787,\"i_l\":2}; shva=1; plenty_id=22522467; ahoy_visit=415f611b-a564-4f34-8f17-16d0af547b63; _vidio_session=xxx;",
+    "cookie": "luws=8E8151BA-42C7-6CBA-30AA-564D3A1ECE23_; ahoy_visitor=6e3be2bd-3fee-4c75-b69b-28bbf54baae8; country_id=ID; g_state={\"i_p\":1750688736787,\"i_l\":2}; shva=1; plenty_id=22522467; ahoy_visit=ea16fae0-edc0-4343-a6ef-59d4ab80908c; _vidio_session=xxx;",
     "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36",
     "x-user-email": "jeffrybp1991@gmail.com",
     "204-dash": null,
-    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/live/204/master.m3u8?hdnts=exp=1750715737~acl=/live/204/master.m3u8!/hls-p/ingest_204*/*!/hls-b/ingest_204*/*~id=allUsers~hmac=da9991651a58ad83bdba2492b57ae5444bf78b833f53c2b4718c4de382660447",
+    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/live/204/master.m3u8?hdnts=exp=1750717540~acl=/live/204/master.m3u8!/hls-p/ingest_204*/*!/hls-b/ingest_204*/*~id=allUsers~hmac=7f34af4c54cef617798e8b2d638123f2090adfdac3dcd6f504872e7b937f1ebc",
     "205-dash": null,
-    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/live/205/master.m3u8?hdnts=exp=1750715737~acl=/live/205/master.m3u8!/hls-p/ingest_205*/*!/hls-b/ingest_205*/*~id=allUsers~hmac=630e16209b2808e067bb3d96cefe3b9273371bd81975dce4dba30714f6323573",
+    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/live/205/master.m3u8?hdnts=exp=1750717540~acl=/live/205/master.m3u8!/hls-p/ingest_205*/*!/hls-b/ingest_205*/*~id=allUsers~hmac=0eb92b798eb32eb8969732d14e2c9add3fbdc3faa0f8dc30d2d5885dab7b5ddf",
     "206-dash": null,
-    "206-hls": null,
+    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1750717540~acl=/stream/206/file/*~id=allUsers~hmac=45db65918449d246a9306c9e184badbe49c6f54a5365336b90135010e3bfe48b",
     "733-dash": null,
     "733-hls": null,
     "734-dash": null,
@@ -522,12 +522,6 @@
       "cover_url": "https://thumbor.prod.vidiocdn.com/0FVMDw6JH4HKhqaZp9QPYLbKqw8=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18834/byon-combat-showbiz-vol-5-4b168f.jpg",
       "start_time": "2025-06-28T13:00:00.000Z"
     },
-    "4373674": {
-      "title": "ATP 250: Mallorca Championships presented by Ecotrans Group 2025 - Day 2",
-      "web_url": "17875",
-      "cover_url": "https://thumbor.prod.vidiocdn.com/GgH9i4jaT3X6Q6PuktTPd5dgG30=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4373674/aeaa51.jpg",
-      "start_time": "2025-06-23T16:00:00.000Z"
-    },
     "4374999": {
       "title": "ATP 250: Lexus Eastbourne Open 2025 - Day 2",
       "web_url": "6317",
@@ -558,12 +552,6 @@
       "cover_url": "https://thumbor.prod.vidiocdn.com/WsdnhL1qOW1BsXU-FZmTpUOvScI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4375424/af0107.jpg",
       "start_time": "2025-06-24T09:30:00.000Z"
     },
-    "4375542": {
-      "title": "Wimbledon Qualifying Competition 2025 - Day 1",
-      "web_url": "17139",
-      "cover_url": "https://thumbor.prod.vidiocdn.com/NUNKCHvRoRl6_M_JdFpWojENWu0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4375542/5719d7.jpg",
-      "start_time": "2025-06-23T10:00:00.000Z"
-    },
     "4375543": {
       "title": "Valladolid P2 Premier Padel 2025 - Day 1",
       "web_url": "6299",
@@ -587,12 +575,6 @@
       "web_url": "6299",
       "cover_url": "https://thumbor.prod.vidiocdn.com/TJ1clOVCcoTngw9kuhMiE4cOsHs=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4375556/2707cf.jpg",
       "start_time": "2025-06-24T15:00:00.000Z"
-    },
-    "4375595": {
-      "title": "Semifinal: Bahrain vs South Korea - AVC Men's Volleyball Nations Cup",
-      "web_url": "18913",
-      "cover_url": "https://thumbor.prod.vidiocdn.com/Ex1DGxSNJKSLoGMyg4QyQJ8c7Q4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4375595/9fbab5.jpg",
-      "start_time": "2025-06-23T15:25:00.000Z"
     },
     "4375675": {
       "title": "WTA 500: Bad Homburg Open 2025 - Day 4",
