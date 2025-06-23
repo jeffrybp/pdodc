@@ -1,21 +1,21 @@
 {
-  "time": "2025-06-23T15:25:29.652Z",
+  "time": "2025-06-23T15:55:32.963Z",
   "headers": {
     "luws": "8E8151BA-42C7-6CBA-30AA-564D3A1ECE23_",
-    "x-signature": "ebc487cfd8b4ffd0c71bbb4ab5b4e7bf9a13945e28ac47a14091cd6d126495de",
-    "x-client": 1750692327.806,
+    "x-signature": "527043f0e4c4e583612e91a7c76b667506e99062ac9e5685a19ee99353eba8f8",
+    "x-client": 1750694130.684,
     "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/pcAxB3JWxC7WHwrj5fP1wzPDm3P5fL0cvysa9/caD3LOeXv0xMnjOej1A8oYrzG8fHUhI4YP1P0mNHePCO+6YE=",
     "x-secure-level": "2",
     "x-api-platform": "web-desktop",
     "x-request-from": "https://www.vidio.com/live/204",
     "content-type": "application/json",
-    "cookie": "luws=8E8151BA-42C7-6CBA-30AA-564D3A1ECE23_; ahoy_visitor=6e3be2bd-3fee-4c75-b69b-28bbf54baae8; country_id=ID; g_state={\"i_p\":1750688736787,\"i_l\":2}; shva=1; plenty_id=22522467; ahoy_visit=61bbc190-e614-404e-8e2f-e9823e65c026; _vidio_session=xxx;",
+    "cookie": "luws=8E8151BA-42C7-6CBA-30AA-564D3A1ECE23_; ahoy_visitor=6e3be2bd-3fee-4c75-b69b-28bbf54baae8; country_id=ID; g_state={\"i_p\":1750688736787,\"i_l\":2}; shva=1; plenty_id=22522467; ahoy_visit=498aab55-b1d3-4be7-a42b-f661abfe11cf; _vidio_session=xxx;",
     "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36",
     "x-user-email": "jeffrybp1991@gmail.com",
     "204-dash": null,
-    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/live/204/master.m3u8?hdnts=exp=1750706727~acl=/live/204/master.m3u8!/hls-p/ingest_204*/*!/hls-b/ingest_204*/*~id=allUsers~hmac=666e30c66b701ff44d21936f6edd89d41ff2e28d1c2b2c2622b312c056fd063f",
+    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/live/204/master.m3u8?hdnts=exp=1750708530~acl=/live/204/master.m3u8!/hls-p/ingest_204*/*!/hls-b/ingest_204*/*~id=allUsers~hmac=b306de6e19dd29a0950e357a3e86598a25d27280e453a025f2eacbc819d2e16b",
     "205-dash": null,
-    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/live/205/master.m3u8?hdnts=exp=1750706727~acl=/live/205/master.m3u8!/hls-p/ingest_205*/*!/hls-b/ingest_205*/*~id=allUsers~hmac=1b972be0a073e2f1ac09f5b279a09de153c9ded4d1b2aec81dff2fdc318d05c5",
+    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/live/205/master.m3u8?hdnts=exp=1750708530~acl=/live/205/master.m3u8!/hls-p/ingest_205*/*!/hls-b/ingest_205*/*~id=allUsers~hmac=e3a33c3b7cc15c7ff44b7d81da6c0d08e7a122028cfc7b32e396cbc6f04f6669",
     "206-dash": null,
     "206-hls": null,
     "733-dash": null,
@@ -533,12 +533,6 @@
       "web_url": "6317",
       "cover_url": "https://thumbor.prod.vidiocdn.com/Uby0x_Nurt280t15pl0xy_eVF9I=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4373651/2b0ec0.jpg",
       "start_time": "2025-06-23T10:00:00.000Z"
-    },
-    "4373670": {
-      "title": "ATP 250: Mallorca Championships presented by Ecotrans Group 2025 - Day 2",
-      "web_url": "17875",
-      "cover_url": "https://thumbor.prod.vidiocdn.com/TRA7CpwTUrO2gETOovJrdqU58kc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4373670/5faa60.jpg",
-      "start_time": "2025-06-23T13:30:00.000Z"
     },
     "4373674": {
       "title": "ATP 250: Mallorca Championships presented by Ecotrans Group 2025 - Day 2",
