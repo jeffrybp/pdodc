@@ -1,28 +1,28 @@
 {
-  "time": "2025-06-23T10:04:56.856Z",
+  "time": "2025-06-23T12:34:00.905Z",
   "headers": {
     "luws": "8E8151BA-42C7-6CBA-30AA-564D3A1ECE23_",
-    "x-signature": "45822c68e8bee2c4aff11af227d023a7f4cfa03e113a9c5504078e1fb6f96ee9",
-    "x-client": 1750673097.012,
+    "x-signature": "733aa8dd6ddcc4f7ae1a1408ed4335c754bad2f0832f780a91104e0ee3a9f9e4",
+    "x-client": 1750682039.498,
     "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/kqSSu3S7xFjD1CnwYWIIkPErMt5OYa5waE2Ucz7STU/Up1Di/l4cvgK5+DOj37jpJYwo3+L+GRewhVvZ93MJtM=",
     "x-secure-level": "2",
     "x-api-platform": "web-desktop",
     "x-request-from": "https://www.vidio.com/live/7004-prambors-on-air",
     "content-type": "application/json",
-    "cookie": "luws=8E8151BA-42C7-6CBA-30AA-564D3A1ECE23_; ahoy_visitor=6e3be2bd-3fee-4c75-b69b-28bbf54baae8; country_id=ID; g_state={\"i_p\":1750688736787,\"i_l\":2}; shva=1; plenty_id=22522467; ahoy_visit=1a4a0c5e-e264-4da3-bbf9-cf9ece59fd27; _vidio_session=xxx;",
+    "cookie": "luws=8E8151BA-42C7-6CBA-30AA-564D3A1ECE23_; ahoy_visitor=6e3be2bd-3fee-4c75-b69b-28bbf54baae8; country_id=ID; g_state={\"i_p\":1750688736787,\"i_l\":2}; shva=1; plenty_id=22522467; ahoy_visit=becfdde2-1fa9-45c6-bf69-04b0fddeba03; _vidio_session=xxx;",
     "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36",
     "x-user-email": "jeffrybp1991@gmail.com",
     "204-dash": null,
-    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/live/204/master.m3u8?hdnts=exp=1750687496~acl=/live/204/master.m3u8!/hls-p/ingest_204*/*!/hls-b/ingest_204*/*~id=allUsers~hmac=128fd077b56c8919dc54c89bb32da9ac897877dd595ab3915ef87ccbf95186ce",
+    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/live/204/master.m3u8?hdnts=exp=1750696438~acl=/live/204/master.m3u8!/hls-p/ingest_204*/*!/hls-b/ingest_204*/*~id=allUsers~hmac=d7ca4ff3724fff91c7f5cd6eb3c49c7bf7bf2fbcb25990b4c5bbeb05bafadb1c",
     "205-dash": null,
-    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/live/205/master.m3u8?hdnts=exp=1750687496~acl=/live/205/master.m3u8!/hls-p/ingest_205*/*!/hls-b/ingest_205*/*~id=allUsers~hmac=baa26774883455d9d5cf7b6cfa2f17e9fd05ba7d1893e53ad0e0f6fed888da4b",
+    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/live/205/master.m3u8?hdnts=exp=1750696438~acl=/live/205/master.m3u8!/hls-p/ingest_205*/*!/hls-b/ingest_205*/*~id=allUsers~hmac=3033466a0da7ddc1d76d7b177206dfe24e218a4dc86c33617a1caca45b19454c",
     "206-dash": null,
     "206-hls": null,
     "733-dash": null,
     "733-hls": null,
     "734-dash": null,
     "734-hls": null,
-    "all-sections": "17139-17875-18249-18250-18252-18253-18834-18913-6299-6317-6685-6786",
+    "all-sections": "17139-17875-18249-18250-18252-18253-18834-18913-18985-6299-6317-6685-6786",
     "all-vidiolivetv": [
       {
         "content_id": 204,
@@ -612,17 +612,11 @@
       "cover_url": "https://thumbor.prod.vidiocdn.com/TJ1clOVCcoTngw9kuhMiE4cOsHs=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4375556/2707cf.jpg",
       "start_time": "2025-06-24T15:00:00.000Z"
     },
-    "4375592": {
-      "title": "Final 7-8: Chinese Taipei vs Vietnam - AVC Men's Volleyball Nations Cup",
-      "web_url": "18913",
-      "cover_url": "https://thumbor.prod.vidiocdn.com/QRfO9qI8u7xxpYGqwY0WVW7D2Ik=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4375592/65f34e.jpg",
-      "start_time": "2025-06-23T08:00:00.000Z"
-    },
     "4375593": {
       "title": "Final 5-6: Australia vs Indonesia - AVC Men's Volleyball Nations Cup",
       "web_url": "18913",
       "cover_url": "https://thumbor.prod.vidiocdn.com/1CHSov5Znw6b_956n806AkVfsPE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4375593/966ef9.jpg",
-      "start_time": "2025-06-23T11:00:00.000Z"
+      "start_time": "2025-06-23T10:22:00.000Z"
     },
     "4375594": {
       "title": "Semifinal: Pakistan vs Qatar - AVC Men's Volleyball Nations Cup",
@@ -659,6 +653,48 @@
       "web_url": "6299",
       "cover_url": "https://thumbor.prod.vidiocdn.com/xbuD4pO4UKGP69bNnKbXo-zdh6g=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4375678/fec3fd.jpg",
       "start_time": "2025-06-25T15:00:00.000Z"
+    },
+    "4376078": {
+      "title": "CF 9-11: Philippines vs New Zealand - AVC Men's Volleyball Nations Cup",
+      "web_url": "18913",
+      "cover_url": "https://thumbor.prod.vidiocdn.com/RggQM9Z4qjg3BgnreXC2FpxwXtU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4376078/b2c758.jpg",
+      "start_time": "2025-06-24T09:00:00.000Z"
+    },
+    "4376080": {
+      "title": "Boys: United World College South East Asia Dover (SGP) vs Berwick College (AUS) - NBA Rising Invitational",
+      "web_url": "18985",
+      "cover_url": "https://thumbor.prod.vidiocdn.com/xgPZlfUecKta07EtZIy0GTgFHew=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4376080/c1eb68.jpg",
+      "start_time": "2025-06-25T01:10:00.000Z"
+    },
+    "4376081": {
+      "title": "Girls: Tsinghua University High School (CHN) vs Watnoinoppakhun School (THA) - NBA Rising Invitational",
+      "web_url": "18985",
+      "cover_url": "https://thumbor.prod.vidiocdn.com/2a4aEgD0bCxeP88526fn4MUbtp8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4376081/b2ca30.jpg",
+      "start_time": "2025-06-25T03:10:00.000Z"
+    },
+    "4376082": {
+      "title": "Boys: Tsinghua University High School (CHN) vs Jubilee School Jakarta (INA) - NBA Rising Invitational",
+      "web_url": "18985",
+      "cover_url": "https://thumbor.prod.vidiocdn.com/eErbazHS_2YsHx8detPiVFHOZXo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4376082/5f19f6.jpg",
+      "start_time": "2025-06-25T05:10:00.000Z"
+    },
+    "4376103": {
+      "title": "Opening Ceremony - NBA Rising Invitational",
+      "web_url": "18985",
+      "cover_url": "https://thumbor.prod.vidiocdn.com/zZYWjjHf8rgUVsz5nBN_tAvJEJQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4376103/1a2fb1.jpg",
+      "start_time": "2025-06-25T08:25:00.000Z"
+    },
+    "4376104": {
+      "title": "Boys: Anglo-Chinese Junior College (SGP) vs Fukuoka University Ohori Senior High School (JPN) - NBA Rising Invitational",
+      "web_url": "18985",
+      "cover_url": "https://thumbor.prod.vidiocdn.com/rpPXDwWkCM3GLco9p3u8flC9vuY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4376104/024953.jpg",
+      "start_time": "2025-06-25T09:10:00.000Z"
+    },
+    "4376105": {
+      "title": "Girls: Hwa Chong Institution (SGP) vs Hin Hua High School (MAS) - NBA Rising Invitational",
+      "web_url": "18985",
+      "cover_url": "https://thumbor.prod.vidiocdn.com/NNsWe5ZsQK7hAlkuXYzGDwQA-lU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4376105/f213d4.jpg",
+      "start_time": "2025-06-25T11:10:00.000Z"
     }
   }
 }
