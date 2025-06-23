@@ -1,28 +1,28 @@
 {
-  "time": "2025-06-23T03:53:49.478Z",
+  "time": "2025-06-23T06:21:08.779Z",
   "headers": {
     "luws": "8E8151BA-42C7-6CBA-30AA-564D3A1ECE23_",
-    "x-signature": "74b271a7b421c320c7b0a994a469fc119c086ef6826332d7e7ed3bb357455e0c",
-    "x-client": 1750650828.04,
+    "x-signature": "756355c76b853676319f75e9fdc168b7824cd7a567e09a109eb4231e6283cda1",
+    "x-client": 1750659667.415,
     "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/kqSSu3S7xFjD1CnwYWIIkPErMt5OYa5waE2Ucz7STU/Up1Di/l4cvgK5+DOj37jpJYwo3+L+GRewhVvZ93MJtM=",
     "x-secure-level": "2",
     "x-api-platform": "web-desktop",
     "x-request-from": "https://www.vidio.com/live/7004-prambors-on-air",
     "content-type": "application/json",
-    "cookie": "luws=8E8151BA-42C7-6CBA-30AA-564D3A1ECE23_; ahoy_visitor=6e3be2bd-3fee-4c75-b69b-28bbf54baae8; country_id=ID; g_state={\"i_p\":1750688736787,\"i_l\":2}; shva=1; plenty_id=22522467; ahoy_visit=cbbdf1b1-4310-4221-b8bd-c7576f9ee206; _vidio_session=xxx;",
+    "cookie": "luws=8E8151BA-42C7-6CBA-30AA-564D3A1ECE23_; ahoy_visitor=6e3be2bd-3fee-4c75-b69b-28bbf54baae8; country_id=ID; g_state={\"i_p\":1750688736787,\"i_l\":2}; shva=1; plenty_id=22522467; ahoy_visit=38ab3a2c-c0d1-4ed3-b71c-f90be54260d1; _vidio_session=xxx;",
     "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36",
     "x-user-email": "jeffrybp1991@gmail.com",
     "204-dash": null,
-    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/live/204/master.m3u8?hdnts=exp=1750665227~acl=/live/204/master.m3u8!/hls-p/ingest_204*/*!/hls-b/ingest_204*/*~id=allUsers~hmac=3960f5e64585726fd7b7e87d5f60dc04a6072684ad0b76de89aa6d01fcba101d",
+    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/live/204/master.m3u8?hdnts=exp=1750674066~acl=/live/204/master.m3u8!/hls-p/ingest_204*/*!/hls-b/ingest_204*/*~id=allUsers~hmac=91267071ec4a70a81e989b37bcc7a024e76ea2a69ac8e777b24f86b602327b1c",
     "205-dash": null,
-    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/live/205/master.m3u8?hdnts=exp=1750665227~acl=/live/205/master.m3u8!/hls-p/ingest_205*/*!/hls-b/ingest_205*/*~id=allUsers~hmac=a74c5d9c1fc35ba46fdd30be3a7226345227e917a3df763852852fae4a4772c7",
+    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/live/205/master.m3u8?hdnts=exp=1750674066~acl=/live/205/master.m3u8!/hls-p/ingest_205*/*!/hls-b/ingest_205*/*~id=allUsers~hmac=4a1aabf6d5ed5ebf0139d04723a479c63dec47596a70c62e1693d5507fb417d7",
     "206-dash": null,
-    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1750665227~acl=/stream/206/file/*~id=allUsers~hmac=787dad8146355e80ae6e1c2038c34df13ec11afe337615444fa772775eda8a62",
+    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1750674066~acl=/stream/206/file/*~id=allUsers~hmac=2f6776ad7a2802870511d7a4a288750d737f7daf5c3144d61c6a842eaa06c81d",
     "733-dash": null,
     "733-hls": null,
     "734-dash": null,
     "734-hls": null,
-    "all-sections": "17139-17875-18249-18250-18252-18253-18834-6299-6317-6786",
+    "all-sections": "17139-17875-18249-18250-18252-18253-18834-18913-6299-6317-6786",
     "all-vidiolivetv": [
       {
         "content_id": 204,
@@ -611,6 +611,30 @@
       "web_url": "6299",
       "cover_url": "https://thumbor.prod.vidiocdn.com/TJ1clOVCcoTngw9kuhMiE4cOsHs=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4375556/2707cf.jpg",
       "start_time": "2025-06-24T15:00:00.000Z"
+    },
+    "4375592": {
+      "title": "Final 7-8: Chinese Taipei vs Vietnam - AVC Men's Volleyball Nations Cup",
+      "web_url": "18913",
+      "cover_url": "https://thumbor.prod.vidiocdn.com/QRfO9qI8u7xxpYGqwY0WVW7D2Ik=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4375592/65f34e.jpg",
+      "start_time": "2025-06-23T08:30:00.000Z"
+    },
+    "4375593": {
+      "title": "Final 5-6: Australia vs Indonesia - AVC Men's Volleyball Nations Cup",
+      "web_url": "18913",
+      "cover_url": "https://thumbor.prod.vidiocdn.com/1CHSov5Znw6b_956n806AkVfsPE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4375593/966ef9.jpg",
+      "start_time": "2025-06-23T11:00:00.000Z"
+    },
+    "4375594": {
+      "title": "Semifinal: Pakistan vs Qatar - AVC Men's Volleyball Nations Cup",
+      "web_url": "18913",
+      "cover_url": "https://thumbor.prod.vidiocdn.com/fIAcpKPmHTkufrV2hSakp5ycX5Q=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4375594/5a4435.jpg",
+      "start_time": "2025-06-23T13:30:00.000Z"
+    },
+    "4375595": {
+      "title": "Semifinal: Bahrain vs South Korea - AVC Men's Volleyball Nations Cup",
+      "web_url": "18913",
+      "cover_url": "https://thumbor.prod.vidiocdn.com/Ex1DGxSNJKSLoGMyg4QyQJ8c7Q4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4375595/9fbab5.jpg",
+      "start_time": "2025-06-23T16:00:00.000Z"
     }
   }
 }
