@@ -1,28 +1,28 @@
 {
-  "time": "2025-06-23T01:09:18.418Z",
+  "time": "2025-06-23T02:50:50.692Z",
   "headers": {
     "luws": "8E8151BA-42C7-6CBA-30AA-564D3A1ECE23_",
-    "x-signature": "b5630b94e182068a427b5449c754a1971f3120516f1482be8ad2b468de29229c",
-    "x-client": 1750640957.472,
+    "x-signature": "0abf3d15eb8adbdecaac1e162a7b02522e030bc5d2e2aa60154659fe0ca0a880",
+    "x-client": 1750647049.09,
     "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/kqSSu3S7xFjD1CnwYWIIkPErMt5OYa5waE2Ucz7STU/Up1Di/l4cvgK5+DOj37jpJYwo3+L+GRewhVvZ93MJtM=",
     "x-secure-level": "2",
     "x-api-platform": "web-desktop",
     "x-request-from": "https://www.vidio.com/live/7004-prambors-on-air",
     "content-type": "application/json",
-    "cookie": "luws=8E8151BA-42C7-6CBA-30AA-564D3A1ECE23_; ahoy_visitor=6e3be2bd-3fee-4c75-b69b-28bbf54baae8; country_id=ID; g_state={\"i_p\":1750688736787,\"i_l\":2}; shva=1; plenty_id=22522467; ahoy_visit=a2e079ef-27ca-49a1-914a-2d3a6ce88f8c; _vidio_session=xxx;",
+    "cookie": "luws=8E8151BA-42C7-6CBA-30AA-564D3A1ECE23_; ahoy_visitor=6e3be2bd-3fee-4c75-b69b-28bbf54baae8; country_id=ID; g_state={\"i_p\":1750688736787,\"i_l\":2}; shva=1; plenty_id=22522467; ahoy_visit=c24e8fad-19d9-479e-bfa8-7fd1ed646acf; _vidio_session=xxx;",
     "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36",
     "x-user-email": "jeffrybp1991@gmail.com",
     "204-dash": null,
-    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/live/204/master.m3u8?hdnts=exp=1750655356~acl=/live/204/master.m3u8!/hls-p/ingest_204*/*!/hls-b/ingest_204*/*~id=allUsers~hmac=3fbb598e1e7ae21d252ef989ac46d4208673657d84c9121379356a928676c1f8",
+    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/live/204/master.m3u8?hdnts=exp=1750661448~acl=/live/204/master.m3u8!/hls-p/ingest_204*/*!/hls-b/ingest_204*/*~id=allUsers~hmac=6897ac9d65abb93c36eabbe097cf743e71db6df13debe0833ac8ab58a30b4769",
     "205-dash": null,
-    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/live/205/master.m3u8?hdnts=exp=1750655356~acl=/live/205/master.m3u8!/hls-p/ingest_205*/*!/hls-b/ingest_205*/*~id=allUsers~hmac=b52242d1ee46a03ab42028bd410bca19e82eab6b013669bd8dd406c29abb9892",
+    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/live/205/master.m3u8?hdnts=exp=1750661448~acl=/live/205/master.m3u8!/hls-p/ingest_205*/*!/hls-b/ingest_205*/*~id=allUsers~hmac=10ce9ca0ff69346593f4fbc6702e291081db5565ddfcf9c370dd2e5d80be22fa",
     "206-dash": null,
-    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1750655356~acl=/stream/206/file/*~id=allUsers~hmac=0866ecb533a2d8a596f66f13408e5f3ab5fa89fc0590c5b55173cd4aee30d937",
+    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1750661449~acl=/stream/206/file/*~id=allUsers~hmac=5f09a63348f33d64b34a38c3fbdb45722fe8bd68b35aa618356b256ed76a0296",
     "733-dash": null,
     "733-hls": null,
     "734-dash": null,
     "734-hls": null,
-    "all-sections": "17875-18249-18250-18252-18253-18834-6317-6786",
+    "all-sections": "17139-17875-18249-18250-18252-18253-18834-6299-6317-6786",
     "all-vidiolivetv": [
       {
         "content_id": 204,
@@ -587,6 +587,24 @@
       "web_url": "6786",
       "cover_url": "https://thumbor.prod.vidiocdn.com/WsdnhL1qOW1BsXU-FZmTpUOvScI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4375424/af0107.jpg",
       "start_time": "2025-06-24T09:30:00.000Z"
+    },
+    "4375542": {
+      "title": "Wimbledon Qualifying Competition 2025 - Day 1",
+      "web_url": "17139",
+      "cover_url": "https://thumbor.prod.vidiocdn.com/NUNKCHvRoRl6_M_JdFpWojENWu0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4375542/5719d7.jpg",
+      "start_time": "2025-06-23T10:00:00.000Z"
+    },
+    "4375543": {
+      "title": "Valladolid P2 Premier Padel 2025 - Day 1",
+      "web_url": "6299",
+      "cover_url": "https://thumbor.prod.vidiocdn.com/-G4quKI9mcs_c3Jk6EuxW2IJJcI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4375543/3efd2e.jpg",
+      "start_time": "2025-06-23T15:30:00.000Z"
+    },
+    "4375544": {
+      "title": "Valladolid P2 Premier Padel 2025 - Day 2",
+      "web_url": "6299",
+      "cover_url": "https://thumbor.prod.vidiocdn.com/Zghxu7ZxMlkQWu13F733T4HFhDk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4375544/f77e69.jpg",
+      "start_time": "2025-06-24T07:00:00.000Z"
     }
   }
 }
