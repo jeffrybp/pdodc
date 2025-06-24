@@ -1,28 +1,28 @@
 {
-  "time": "2025-06-24T08:00:55.818Z",
+  "time": "2025-06-24T08:30:58.555Z",
   "headers": {
     "luws": "8E8151BA-42C7-6CBA-30AA-564D3A1ECE23_",
-    "x-signature": "b873f011ab53cfe90696b20c2c61fc7def1ca8acbb66855da7e7902188190040",
-    "x-client": 1750752052.937,
+    "x-signature": "e7d2b660f63165100f007215360046d3ad2b16314e7b4f4b946c2d02edb2eb9f",
+    "x-client": 1750753854.589,
     "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/jq0Sc3/Z66Z4PWbsnsz5Hv/TbjPbS8o/xiPxjAyaYP+3vmBVAkvlBJSiFJwyRzAM3VCdJ8GF7c/0tFcUaf453E=",
     "x-secure-level": "2",
     "x-api-platform": "web-desktop",
     "x-request-from": "https://www.vidio.com/live/204",
     "content-type": "application/json",
-    "cookie": "luws=8E8151BA-42C7-6CBA-30AA-564D3A1ECE23_; ahoy_visitor=6e3be2bd-3fee-4c75-b69b-28bbf54baae8; country_id=ID; g_state={\"i_p\":1750688736787,\"i_l\":2}; ahoy_visit=03cb9cc3-5913-477b-aa85-5b091f6141ec; shva=1; plenty_id=22522467; _vidio_session=xxx;",
+    "cookie": "luws=8E8151BA-42C7-6CBA-30AA-564D3A1ECE23_; ahoy_visitor=6e3be2bd-3fee-4c75-b69b-28bbf54baae8; country_id=ID; g_state={\"i_p\":1750688736787,\"i_l\":2}; shva=1; plenty_id=22522467; ahoy_visit=69fc52de-25d8-477f-b6a0-44c4daec7e39; _vidio_session=xxx;",
     "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36",
     "x-user-email": "jeffrybp1991@gmail.com",
     "204-dash": null,
-    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/live/204/master.m3u8?hdnts=exp=1750766453~acl=/live/204/master.m3u8!/hls-p/ingest_204*/*!/hls-b/ingest_204*/*~id=allUsers~hmac=b56075795a4c36f429ef5324241ba7389ecea0042438e747c85692f56d2d818e",
+    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/live/204/master.m3u8?hdnts=exp=1750768255~acl=/live/204/master.m3u8!/hls-p/ingest_204*/*!/hls-b/ingest_204*/*~id=allUsers~hmac=8ba85c109f9331875427e5d5ae25597fbe86f810fe9d9734417e46d905473bc9",
     "205-dash": null,
-    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/live/205/master.m3u8?hdnts=exp=1750766453~acl=/live/205/master.m3u8!/hls-p/ingest_205*/*!/hls-b/ingest_205*/*~id=allUsers~hmac=80288046a5f6155eb035e40529389638acc8e0e4b79867ff1db8910351599e89",
+    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/live/205/master.m3u8?hdnts=exp=1750768256~acl=/live/205/master.m3u8!/hls-p/ingest_205*/*!/hls-b/ingest_205*/*~id=allUsers~hmac=02c2e43785752197235db380ed1270280f8f60e457458a7a4dc18106166ef70d",
     "206-dash": null,
-    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1750766453~acl=/stream/206/file/*~id=allUsers~hmac=1ad4ef099247be5e555c004cbe6e52f43b79d3a281593679413cb9896ecee1c2",
+    "206-hls": null,
     "733-dash": null,
     "733-hls": null,
     "734-dash": null,
     "734-hls": null,
-    "all-sections": "17139-17875-18190-18249-18250-18252-18253-18832-18834-18913-18985-6299-6317-6685-6786",
+    "all-sections": "17139-17875-18190-18249-18250-18252-18253-18832-18834-18851-18913-18985-6299-6317-6685-6786",
     "all-vidiolivetv": [
       {
         "content_id": 204,
@@ -767,6 +767,12 @@
       "web_url": "18913",
       "cover_url": "https://thumbor.prod.vidiocdn.com/CW6hOzoXKRCHRB9ipYUU8ddw74E=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4378443/a1b5e2.jpg",
       "start_time": "2025-06-24T16:00:00.000Z"
+    },
+    "4378559": {
+      "title": "Men: Ukraine vs France - Volleyball Nations League",
+      "web_url": "18851",
+      "cover_url": "https://thumbor.prod.vidiocdn.com/GonotuWx6IoZp105Hx8Y1m33U_w=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4378559/2e1fa6.jpg",
+      "start_time": "2025-06-25T09:15:00.000Z"
     }
   }
 }
