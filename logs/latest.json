@@ -1,23 +1,23 @@
 {
-  "time": "2025-06-24T03:26:25.111Z",
+  "time": "2025-06-24T03:56:26.889Z",
   "headers": {
     "luws": "8E8151BA-42C7-6CBA-30AA-564D3A1ECE23_",
-    "x-signature": "48a0b997a138377b0e4fe4d49951e43d7a68183c3ef45668d8f0f8a19c63dcff",
-    "x-client": 1750735581.685,
+    "x-signature": "5603a1990fbdeb189cabb2f9750dc83fb9a45415a460417a402f0172b0b7c828",
+    "x-client": 1750737384.495,
     "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/jq0Sc3/Z66Z4PWbsnsz5Hv/TbjPbS8o/xiPxjAyaYP+3vmBVAkvlBJSiFJwyRzAM3VCdJ8GF7c/0tFcUaf453E=",
     "x-secure-level": "2",
     "x-api-platform": "web-desktop",
     "x-request-from": "https://www.vidio.com/live/204",
     "content-type": "application/json",
-    "cookie": "luws=8E8151BA-42C7-6CBA-30AA-564D3A1ECE23_; ahoy_visitor=6e3be2bd-3fee-4c75-b69b-28bbf54baae8; country_id=ID; g_state={\"i_p\":1750688736787,\"i_l\":2}; shva=1; plenty_id=22522467; ahoy_visit=ec8c3ee7-966a-42ce-8577-52c266fd7a6f; _vidio_session=xxx;",
+    "cookie": "luws=8E8151BA-42C7-6CBA-30AA-564D3A1ECE23_; ahoy_visitor=6e3be2bd-3fee-4c75-b69b-28bbf54baae8; country_id=ID; g_state={\"i_p\":1750688736787,\"i_l\":2}; shva=1; plenty_id=22522467; ahoy_visit=65b9ac99-4094-4bcb-aa51-fa7778a5cc3f; _vidio_session=xxx;",
     "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36",
     "x-user-email": "jeffrybp1991@gmail.com",
     "204-dash": null,
-    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/live/204/master.m3u8?hdnts=exp=1750749982~acl=/live/204/master.m3u8!/hls-p/ingest_204*/*!/hls-b/ingest_204*/*~id=allUsers~hmac=dc919a3a0dfef4dde598ec9fded254ce1188f71634ee155041ec3d04ff1abc1a",
+    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/live/204/master.m3u8?hdnts=exp=1750751784~acl=/live/204/master.m3u8!/hls-p/ingest_204*/*!/hls-b/ingest_204*/*~id=allUsers~hmac=1149667f8a6aab24fc20a316f2279b48dda46e6902a29a55ec9d0a423de700ef",
     "205-dash": null,
-    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/live/205/master.m3u8?hdnts=exp=1750749983~acl=/live/205/master.m3u8!/hls-p/ingest_205*/*!/hls-b/ingest_205*/*~id=allUsers~hmac=82ca2051e2ab47ac830db8cf099a68f83bb72cd3dfcf157ae660a4747461cbdf",
+    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/live/205/master.m3u8?hdnts=exp=1750751784~acl=/live/205/master.m3u8!/hls-p/ingest_205*/*!/hls-b/ingest_205*/*~id=allUsers~hmac=bbff233a1a85acacd2f273b28a247c8021a9923875aa1f1dd8f851164dc81cbb",
     "206-dash": null,
-    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1750749983~acl=/stream/206/file/*~id=allUsers~hmac=91b12d9b6c23f0af2397e5d598b25c204bd2eb1861d126b96fe92539aba42e6b",
+    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1750751785~acl=/stream/206/file/*~id=allUsers~hmac=9c545f88e27b02307aa74937b2fed571dcff0a5b75b1d819ca8afab9ddcd9fe7",
     "733-dash": null,
     "733-hls": null,
     "734-dash": null,
@@ -749,6 +749,12 @@
       "web_url": "18190",
       "cover_url": "https://thumbor.prod.vidiocdn.com/_BZkDV9oerbg4MpynFlrgJr-Q-o=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4378013/a5128d.jpg",
       "start_time": "2025-06-26T15:00:00.000Z"
+    },
+    "4378081": {
+      "title": "Girls: Watnoinoppakhun School (THA) vs SMAK BPK Penabur Cirebon (INA) - NBA Rising Invitational",
+      "web_url": "18985",
+      "cover_url": "https://thumbor.prod.vidiocdn.com/p184eyQWBLVGW7HCG0L6t8_Tv9I=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4378081/b90a16.jpg",
+      "start_time": "2025-06-26T01:10:00.000Z"
     }
   }
 }
