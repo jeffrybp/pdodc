@@ -1,28 +1,28 @@
 {
-  "time": "2025-06-24T18:01:48.170Z",
+  "time": "2025-06-24T18:31:50.734Z",
   "headers": {
     "luws": "8E8151BA-42C7-6CBA-30AA-564D3A1ECE23_",
-    "x-signature": "00d5b1d7817133308892ceb5004807856b136752f13a8a20026576f942ae79d4",
-    "x-client": 1750788105.25,
+    "x-signature": "0caf3bdfc5e3c95243e5cef10042361d4f3895674bba397786fe81d875afdd05",
+    "x-client": 1750789907.989,
     "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/jq0Sc3/Z66Z4PWbsnsz5Hv/TbjPbS8o/xiPxjAyaYP+3vmBVAkvlBJSiFJwyRzAM3VCdJ8GF7c/0tFcUaf453E=",
     "x-secure-level": "2",
     "x-api-platform": "web-desktop",
     "x-request-from": "https://www.vidio.com/live/204",
     "content-type": "application/json",
-    "cookie": "luws=8E8151BA-42C7-6CBA-30AA-564D3A1ECE23_; ahoy_visitor=6e3be2bd-3fee-4c75-b69b-28bbf54baae8; country_id=ID; g_state={\"i_p\":1750688736787,\"i_l\":2}; shva=1; plenty_id=22522467; ahoy_visit=f37e2b07-17a0-4356-bd0f-908e56e86ce8; _vidio_session=xxx;",
+    "cookie": "luws=8E8151BA-42C7-6CBA-30AA-564D3A1ECE23_; ahoy_visitor=6e3be2bd-3fee-4c75-b69b-28bbf54baae8; country_id=ID; g_state={\"i_p\":1750688736787,\"i_l\":2}; shva=1; plenty_id=22522467; ahoy_visit=7b5f40db-7f47-43e6-810a-111b52ed0e84; _vidio_session=xxx;",
     "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36",
     "x-user-email": "jeffrybp1991@gmail.com",
     "204-dash": null,
-    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1750802506~acl=/stream/204/file/*~id=allUsers~hmac=d0cc982ba54fbc94a143360d5294a74b3fdda27cc543c10b0bca3955feb4e6c3",
+    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1750804309~acl=/stream/204/file/*~id=allUsers~hmac=ac6336a34716acf5c31cd154bce99101c904584b12b97f2d54cab731c3f3f578",
     "205-dash": null,
-    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1750802506~acl=/stream/205/file/*~id=allUsers~hmac=61bbc23f4ca767fe9668cda1d9d3af2619f458f51a619560a413382b1e5fd606",
-    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1750802506~acl=/stream/206/file/*~id=allUsers~hmac=14ef5563d8ed5782d17f824a8e313107270200fbd925f5c467f26f13fe3138f3",
-    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1750802506~acl=/stream/206/file/*~id=allUsers~hmac=14ef5563d8ed5782d17f824a8e313107270200fbd925f5c467f26f13fe3138f3",
+    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1750804309~acl=/stream/205/file/*~id=allUsers~hmac=54ebc46b8f164a9da25ba6612b550de96d4380a8fbb45704faa1184bb3f1c2dc",
+    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1750804309~acl=/stream/206/file/*~id=allUsers~hmac=55098a08c4a019cdbaf6218b0b262687c9b206037e89e6a4cd73cc5786669c00",
+    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1750804309~acl=/stream/206/file/*~id=allUsers~hmac=55098a08c4a019cdbaf6218b0b262687c9b206037e89e6a4cd73cc5786669c00",
     "733-dash": null,
     "733-hls": null,
     "734-dash": null,
     "734-hls": null,
-    "all-sections": "17139-17875-18190-18249-18250-18252-18253-18832-18834-18851-18913-18985-206-6299-6317-6685-6786",
+    "all-sections": "17139-17875-18190-18249-18250-18252-18253-18832-18834-18851-18985-206-6299-6317-6685-6786",
     "all-vidiolivetv": [
       {
         "content_id": 204,
@@ -508,13 +508,13 @@
       "title": "Hariharan Amsakarunan/Ruban Kumar Rethinasabapathi (IND) vs Malik Bourakkadi/Kenneth Neumann (GER) - Men's Doubles Round of 32 | Yonex US Open 2025",
       "web_url": "18252",
       "cover_url": "https://thumbor.prod.vidiocdn.com/3g3VfeA7USYlbXD_ZpVq1-3falk=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18252/yonex-us-open-2025-qualifiers-round-of-32-court-3-89e4cc.jpg",
-      "start_time": "2025-06-24T14:10:00.000Z"
+      "start_time": "2025-06-24T21:10:00.000Z"
     },
     "18253": {
-      "title": "Yoo Tae Bin (KOR) vs Enogat Roy (FRA) - Men's Singles Qualification | Yonex US Open 2025",
+      "title": "Priya Konjengbam/Shruti Mishra (IND) vs Micah Henares Cruz/Sydney Hanyue Li (USA) - Women's Doubles Round of 32 | Yonex US Open 2025",
       "web_url": "18253",
       "cover_url": "https://thumbor.prod.vidiocdn.com/4y-IV0KgPP8xjlMCt_lwhTmgo2w=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18253/yonex-us-open-2025-qualifiers-round-of-32-court-4-0dae57.jpg",
-      "start_time": "2025-06-24T14:10:00.000Z"
+      "start_time": "2025-06-24T21:10:00.000Z"
     },
     "18834": {
       "title": "Redho Rocky vs Weerian - Kickstriking Light Flyweight - Byon Combat Showbiz Vol.5",
@@ -707,12 +707,6 @@
       "web_url": "18985",
       "cover_url": "https://thumbor.prod.vidiocdn.com/p184eyQWBLVGW7HCG0L6t8_Tv9I=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4378081/b90a16.jpg",
       "start_time": "2025-06-26T01:10:00.000Z"
-    },
-    "4378443": {
-      "title": "Final: Bahrain vs Pakistan - AVC Men's Volleyball Nations Cup",
-      "web_url": "18913",
-      "cover_url": "https://thumbor.prod.vidiocdn.com/CW6hOzoXKRCHRB9ipYUU8ddw74E=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4378443/a1b5e2.jpg",
-      "start_time": "2025-06-24T15:30:00.000Z"
     },
     "4378826": {
       "title": "Men: Germany vs Cuba - Volleyball Nations League",
