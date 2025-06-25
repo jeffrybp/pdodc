@@ -1,9 +1,9 @@
 {
-  "time": "2025-06-25T20:03:42.421Z",
+  "time": "2025-06-25T20:18:45.563Z",
   "headers": {
     "luws": "77097D68-83C1-ECDD-27A5-208EDC00058E_22522467",
-    "x-signature": "50d740bda6a76ff16cd08ec9197bb7092b90cf49b0ccd111e3e484fb9781571a",
-    "x-client": 1750881821.243,
+    "x-signature": "f55b24ad03aff9e1db4a5f6308ad15d3c1b6ca84614b76dc860af4da6d74430d",
+    "x-client": 1750882723.996,
     "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/uV8oJX0QD9jfZ4xcWS38Oefri3/DrCWA3NsmqUjV7o4Zeuh9X/vLJUXQweqlL6IB60WUjdBpEE9ctwWkFvvOXI=",
     "x-secure-level": "2",
     "x-api-platform": "web-desktop",
@@ -13,12 +13,12 @@
     "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36",
     "x-user-email": "jeffrybp1991@gmail.com",
     "204-dash": null,
-    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1750896221~acl=/stream/204/file/*~id=allUsers~hmac=12000bcafefa77aeefa992bc3af412dc6443b7e4f0fea4fef137deba90743d11",
+    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1750897123~acl=/stream/204/file/*~id=allUsers~hmac=021961b391569c621789b3f8a5f7f95096eff48f59f9ba2ac3afc16dd62347e3",
     "205-dash": null,
-    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1750896221~acl=/stream/205/file/*~id=allUsers~hmac=c9a298020b3eeedb48dfb1f6e7552686bd73da2b4a1c211d06d5a3d7d684a9fe",
-    "206-dash": "https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1750896221~acl=/stream/206/file/*~id=allUsers~hmac=1dd8d8e88fe1bfdad6746023d07eb60d5d75e6c67b6ee555cf2c51cb74def3e1",
-    "206-hls": "https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1750896221~acl=/stream/206/file/*~id=allUsers~hmac=1dd8d8e88fe1bfdad6746023d07eb60d5d75e6c67b6ee555cf2c51cb74def3e1",
-    "all-sections": "16890-17139-17140-17875-18190-18249-18250-18252-18253-18832-18834-18835-18851-18853-18954-18985-18994-206-6299-6317-6685-6786",
+    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1750897124~acl=/stream/205/file/*~id=allUsers~hmac=d6d105f6e68ae9ec07e7230e1083bc4fe53140e1dffce2b3ed13aeb664e3c17a",
+    "206-dash": "https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1750897124~acl=/stream/206/file/*~id=allUsers~hmac=a8bfdc592ab27489f96ac018ee954c318f170b7128d821121c8cc03429b3e1c6",
+    "206-hls": "https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1750897124~acl=/stream/206/file/*~id=allUsers~hmac=a8bfdc592ab27489f96ac018ee954c318f170b7128d821121c8cc03429b3e1c6",
+    "all-sections": "16890-17139-17140-17875-18190-18249-18250-18252-18253-18832-18834-18835-18851-18853-18985-18994-206-6299-6317-6685-6786",
     "all-vidiolivetv": [
       {
         "content_id": 204,
@@ -757,12 +757,6 @@
       "web_url": "18853",
       "cover_url": "https://thumbor.prod.vidiocdn.com/UeyJ0NRXi6ChFHXuk87E2UFfoCQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4380584/782284.jpg",
       "start_time": "2025-06-26T00:15:00.000Z"
-    },
-    "4380631": {
-      "title": "Men: Serbia vs Iran - Volleyball Nations League",
-      "web_url": "18954",
-      "cover_url": "https://thumbor.prod.vidiocdn.com/Y5l9Hrqkcm6zK9jjq9yBhmCvLqA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4380631/2bd0f9.jpg",
-      "start_time": "2025-06-25T17:45:00.000Z"
     },
     "4380700": {
       "title": "Men: Turkey vs Ukraine - Volleyball Nations League",
