@@ -1,9 +1,9 @@
 {
-  "time": "2025-06-25T18:18:21.823Z",
+  "time": "2025-06-25T18:33:24.372Z",
   "headers": {
     "luws": "77097D68-83C1-ECDD-27A5-208EDC00058E_22522467",
-    "x-signature": "304819ad117522ef54d0f36c897193d7e5fd163c15bcf087b88a4c58a8eabd91",
-    "x-client": 1750875499.446,
+    "x-signature": "867c41aae3ac92d6bf9d0ae5cfbcbe3dee48e0e37086cd10fc6d4e77f6c44f23",
+    "x-client": 1750876402.408,
     "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/uV8oJX0QD9jfZ4xcWS38Oefri3/DrCWA3NsmqUjV7o4Zeuh9X/vLJUXQweqlL6IB60WUjdBpEE9ctwWkFvvOXI=",
     "x-secure-level": "2",
     "x-api-platform": "web-desktop",
@@ -13,11 +13,11 @@
     "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36",
     "x-user-email": "jeffrybp1991@gmail.com",
     "204-dash": null,
-    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1750889899~acl=/stream/204/file/*~id=allUsers~hmac=b1b393790272a73546af3ded60110c55a34f09f5f97f3c652463f26e1bf926f2",
+    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1750890802~acl=/stream/204/file/*~id=allUsers~hmac=611286bb2504fdd07b5c17f56ea744edc3b32f44c561266fa05ee8ffaca46616",
     "205-dash": null,
-    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1750889899~acl=/stream/205/file/*~id=allUsers~hmac=6c7b6e4c384202233621e24c95bbc12f82f766eac656955d0a37358dc94d258f",
-    "206-dash": "https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1750889899~acl=/stream/206/file/*~id=allUsers~hmac=42348bfe473468faf2ccd2c544a5cdb054020358286f70cc9a6f88d3060ed91e",
-    "206-hls": "https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1750889899~acl=/stream/206/file/*~id=allUsers~hmac=42348bfe473468faf2ccd2c544a5cdb054020358286f70cc9a6f88d3060ed91e",
+    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1750890802~acl=/stream/205/file/*~id=allUsers~hmac=198d3cf878e317f4b51294b23a3961fb31f87c9cb3a66a597ec4809934cb0a43",
+    "206-dash": "https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1750890802~acl=/stream/206/file/*~id=allUsers~hmac=21906e633126a1e96780973f9a2bad8b0450b08761981434bd1a5c888635aff6",
+    "206-hls": "https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1750890802~acl=/stream/206/file/*~id=allUsers~hmac=21906e633126a1e96780973f9a2bad8b0450b08761981434bd1a5c888635aff6",
     "all-sections": "16890-17139-17140-17875-18190-18249-18250-18252-18253-18832-18834-18835-18851-18853-18954-18985-18994-206-6299-6317-6685-6786",
     "all-vidiolivetv": [
       {
@@ -489,7 +489,7 @@
   },
   "sections": {
     "18249": {
-      "title": "Lin Bing-Wei/Lee Chih Chen (TPE) vs Presley Smith/Jennie Gai (USA) - Mixed Doubles Round of 32 | Yonex US Open 2025",
+      "title": "Malik Bourakkadi/Leona Michalski (GER) vs Chen Zhi Yi/Francesca Corbett (USA) - Mixed Doubles Round of 32 | Yonex US Open 2025",
       "web_url": "18249",
       "cover_url": "https://thumbor.prod.vidiocdn.com/qFJfEaPUjvFnEeuukbfqANhsDMI=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18249/yonex-us-open-2025-qualifiers-round-of-32-court-1-1d735f.jpg",
       "start_time": "2025-06-25T15:00:00.000Z"
@@ -501,13 +501,13 @@
       "start_time": "2025-06-25T15:00:00.000Z"
     },
     "18252": {
-      "title": "Juliana Viana Vieira (BRA) vs Kaloyana Nalbantova (BUL) - Women's Singles Round of 32 | Yonex US Open 2025",
+      "title": "Dhruv Kapila/Tanisha Crasto (IND) vs Lin Yu Chieh/Hung Yu-En (TPE) - Mixed Doubles Round of 32 | Yonex US Open 2025",
       "web_url": "18252",
       "cover_url": "https://thumbor.prod.vidiocdn.com/xF6dKYL0y_4iL7NSMsc6GTfZslA=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18252/yonex-us-open-2025-qualifiers-round-of-32-court-3-230e5d.jpg",
       "start_time": "2025-06-25T15:10:00.000Z"
     },
     "18253": {
-      "title": "Fabricio Farias/Jaqueline Lima (BRA) vs Callum Hemming/Estelle Van Leeuwen (ENG) - Mixed Doubles Round of 32 | Yonex US Open 2025",
+      "title": "Lucie Amiguet (SUI) vs Yvonne Li (GER) - Women's Singles Round of 32 | Yonex US Open 2025",
       "web_url": "18253",
       "cover_url": "https://thumbor.prod.vidiocdn.com/h0tsuddHWiH5UStTjqh2npSRFeI=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18253/yonex-us-open-2025-qualifiers-round-of-32-court-4-08f910.jpg",
       "start_time": "2025-06-25T15:10:00.000Z"
@@ -524,11 +524,11 @@
       "cover_url": "https://thumbor.prod.vidiocdn.com/_7LEAD4T_DVb3AAkd1N-8hzfQgw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4375675/0b5f92.jpg",
       "start_time": "2025-06-25T09:30:00.000Z"
     },
-    "4375678": {
-      "title": "Valladolid P2 Premier Padel 2025 - Day 3",
-      "web_url": "6299",
-      "cover_url": "https://thumbor.prod.vidiocdn.com/xbuD4pO4UKGP69bNnKbXo-zdh6g=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4375678/fec3fd.jpg",
-      "start_time": "2025-06-25T15:00:00.000Z"
+    "4377992": {
+      "title": "ATP 250: Lexus Eastbourne Open 2025 - Day 3",
+      "web_url": "6317",
+      "cover_url": "https://thumbor.prod.vidiocdn.com/iWA9cbEMIMlXbqmqgdhJwiVzYko=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4377992/a9fc11.jpg",
+      "start_time": "2025-06-25T10:00:00.000Z"
     },
     "4377993": {
       "title": "ATP 250: Lexus Eastbourne Open 2025 - Quarter Final",
@@ -619,12 +619,6 @@
       "web_url": "18985",
       "cover_url": "https://thumbor.prod.vidiocdn.com/p184eyQWBLVGW7HCG0L6t8_Tv9I=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4378081/b90a16.jpg",
       "start_time": "2025-06-26T01:10:00.000Z"
-    },
-    "4378830": {
-      "title": "Men: Bulgaria vs Japan - Volleyball Nations League",
-      "web_url": "18851",
-      "cover_url": "https://thumbor.prod.vidiocdn.com/1F3NYhAwA4Rv1g1RaJgUx2cMi00=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4378830/73a986.jpg",
-      "start_time": "2025-06-25T16:15:00.000Z"
     },
     "4380402": {
       "title": "Moto3 Free Practice 1: MotoGP 2025 Round 10 - Motul Grand Prix of the Netherlands",
@@ -792,7 +786,7 @@
       "title": "Men: Turkey vs Ukraine - Volleyball Nations League",
       "web_url": "18851",
       "cover_url": "https://thumbor.prod.vidiocdn.com/8KSGFaXBiuRvkeOnP24-PiEcadQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4380700/cf921c.jpg",
-      "start_time": "2025-06-26T15:30:00.000Z"
+      "start_time": "2025-06-26T15:15:00.000Z"
     }
   }
 }
