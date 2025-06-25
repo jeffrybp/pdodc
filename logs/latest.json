@@ -1,9 +1,9 @@
 {
-  "time": "2025-06-25T10:25:45.718Z",
+  "time": "2025-06-25T10:40:47.306Z",
   "headers": {
     "luws": "8E8151BA-42C7-6CBA-30AA-564D3A1ECE23_",
-    "x-signature": "98b89c34532987ea1716f3ca576b28e4356c511772380582e421d14e91c05406",
-    "x-client": 1750847143.028,
+    "x-signature": "75ab91b2cd2a5015773a4703c98b8ecf50870d7a3088d307ce18a724394dd01a",
+    "x-client": 1750848044.966,
     "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/uV8oJX0QD9jfZ4xcWS38Oefri3/DrCWA3NsmqUjV7o4Zeuh9X/vLJUXQweqlL6IB60WUjdBpEE9ctwWkFvvOXI=",
     "x-secure-level": "2",
     "x-api-platform": "web-desktop",
@@ -13,11 +13,11 @@
     "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36",
     "x-user-email": "jeffrybp1991@gmail.com",
     "204-dash": null,
-    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1750861543~acl=/stream/204/file/*~id=allUsers~hmac=ae199d618cc05f222cd269faedf81b9c573a51e0fc75dc168df4fbe4c4e65372",
+    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1750862445~acl=/stream/204/file/*~id=allUsers~hmac=4fab9a55d3e7661fca19a3bac17e371d50a60b63379f801c1b1105ca5acb397f",
     "205-dash": null,
-    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1750861543~acl=/stream/205/file/*~id=allUsers~hmac=80fad8e48b0d5e0e482d865f156b5ac90efcf09f7cbae7ebcd6d40e65cdea0a4",
-    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1750861544~acl=/stream/206/file/*~id=allUsers~hmac=6c17183785711a3e5642c3d9b1ea3531666cdd2f8aa118375041ccf248afce17",
-    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1750861544~acl=/stream/206/file/*~id=allUsers~hmac=6c17183785711a3e5642c3d9b1ea3531666cdd2f8aa118375041ccf248afce17",
+    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1750862445~acl=/stream/205/file/*~id=allUsers~hmac=1271f7a59b38b79dbb13fac30401248ee0dbbdc50dc66c22f807d16033369f3e",
+    "206-dash": "https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1750862445~acl=/stream/206/file/*~id=allUsers~hmac=a0420bbf34a5b0907014ac9562fb3aeab0a224e800ca65e78dc616cdf758be17",
+    "206-hls": "https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1750862445~acl=/stream/206/file/*~id=allUsers~hmac=a0420bbf34a5b0907014ac9562fb3aeab0a224e800ca65e78dc616cdf758be17",
     "all-sections": "16890-17139-17140-17875-18190-18249-18250-18252-18253-18832-18834-18835-18851-18985-18994-206-6299-6317-6685-6786",
     "all-vidiolivetv": [
       {
@@ -542,12 +542,6 @@
       "cover_url": "https://thumbor.prod.vidiocdn.com/xbuD4pO4UKGP69bNnKbXo-zdh6g=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4375678/fec3fd.jpg",
       "start_time": "2025-06-25T15:00:00.000Z"
     },
-    "4376104": {
-      "title": "Boys: Anglo-Chinese Junior College (SGP) vs Fukuoka University Ohori Senior High School (JPN) - NBA Rising Invitational",
-      "web_url": "18985",
-      "cover_url": "https://thumbor.prod.vidiocdn.com/rpPXDwWkCM3GLco9p3u8flC9vuY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4376104/024953.jpg",
-      "start_time": "2025-06-25T09:10:00.000Z"
-    },
     "4376105": {
       "title": "Girls: Hwa Chong Institution (SGP) vs Hin Hua High School (MAS) - NBA Rising Invitational",
       "web_url": "18985",
@@ -835,6 +829,24 @@
       "web_url": "206",
       "cover_url": "https://thumbor.prod.vidiocdn.com/Ke4DikaeICw1y28Ej2lQNTb5bqg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4380577/410f52.jpg",
       "start_time": "2025-06-25T17:30:00.000Z"
+    },
+    "4380581": {
+      "title": "Men: Canada vs Brazil - Volleyball Nations League",
+      "web_url": "206",
+      "cover_url": "https://thumbor.prod.vidiocdn.com/hzkRO2OCZ15i2G1ObivACUVm8mY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4380581/c9ae79.jpg",
+      "start_time": "2025-06-25T21:00:00.000Z"
+    },
+    "4380582": {
+      "title": "Men: France vs Japan - Volleyball Nations League",
+      "web_url": "206",
+      "cover_url": "https://thumbor.prod.vidiocdn.com/NsUGhzWw2x804VR1vqYyiIuKjzc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4380582/2ac5bb.jpg",
+      "start_time": "2025-06-26T12:00:00.000Z"
+    },
+    "4380583": {
+      "title": "Men: Netherlands vs Germany - Volleyball Nations League",
+      "web_url": "206",
+      "cover_url": "https://thumbor.prod.vidiocdn.com/rEboIloC8wLmSfCgVHqN4cqh0iI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4380583/ceeefe.jpg",
+      "start_time": "2025-06-26T14:30:00.000Z"
     }
   }
 }
