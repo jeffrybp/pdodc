@@ -1,9 +1,9 @@
 {
-  "time": "2025-06-25T14:47:42.234Z",
+  "time": "2025-06-25T15:02:45.128Z",
   "headers": {
     "luws": "77097D68-83C1-ECDD-27A5-208EDC00058E_22522467",
-    "x-signature": "08c4c7573c44757717a5b19fea006dd619a65477bc5b7a622f111325a70e3761",
-    "x-client": 1750862859.701,
+    "x-signature": "049ee204b1923d6dd307d3154f984804ded894b9274da7252d002bc37c98dc31",
+    "x-client": 1750863762.655,
     "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/uV8oJX0QD9jfZ4xcWS38Oefri3/DrCWA3NsmqUjV7o4Zeuh9X/vLJUXQweqlL6IB60WUjdBpEE9ctwWkFvvOXI=",
     "x-secure-level": "2",
     "x-api-platform": "web-desktop",
@@ -13,11 +13,11 @@
     "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36",
     "x-user-email": "jeffrybp1991@gmail.com",
     "204-dash": null,
-    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1750877260~acl=/stream/204/file/*~id=allUsers~hmac=ff8f44e67ffbe9b3daca2b5a9c3e54d8a9e3e0f6124690f4b676424bf2e24451",
+    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1750878163~acl=/stream/204/file/*~id=allUsers~hmac=806e94fdae2181239774f641412a576a671008b2caceded8ea1bbd1aaec11bea",
     "205-dash": null,
-    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1750877260~acl=/stream/205/file/*~id=allUsers~hmac=66a91838a1d9c6fb1a5724dc0b911a7879a8fccdfe178e2de324ca7803aee268",
-    "206-dash": "https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1750877260~acl=/stream/206/file/*~id=allUsers~hmac=fe79cf66211aa3bc52abd6a0e722ad9923e1d632ab0a5f745ff59c5ce4dff005",
-    "206-hls": "https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1750877260~acl=/stream/206/file/*~id=allUsers~hmac=fe79cf66211aa3bc52abd6a0e722ad9923e1d632ab0a5f745ff59c5ce4dff005",
+    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1750878163~acl=/stream/205/file/*~id=allUsers~hmac=26f278802513ff9bc2d3368b4444933e4550fd587c85f3c15653f1d86da61ae4",
+    "206-dash": "https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1750878163~acl=/stream/206/file/*~id=allUsers~hmac=0069e8879aacfda4a90fd131ebb2f9bfc2033978fd235ab6d33ceab3ab3eb43c",
+    "206-hls": "https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1750878163~acl=/stream/206/file/*~id=allUsers~hmac=0069e8879aacfda4a90fd131ebb2f9bfc2033978fd235ab6d33ceab3ab3eb43c",
     "all-sections": "16890-17139-17140-17875-18190-18249-18250-18252-18253-18832-18834-18835-18851-18853-18954-18985-18994-206-6299-6317-6685-6786",
     "all-vidiolivetv": [
       {
@@ -529,12 +529,6 @@
       "web_url": "6685",
       "cover_url": "https://thumbor.prod.vidiocdn.com/yNmyGGT4ylYTR_FYf3R4BBDpxgU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4375676/1c536e.jpg",
       "start_time": "2025-06-25T10:00:00.000Z"
-    },
-    "4375677": {
-      "title": "Valladolid P2 Premier Padel 2025 - Day 3",
-      "web_url": "6299",
-      "cover_url": "https://thumbor.prod.vidiocdn.com/NQvtaXngln1ogOoUdIDkaJ-xDdE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4375677/316612.jpg",
-      "start_time": "2025-06-25T08:30:00.000Z"
     },
     "4375678": {
       "title": "Valladolid P2 Premier Padel 2025 - Day 3",
