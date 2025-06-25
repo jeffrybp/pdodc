@@ -1,9 +1,9 @@
 {
-  "time": "2025-06-25T03:23:44.826Z",
+  "time": "2025-06-25T03:38:47.460Z",
   "headers": {
     "luws": "8E8151BA-42C7-6CBA-30AA-564D3A1ECE23_",
-    "x-signature": "72790fe3923b7f6969f700d6bdb8a553f22f42be799a698b32894813db640c65",
-    "x-client": 1750821821.946,
+    "x-signature": "3fb5d9aab61bc1c4b3ff782af4e3aa214be467fc82137a366ea78647cca7871e",
+    "x-client": 1750822724.917,
     "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/uV8oJX0QD9jfZ4xcWS38Oefri3/DrCWA3NsmqUjV7o4Zeuh9X/vLJUXQweqlL6IB60WUjdBpEE9ctwWkFvvOXI=",
     "x-secure-level": "2",
     "x-api-platform": "web-desktop",
@@ -13,11 +13,11 @@
     "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36",
     "x-user-email": "jeffrybp1991@gmail.com",
     "204-dash": null,
-    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1750836222~acl=/stream/204/file/*~id=allUsers~hmac=6238172e72b3450052a28528a72fc6bbee9d5bfc5c0e0a941672cf729acb7f4b",
+    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1750837125~acl=/stream/204/file/*~id=allUsers~hmac=7de95394a6ad343e5c87f1d1357e318839e7c12bb51791a0d0e8f2cadfeb5e53",
     "205-dash": null,
-    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1750836222~acl=/stream/205/file/*~id=allUsers~hmac=d822c2681df0fb1513ec9522c60f726571c9e7e6fbd93ee8ec01ff1f75f4d117",
-    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1750836222~acl=/stream/206/file/*~id=allUsers~hmac=c39604221301530a7a37c9f4211426af403c88b2a1a788af51f8dada1acc7507",
-    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1750836222~acl=/stream/206/file/*~id=allUsers~hmac=c39604221301530a7a37c9f4211426af403c88b2a1a788af51f8dada1acc7507",
+    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1750837125~acl=/stream/205/file/*~id=allUsers~hmac=25ad717329e910600e18a63bf8185bd557e6ca624dc5326108182578a49fee52",
+    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1750837125~acl=/stream/206/file/*~id=allUsers~hmac=acc7aa063d919d604dfa78204a04b9dffbc31de37d03e3f535bc904616c42128",
+    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1750837125~acl=/stream/206/file/*~id=allUsers~hmac=acc7aa063d919d604dfa78204a04b9dffbc31de37d03e3f535bc904616c42128",
     "733-dash": null,
     "733-hls": null,
     "734-dash": null,
@@ -773,6 +773,12 @@
       "web_url": "18985",
       "cover_url": "https://thumbor.prod.vidiocdn.com/XeopfvinA53D3y7h7pGp2GfrCUQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4380413/7fe1e4.jpg",
       "start_time": "2025-06-27T05:10:00.000Z"
+    },
+    "4380414": {
+      "title": "Girls: Hin Hua High School (MAS) vs Kyoto Seika Gakuen Senior High School Women (JPN) - NBA Rising Invitational",
+      "web_url": "18985",
+      "cover_url": "https://thumbor.prod.vidiocdn.com/TjQForopvn9w79OJaoEl6_hgUkU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4380414/44e38f.jpg",
+      "start_time": "2025-06-27T07:10:00.000Z"
     }
   }
 }
