@@ -1,9 +1,9 @@
 {
-  "time": "2025-06-25T03:38:47.460Z",
+  "time": "2025-06-25T03:45:52.950Z",
   "headers": {
     "luws": "8E8151BA-42C7-6CBA-30AA-564D3A1ECE23_",
-    "x-signature": "3fb5d9aab61bc1c4b3ff782af4e3aa214be467fc82137a366ea78647cca7871e",
-    "x-client": 1750822724.917,
+    "x-signature": "e187e46480f1dd552dea6fc8083ae70b26794ddc11886633aed92a1b0dfc8c40",
+    "x-client": 1750823150.861,
     "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/uV8oJX0QD9jfZ4xcWS38Oefri3/DrCWA3NsmqUjV7o4Zeuh9X/vLJUXQweqlL6IB60WUjdBpEE9ctwWkFvvOXI=",
     "x-secure-level": "2",
     "x-api-platform": "web-desktop",
@@ -13,15 +13,11 @@
     "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36",
     "x-user-email": "jeffrybp1991@gmail.com",
     "204-dash": null,
-    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1750837125~acl=/stream/204/file/*~id=allUsers~hmac=7de95394a6ad343e5c87f1d1357e318839e7c12bb51791a0d0e8f2cadfeb5e53",
+    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1750837550~acl=/stream/204/file/*~id=allUsers~hmac=80b731771aac167e4cce66d0409639b77b1bcc5dbffd78e6e1c00bb6befbd95e",
     "205-dash": null,
-    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1750837125~acl=/stream/205/file/*~id=allUsers~hmac=25ad717329e910600e18a63bf8185bd557e6ca624dc5326108182578a49fee52",
-    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1750837125~acl=/stream/206/file/*~id=allUsers~hmac=acc7aa063d919d604dfa78204a04b9dffbc31de37d03e3f535bc904616c42128",
-    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1750837125~acl=/stream/206/file/*~id=allUsers~hmac=acc7aa063d919d604dfa78204a04b9dffbc31de37d03e3f535bc904616c42128",
-    "733-dash": null,
-    "733-hls": null,
-    "734-dash": null,
-    "734-hls": null,
+    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1750837550~acl=/stream/205/file/*~id=allUsers~hmac=ff2245687e672942f7ab4f11aa6d8aff2d415727405bb68b53b54c40c28bac16",
+    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1750837550~acl=/stream/206/file/*~id=allUsers~hmac=a4b613ce85e45efef840211f13b031ac3cc805301959d98d43fde885df3330ea",
+    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1750837550~acl=/stream/206/file/*~id=allUsers~hmac=a4b613ce85e45efef840211f13b031ac3cc805301959d98d43fde885df3330ea",
     "all-sections": "17139-17140-17875-18190-18832-18834-18851-18985-206-6299-6317-6685-6786",
     "all-vidiolivetv": [
       {
@@ -779,6 +775,12 @@
       "web_url": "18985",
       "cover_url": "https://thumbor.prod.vidiocdn.com/TjQForopvn9w79OJaoEl6_hgUkU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4380414/44e38f.jpg",
       "start_time": "2025-06-27T07:10:00.000Z"
+    },
+    "4380415": {
+      "title": "Boys: Hin Hua High School (MAS) vs Anglo-Chinese Junior College (SGP) - NBA Rising Invitational",
+      "web_url": "18985",
+      "cover_url": "https://thumbor.prod.vidiocdn.com/pTnn-N5lLrI6QT7UZ0xbDqtSlIE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4380415/f2aa54.jpg",
+      "start_time": "2025-06-27T09:10:00.000Z"
     }
   }
 }
