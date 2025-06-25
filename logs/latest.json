@@ -1,9 +1,9 @@
 {
-  "time": "2025-06-25T19:18:32.612Z",
+  "time": "2025-06-25T19:33:35.852Z",
   "headers": {
     "luws": "77097D68-83C1-ECDD-27A5-208EDC00058E_22522467",
-    "x-signature": "c0ea889f0c02ff80b731707ae057dc058351f2e449377daeb83c340e13c309ec",
-    "x-client": 1750879111.325,
+    "x-signature": "b5f387700606b86e064304eb339549059e2d8016cb04de75620497d70ee2fb64",
+    "x-client": 1750880014.29,
     "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/uV8oJX0QD9jfZ4xcWS38Oefri3/DrCWA3NsmqUjV7o4Zeuh9X/vLJUXQweqlL6IB60WUjdBpEE9ctwWkFvvOXI=",
     "x-secure-level": "2",
     "x-api-platform": "web-desktop",
@@ -13,11 +13,11 @@
     "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36",
     "x-user-email": "jeffrybp1991@gmail.com",
     "204-dash": null,
-    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1750893511~acl=/stream/204/file/*~id=allUsers~hmac=a1cde80f4c0c156ea9c8004c8908b8294e7952487dcd56cd8eacc43053ee6261",
+    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1750894414~acl=/stream/204/file/*~id=allUsers~hmac=42848fa9ee7588afa0a4f41d5892f115ea8fe1d816919daba646427d00be5774",
     "205-dash": null,
-    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1750893511~acl=/stream/205/file/*~id=allUsers~hmac=99fb899e3341536432a59ad62de24a2c5ad6a3ba2d499ce0d660a62b82aa407a",
-    "206-dash": "https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1750893511~acl=/stream/206/file/*~id=allUsers~hmac=cb699de1bc86501b535908c8e271f358e49cdf3ce00cb1092f4b3cb0909b410a",
-    "206-hls": "https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1750893511~acl=/stream/206/file/*~id=allUsers~hmac=cb699de1bc86501b535908c8e271f358e49cdf3ce00cb1092f4b3cb0909b410a",
+    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1750894414~acl=/stream/205/file/*~id=allUsers~hmac=a67bb5c08d5396d3f9020507a79dee74abae3b22a9b57fe3675604e30bf7b2e0",
+    "206-dash": "https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1750894414~acl=/stream/206/file/*~id=allUsers~hmac=dc9f76cfe63c6012d7f36ba5370ca99d0b37c4cdd9418733f7d508627b1acb41",
+    "206-hls": "https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1750894414~acl=/stream/206/file/*~id=allUsers~hmac=dc9f76cfe63c6012d7f36ba5370ca99d0b37c4cdd9418733f7d508627b1acb41",
     "all-sections": "16890-17139-17140-17875-18190-18249-18250-18252-18253-18832-18834-18835-18851-18853-18954-18985-18994-206-6299-6317-6685-6786",
     "all-vidiolivetv": [
       {
@@ -501,7 +501,7 @@
       "start_time": "2025-06-25T15:00:00.000Z"
     },
     "18252": {
-      "title": "Dhruv Kapila/Tanisha Crasto (IND) vs Lin Yu Chieh/Hung Yu-En (TPE) - Mixed Doubles Round of 32 | Yonex US Open 2025",
+      "title": "Xiaodong Sheng (CAN) vs Le Duc Phat (VIE) - Men's Singles Round of 32 | Yonex US Open 2025",
       "web_url": "18252",
       "cover_url": "https://thumbor.prod.vidiocdn.com/xF6dKYL0y_4iL7NSMsc6GTfZslA=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18252/yonex-us-open-2025-qualifiers-round-of-32-court-3-230e5d.jpg",
       "start_time": "2025-06-25T15:10:00.000Z"
@@ -781,6 +781,12 @@
       "web_url": "18851",
       "cover_url": "https://thumbor.prod.vidiocdn.com/8KSGFaXBiuRvkeOnP24-PiEcadQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4380700/cf921c.jpg",
       "start_time": "2025-06-26T15:15:00.000Z"
+    },
+    "4382140": {
+      "title": "Valladolid P2 Premier Padel 2025 - Day 3",
+      "web_url": "6299",
+      "cover_url": "https://thumbor.prod.vidiocdn.com/aj7CXKPcFmrc0EfMl-tLGEsMOw4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4382140/cfd148.jpg",
+      "start_time": "2025-06-25T19:25:00.000Z"
     }
   }
 }
