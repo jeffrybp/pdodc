@@ -1,9 +1,9 @@
 {
-  "time": "2025-06-25T17:18:10.086Z",
+  "time": "2025-06-25T17:33:12.715Z",
   "headers": {
     "luws": "77097D68-83C1-ECDD-27A5-208EDC00058E_22522467",
-    "x-signature": "ce7ffba5d023e26dff4bac29ef05373cd47eb0e70edee651296106f32784e880",
-    "x-client": 1750871887.656,
+    "x-signature": "08cd4ad93b38ce790f5c54e785d05d975b8615777ab69d6ce70b737b75b21cfa",
+    "x-client": 1750872790.591,
     "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/uV8oJX0QD9jfZ4xcWS38Oefri3/DrCWA3NsmqUjV7o4Zeuh9X/vLJUXQweqlL6IB60WUjdBpEE9ctwWkFvvOXI=",
     "x-secure-level": "2",
     "x-api-platform": "web-desktop",
@@ -13,11 +13,11 @@
     "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36",
     "x-user-email": "jeffrybp1991@gmail.com",
     "204-dash": null,
-    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1750886288~acl=/stream/204/file/*~id=allUsers~hmac=bad882dfb45340553b749b017a3dab3543a5aa3609c699daf4622b25d0912d27",
+    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1750887191~acl=/stream/204/file/*~id=allUsers~hmac=35efb8daf2450ed2cfafa66726aa8b2365be62c7adaf016241ff180317b1c4b2",
     "205-dash": null,
-    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1750886288~acl=/stream/205/file/*~id=allUsers~hmac=541c952eaee38a53ba33d12074e28ac046058a0f2e2e5aeb69de873ce0e09aa5",
-    "206-dash": "https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1750886288~acl=/stream/206/file/*~id=allUsers~hmac=3cac5fd67f1269154e5f6af6e1c25e18e5101e718334a059873a0a4f9dbc5cd0",
-    "206-hls": "https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1750886288~acl=/stream/206/file/*~id=allUsers~hmac=3cac5fd67f1269154e5f6af6e1c25e18e5101e718334a059873a0a4f9dbc5cd0",
+    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1750887191~acl=/stream/205/file/*~id=allUsers~hmac=2c791a8c1ecff4846082c6a0901a6c1362a8f67be2474303490283679fc4f6e7",
+    "206-dash": "https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1750887191~acl=/stream/206/file/*~id=allUsers~hmac=25d69d63aa7c42615a4644642f25cedec9b5d8f0332daad285978f04d0a34363",
+    "206-hls": "https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1750887191~acl=/stream/206/file/*~id=allUsers~hmac=25d69d63aa7c42615a4644642f25cedec9b5d8f0332daad285978f04d0a34363",
     "all-sections": "16890-17139-17140-17875-18190-18249-18250-18252-18253-18832-18834-18835-18851-18853-18954-18985-18994-206-6299-6317-6685-6786",
     "all-vidiolivetv": [
       {
@@ -530,12 +530,6 @@
       "cover_url": "https://thumbor.prod.vidiocdn.com/xbuD4pO4UKGP69bNnKbXo-zdh6g=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4375678/fec3fd.jpg",
       "start_time": "2025-06-25T15:00:00.000Z"
     },
-    "4377992": {
-      "title": "ATP 250: Lexus Eastbourne Open 2025 - Day 3",
-      "web_url": "6317",
-      "cover_url": "https://thumbor.prod.vidiocdn.com/iWA9cbEMIMlXbqmqgdhJwiVzYko=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4377992/a9fc11.jpg",
-      "start_time": "2025-06-25T10:00:00.000Z"
-    },
     "4377993": {
       "title": "ATP 250: Lexus Eastbourne Open 2025 - Quarter Final",
       "web_url": "6317",
@@ -565,12 +559,6 @@
       "web_url": "18985",
       "cover_url": "https://thumbor.prod.vidiocdn.com/w3dymsK1rWlZes97R-1L4j9lje0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4378000/66f0ab.jpg",
       "start_time": "2025-06-26T05:10:00.000Z"
-    },
-    "4378001": {
-      "title": "ATP 250: Mallorca Championships presented by Ecotrans Group 2025 - Day 4",
-      "web_url": "17875",
-      "cover_url": "https://thumbor.prod.vidiocdn.com/QrLOPXuSRodurDonF8DpLWomWHs=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4378001/5fe3fa.jpg",
-      "start_time": "2025-06-25T16:00:00.000Z"
     },
     "4378002": {
       "title": "ATP 250: Mallorca Championships presented by Ecotrans Group 2025 - Quarter Final",
