@@ -1,9 +1,9 @@
 {
-  "time": "2025-06-25T06:24:57.216Z",
+  "time": "2025-06-25T06:55:04.424Z",
   "headers": {
     "luws": "8E8151BA-42C7-6CBA-30AA-564D3A1ECE23_",
-    "x-signature": "f9bf7b4593f7c0def0265fa90945dc79455f3fda496f04ff5120c9fdd79e636a",
-    "x-client": 1750832694.919,
+    "x-signature": "7e0ab3e9d6fbd2718caaf4a39c9823834e73b2420d6c3f969abfdbaaf3bb007f",
+    "x-client": 1750834501.577,
     "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/uV8oJX0QD9jfZ4xcWS38Oefri3/DrCWA3NsmqUjV7o4Zeuh9X/vLJUXQweqlL6IB60WUjdBpEE9ctwWkFvvOXI=",
     "x-secure-level": "2",
     "x-api-platform": "web-desktop",
@@ -13,12 +13,12 @@
     "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36",
     "x-user-email": "jeffrybp1991@gmail.com",
     "204-dash": null,
-    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1750847095~acl=/stream/204/file/*~id=allUsers~hmac=4b5a4131d6dca7ecae1bc7b5bac80bf515f100445cdc1198fb461a67623a48f6",
+    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1750848902~acl=/stream/204/file/*~id=allUsers~hmac=1daed51e0516f7a1d065b56ffc5d6d23eef56c3e336aa2de58622d359d8d7f3d",
     "205-dash": null,
-    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1750847095~acl=/stream/205/file/*~id=allUsers~hmac=db03747a3bfda970b89e487856b8f777d42e44571f47ab44905ade0d152fdaa1",
-    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1750847095~acl=/stream/206/file/*~id=allUsers~hmac=4549b5b8a5c2579f6fb8a12024637ec0d07ceaa2f71a354bbef1565ffd927017",
-    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1750847095~acl=/stream/206/file/*~id=allUsers~hmac=4549b5b8a5c2579f6fb8a12024637ec0d07ceaa2f71a354bbef1565ffd927017",
-    "all-sections": "16890-17139-17140-17875-18190-18832-18834-18835-18851-18985-18994-206-6299-6317-6685-6786",
+    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1750848902~acl=/stream/205/file/*~id=allUsers~hmac=e0153a71642ba1c676d718cb7f6102c78d576388e7abb951def3d794aa481090",
+    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1750848902~acl=/stream/206/file/*~id=allUsers~hmac=aeecd8678202bc6a96d3c569b28430137bd12b155156553d6bf4f80843cae9a1",
+    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1750848902~acl=/stream/206/file/*~id=allUsers~hmac=aeecd8678202bc6a96d3c569b28430137bd12b155156553d6bf4f80843cae9a1",
+    "all-sections": "16890-17139-17140-17875-18190-18249-18250-18252-18832-18834-18835-18851-18985-18994-206-6299-6317-6685-6786",
     "all-vidiolivetv": [
       {
         "content_id": 204,
@@ -488,6 +488,24 @@
     ]
   },
   "sections": {
+    "18249": {
+      "title": "Gregoire Deschamp/Margot Lambert (FRA) vs Jan Colin Voelker/Stine Kuespert (GER) - Mixed Doubles Round of 32 | Yonex US Open 2025",
+      "web_url": "18249",
+      "cover_url": "https://thumbor.prod.vidiocdn.com/qFJfEaPUjvFnEeuukbfqANhsDMI=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18249/yonex-us-open-2025-qualifiers-round-of-32-court-1-1d735f.jpg",
+      "start_time": "2025-06-25T15:00:00.000Z"
+    },
+    "18250": {
+      "title": "Nguyen Hai Dang (VIE) vs Mads Christophersen (DEN) - Men's Singles Round of 32 | Yonex US Open 2025",
+      "web_url": "18250",
+      "cover_url": "https://thumbor.prod.vidiocdn.com/Qg2AAxdi_Pe7D_OKhO89btM2kfI=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18250/yonex-us-open-2025-qualifiers-round-of-32-court-2-e7d2cb.jpg",
+      "start_time": "2025-06-25T15:00:00.000Z"
+    },
+    "18252": {
+      "title": "Ayush Shetty (IND) vs Magnus Johannesen (DEN) - Men's Singles Round of 32 | Yonex US Open 2025",
+      "web_url": "18252",
+      "cover_url": "https://thumbor.prod.vidiocdn.com/3g3VfeA7USYlbXD_ZpVq1-3falk=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18252/yonex-us-open-2025-qualifiers-round-of-32-court-3-89e4cc.jpg",
+      "start_time": "2025-06-25T15:10:00.000Z"
+    },
     "18834": {
       "title": "Redho Rocky vs Weerian - Kickstriking Light Flyweight - Byon Combat Showbiz Vol.5",
       "web_url": "18834",
@@ -517,12 +535,6 @@
       "web_url": "6299",
       "cover_url": "https://thumbor.prod.vidiocdn.com/xbuD4pO4UKGP69bNnKbXo-zdh6g=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4375678/fec3fd.jpg",
       "start_time": "2025-06-25T15:00:00.000Z"
-    },
-    "4376082": {
-      "title": "Boys: Tsinghua University High School (CHN) vs Jubilee School Jakarta (INA) - NBA Rising Invitational",
-      "web_url": "18985",
-      "cover_url": "https://thumbor.prod.vidiocdn.com/eErbazHS_2YsHx8detPiVFHOZXo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4376082/5f19f6.jpg",
-      "start_time": "2025-06-25T05:10:00.000Z"
     },
     "4376103": {
       "title": "Opening Ceremony - NBA Rising Invitational",
