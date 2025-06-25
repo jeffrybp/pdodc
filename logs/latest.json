@@ -1,23 +1,23 @@
 {
-  "time": "2025-06-25T00:03:03.924Z",
+  "time": "2025-06-25T01:03:25.499Z",
   "headers": {
     "luws": "8E8151BA-42C7-6CBA-30AA-564D3A1ECE23_",
-    "x-signature": "8b0d8ad957610181c71ae31385cec13772d51b9dbbc33dc82bf6ac39d001ddd7",
-    "x-client": 1750809781.013,
+    "x-signature": "be30606a97eb934f7a96a0a87e5e61da5d0d338ae4fd480517d4a763acb9d91c",
+    "x-client": 1750813399.726,
     "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/oDCPWqINC85MzfJfZbtkWHl0SaNc6VlXzEC25hTolXFgAauCI3nRwB5725dFjhnwN8tMg4tX/l18WvPAa6FNk4=",
     "x-secure-level": "2",
     "x-api-platform": "web-desktop",
     "x-request-from": "https://www.vidio.com/live/204",
     "content-type": "application/json",
-    "cookie": "luws=8E8151BA-42C7-6CBA-30AA-564D3A1ECE23_; ahoy_visitor=6e3be2bd-3fee-4c75-b69b-28bbf54baae8; country_id=ID; g_state={\"i_p\":1750688736787,\"i_l\":2}; shva=1; plenty_id=22522467; ahoy_visit=30d14e71-d4af-42d8-b71d-6ce42a2e2807; _vidio_session=xxx;",
+    "cookie": "luws=8E8151BA-42C7-6CBA-30AA-564D3A1ECE23_; ahoy_visitor=6e3be2bd-3fee-4c75-b69b-28bbf54baae8; country_id=ID; g_state={\"i_p\":1750688736787,\"i_l\":2}; shva=1; plenty_id=22522467; ahoy_visit=26bd527f-bc8b-433a-a38b-ea14b6878ffd; _vidio_session=xxx;",
     "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36",
     "x-user-email": "jeffrybp1991@gmail.com",
     "204-dash": null,
-    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1750824181~acl=/stream/204/file/*~id=allUsers~hmac=ad7e059f053e15917ccd2c2d9f6959240a092bbd16a6ec28c8893d9f5b1c032c",
+    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1750827801~acl=/stream/204/file/*~id=allUsers~hmac=e21e66061349a1382a164e4b82e5392c18cc46a767bbbda850f8ab34e169a119",
     "205-dash": null,
-    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1750824181~acl=/stream/205/file/*~id=allUsers~hmac=438f74fdeca4f645056452b413f8c93177f7a115e63fa1665591b521e37e0b92",
-    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1750824182~acl=/stream/206/file/*~id=allUsers~hmac=ffbb4d36a33508d6d40b7ccafb55fd373cf2442435394f126e9c93ba900e107a",
-    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1750824182~acl=/stream/206/file/*~id=allUsers~hmac=ffbb4d36a33508d6d40b7ccafb55fd373cf2442435394f126e9c93ba900e107a",
+    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1750827802~acl=/stream/205/file/*~id=allUsers~hmac=070dc23f7962c28e00d2aeb5cdb2328e1f3a56707c02b4dfe1d2ae29abb12afe",
+    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1750827802~acl=/stream/206/file/*~id=allUsers~hmac=8b83fa5230216fe51ddf099c4b04929958d22d2cf178dc3840a0149999eda6d3",
+    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1750827802~acl=/stream/206/file/*~id=allUsers~hmac=8b83fa5230216fe51ddf099c4b04929958d22d2cf178dc3840a0149999eda6d3",
     "733-dash": null,
     "733-hls": null,
     "734-dash": null,
@@ -493,25 +493,25 @@
   },
   "sections": {
     "18249": {
-      "title": "Kathrine Vang/Mette Werge (DEN) vs Hu Ling Fang/Jheng Yu Chieh (TPE) - Women's Doubles Round of 32 | Yonex US Open 2025",
+      "title": "Clara Azurmendi/Lucia Rodriguez (ESP) vs Lucie Amiguet/Caroline Racloz (SUI) - Women's Doubles Round of 32 | Yonex US Open 2025",
       "web_url": "18249",
       "cover_url": "https://thumbor.prod.vidiocdn.com/ziE1-OWbjTNWFXTjwaOCE2n8Q1Y=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18249/yonex-us-open-2025-qualifiers-round-of-32-court-1-939846.jpg",
       "start_time": "2025-06-24T21:00:00.000Z"
     },
     "18250": {
-      "title": "Hung Yu-En/Lin Yen Yu (TPE) vs Benyapa Aimsaard/Nuntakarn Aimsaard (THA) - Women's Doubles Round of 32 | Yonex US Open 2025",
+      "title": "Teges Satriaji Cahyo Hutomo/Gabriel Christopher Wintan Wijaya (INA) vs Jonathan Bing Tsan Lai/Nyl Yakura (CAN) - Men's Doubles Round of 32 | Yonex US Open 2025",
       "web_url": "18250",
       "cover_url": "https://thumbor.prod.vidiocdn.com/nb6-KRHMnvBKET7XfacIOqRi6ig=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18250/yonex-us-open-2025-qualifiers-round-of-32-court-2-81ae87.jpg",
       "start_time": "2025-06-24T21:00:00.000Z"
     },
     "18252": {
-      "title": "Gronya Somerville/Angela Yu (AUS) vs Francesca Corbett/Jennie Gai (USA) - Women's Doubles Round of 32 | Yonex US Open 2025",
+      "title": "Lai Po Yu/Tsai Fu Cheng (TPE) vs Bjarne Geiss/Jones Ralfy Jansen (GER) - Men's Doubles Round of 32 | Yonex US Open 2025",
       "web_url": "18252",
       "cover_url": "https://thumbor.prod.vidiocdn.com/3g3VfeA7USYlbXD_ZpVq1-3falk=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18252/yonex-us-open-2025-qualifiers-round-of-32-court-3-89e4cc.jpg",
       "start_time": "2025-06-24T21:10:00.000Z"
     },
     "18253": {
-      "title": "Chen Zhi Ray/Lin Yu Chieh (TPE) vs Wei Chun Wei/Po Chih Yang (TPE) - Men's Doubles Round of 32 | Yonex US Open 2025",
+      "title": "Fang-Chih Lee/Fang-Jen Lee (TPE) vs Chang Ko-Chi vs Po Li-Wei (TPE) - Men's Doubles Round of 32 | Yonex US Open 2025",
       "web_url": "18253",
       "cover_url": "https://thumbor.prod.vidiocdn.com/4y-IV0KgPP8xjlMCt_lwhTmgo2w=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18253/yonex-us-open-2025-qualifiers-round-of-32-court-4-0dae57.jpg",
       "start_time": "2025-06-24T21:10:00.000Z"
@@ -538,7 +538,7 @@
       "title": "Valladolid P2 Premier Padel 2025 - Day 3",
       "web_url": "6299",
       "cover_url": "https://thumbor.prod.vidiocdn.com/NQvtaXngln1ogOoUdIDkaJ-xDdE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4375677/316612.jpg",
-      "start_time": "2025-06-25T07:00:00.000Z"
+      "start_time": "2025-06-25T08:30:00.000Z"
     },
     "4375678": {
       "title": "Valladolid P2 Premier Padel 2025 - Day 3",
@@ -550,7 +550,7 @@
       "title": "Boys: United World College South East Asia Dover (SGP) vs Berwick College (AUS) - NBA Rising Invitational",
       "web_url": "18985",
       "cover_url": "https://thumbor.prod.vidiocdn.com/xgPZlfUecKta07EtZIy0GTgFHew=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4376080/c1eb68.jpg",
-      "start_time": "2025-06-25T00:40:00.000Z"
+      "start_time": "2025-06-25T01:10:00.000Z"
     },
     "4376081": {
       "title": "Girls: Tsinghua University High School (CHN) vs Watnoinoppakhun School (THA) - NBA Rising Invitational",
