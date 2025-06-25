@@ -1,9 +1,9 @@
 {
-  "time": "2025-06-25T04:54:02.879Z",
+  "time": "2025-06-25T05:09:05.617Z",
   "headers": {
     "luws": "8E8151BA-42C7-6CBA-30AA-564D3A1ECE23_",
-    "x-signature": "b17d5c80b085c19dc537f9edcfe664ef8b37f6527f9df08eb37aab6d17c8aaa4",
-    "x-client": 1750827240.36,
+    "x-signature": "dc33c64ae5024907416dd1b51ec1dcb6165d17c725f46431974384f4f9c4ec8b",
+    "x-client": 1750828143.232,
     "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/uV8oJX0QD9jfZ4xcWS38Oefri3/DrCWA3NsmqUjV7o4Zeuh9X/vLJUXQweqlL6IB60WUjdBpEE9ctwWkFvvOXI=",
     "x-secure-level": "2",
     "x-api-platform": "web-desktop",
@@ -13,12 +13,12 @@
     "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36",
     "x-user-email": "jeffrybp1991@gmail.com",
     "204-dash": null,
-    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1750841640~acl=/stream/204/file/*~id=allUsers~hmac=4598d83d804e7d5c81b59bbe9953bead474c94e56bc918d00193b2392854dfea",
+    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1750842543~acl=/stream/204/file/*~id=allUsers~hmac=087f03d8ee1fce979ddc8f3b9b3d4d819ef0136a866d0730d014f5cc09665a25",
     "205-dash": null,
-    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1750841641~acl=/stream/205/file/*~id=allUsers~hmac=a28b8a24ca96451a1876cdcd94a2db99470bce8bd5c1a5e04195f62a24e124b0",
-    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1750841641~acl=/stream/206/file/*~id=allUsers~hmac=0c77d165cb38dfcde582c694efd5d72d233119bc6f88e38ac57cbb3223704c22",
-    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1750841641~acl=/stream/206/file/*~id=allUsers~hmac=0c77d165cb38dfcde582c694efd5d72d233119bc6f88e38ac57cbb3223704c22",
-    "all-sections": "16890-17139-17140-17875-18190-18832-18834-18851-18985-18994-206-6299-6317-6685-6786",
+    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1750842543~acl=/stream/205/file/*~id=allUsers~hmac=050044958266a5cec0c854ea54822db467484d65442a48277aa3a56bd3117df3",
+    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1750842544~acl=/stream/206/file/*~id=allUsers~hmac=a712e53e3f74c8572c46494298bb102fb073c546e1c86e2cf5a52e26788b2c03",
+    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1750842544~acl=/stream/206/file/*~id=allUsers~hmac=a712e53e3f74c8572c46494298bb102fb073c546e1c86e2cf5a52e26788b2c03",
+    "all-sections": "16890-17139-17140-17875-18190-18832-18834-18835-18851-18985-18994-206-6299-6317-6685-6786",
     "all-vidiolivetv": [
       {
         "content_id": 204,
@@ -518,12 +518,6 @@
       "cover_url": "https://thumbor.prod.vidiocdn.com/xbuD4pO4UKGP69bNnKbXo-zdh6g=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4375678/fec3fd.jpg",
       "start_time": "2025-06-25T15:00:00.000Z"
     },
-    "4376081": {
-      "title": "Girls: Tsinghua University High School (CHN) vs Watnoinoppakhun School (THA) - NBA Rising Invitational",
-      "web_url": "18985",
-      "cover_url": "https://thumbor.prod.vidiocdn.com/2a4aEgD0bCxeP88526fn4MUbtp8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4376081/b2ca30.jpg",
-      "start_time": "2025-06-25T03:10:00.000Z"
-    },
     "4376082": {
       "title": "Boys: Tsinghua University High School (CHN) vs Jubilee School Jakarta (INA) - NBA Rising Invitational",
       "web_url": "18985",
@@ -817,6 +811,12 @@
       "web_url": "18190",
       "cover_url": "https://thumbor.prod.vidiocdn.com/ASad3A23-iMiKkWQUiFdGtGd2cM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4380442/c8156b.jpg",
       "start_time": "2025-06-27T15:00:00.000Z"
+    },
+    "4380443": {
+      "title": "Byon Combat Showbiz Vol.5: Weigh-In + Press Conference",
+      "web_url": "18835",
+      "cover_url": "https://thumbor.prod.vidiocdn.com/64sg00cKYcw73eeg2pRdQcAyGuY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4380443/b0f684.jpg",
+      "start_time": "2025-06-27T03:00:00.000Z"
     }
   }
 }
