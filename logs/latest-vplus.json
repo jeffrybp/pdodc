@@ -1,8 +1,29 @@
 {
-  "time": "2025-06-25T04:42:53.939Z",
+  "time": "2025-06-25T04:46:12.911Z",
   "headers": {
-    "headers": {
-      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+    "url": "https://supports.visionplus.id/vplus/config/public/mirada_prod",
+    "time": "2025-06-25T04:46:13.286Z",
+    "request": {
+      "method": "GET",
+      "headers": {
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+      }
+    },
+    "response": {
+      "status": 200,
+      "headers": {
+        "access-control-allow-origin": "*",
+        "access-control-expose-headers": "*",
+        "age": "568",
+        "content-encoding": "br",
+        "content-type": "application/json",
+        "date": "Wed, 25 Jun 2025 04:36:44 GMT",
+        "vary": "Accept-Encoding",
+        "via": "1.1 cc7f70842168219520f16ee8b2b7968e.cloudfront.net (CloudFront)",
+        "x-amz-cf-id": "-XRy0ZkcZMceApxc-Wy9IT1MgzNqCiVZ0knH2_F1z-nlptFX2WHjUQ==",
+        "x-amz-cf-pop": "SIN2-P11",
+        "x-cache": "Hit from cloudfront"
+      }
     }
   }
 }
