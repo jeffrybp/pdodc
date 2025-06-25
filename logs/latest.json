@@ -1,9 +1,9 @@
 {
-  "time": "2025-06-25T23:19:30.355Z",
+  "time": "2025-06-25T23:34:33.416Z",
   "headers": {
     "luws": "77097D68-83C1-ECDD-27A5-208EDC00058E_22522467",
-    "x-signature": "f6c2d22d72565ce35a331df3201e4156024fd15d04e5041f3560cfd3e9e0383e",
-    "x-client": 1750893568.374,
+    "x-signature": "9b663bbfb44d3c78e50b842868acfa9fd19186bdccac1b6080da44d6c6773ef6",
+    "x-client": 1750894471.326,
     "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/uV8oJX0QD9jfZ4xcWS38Oefri3/DrCWA3NsmqUjV7o4Zeuh9X/vLJUXQweqlL6IB60WUjdBpEE9ctwWkFvvOXI=",
     "x-secure-level": "2",
     "x-api-platform": "web-desktop",
@@ -13,11 +13,11 @@
     "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36",
     "x-user-email": "jeffrybp1991@gmail.com",
     "204-dash": null,
-    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1750907968~acl=/stream/204/file/*~id=allUsers~hmac=21038168ab6611e3aa9c07e747bfabc1d002e27bc7e8d57829ca58f363be2d74",
+    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1750908871~acl=/stream/204/file/*~id=allUsers~hmac=56e17c12e1a1db35a87d8a0fc0abe85f7c8bf61dba4ef6221a5bbf292695e0ac",
     "205-dash": null,
-    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1750907968~acl=/stream/205/file/*~id=allUsers~hmac=e6d2978a24e858e6c55e4478b6a835d1447ca749cc6ec8c244973a3732379652",
-    "206-dash": "https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1750907968~acl=/stream/206/file/*~id=allUsers~hmac=cfbf482b1bd35b3bfbabe96ed994e2214fc0cd419060edef7f1d33db1cf4df4f",
-    "206-hls": "https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1750907968~acl=/stream/206/file/*~id=allUsers~hmac=cfbf482b1bd35b3bfbabe96ed994e2214fc0cd419060edef7f1d33db1cf4df4f",
+    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1750908871~acl=/stream/205/file/*~id=allUsers~hmac=47574f3013d18d4603ed4e87c2ed6f1b49e1bf85e4c66b0e5f0c86fcc5329752",
+    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1750908872~acl=/stream/206/file/*~id=allUsers~hmac=1c591c9954cd4de35a32fc46af499677a37a3a0f1121dfdcf947c347282a255b",
+    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1750908872~acl=/stream/206/file/*~id=allUsers~hmac=1c591c9954cd4de35a32fc46af499677a37a3a0f1121dfdcf947c347282a255b",
     "all-sections": "16890-17139-17140-17875-18190-18249-18250-18252-18253-18832-18834-18835-18851-18853-18985-18994-206-6299-6317-6685-6786",
     "all-vidiolivetv": [
       {
@@ -501,7 +501,7 @@
       "start_time": "2025-06-25T15:00:00.000Z"
     },
     "18252": {
-      "title": "Fabricio Farias/Davi Silva (BRA) vs Mohd Razif Abdul Latif (MAS)/Ansen Liu (USA) - Men's Doubles Round of 32 | Yonex US Open 2025",
+      "title": "Huang Ping-Hsien (TPE) vs Brian Yang (CAN) - Men's Singles Round of 32 | Yonex US Open 2025",
       "web_url": "18252",
       "cover_url": "https://thumbor.prod.vidiocdn.com/xF6dKYL0y_4iL7NSMsc6GTfZslA=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18252/yonex-us-open-2025-qualifiers-round-of-32-court-3-230e5d.jpg",
       "start_time": "2025-06-25T15:10:00.000Z"
