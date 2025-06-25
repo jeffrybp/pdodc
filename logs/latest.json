@@ -1,9 +1,9 @@
 {
-  "time": "2025-06-25T04:23:57.818Z",
+  "time": "2025-06-25T04:39:00.218Z",
   "headers": {
     "luws": "8E8151BA-42C7-6CBA-30AA-564D3A1ECE23_",
-    "x-signature": "cc679da802a6541cc27ce147486029118dae3cbcf99772ef78f6c6c3d99f942d",
-    "x-client": 1750825434.676,
+    "x-signature": "1645c43ca05eb6f931814fa4479ba5a6147c2b246d1466a1d36a907f6df3781a",
+    "x-client": 1750826337.469,
     "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/uV8oJX0QD9jfZ4xcWS38Oefri3/DrCWA3NsmqUjV7o4Zeuh9X/vLJUXQweqlL6IB60WUjdBpEE9ctwWkFvvOXI=",
     "x-secure-level": "2",
     "x-api-platform": "web-desktop",
@@ -13,11 +13,11 @@
     "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36",
     "x-user-email": "jeffrybp1991@gmail.com",
     "204-dash": null,
-    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1750839835~acl=/stream/204/file/*~id=allUsers~hmac=716b2862e7e007c62920e996f842f52725e6fde9f96c398123b5da5c6378d82a",
+    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1750840738~acl=/stream/204/file/*~id=allUsers~hmac=ad76b1a2d842422bade4b0c0572798deb10e1a4d1d9c5813515810e5a390e08f",
     "205-dash": null,
-    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1750839835~acl=/stream/205/file/*~id=allUsers~hmac=f794c45c618b348c863e090bd539ac61156519a0ab4195194356be5dcf65b140",
-    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1750839835~acl=/stream/206/file/*~id=allUsers~hmac=b4922d8793566359b6da3e0bc2beaff1ad24b75e7134451b6d2b07290f250d1f",
-    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1750839835~acl=/stream/206/file/*~id=allUsers~hmac=b4922d8793566359b6da3e0bc2beaff1ad24b75e7134451b6d2b07290f250d1f",
+    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1750840738~acl=/stream/205/file/*~id=allUsers~hmac=0fcee5368cd94a6820dbeb33607391b794bd909a59b53e09f4617ca7d1eff3bf",
+    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1750840738~acl=/stream/206/file/*~id=allUsers~hmac=e3ffcf34a8b037a36597db46c470e69ab5eedeb3e5400ace89f6ef6d6dcae90c",
+    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1750840738~acl=/stream/206/file/*~id=allUsers~hmac=e3ffcf34a8b037a36597db46c470e69ab5eedeb3e5400ace89f6ef6d6dcae90c",
     "all-sections": "16890-17139-17140-17875-18190-18832-18834-18851-18985-206-6299-6317-6685-6786",
     "all-vidiolivetv": [
       {
@@ -793,6 +793,18 @@
       "web_url": "16890",
       "cover_url": "https://thumbor.prod.vidiocdn.com/JfhZyOIBlnuBdc5s-rzmFrf0Fbs=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4380417/3b44ae.jpg",
       "start_time": "2025-06-27T12:30:00.000Z"
+    },
+    "4380418": {
+      "title": "Valladolid P2 Premier Padel 2025 - Quarter Final",
+      "web_url": "6317",
+      "cover_url": "https://thumbor.prod.vidiocdn.com/6RK8MD7AhvklffcbYta4DMpyeaM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4380418/39999d.jpg",
+      "start_time": "2025-06-27T07:00:00.000Z"
+    },
+    "4380419": {
+      "title": "ATP 250: Mallorca Championships presented by Ecotrans Group 2025 - Semifinal",
+      "web_url": "17875",
+      "cover_url": "https://thumbor.prod.vidiocdn.com/uk0URaQbiUCAcMPWASduNo51m1A=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4380419/565642.jpg",
+      "start_time": "2025-06-27T13:30:00.000Z"
     }
   }
 }
