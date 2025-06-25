@@ -1,9 +1,9 @@
 {
-  "time": "2025-06-25T19:48:39.570Z",
+  "time": "2025-06-25T20:03:42.421Z",
   "headers": {
     "luws": "77097D68-83C1-ECDD-27A5-208EDC00058E_22522467",
-    "x-signature": "ffe5abfd0405bb714c76997af98ba1a6e351d425b612358fd5dcd317b15e747f",
-    "x-client": 1750880918.267,
+    "x-signature": "50d740bda6a76ff16cd08ec9197bb7092b90cf49b0ccd111e3e484fb9781571a",
+    "x-client": 1750881821.243,
     "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/uV8oJX0QD9jfZ4xcWS38Oefri3/DrCWA3NsmqUjV7o4Zeuh9X/vLJUXQweqlL6IB60WUjdBpEE9ctwWkFvvOXI=",
     "x-secure-level": "2",
     "x-api-platform": "web-desktop",
@@ -13,11 +13,11 @@
     "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36",
     "x-user-email": "jeffrybp1991@gmail.com",
     "204-dash": null,
-    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1750895318~acl=/stream/204/file/*~id=allUsers~hmac=189cf875be2d7bfb137b30f30da8bf2ce5a2b9cb375ab2cb39e82095d027e2a7",
+    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1750896221~acl=/stream/204/file/*~id=allUsers~hmac=12000bcafefa77aeefa992bc3af412dc6443b7e4f0fea4fef137deba90743d11",
     "205-dash": null,
-    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1750895318~acl=/stream/205/file/*~id=allUsers~hmac=a9cb9a9dac6b968936de594a84c2ef0cdf44664312a1993fce8ce8d723300eb2",
-    "206-dash": "https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1750895318~acl=/stream/206/file/*~id=allUsers~hmac=38ec7340e17082f23bdd892f2300b8fdf2599d99e51c7023c7906e8cf9eeab11",
-    "206-hls": "https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1750895318~acl=/stream/206/file/*~id=allUsers~hmac=38ec7340e17082f23bdd892f2300b8fdf2599d99e51c7023c7906e8cf9eeab11",
+    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1750896221~acl=/stream/205/file/*~id=allUsers~hmac=c9a298020b3eeedb48dfb1f6e7552686bd73da2b4a1c211d06d5a3d7d684a9fe",
+    "206-dash": "https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1750896221~acl=/stream/206/file/*~id=allUsers~hmac=1dd8d8e88fe1bfdad6746023d07eb60d5d75e6c67b6ee555cf2c51cb74def3e1",
+    "206-hls": "https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1750896221~acl=/stream/206/file/*~id=allUsers~hmac=1dd8d8e88fe1bfdad6746023d07eb60d5d75e6c67b6ee555cf2c51cb74def3e1",
     "all-sections": "16890-17139-17140-17875-18190-18249-18250-18252-18253-18832-18834-18835-18851-18853-18954-18985-18994-206-6299-6317-6685-6786",
     "all-vidiolivetv": [
       {
@@ -733,12 +733,6 @@
       "web_url": "18835",
       "cover_url": "https://thumbor.prod.vidiocdn.com/64sg00cKYcw73eeg2pRdQcAyGuY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4380443/b0f684.jpg",
       "start_time": "2025-06-27T03:00:00.000Z"
-    },
-    "4380577": {
-      "title": "Men: Italy vs Poland - Volleyball Nations League",
-      "web_url": "206",
-      "cover_url": "https://thumbor.prod.vidiocdn.com/Ke4DikaeICw1y28Ej2lQNTb5bqg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4380577/410f52.jpg",
-      "start_time": "2025-06-25T17:23:00.000Z"
     },
     "4380581": {
       "title": "Men: Canada vs Brazil - Volleyball Nations League",
