@@ -1,7 +1,7 @@
 {
-  "time": "2025-06-25T06:55:20.189Z",
+  "time": "2025-06-25T07:05:20.534Z",
   "headers": {
-    "time": "2025-06-25T06:55:20.453Z",
+    "time": "2025-06-25T07:05:20.818Z",
     "source": "xhr",
     "url": "https://www.visionplus.id/iris/unifiedPolling?target=WEB",
     "request": {
@@ -15,7 +15,7 @@
         "iris-device-status": "ACTIVE",
         "iris-module-id": "izZQB12n",
         "iris-app-mode": "Normal",
-        "authorization": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1aWQiOjM0MTY2NjAsInR5IjoiVVNFUiIsInBjaSI6Ijk1MjM3IiwiaHdJZCI6ImVhOWQ4MWNkLTc1YWEtNDkyYi1hMzZiLTU2M2QwM2VlNzMwYSIsImV4cCI6MTc1MDg1MDg5OSwicG4iOiJNTkMiLCJjaWQiOjMyOTM3MTl9.FJVFR4ksRwq_kt65zBv4rcO_ohw9gN0JMOiPNW6pyCE",
+        "authorization": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1aWQiOjM0MTY2NjAsInR5IjoiVVNFUiIsInBjaSI6Ijk1MjM3IiwiaHdJZCI6ImVhOWQ4MWNkLTc1YWEtNDkyYi1hMzZiLTU2M2QwM2VlNzMwYSIsImV4cCI6MTc1MDg0NjI3OSwicG4iOiJNTkMiLCJjaWQiOjMyOTM3MTl9.ZU-BPUkX1YzfzOlEHfa_J_25LcPad6AwPPerx8k6QP0",
         "iris-profile-id": "1006775",
         "iris-endpoints-version": "VklSVFVBTF9DSEFOTkVMUz0xNjk1NjIyNzE1NTI2LE5PVElGSUNBVElPTl9TVUJTQ1JJUFRJT05TPTE3MzY2Njk0ODEyNDYsUEVSU09OQUxfQ0hBTk5FTF9MSVNUUz0xNzUwNjcxOTk4OTk5LFNVQlNDUklCRVJfU0VUVElOR1M9MTc1MDY3MTk5ODk5OSxQVVJDSEFTRV9MSVNUPTE3NTA2NzE5OTg5OTksVUlfREFUQT0xNzA3MTA1NTkwOTE5LFdJU0hfTElTVD0xNzA3MTA1NTkwOTE5LFVTRVJfREFUQT0xNzUwNjcxOTk4OTk5LFJFQ09SRElOR19MSVNUPTE3MDcxMDU1OTA5MTksWU9VX1dBVENIRUQ9MTcyNjEzODg3NDU0MixVU0VSX1BST0ZJTEU9MTcwNzEwNTczODEwNixTRUdNRU5UQVRJT049MTc1MDc3ODQyMDkxNCxQRVJTT05BTF9BQ1RJVkVfQ0hBTk5FTFM9MTc1MDY1MDk1NDI5MixERVZJQ0VfU0VUVElOR1M9MTc1MDY3MTk5ODk5OSxGQVZfQ0hBTk5FTF9MSVNUPTE3NTA2NzE5OTg5OTksQUNUSVZFX0NIQU5ORUxTPTE3NTA2NzE5OTg5OTk=",
         "content-type": "application/json"
@@ -29,20 +29,19 @@
         "access-control-allow-origin": "*",
         "access-control-expose-headers": "IRIS-SOURCE-ADDRESS, Authorization",
         "age": "0",
-        "authorization": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1aWQiOjM0MTY2NjAsInR5IjoiVVNFUiIsInBjaSI6Ijk1MjM3IiwiaHdJZCI6ImVhOWQ4MWNkLTc1YWEtNDkyYi1hMzZiLTU2M2QwM2VlNzMwYSIsImV4cCI6MTc1MDg0NjI3OSwicG4iOiJNTkMiLCJjaWQiOjMyOTM3MTl9.ZU-BPUkX1YzfzOlEHfa_J_25LcPad6AwPPerx8k6QP0",
+        "authorization": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1aWQiOjM0MTY2NjAsInR5IjoiVVNFUiIsInBjaSI6Ijk1MjM3IiwiaHdJZCI6ImVhOWQ4MWNkLTc1YWEtNDkyYi1hMzZiLTU2M2QwM2VlNzMwYSIsImV4cCI6MTc1MDg0NzkwMCwicG4iOiJNTkMiLCJjaWQiOjMyOTM3MTl9.ld0p2pYg9KSryq0BkV4vpsT69C-j-6l447OD_Pp7igo",
         "cache-control": "max-age=0",
         "content-encoding": "br",
-        "content-length": "165",
         "content-type": "application/json",
-        "date": "Wed, 25 Jun 2025 06:55:19 GMT",
+        "date": "Wed, 25 Jun 2025 07:05:20 GMT",
         "iris-cache-control": "600",
         "iris-disconnection-timeout": "604800",
         "iris-endpoints-version": "VklSVFVBTF9DSEFOTkVMUz0xNjk1NjIyNzE1NTI2LE5PVElGSUNBVElPTl9TVUJTQ1JJUFRJT05TPTE3MzY2Njk0ODEyNDYsUEVSU09OQUxfQ0hBTk5FTF9MSVNUUz0xNzUwNjcxOTk4OTk5LFNVQlNDUklCRVJfU0VUVElOR1M9MTc1MDY3MTk5ODk5OSxQVVJDSEFTRV9MSVNUPTE3NTA2NzE5OTg5OTksVUlfREFUQT0xNzA3MTA1NTkwOTE5LFdJU0hfTElTVD0xNzA3MTA1NTkwOTE5LFVTRVJfREFUQT0xNzUwNjcxOTk4OTk5LFJFQ09SRElOR19MSVNUPTE3MDcxMDU1OTA5MTksWU9VX1dBVENIRUQ9MTcyNjEzODg3NDU0MixVU0VSX1BST0ZJTEU9MTcwNzEwNTczODEwNixTRUdNRU5UQVRJT049MTc1MDc3ODQyMDkxNCxQRVJTT05BTF9BQ1RJVkVfQ0hBTk5FTFM9MTc1MDY1MDk1NDI5MixERVZJQ0VfU0VUVElOR1M9MTc1MDY3MTk5ODk5OSxGQVZfQ0hBTk5FTF9MSVNUPTE3NTA2NzE5OTg5OTksQUNUSVZFX0NIQU5ORUxTPTE3NTA2NzE5OTg5OTk=",
         "iris-source-address": "124.158.150.102",
         "server": "ATS/7.1.0 Ingress/1.0.0-alpha9",
         "vary": "Accept-Encoding",
-        "via": "http/1.1 trafficserver-7876f7c99b-96r5g (ATS/7.1.0 Ingress/1.0.0-alpha9), 1.1 0350bcc5158e7a7188f8505b95081286.cloudfront.net (CloudFront)",
-        "x-amz-cf-id": "CMWu76TPBQQRbp02yi2VxG7XLxWwUykegnggqs1Z8WxK_l4M96wrYQ==",
+        "via": "http/1.1 trafficserver-7876f7c99b-7m97h (ATS/7.1.0 Ingress/1.0.0-alpha9), 1.1 f7caf16a2d753babfb1d264f0586f374.cloudfront.net (CloudFront)",
+        "x-amz-cf-id": "dyB4W66mCtAGujjSjG1YluTSVHtCUkdM1f_bBsH4hvxa5pOxZ-H1tw==",
         "x-amz-cf-pop": "SIN52-P1",
         "x-cache": "Miss from cloudfront",
         "x-cache-status": "skipped (-1)"
