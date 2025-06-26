@@ -1,9 +1,9 @@
 {
-  "time": "2025-06-26T11:00:18.530Z",
+  "time": "2025-06-26T11:15:21.541Z",
   "headers": {
     "luws": "77097D68-83C1-ECDD-27A5-208EDC00058E_22522467",
-    "x-signature": "153b2919d5054c9dbc5b052acab99bade654e2b6d3bd6a12663ff1eaf39bf66a",
-    "x-client": 1750935616.095,
+    "x-signature": "71a88d52a5bd5377553b60a584a53f93a1fb8e54a61d23875ccc0a866a53bdc2",
+    "x-client": 1750936519.917,
     "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/vKopbtpIU8aTvnmkl8zqyK/nxVLqaOM7rGXdZpG8beWTRexK5slvX8h3FuYA1mTijn0u97fpSx+WLyeYYYtmhk=",
     "x-secure-level": "2",
     "x-api-platform": "web-desktop",
@@ -13,11 +13,11 @@
     "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36",
     "x-user-email": "jeffrybp1991@gmail.com",
     "204-dash": null,
-    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1750950016~acl=/stream/204/file/*~id=allUsers~hmac=efd7776e4695a0226445f4782b6391f6626d4f876641a0b682a890117afd5224",
+    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1750950919~acl=/stream/204/file/*~id=allUsers~hmac=ff6b3f8c29da7b710fed3b48276d7839c01b47055b769cdc448a447143255536",
     "205-dash": null,
-    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1750950016~acl=/stream/205/file/*~id=allUsers~hmac=6bd597011ebbd90c255519669ec4399e3bea3285bed721d7e00f98d90861f27f",
-    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1750950016~acl=/stream/206/file/*~id=allUsers~hmac=c8588da6564be43eed0a4f1394d43f90189c8e0f4b864d9a3b11049ebe546d0f",
-    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1750950016~acl=/stream/206/file/*~id=allUsers~hmac=c8588da6564be43eed0a4f1394d43f90189c8e0f4b864d9a3b11049ebe546d0f",
+    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1750950919~acl=/stream/205/file/*~id=allUsers~hmac=a28c8e6c057e56029b4c404290bd1d7ec6862a92986e7726f43a940312f9ef99",
+    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1750950919~acl=/stream/206/file/*~id=allUsers~hmac=a7ba3d28be86165279d263cdbb45cc995b556aa24a692974f0a7eb8a048217f9",
+    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1750950919~acl=/stream/206/file/*~id=allUsers~hmac=a7ba3d28be86165279d263cdbb45cc995b556aa24a692974f0a7eb8a048217f9",
     "all-sections": "16890-17139-17140-17875-17884-18189-18190-18249-18250-18252-18253-18833-18834-18835-18851-18853-18985-18994-206-6299-6317-6685-6786",
     "all-vidiolivetv": [
       {
@@ -819,6 +819,12 @@
       "web_url": "17939",
       "cover_url": "https://thumbor.prod.vidiocdn.com/X-RqLAcQNAoAqhhYdA6L240KI50=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17939/serie-a-4cc90b.jpg",
       "start_time": "2024-10-20T12:45:00.000Z"
+    },
+    "18985": {
+      "title": "Boys: Orkhon Aimag General Education 1st High School (MNG) vs Tsinghua University High School (CHN) - NBA Rising Invitational",
+      "web_url": "18985",
+      "cover_url": "https://thumbor.prod.vidiocdn.com/Au8IycJkwsxdj_AEkNZTGcw_blE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4378006/c1b8a3.jpg",
+      "start_time": "2025-06-26T11:10:00.000Z"
     }
   }
 }
