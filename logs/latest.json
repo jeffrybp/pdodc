@@ -1,9 +1,9 @@
 {
-  "time": "2025-06-26T13:15:45.630Z",
+  "time": "2025-06-26T13:30:48.984Z",
   "headers": {
     "luws": "77097D68-83C1-ECDD-27A5-208EDC00058E_22522467",
-    "x-signature": "7cbaf78043ad407e3ffb7bc9757bca8b694ada4e93de3b454423637da0b4364e",
-    "x-client": 1750943743.177,
+    "x-signature": "6130ce3e46a0ed45887887227cf75c1539ae330b45d45fa06790ce07a63703b4",
+    "x-client": 1750944647.108,
     "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/vKopbtpIU8aTvnmkl8zqyK/nxVLqaOM7rGXdZpG8beWTRexK5slvX8h3FuYA1mTijn0u97fpSx+WLyeYYYtmhk=",
     "x-secure-level": "2",
     "x-api-platform": "web-desktop",
@@ -13,11 +13,11 @@
     "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36",
     "x-user-email": "jeffrybp1991@gmail.com",
     "204-dash": null,
-    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1750958143~acl=/stream/204/file/*~id=allUsers~hmac=c3cd2d8cabfa53c00155f91d34e884f5cbfe00765c09a982f9f7612e28dabd06",
+    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1750959046~acl=/stream/204/file/*~id=allUsers~hmac=000f02d30d2928c913ceebfdb6ea7376f4b450987afc9a36efeb9f5e72bf6969",
     "205-dash": null,
-    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1750958143~acl=/stream/205/file/*~id=allUsers~hmac=e49c36c2f6d857fd05faa7f1efe34c37dd0ee170da1f6f528f2fd02bd2726d4f",
-    "206-dash": "https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1750958143~acl=/stream/206/file/*~id=allUsers~hmac=777e7bf451973cd8f95e804c04890fd934ff2ad88ebf5e35490345ccbf970105",
-    "206-hls": "https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1750958143~acl=/stream/206/file/*~id=allUsers~hmac=777e7bf451973cd8f95e804c04890fd934ff2ad88ebf5e35490345ccbf970105",
+    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1750959046~acl=/stream/205/file/*~id=allUsers~hmac=3a2d776ca952c7cee2ed257d52e85b39b41cc3a5850fa1c16c46a3d467a8c707",
+    "206-dash": "https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1750959046~acl=/stream/206/file/*~id=allUsers~hmac=8d61c02aa33b13251af9aa44073b3d5b9cda87c74eadffd3036c5515b6599076",
+    "206-hls": "https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1750959046~acl=/stream/206/file/*~id=allUsers~hmac=8d61c02aa33b13251af9aa44073b3d5b9cda87c74eadffd3036c5515b6599076",
     "all-sections": "16890-17139-17140-17875-17884-18189-18190-18249-18250-18252-18253-18833-18834-18835-18851-18853-18985-18994-206-6299-6317-6685-6786",
     "all-vidiolivetv": [
       {
@@ -807,12 +807,6 @@
       "web_url": "17939",
       "cover_url": "https://thumbor.prod.vidiocdn.com/X-RqLAcQNAoAqhhYdA6L240KI50=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17939/serie-a-4cc90b.jpg",
       "start_time": "2024-10-20T12:45:00.000Z"
-    },
-    "19003": {
-      "title": "Penjelasan KPK Soal Penggeledahan BRI",
-      "web_url": "19003",
-      "cover_url": "https://thumbor.prod.vidiocdn.com/7mNUMluUQ4ZgGxwT_uW346kchE0=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/19003/breaking-news-99eddd.jpg",
-      "start_time": "2025-06-26T13:05:00.000Z"
     }
   }
 }
