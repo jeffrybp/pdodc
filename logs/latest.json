@@ -1,9 +1,9 @@
 {
-  "time": "2025-06-26T11:45:27.348Z",
+  "time": "2025-06-26T12:00:30.841Z",
   "headers": {
     "luws": "77097D68-83C1-ECDD-27A5-208EDC00058E_22522467",
-    "x-signature": "5fda0ce33cfffd96b63f0db854f8720b68eb3e089fdac7c9de6dd75acc70f510",
-    "x-client": 1750938324.682,
+    "x-signature": "6f698f46328f3c97c042d2a00fd225d753926e8b0f5833ff9fc17aceaa73a160",
+    "x-client": 1750939227.632,
     "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/vKopbtpIU8aTvnmkl8zqyK/nxVLqaOM7rGXdZpG8beWTRexK5slvX8h3FuYA1mTijn0u97fpSx+WLyeYYYtmhk=",
     "x-secure-level": "2",
     "x-api-platform": "web-desktop",
@@ -13,11 +13,11 @@
     "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36",
     "x-user-email": "jeffrybp1991@gmail.com",
     "204-dash": null,
-    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1750952724~acl=/stream/204/file/*~id=allUsers~hmac=4ae2aa5f045ff99e59f9a6462b81c50e3a55d6ceab0e607ea884d7e0a69142f0",
+    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1750953627~acl=/stream/204/file/*~id=allUsers~hmac=f959d4c1c6545c10b6288564275c178585eb0e803a377d099bf689dacd627d55",
     "205-dash": null,
-    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1750952725~acl=/stream/205/file/*~id=allUsers~hmac=952de2447f083fbac428333aaaf3e076a7cf2ac9183cc8c7c3b2c84f5ee7b100",
-    "206-dash": "https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1750952725~acl=/stream/206/file/*~id=allUsers~hmac=f2c0f1ee573f45ab409c6c5f43533170db9b773863708461d1fd4c679fe7af19",
-    "206-hls": "https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1750952725~acl=/stream/206/file/*~id=allUsers~hmac=f2c0f1ee573f45ab409c6c5f43533170db9b773863708461d1fd4c679fe7af19",
+    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1750953628~acl=/stream/205/file/*~id=allUsers~hmac=1f407dfe092be0a9917fb11b2b9a97e83f2db3ee296b92ab81ef78ef55617101",
+    "206-dash": "https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1750953628~acl=/stream/206/file/*~id=allUsers~hmac=aa958e4bc9ef646046c7290301fcfb8cf31aa76c21e099c95d4a30ada37bb2a5",
+    "206-hls": "https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1750953628~acl=/stream/206/file/*~id=allUsers~hmac=aa958e4bc9ef646046c7290301fcfb8cf31aa76c21e099c95d4a30ada37bb2a5",
     "all-sections": "16890-17139-17140-17875-17884-18189-18190-18249-18250-18252-18253-18833-18834-18835-18851-18853-18985-18994-206-6299-6317-6685-6786",
     "all-vidiolivetv": [
       {
@@ -752,12 +752,6 @@
       "cover_url": "https://thumbor.prod.vidiocdn.com/J0ZS281xhk4UZVi8454dhXQ0ZuE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4382371/07a3e5.jpg",
       "start_time": "2025-06-27T14:55:00.000Z"
     },
-    "4382384": {
-      "title": "ATP 250: Lexus Eastbourne Open 2025 - Day 3",
-      "web_url": "6299",
-      "cover_url": "https://thumbor.prod.vidiocdn.com/ynwQwUrOKuhgdSwFXyu4hLtqBOw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4382384/c239bc.jpg",
-      "start_time": "2025-06-26T11:00:00.000Z"
-    },
     "4382416": {
       "title": "Men: Serbia vs Cuba - Volleyball Nations League",
       "web_url": "206",
@@ -825,6 +819,12 @@
       "web_url": "18985",
       "cover_url": "https://thumbor.prod.vidiocdn.com/Au8IycJkwsxdj_AEkNZTGcw_blE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4378006/c1b8a3.jpg",
       "start_time": "2025-06-26T11:10:00.000Z"
+    },
+    "19003": {
+      "title": "Penjelasan KPK Soal Penggeledahan BRI",
+      "web_url": "19003",
+      "cover_url": "https://thumbor.prod.vidiocdn.com/7mNUMluUQ4ZgGxwT_uW346kchE0=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/19003/breaking-news-99eddd.jpg",
+      "start_time": "2025-06-26T13:15:00.000Z"
     }
   }
 }
