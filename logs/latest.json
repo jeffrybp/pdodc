@@ -1,9 +1,9 @@
 {
-  "time": "2025-06-26T06:30:09.296Z",
+  "time": "2025-06-26T06:32:59.556Z",
   "headers": {
     "luws": "77097D68-83C1-ECDD-27A5-208EDC00058E_22522467",
-    "x-signature": "b55cb6a3c048a43db860c8d446eaab71d62a20a2fbfab9ed1f479d0049989c62",
-    "x-client": 1750919409.049,
+    "x-signature": "a38da0460ab4e613556430507c70bb313c87739482d232770450f9a1eede69ed",
+    "x-client": 1750919579.316,
     "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/vKopbtpIU8aTvnmkl8zqyK/nxVLqaOM7rGXdZpG8beWTRexK5slvX8h3FuYA1mTijn0u97fpSx+WLyeYYYtmhk=",
     "x-secure-level": "2",
     "x-api-platform": "web-desktop",
@@ -12,12 +12,6 @@
     "cookie": "ahoy_visitor=6e3be2bd-3fee-4c75-b69b-28bbf54baae8; g_state={\"i_p\":1750688736787,\"i_l\":2}; plenty_id=22522467; ahoy_visit=26bd527f-bc8b-433a-a38b-ea14b6878ffd; __uid_2=%7B%22advertising_token%22%3A%22A4AAABKBfFVW8FEFzCA00v7eWDk6viCehSw00buEtOM2t8hTe7NHfY7RiqHiMOVZoJPrzQnDzk9Ycx-ceE3xo7m7rxe3Odo604Pnng2HFrfqK9mDSP4v2KQVuaw4E2Wp11arHDB5srM7xtakG-kQPmN0Wqk_kqbBiJjmQW9cT2zZk50nxuA7NkNuJLGfSRRR7dn_QI7Hqtm-ljexWXGfYVd1rA%22%2C%22refresh_token%22%3A%22AAAAEoJgLj3MSYu0pYJokoRHklgB3ZmzAX%2F78S%2Fniq4C57D2DMqEigAw5VAa59wXgG%2FK4laWRAjj5w7JFK0FjNKySrAI61V8l5S3kI%2FP2gvURvEd6atuGLEw%2Fc%2BzrV5p7UBKCUByjmp8s8QuQGbO9Z0O2NerVqa6jtV03wxNDWdZ0eAUaCzUNMublspJcEdyo%2Bu3mwtVQAx%2FII9x%2BduVFhl0Fcl8Z2sobk7pFnGsgDhWT1shzwjzvU4JjKh1m72lo%2FnY0KcdbIFXnhwyWLPAeFgN%2FDc4NQQGAN%2BCdQeq9bjf07F%2B4A4lSsTpC0IYGB3Mgdq%2FrKxnHZRe3%2F94TonD1Offq1BBbdTebVmsjJ7OvF9nLcpJUD%2Bkkd%2BDzzANXWg4XUKZ%22%2C%22identity_expires%22%3A1750994781000%2C%22refresh_expires%22%3A1753327581000%2C%22refresh_from%22%3A1750739181000%2C%22refresh_response_key%22%3A%22vR56VjKzDhTMLzp3B5GFnyyP6DX5frZuRNnu7dVBQpY%3D%22%7D; luws=77097D68-83C1-ECDD-27A5-208EDC00058E_22522467; country_id=ID; shva=1; _vidio_session=xxx;",
     "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36",
     "x-user-email": "jeffrybp1991@gmail.com",
-    "204-dash": null,
-    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1750933808~acl=/stream/204/file/*~id=allUsers~hmac=00c6bea331c1fee3146fb59f0f9a3ce4c9d8482f727153a7d8bbd92ccb1c42f1",
-    "205-dash": null,
-    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1750933808~acl=/stream/205/file/*~id=allUsers~hmac=3d2923487286719a2384291aab950f0efb5760ff51a0c0f6e8ca5ef576230b35",
-    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1750933809~acl=/stream/206/file/*~id=allUsers~hmac=713975bea31e6e78c1bf4601c638504827211a86dbdc82feb1f42f3061ccd25c",
-    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1750933809~acl=/stream/206/file/*~id=allUsers~hmac=713975bea31e6e78c1bf4601c638504827211a86dbdc82feb1f42f3061ccd25c",
     "all-sections": "16890-17139-17140-17875-17884-18190-18249-18250-18252-18834-18835-18851-18985-18994-206-6299-6317-6685-6786",
     "all-vidiolivetv": [
       {
