@@ -1,9 +1,9 @@
 {
-  "time": "2025-06-26T19:01:55.984Z",
+  "time": "2025-06-26T19:16:58.821Z",
   "headers": {
     "luws": "77097D68-83C1-ECDD-27A5-208EDC00058E_22522467",
-    "x-signature": "5c2f5cb653af1d08d5a0d7b5acc206314e9886b22f3bd4f3ad1b893ee9b9c99d",
-    "x-client": 1750964514.438,
+    "x-signature": "de6b8debcfdc27a49380abba5afc85fe8b64fa0b51203d64e5bd7d8931bdb674",
+    "x-client": 1750965417.39,
     "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/vKopbtpIU8aTvnmkl8zqyK/nxVLqaOM7rGXdZpG8beWTRexK5slvX8h3FuYA1mTijn0u97fpSx+WLyeYYYtmhk=",
     "x-secure-level": "2",
     "x-api-platform": "web-desktop",
@@ -13,11 +13,11 @@
     "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36",
     "x-user-email": "jeffrybp1991@gmail.com",
     "204-dash": null,
-    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1750978914~acl=/stream/204/file/*~id=allUsers~hmac=1c4e1fa107a8e1f029e90a9303adbec00471121e813a7758509058091faab8ff",
+    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1750979816~acl=/stream/204/file/*~id=allUsers~hmac=767a6eca1adeb9a24921e1de08e97f98629a7f07e022a11a5eae7ca175e666a3",
     "205-dash": null,
-    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1750978914~acl=/stream/205/file/*~id=allUsers~hmac=a3422478771d7480424b62f0000930b90649fd1053e0f4f8b2aa0484764ea9cb",
-    "206-dash": "https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1750978914~acl=/stream/206/file/*~id=allUsers~hmac=16e4b9f1c37e94bb86642ed0402f237529973249d96a27eb45268cb9e65665c9",
-    "206-hls": "https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1750978914~acl=/stream/206/file/*~id=allUsers~hmac=16e4b9f1c37e94bb86642ed0402f237529973249d96a27eb45268cb9e65665c9",
+    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1750979817~acl=/stream/205/file/*~id=allUsers~hmac=ffe1204125457a629eb49f3376cd38dbc8eab98acbc03d4e2357f2f0152d890f",
+    "206-dash": "https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1750979817~acl=/stream/206/file/*~id=allUsers~hmac=f9598074a30fb0bf58551510c0ce107646496f1589dab7f56b58f05fd3364d3d",
+    "206-hls": "https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1750979817~acl=/stream/206/file/*~id=allUsers~hmac=f9598074a30fb0bf58551510c0ce107646496f1589dab7f56b58f05fd3364d3d",
     "all-sections": "16890-17140-17875-17884-18189-18190-18249-18250-18252-18253-18833-18834-18835-18851-18853-18985-18994-206-6299-6317-6685-6786",
     "all-vidiolivetv": [
       {
@@ -489,7 +489,7 @@
   },
   "sections": {
     "18249": {
-      "title": "Su Li Yang (TPE) vs Victor Lai (CAN) - Men's Singles Round of 16 | Yonex US Open 2025",
+      "title": "Po Li-Wei/Chang Ching Hui (TPE) vs Presley Smith/Jennie Gai (USA) - Mixed Doubles Round of 16 | Yonex US Open 2025",
       "web_url": "18249",
       "cover_url": "https://thumbor.prod.vidiocdn.com/Mz7kxlZVk5_kQDt76lczZDjxAls=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18249/yonex-us-open-2025-round-of-32-court-1-5e6d5f.jpg",
       "start_time": "2025-06-26T17:00:00.000Z"
@@ -529,12 +529,6 @@
       "web_url": "6299",
       "cover_url": "https://thumbor.prod.vidiocdn.com/E776O5ldxu8yGQdKlgNrZdT-nDw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4378007/305aa0.jpg",
       "start_time": "2025-06-26T15:00:00.000Z"
-    },
-    "4378010": {
-      "title": "WTA 500: Bad Homburg Open 2025 - Quarterfinal",
-      "web_url": "6786",
-      "cover_url": "https://thumbor.prod.vidiocdn.com/AeCiKKV7hXjnnUaP22f85jP3Ooc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4378010/7b5cde.jpg",
-      "start_time": "2025-06-26T09:30:00.000Z"
     },
     "4380402": {
       "title": "Moto3 Free Practice 1: MotoGP 2025 Round 10 - Motul Grand Prix of the Netherlands",
@@ -851,7 +845,7 @@
       "start_time": "2024-10-20T12:45:00.000Z"
     },
     "18249": {
-      "title": "Su Li Yang (TPE) vs Victor Lai (CAN) - Men's Singles Round of 16 | Yonex US Open 2025",
+      "title": "Po Li-Wei/Chang Ching Hui (TPE) vs Presley Smith/Jennie Gai (USA) - Mixed Doubles Round of 16 | Yonex US Open 2025",
       "web_url": "18249",
       "cover_url": "https://thumbor.prod.vidiocdn.com/Mz7kxlZVk5_kQDt76lczZDjxAls=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18249/yonex-us-open-2025-round-of-32-court-1-5e6d5f.jpg",
       "start_time": "2025-06-26T17:00:00.000Z"
