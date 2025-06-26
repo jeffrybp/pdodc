@@ -1,9 +1,9 @@
 {
-  "time": "2025-06-26T05:05:34.323Z",
+  "time": "2025-06-26T05:20:38.217Z",
   "headers": {
     "luws": "77097D68-83C1-ECDD-27A5-208EDC00058E_22522467",
-    "x-signature": "d9f71282c3fb3ae91c6433b7b2b04e0105e751bba895d4e3824a2078748731c8",
-    "x-client": 1750914333.831,
+    "x-signature": "c3bd5ac8f4d85108da78704a845942561e6140b73f34bf549f0ffb0b30dbe883",
+    "x-client": 1750915236.732,
     "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/vKopbtpIU8aTvnmkl8zqyK/nxVLqaOM7rGXdZpG8beWTRexK5slvX8h3FuYA1mTijn0u97fpSx+WLyeYYYtmhk=",
     "x-secure-level": "2",
     "x-api-platform": "web-desktop",
@@ -13,12 +13,12 @@
     "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36",
     "x-user-email": "jeffrybp1991@gmail.com",
     "204-dash": null,
-    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1750928732~acl=/stream/204/file/*~id=allUsers~hmac=4053a895c96a9e13c5677f0e2a175a41e9701958821d79226917b0f055742810",
+    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1750929636~acl=/stream/204/file/*~id=allUsers~hmac=4a658d8ccf2c14aeac86e3cea741a64536c6bffb11c41b58c023f86401c40e71",
     "205-dash": null,
-    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1750928732~acl=/stream/205/file/*~id=allUsers~hmac=5df4a2610ed856ae18a77916fd4b8550bd431d79d1292ae16fe0bc87811e0fbf",
-    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1750928732~acl=/stream/206/file/*~id=allUsers~hmac=b4a4ca1a7442ac435b52311ad92dcb06a03b917c539ab73016c418bccef64ece",
-    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1750928732~acl=/stream/206/file/*~id=allUsers~hmac=b4a4ca1a7442ac435b52311ad92dcb06a03b917c539ab73016c418bccef64ece",
-    "all-sections": "16890-17139-17140-17875-17884-18190-18834-18835-18851-18985-18994-206-6299-6317-6685-6786",
+    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1750929636~acl=/stream/205/file/*~id=allUsers~hmac=8969892ce6eae77c8d42132e41bc10f462000a37facdba39ddeda1185ab2489b",
+    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1750929636~acl=/stream/206/file/*~id=allUsers~hmac=76854ddcaa0380ba28931d1fb68dde5fae75a5986d00726cecc220d7366eedf1",
+    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1750929636~acl=/stream/206/file/*~id=allUsers~hmac=76854ddcaa0380ba28931d1fb68dde5fae75a5986d00726cecc220d7366eedf1",
+    "all-sections": "16890-17139-17140-17875-17884-18190-18834-18851-18985-18994-206-6299-6317-6685-6786",
     "all-vidiolivetv": [
       {
         "content_id": 204,
@@ -685,12 +685,6 @@
       "web_url": "18190",
       "cover_url": "https://thumbor.prod.vidiocdn.com/ASad3A23-iMiKkWQUiFdGtGd2cM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4380442/c8156b.jpg",
       "start_time": "2025-06-27T15:00:00.000Z"
-    },
-    "4380443": {
-      "title": "Byon Combat Showbiz Vol.5: Weigh-In + Press Conference",
-      "web_url": "18835",
-      "cover_url": "https://thumbor.prod.vidiocdn.com/64sg00cKYcw73eeg2pRdQcAyGuY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4380443/b0f684.jpg",
-      "start_time": "2025-06-27T03:00:00.000Z"
     },
     "4380582": {
       "title": "Men: France vs Japan - Volleyball Nations League",
