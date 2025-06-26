@@ -1,9 +1,9 @@
 {
-  "time": "2025-06-26T08:36:58.870Z",
+  "time": "2025-06-26T08:48:51.980Z",
   "headers": {
     "luws": "77097D68-83C1-ECDD-27A5-208EDC00058E_22522467",
-    "x-signature": "e12150d4aef4162beac514836852797b25767eca1ecd171324443711fe3f30f9",
-    "x-client": 1750927017.668,
+    "x-signature": "2e9aa6096d63ea1dcab7f98b10b05ffa9dc2257a3dd17304db64ba668613191b",
+    "x-client": 1750927729.314,
     "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/vKopbtpIU8aTvnmkl8zqyK/nxVLqaOM7rGXdZpG8beWTRexK5slvX8h3FuYA1mTijn0u97fpSx+WLyeYYYtmhk=",
     "x-secure-level": "2",
     "x-api-platform": "web-desktop",
@@ -12,12 +12,6 @@
     "cookie": "ahoy_visitor=6e3be2bd-3fee-4c75-b69b-28bbf54baae8; g_state={\"i_p\":1750688736787,\"i_l\":2}; plenty_id=22522467; ahoy_visit=26bd527f-bc8b-433a-a38b-ea14b6878ffd; __uid_2=%7B%22advertising_token%22%3A%22A4AAABKBfFVW8FEFzCA00v7eWDk6viCehSw00buEtOM2t8hTe7NHfY7RiqHiMOVZoJPrzQnDzk9Ycx-ceE3xo7m7rxe3Odo604Pnng2HFrfqK9mDSP4v2KQVuaw4E2Wp11arHDB5srM7xtakG-kQPmN0Wqk_kqbBiJjmQW9cT2zZk50nxuA7NkNuJLGfSRRR7dn_QI7Hqtm-ljexWXGfYVd1rA%22%2C%22refresh_token%22%3A%22AAAAEoJgLj3MSYu0pYJokoRHklgB3ZmzAX%2F78S%2Fniq4C57D2DMqEigAw5VAa59wXgG%2FK4laWRAjj5w7JFK0FjNKySrAI61V8l5S3kI%2FP2gvURvEd6atuGLEw%2Fc%2BzrV5p7UBKCUByjmp8s8QuQGbO9Z0O2NerVqa6jtV03wxNDWdZ0eAUaCzUNMublspJcEdyo%2Bu3mwtVQAx%2FII9x%2BduVFhl0Fcl8Z2sobk7pFnGsgDhWT1shzwjzvU4JjKh1m72lo%2FnY0KcdbIFXnhwyWLPAeFgN%2FDc4NQQGAN%2BCdQeq9bjf07F%2B4A4lSsTpC0IYGB3Mgdq%2FrKxnHZRe3%2F94TonD1Offq1BBbdTebVmsjJ7OvF9nLcpJUD%2Bkkd%2BDzzANXWg4XUKZ%22%2C%22identity_expires%22%3A1750994781000%2C%22refresh_expires%22%3A1753327581000%2C%22refresh_from%22%3A1750739181000%2C%22refresh_response_key%22%3A%22vR56VjKzDhTMLzp3B5GFnyyP6DX5frZuRNnu7dVBQpY%3D%22%7D; luws=77097D68-83C1-ECDD-27A5-208EDC00058E_22522467; country_id=ID; shva=1; _vidio_session=xxx;",
     "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36",
     "x-user-email": "jeffrybp1991@gmail.com",
-    "204-dash": null,
-    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1750941417~acl=/stream/204/file/*~id=allUsers~hmac=7cc6f2e134a0de36ca0d05440aea5a54e7e2d1ae339d222510451e7bfc4b9ee1",
-    "205-dash": null,
-    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1750941417~acl=/stream/205/file/*~id=allUsers~hmac=97c59d022c4626bf1f98d2166a7e78efa1e113f9d0905f9201d98e29e9c37c67",
-    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1750941417~acl=/stream/206/file/*~id=allUsers~hmac=59918e99bdbc9ca2f310e65a9fd8695ffc208400901a30a361ab65e2f2305f08",
-    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1750941417~acl=/stream/206/file/*~id=allUsers~hmac=59918e99bdbc9ca2f310e65a9fd8695ffc208400901a30a361ab65e2f2305f08",
     "all-sections": "16890-17139-17140-17875-17884-18189-18190-18249-18250-18252-18253-18833-18834-18835-18851-18853-18985-18994-206-6299-6317-6685-6786",
     "all-vidiolivetv": [
       {
@@ -494,28 +488,22 @@
       "cover_url": "https://thumbor.prod.vidiocdn.com/gEtos_z5sTIwPYaCNtHUMYJObLo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4378005/bb4844.jpg",
       "start_time": "2025-06-26T07:00:00.000Z"
     },
-    "section-4840-livestreaming_schedule-4378003": {
-      "title": "Boys: Fukuoka University Ohori Senior High School (JPN) vs Hin Hua High School (MAS) - NBA Rising Invitational",
-      "web_url": "18985",
-      "cover_url": "https://thumbor.prod.vidiocdn.com/I66T-T5J8zrJIG_Eg4EECi0gd9A=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4378003/a2932a.jpg",
-      "start_time": "2025-06-26T07:10:00.000Z"
-    },
     "section-4840-livestreaming_schedule-4378004": {
       "title": "Girls: Kyoto Seika Gakuen Senior High School Women (JPN) vs Hwa Chong Institution (SGP) - NBA Rising Invitational",
       "web_url": "18985",
       "cover_url": "https://thumbor.prod.vidiocdn.com/sioCSjzMj5ERdslYK8AhkMz8vBc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4378004/825ef5.jpg",
       "start_time": "2025-06-26T09:10:00.000Z"
     },
-    "section-4840-livestreaming_schedule-4378010": {
-      "title": "WTA 500: Bad Homburg Open 2025 - Quarterfinal",
-      "web_url": "6786",
-      "cover_url": "https://thumbor.prod.vidiocdn.com/AeCiKKV7hXjnnUaP22f85jP3Ooc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4378010/7b5cde.jpg",
-      "start_time": "2025-06-26T09:30:00.000Z"
-    },
     "section-4840-livestreaming_schedule-4378002": {
       "title": "ATP 250: Mallorca Championships presented by Ecotrans Group 2025 - Quarter Final",
       "web_url": "17875",
       "cover_url": "https://thumbor.prod.vidiocdn.com/tbDrE60bcBSaTemeycsE_7tNaLI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4378002/04f633.jpg",
+      "start_time": "2025-06-26T09:30:00.000Z"
+    },
+    "section-4840-livestreaming_schedule-4378010": {
+      "title": "WTA 500: Bad Homburg Open 2025 - Quarterfinal",
+      "web_url": "6786",
+      "cover_url": "https://thumbor.prod.vidiocdn.com/AeCiKKV7hXjnnUaP22f85jP3Ooc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4378010/7b5cde.jpg",
       "start_time": "2025-06-26T09:30:00.000Z"
     },
     "section-4840-livestreaming_schedule-4377996": {
@@ -793,6 +781,12 @@
       "web_url": "18190",
       "cover_url": "https://thumbor.prod.vidiocdn.com/ASad3A23-iMiKkWQUiFdGtGd2cM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4380442/c8156b.jpg",
       "start_time": "2025-06-27T15:00:00.000Z"
+    },
+    "section-4840-livestreaming_schedule-4382546": {
+      "title": "Men: Bulgaria vs Slovenia - Volleyball Nations League",
+      "web_url": "18851",
+      "cover_url": "https://thumbor.prod.vidiocdn.com/bO0d97tdAbk71A7ndxBpBTKUXM8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4382546/66eea1.jpg",
+      "start_time": "2025-06-27T16:30:00.000Z"
     },
     "section-4840-livestreaming-18833": {
       "title": "Prastio vs Samuel Tehuayo - Pro Boxing Super Bantamweight - Byon Combat Showbiz Vol.5",
