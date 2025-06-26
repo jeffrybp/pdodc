@@ -1,9 +1,9 @@
 {
-  "time": "2025-06-26T18:46:53.861Z",
+  "time": "2025-06-26T19:01:55.984Z",
   "headers": {
     "luws": "77097D68-83C1-ECDD-27A5-208EDC00058E_22522467",
-    "x-signature": "96585905c5dbabfe3b11fc73a6973f4bf0fc2c9ba1ecd39eb88414a2e179db2a",
-    "x-client": 1750963611.471,
+    "x-signature": "5c2f5cb653af1d08d5a0d7b5acc206314e9886b22f3bd4f3ad1b893ee9b9c99d",
+    "x-client": 1750964514.438,
     "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/vKopbtpIU8aTvnmkl8zqyK/nxVLqaOM7rGXdZpG8beWTRexK5slvX8h3FuYA1mTijn0u97fpSx+WLyeYYYtmhk=",
     "x-secure-level": "2",
     "x-api-platform": "web-desktop",
@@ -13,11 +13,11 @@
     "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36",
     "x-user-email": "jeffrybp1991@gmail.com",
     "204-dash": null,
-    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1750978011~acl=/stream/204/file/*~id=allUsers~hmac=292f5dbe293be46b9980c6fff53f3be0e1a9fa5c539ef3a93ecf5244ec82ba75",
+    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1750978914~acl=/stream/204/file/*~id=allUsers~hmac=1c4e1fa107a8e1f029e90a9303adbec00471121e813a7758509058091faab8ff",
     "205-dash": null,
-    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1750978011~acl=/stream/205/file/*~id=allUsers~hmac=aff4969970a078be48b242060f07385128b1b486ab792c06bcee44acbcf67076",
-    "206-dash": "https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1750978011~acl=/stream/206/file/*~id=allUsers~hmac=016d485a15707d1a868c0c08ceb560e6b4f0d17cca2506a2aff59dc463122f51",
-    "206-hls": "https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1750978011~acl=/stream/206/file/*~id=allUsers~hmac=016d485a15707d1a868c0c08ceb560e6b4f0d17cca2506a2aff59dc463122f51",
+    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1750978914~acl=/stream/205/file/*~id=allUsers~hmac=a3422478771d7480424b62f0000930b90649fd1053e0f4f8b2aa0484764ea9cb",
+    "206-dash": "https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1750978914~acl=/stream/206/file/*~id=allUsers~hmac=16e4b9f1c37e94bb86642ed0402f237529973249d96a27eb45268cb9e65665c9",
+    "206-hls": "https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1750978914~acl=/stream/206/file/*~id=allUsers~hmac=16e4b9f1c37e94bb86642ed0402f237529973249d96a27eb45268cb9e65665c9",
     "all-sections": "16890-17140-17875-17884-18189-18190-18249-18250-18252-18253-18833-18834-18835-18851-18853-18985-18994-206-6299-6317-6685-6786",
     "all-vidiolivetv": [
       {
@@ -523,12 +523,6 @@
       "web_url": "18834",
       "cover_url": "https://thumbor.prod.vidiocdn.com/0FVMDw6JH4HKhqaZp9QPYLbKqw8=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18834/byon-combat-showbiz-vol-5-4b168f.jpg",
       "start_time": "2025-06-28T09:00:00.000Z"
-    },
-    "4377993": {
-      "title": "ATP 250: Lexus Eastbourne Open 2025 - Quarter Final",
-      "web_url": "6317",
-      "cover_url": "https://thumbor.prod.vidiocdn.com/2fXXW3Y_kWb7nEONwWEzMTvSo-I=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4377993/53cdaa.jpg",
-      "start_time": "2025-06-26T10:00:00.000Z"
     },
     "4378007": {
       "title": "Valladolid P2 Premier Padel 2025 - Day 4",
