@@ -1,9 +1,9 @@
 {
-  "time": "2025-06-26T10:30:11.806Z",
+  "time": "2025-06-26T10:45:15.827Z",
   "headers": {
     "luws": "77097D68-83C1-ECDD-27A5-208EDC00058E_22522467",
-    "x-signature": "95eeab33981f3093b0a7929f0542a2564512731b96c683dedfcc207f9ad0be28",
-    "x-client": 1750933810.493,
+    "x-signature": "d605ba75ecdc45be4e2ebe095bfbc33ba49fb12a0c22b4fbff28a0e0c93ae4ba",
+    "x-client": 1750934713.214,
     "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/vKopbtpIU8aTvnmkl8zqyK/nxVLqaOM7rGXdZpG8beWTRexK5slvX8h3FuYA1mTijn0u97fpSx+WLyeYYYtmhk=",
     "x-secure-level": "2",
     "x-api-platform": "web-desktop",
@@ -13,11 +13,11 @@
     "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36",
     "x-user-email": "jeffrybp1991@gmail.com",
     "204-dash": null,
-    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1750948209~acl=/stream/204/file/*~id=allUsers~hmac=263188139542988fc5d691d39a312c43a530597cf25d8c4fd484e9144f30f7c7",
+    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1750949113~acl=/stream/204/file/*~id=allUsers~hmac=9027e19b69aff9a3c4ea44bd58b926d7485aa6db318c436f9f03fdcda3bf6543",
     "205-dash": null,
-    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1750948210~acl=/stream/205/file/*~id=allUsers~hmac=35453465b9e9417890c3891b0b2470629b739044a0dcd8e229a2c32447e8c91c",
-    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1750948210~acl=/stream/206/file/*~id=allUsers~hmac=1fbb22a5833aa23f6f7b7dd377332b996a88569a940bdfa2a4dcdb245e4c1a64",
-    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1750948210~acl=/stream/206/file/*~id=allUsers~hmac=1fbb22a5833aa23f6f7b7dd377332b996a88569a940bdfa2a4dcdb245e4c1a64",
+    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1750949113~acl=/stream/205/file/*~id=allUsers~hmac=94ca6e67e370f3ebd6d776a31974e652c3ed3ca1aebf152f85cf5bb95c9f9b89",
+    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1750949113~acl=/stream/206/file/*~id=allUsers~hmac=982f878a3a500f1c962d9081e17c59ad6d8ee5f6e29bbd1bed6fd90443879885",
+    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1750949113~acl=/stream/206/file/*~id=allUsers~hmac=982f878a3a500f1c962d9081e17c59ad6d8ee5f6e29bbd1bed6fd90443879885",
     "all-sections": "16890-17139-17140-17875-17884-18189-18190-18249-18250-18252-18253-18833-18834-18835-18851-18853-18985-18994-206-6299-6317-6685-6786",
     "all-vidiolivetv": [
       {
@@ -542,12 +542,6 @@
       "cover_url": "https://thumbor.prod.vidiocdn.com/tbDrE60bcBSaTemeycsE_7tNaLI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4378002/04f633.jpg",
       "start_time": "2025-06-26T09:30:00.000Z"
     },
-    "4378004": {
-      "title": "Girls: Kyoto Seika Gakuen Senior High School Women (JPN) vs Hwa Chong Institution (SGP) - NBA Rising Invitational",
-      "web_url": "18985",
-      "cover_url": "https://thumbor.prod.vidiocdn.com/sioCSjzMj5ERdslYK8AhkMz8vBc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4378004/825ef5.jpg",
-      "start_time": "2025-06-26T09:10:00.000Z"
-    },
     "4378006": {
       "title": "Boys: Orkhon Aimag General Education 1st High School (MNG) vs Tsinghua University High School (CHN) - NBA Rising Invitational",
       "web_url": "18985",
@@ -825,12 +819,6 @@
       "web_url": "17939",
       "cover_url": "https://thumbor.prod.vidiocdn.com/X-RqLAcQNAoAqhhYdA6L240KI50=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17939/serie-a-4cc90b.jpg",
       "start_time": "2024-10-20T12:45:00.000Z"
-    },
-    "18985": {
-      "title": "Girls: Kyoto Seika Gakuen Senior High School Women (JPN) vs Hwa Chong Institution (SGP) - NBA Rising Invitational",
-      "web_url": "18985",
-      "cover_url": "https://thumbor.prod.vidiocdn.com/sioCSjzMj5ERdslYK8AhkMz8vBc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4378004/825ef5.jpg",
-      "start_time": "2025-06-26T09:10:00.000Z"
     }
   }
 }
