@@ -1,9 +1,9 @@
 {
-  "time": "2025-06-26T18:01:43.448Z",
+  "time": "2025-06-26T18:16:46.340Z",
   "headers": {
     "luws": "77097D68-83C1-ECDD-27A5-208EDC00058E_22522467",
-    "x-signature": "e105ed157f281a4ac747b5f654aee0d9b4dfde553b345dc5f71aeaa0449eaf32",
-    "x-client": 1750960901.666,
+    "x-signature": "a6923e3d4ee78bb70b8df0c264bbdcd230f3b10d3392e6fed21ac43eac99a649",
+    "x-client": 1750961804.598,
     "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/vKopbtpIU8aTvnmkl8zqyK/nxVLqaOM7rGXdZpG8beWTRexK5slvX8h3FuYA1mTijn0u97fpSx+WLyeYYYtmhk=",
     "x-secure-level": "2",
     "x-api-platform": "web-desktop",
@@ -13,11 +13,11 @@
     "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36",
     "x-user-email": "jeffrybp1991@gmail.com",
     "204-dash": null,
-    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1750975301~acl=/stream/204/file/*~id=allUsers~hmac=d3b91782a9d6ed0d4e25dc8e986132e9d9dc3553ca719946dda3d1d9391980e9",
+    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1750976204~acl=/stream/204/file/*~id=allUsers~hmac=8b99d0d004a520940d79f6ceb2661c199ad2ba5a5125814edfa6ed594349506d",
     "205-dash": null,
-    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1750975301~acl=/stream/205/file/*~id=allUsers~hmac=f1c8f492216f1b21d21627514a8f2ffcf5424a5684cc8dc741d9ed1458f6e130",
-    "206-dash": "https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1750975301~acl=/stream/206/file/*~id=allUsers~hmac=a216860c94f7291ec342dabb9e54c285e296fea363763148276a6a59c3351889",
-    "206-hls": "https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1750975301~acl=/stream/206/file/*~id=allUsers~hmac=a216860c94f7291ec342dabb9e54c285e296fea363763148276a6a59c3351889",
+    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1750976204~acl=/stream/205/file/*~id=allUsers~hmac=bf8f3a218f164acdc20ab84d07f22fab17c2b66501566c59336d3f4fdd830912",
+    "206-dash": "https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1750976204~acl=/stream/206/file/*~id=allUsers~hmac=1c3eacb1123ffe2eb1a5d4c582c25ceada85e0b21bf3d40b4054a211ca73f17a",
+    "206-hls": "https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1750976204~acl=/stream/206/file/*~id=allUsers~hmac=1c3eacb1123ffe2eb1a5d4c582c25ceada85e0b21bf3d40b4054a211ca73f17a",
     "all-sections": "16890-17140-17875-17884-18189-18190-18249-18250-18252-18253-18833-18834-18835-18851-18853-18985-18994-206-6299-6317-6685-6786",
     "all-vidiolivetv": [
       {
@@ -489,7 +489,7 @@
   },
   "sections": {
     "18249": {
-      "title": "Rasmus Espersen/Amalie Cecilie Kudsk (DEN) vs Muhammad Idham Zainal Abidin Syazmil/Chloe Ho (USA) - Mixed Doubles Round of 16 | Yonex US Open 2025",
+      "title": "Su Li Yang (TPE) vs Victor Lai (CAN) - Men's Singles Round of 16 | Yonex US Open 2025",
       "web_url": "18249",
       "cover_url": "https://thumbor.prod.vidiocdn.com/Mz7kxlZVk5_kQDt76lczZDjxAls=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18249/yonex-us-open-2025-round-of-32-court-1-5e6d5f.jpg",
       "start_time": "2025-06-26T17:00:00.000Z"
@@ -501,7 +501,7 @@
       "start_time": "2025-06-26T17:00:00.000Z"
     },
     "18252": {
-      "title": "Kevin Lee/Jospehine Wu (CAN) vs Marvin Seidel/Thuc Phuong Nguyen (GER) - Mixed Doubles Round of 16 | Yonex US Open 2025",
+      "title": "Christopher Alexander Martinez Salvador/Diana Corleto Soto (GUA) vs Malik Bourakkadi/Leona Michalski (GER) - Mixed Doubles Round of 16 | Yonex US Open 2025",
       "web_url": "18252",
       "cover_url": "https://thumbor.prod.vidiocdn.com/YBgb70ve4cclQ-M_wikCwjrVgT4=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18252/yonex-us-open-2025-round-of-16-court-3-2ef779.jpg",
       "start_time": "2025-06-26T17:10:00.000Z"
@@ -523,12 +523,6 @@
       "web_url": "18834",
       "cover_url": "https://thumbor.prod.vidiocdn.com/0FVMDw6JH4HKhqaZp9QPYLbKqw8=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18834/byon-combat-showbiz-vol-5-4b168f.jpg",
       "start_time": "2025-06-28T09:00:00.000Z"
-    },
-    "4378002": {
-      "title": "ATP 250: Mallorca Championships presented by Ecotrans Group 2025 - Quarter Final",
-      "web_url": "17875",
-      "cover_url": "https://thumbor.prod.vidiocdn.com/tbDrE60bcBSaTemeycsE_7tNaLI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4378002/04f633.jpg",
-      "start_time": "2025-06-26T09:30:00.000Z"
     },
     "4378007": {
       "title": "Valladolid P2 Premier Padel 2025 - Day 4",
@@ -857,7 +851,7 @@
       "start_time": "2024-10-20T12:45:00.000Z"
     },
     "18249": {
-      "title": "Rasmus Espersen/Amalie Cecilie Kudsk (DEN) vs Muhammad Idham Zainal Abidin Syazmil/Chloe Ho (USA) - Mixed Doubles Round of 16 | Yonex US Open 2025",
+      "title": "Su Li Yang (TPE) vs Victor Lai (CAN) - Men's Singles Round of 16 | Yonex US Open 2025",
       "web_url": "18249",
       "cover_url": "https://thumbor.prod.vidiocdn.com/Mz7kxlZVk5_kQDt76lczZDjxAls=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18249/yonex-us-open-2025-round-of-32-court-1-5e6d5f.jpg",
       "start_time": "2025-06-26T17:00:00.000Z"
@@ -869,7 +863,7 @@
       "start_time": "2025-06-26T17:00:00.000Z"
     },
     "18252": {
-      "title": "Kevin Lee/Jospehine Wu (CAN) vs Marvin Seidel/Thuc Phuong Nguyen (GER) - Mixed Doubles Round of 16 | Yonex US Open 2025",
+      "title": "Christopher Alexander Martinez Salvador/Diana Corleto Soto (GUA) vs Malik Bourakkadi/Leona Michalski (GER) - Mixed Doubles Round of 16 | Yonex US Open 2025",
       "web_url": "18252",
       "cover_url": "https://thumbor.prod.vidiocdn.com/YBgb70ve4cclQ-M_wikCwjrVgT4=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18252/yonex-us-open-2025-round-of-16-court-3-2ef779.jpg",
       "start_time": "2025-06-26T17:10:00.000Z"
