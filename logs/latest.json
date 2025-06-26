@@ -1,9 +1,9 @@
 {
-  "time": "2025-06-26T14:15:57.609Z",
+  "time": "2025-06-26T14:31:00.297Z",
   "headers": {
     "luws": "77097D68-83C1-ECDD-27A5-208EDC00058E_22522467",
-    "x-signature": "c9f2d40454fd8c059151f1110e03e2f3199e5730cf0707e8989286518b78bd41",
-    "x-client": 1750947354.98,
+    "x-signature": "8fe29d60c3b6999580aebde30ab861e1d86ce72b42b2a3895d464775ef9250e1",
+    "x-client": 1750948257.833,
     "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/vKopbtpIU8aTvnmkl8zqyK/nxVLqaOM7rGXdZpG8beWTRexK5slvX8h3FuYA1mTijn0u97fpSx+WLyeYYYtmhk=",
     "x-secure-level": "2",
     "x-api-platform": "web-desktop",
@@ -13,11 +13,11 @@
     "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36",
     "x-user-email": "jeffrybp1991@gmail.com",
     "204-dash": null,
-    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1750961754~acl=/stream/204/file/*~id=allUsers~hmac=7a35807ad61f82aad6fbfffb36aebffb9789dd39039bb4f1024f1ea00ce21cf8",
+    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1750962657~acl=/stream/204/file/*~id=allUsers~hmac=0de8d3d11c12eeb83089cbe40135d7ca7454765fd2ae62357f8f6ac96e44dd7e",
     "205-dash": null,
-    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1750961755~acl=/stream/205/file/*~id=allUsers~hmac=352cf0e730a531cca776202401be5a790599f82368eef49097b0d0dbb43e9fd8",
-    "206-dash": "https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1750961755~acl=/stream/206/file/*~id=allUsers~hmac=c11458986abc38458e3fe9a9f10a5cdfac0abde0460949d15b808d653b1306f7",
-    "206-hls": "https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1750961755~acl=/stream/206/file/*~id=allUsers~hmac=c11458986abc38458e3fe9a9f10a5cdfac0abde0460949d15b808d653b1306f7",
+    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1750962658~acl=/stream/205/file/*~id=allUsers~hmac=cb1646170b3e899faf52e72ae307c5cc678f40ce60f4edc7687038633500c4fd",
+    "206-dash": "https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1750962658~acl=/stream/206/file/*~id=allUsers~hmac=f98a7a7abc265a599773b66d589743972ff046adcdcf5cdb0bd98adee58b0e8f",
+    "206-hls": "https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1750962658~acl=/stream/206/file/*~id=allUsers~hmac=f98a7a7abc265a599773b66d589743972ff046adcdcf5cdb0bd98adee58b0e8f",
     "all-sections": "16890-17139-17140-17875-17884-18189-18190-18249-18250-18252-18253-18833-18834-18835-18851-18853-18985-18994-206-6299-6317-6685-6786",
     "all-vidiolivetv": [
       {
@@ -692,17 +692,11 @@
       "cover_url": "https://thumbor.prod.vidiocdn.com/64sg00cKYcw73eeg2pRdQcAyGuY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4380443/b0f684.jpg",
       "start_time": "2025-06-27T03:00:00.000Z"
     },
-    "4380582": {
-      "title": "Men: France vs Japan - Volleyball Nations League",
-      "web_url": "206",
-      "cover_url": "https://thumbor.prod.vidiocdn.com/NsUGhzWw2x804VR1vqYyiIuKjzc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4380582/2ac5bb.jpg",
-      "start_time": "2025-06-26T11:45:00.000Z"
-    },
     "4380583": {
       "title": "Men: Netherlands vs Germany - Volleyball Nations League",
       "web_url": "206",
       "cover_url": "https://thumbor.prod.vidiocdn.com/rEboIloC8wLmSfCgVHqN4cqh0iI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4380583/ceeefe.jpg",
-      "start_time": "2025-06-26T14:30:00.000Z"
+      "start_time": "2025-06-26T14:22:00.000Z"
     },
     "4380700": {
       "title": "Men: Turkey vs Ukraine - Volleyball Nations League",
