@@ -1,9 +1,9 @@
 {
-  "time": "2025-06-27T12:57:03.811Z",
+  "time": "2025-06-27T13:12:06.472Z",
   "headers": {
     "luws": "77097D68-83C1-ECDD-27A5-208EDC00058E_22522467",
-    "x-signature": "e92a78fc31b5c60b0f3781c36c8590352601caa4623c0a7fd8748719d6d8cd20",
-    "x-client": 1751029021.171,
+    "x-signature": "94dc2bbfee96529969beceb64c3da88ca383e429af8a21734efd09d7961727eb",
+    "x-client": 1751029924.159,
     "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/o821rcebLUCj1YsV89pcmp+o1KhFlBPxyMB6lGtlMX8leBhsMur6sN8S1vR2t4P8x4boKgM9LkO+kYakCC3Mkc=",
     "x-secure-level": "2",
     "x-api-platform": "web-desktop",
@@ -13,13 +13,13 @@
     "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36",
     "x-user-email": "jeffrybp1991@gmail.com",
     "204-dash": null,
-    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751043421~acl=/stream/204/file/*~id=allUsers~hmac=45c761cf2a33afff93ef08c72480fbf65a76dc2320aab326d47c952307731e82",
+    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751044323~acl=/stream/204/file/*~id=allUsers~hmac=e32151da0b439bbc9ef672bdc7a927a238d584ca806761f21a707615b168292c",
     "205-dash": null,
-    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751043421~acl=/stream/205/file/*~id=allUsers~hmac=75ba259a8f49e0100e85a32ea19cc81b673912facae950fd216cce2172e9e6ee",
-    "206-dash": "https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751043421~acl=/stream/206/file/*~id=allUsers~hmac=1d7807a8b797a8eff0d2d73373caabfb60de45a3b745c7875154f1acd516978f",
-    "206-hls": "https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751043421~acl=/stream/206/file/*~id=allUsers~hmac=1d7807a8b797a8eff0d2d73373caabfb60de45a3b745c7875154f1acd516978f",
+    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751044324~acl=/stream/205/file/*~id=allUsers~hmac=4d376d234f26f9c591fabe21288916bbceb0847aef05b2d9ebf4fc36d6a01c80",
+    "206-dash": "https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751044324~acl=/stream/206/file/*~id=allUsers~hmac=0d0c65606d63b08e3cfbf751e727fcf0542db61f15c3dd6bb3c6fce63b1445c6",
+    "206-hls": "https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751044324~acl=/stream/206/file/*~id=allUsers~hmac=0d0c65606d63b08e3cfbf751e727fcf0542db61f15c3dd6bb3c6fce63b1445c6",
     "18105-dash": null,
-    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751043421~acl=/stream/18105/file/*~id=allUsers~hmac=d7000fe0324616d537aecac29d314039cc37552d23490cb8f023a0d5ddacba46",
+    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751044324~acl=/stream/18105/file/*~id=allUsers~hmac=ec751ae720f43a8e2257c072a34c84e23a3f35d0af57d06901d52047d4343c78",
     "all-sections": "16890-17140-17875-17884-18189-18190-18249-18250-18252-18833-18834-18851-18853-18954-18985-18994-206-6299-6317-6685-6786",
     "all-vidiolivetv": [
       {
@@ -823,9 +823,9 @@
       "start_time": "2025-06-27T12:30:00.000Z"
     },
     "17884": {
-      "title": "Formula 1",
+      "title": "FIA Formula 3 Championship Austria Grand Prix 2025 - Qualifying",
       "web_url": "17884",
-      "cover_url": "https://thumbor.prod.vidiocdn.com/Rc1pHYZnd8l_siMi118TkKusbPM=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17884/formula-1-5ee872.jpg",
+      "cover_url": "https://thumbor.prod.vidiocdn.com/TuxWxim7F9vuPfjeor7DeGOozx8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4382369/738881.jpg",
       "start_time": "2025-04-02T13:25:00.000Z"
     },
     "17938": {
