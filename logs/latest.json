@@ -1,9 +1,9 @@
 {
-  "time": "2025-06-27T15:12:32.655Z",
+  "time": "2025-06-27T15:27:35.493Z",
   "headers": {
     "luws": "77097D68-83C1-ECDD-27A5-208EDC00058E_22522467",
-    "x-signature": "ac3be114fbcf353f1d762aebd55f120effc080a59b092f0e5a259e06a3edd570",
-    "x-client": 1751037150.711,
+    "x-signature": "59305bc2ef33a36c1b8df33be625b23779d8fa0a49a8828406b56758cea738ff",
+    "x-client": 1751038053.677,
     "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/o821rcebLUCj1YsV89pcmp+o1KhFlBPxyMB6lGtlMX8leBhsMur6sN8S1vR2t4P8x4boKgM9LkO+kYakCC3Mkc=",
     "x-secure-level": "2",
     "x-api-platform": "web-desktop",
@@ -13,14 +13,14 @@
     "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36",
     "x-user-email": "jeffrybp1991@gmail.com",
     "204-dash": null,
-    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751051550~acl=/stream/204/file/*~id=allUsers~hmac=e50e261556044c3d78ef9897e128f2b7061fb8f923fb41e33b24c4b986358f06",
+    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751052453~acl=/stream/204/file/*~id=allUsers~hmac=83acd89b60e0784140e282d7b6c201f0a4197d5587e3d1beb26581f001b277ec",
     "205-dash": null,
-    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751051550~acl=/stream/205/file/*~id=allUsers~hmac=36d1b3baffa980add5ce049d13774fd47ae13ae32b595b4a15cb052fa1ffc785",
-    "206-dash": "https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751051550~acl=/stream/206/file/*~id=allUsers~hmac=6ed9b7f58837dd3fe959cb1a5264d3da942200f5f8895c933998ce3d849336b0",
-    "206-hls": "https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751051550~acl=/stream/206/file/*~id=allUsers~hmac=6ed9b7f58837dd3fe959cb1a5264d3da942200f5f8895c933998ce3d849336b0",
+    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751052453~acl=/stream/205/file/*~id=allUsers~hmac=678f977ba2b7535bb48c9d94b8925479ca88c5d3f01f9c5ace35ba7685f600f7",
+    "206-dash": "https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751052453~acl=/stream/206/file/*~id=allUsers~hmac=e37fa72b7e55aa84f9a3f09920416ae51d752457c38bee7bc0814f5ae11bdcf2",
+    "206-hls": "https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751052453~acl=/stream/206/file/*~id=allUsers~hmac=e37fa72b7e55aa84f9a3f09920416ae51d752457c38bee7bc0814f5ae11bdcf2",
     "18105-dash": null,
-    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751051550~acl=/stream/18105/file/*~id=allUsers~hmac=f9a752e2ca78e5ad793bc0bbe6f39d3b4a25e820b466a94b2c77f9e61d048bcf",
-    "all-sections": "16890-17140-17875-17884-18189-18190-18249-18250-18252-18833-18834-18851-18853-18954-18994-206-6299-6317-6685-6786",
+    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751052453~acl=/stream/18105/file/*~id=allUsers~hmac=493ca79b6b124166f857c133cccfe6a5a773dac0086228596237fbd83db00dae",
+    "all-sections": "16890-17140-17875-17884-18189-18190-18249-18250-18252-18833-18834-18851-18853-18954-18985-18994-206-6299-6317-6685-6786",
     "all-vidiolivetv": [
       {
         "content_id": "204",
@@ -777,6 +777,30 @@
       "web_url": "18190",
       "cover_url": "https://thumbor.prod.vidiocdn.com/P2ME5QYlTzaQv1lMri9vlR28vIE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4384792/c0897a.jpg",
       "start_time": "2025-06-28T19:00:00.000Z"
+    },
+    "4385103": {
+      "title": "Semifinal Girls: Flinders College Christian Community College (AUS) vs Onyang Girls' High School (KOR)- NBA Rising Invitational",
+      "web_url": "18985",
+      "cover_url": "https://thumbor.prod.vidiocdn.com/Y_O764QIts07S0h_nq6yOAGJRYs=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4385103/4824b9.jpg",
+      "start_time": "2025-06-28T05:10:00.000Z"
+    },
+    "4385104": {
+      "title": "Semifinal Girls: Kyoto Seika Gakuen Senior High School (JPN) vs Tsinghua University High School (CHN) - NBA Rising Invitational",
+      "web_url": "18985",
+      "cover_url": "https://thumbor.prod.vidiocdn.com/StjhASYOSW0ubhSraTmijBnZ284=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4385104/8e550f.jpg",
+      "start_time": "2025-06-28T07:10:00.000Z"
+    },
+    "4385105": {
+      "title": "Semifinal Boys: Berwick College (AUS) vs Tsinghua University High School (CHN) - NBA Rising Invitational",
+      "web_url": "18985",
+      "cover_url": "https://thumbor.prod.vidiocdn.com/IaRU2uoTZaZ5SwoKFxE2jmc9ryQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4385105/cdf72b.jpg",
+      "start_time": "2025-06-28T09:10:00.000Z"
+    },
+    "4385106": {
+      "title": "Semifinal Boys: Fukuoka University Ohori Senior High School (JPN) vs Yongsan High School (KOR) - NBA Rising Invitational",
+      "web_url": "18985",
+      "cover_url": "https://thumbor.prod.vidiocdn.com/Q7b2VPHSK6OIOTxii42qr0SEbro=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4385106/5d115a.jpg",
+      "start_time": "2025-06-28T11:10:00.000Z"
     }
   },
   "vidioliveothers": {
