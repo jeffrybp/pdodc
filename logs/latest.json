@@ -1,9 +1,9 @@
 {
-  "time": "2025-06-27T06:34:24.839Z",
+  "time": "2025-06-27T06:49:29.302Z",
   "headers": {
     "luws": "77097D68-83C1-ECDD-27A5-208EDC00058E_22522467",
-    "x-signature": "06d52d8e492be6f0d8da6a231fd9b69ae6d9d2929d644713a88149bb9c7e0444",
-    "x-client": 1751006063.092,
+    "x-signature": "b170700f112fc2681ebdff2924b3097087df1977fc453095806dcc8088e1f204",
+    "x-client": 1751006966.066,
     "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/o821rcebLUCj1YsV89pcmp+o1KhFlBPxyMB6lGtlMX8leBhsMur6sN8S1vR2t4P8x4boKgM9LkO+kYakCC3Mkc=",
     "x-secure-level": "2",
     "x-api-platform": "web-desktop",
@@ -13,11 +13,11 @@
     "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36",
     "x-user-email": "jeffrybp1991@gmail.com",
     "204-dash": null,
-    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751020462~acl=/stream/204/file/*~id=allUsers~hmac=ffea67991c8ebebbaa30e208a74076354a457e0f04e55159321fdd43c0d9b5d8",
+    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751021365~acl=/stream/204/file/*~id=allUsers~hmac=1fd6ba2a1ebe966f0d3f7d3867eb5e160740ebd1ddd1601ffcc2512ec26e17c7",
     "205-dash": null,
-    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751020462~acl=/stream/205/file/*~id=allUsers~hmac=9c98d0eae0995932508414a4a8ef7c37cbad2cd5fe5fc62915f4437992387f87",
-    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751020462~acl=/stream/206/file/*~id=allUsers~hmac=ec17af57b03f2601acc056e480280adac5d3f24ebde67ced208f77f081181ec9",
-    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751020462~acl=/stream/206/file/*~id=allUsers~hmac=ec17af57b03f2601acc056e480280adac5d3f24ebde67ced208f77f081181ec9",
+    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751021365~acl=/stream/205/file/*~id=allUsers~hmac=58a5f8fa994b21c4c960a14a013a088a430624beb886a6a4f5666cfccdc06d79",
+    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751021365~acl=/stream/206/file/*~id=allUsers~hmac=8e0dda28151a8da75c05ef0c1224a7410c613c061ea51e99648ff3497e927d61",
+    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751021365~acl=/stream/206/file/*~id=allUsers~hmac=8e0dda28151a8da75c05ef0c1224a7410c613c061ea51e99648ff3497e927d61",
     "all-sections": "16890-17140-17875-17884-18189-18190-18249-18250-18252-18833-18834-18835-18851-18853-18954-18985-18994-206-6299-6317-6685-6786",
     "all-vidiolivetv": [
       {
@@ -489,7 +489,7 @@
   },
   "sections": {
     "18249": {
-      "title": "Yonex US Open 2025  - Quarterfinals (Court 1)",
+      "title": "Presley Smith/Jennie Gai (USA)  vs Callum Hemming/Estelle Van Leeuwen (ENG) - Mixed Doubles Quarterfinals | Yonex US Open 2025",
       "web_url": "18249",
       "cover_url": "https://thumbor.prod.vidiocdn.com/Mz7kxlZVk5_kQDt76lczZDjxAls=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18249/yonex-us-open-2025-round-of-32-court-1-5e6d5f.jpg",
       "start_time": "2025-06-27T20:00:00.000Z"
@@ -873,6 +873,12 @@
       "web_url": "19004",
       "cover_url": "https://thumbor.prod.vidiocdn.com/ouvaE4DwEQtpzblMh9RWJTj0fuY=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/19004/upacara-penyambutan-kenegaraan-pm-malaysia-anwar-ibrahim-live-3f1c72.jpg",
       "start_time": "2025-06-27T05:30:00.000Z"
+    },
+    "19006": {
+      "title": "Momen Kejutan Pertemuan Presiden Prabowo Kedatangan PM Malaysia Anwar Ibrahim di Istana",
+      "web_url": "19006",
+      "cover_url": "https://thumbor.prod.vidiocdn.com/qgO8dvgqsbQMymnwcnk04HpXaUo=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/19006/merdeka-com-94afaa.jpg",
+      "start_time": "2025-06-27T06:36:00.000Z"
     }
   }
 }
