@@ -1,9 +1,9 @@
 {
-  "time": "2025-06-27T07:19:33.490Z",
+  "time": "2025-06-27T07:26:10.858Z",
   "headers": {
     "luws": "77097D68-83C1-ECDD-27A5-208EDC00058E_22522467",
-    "x-signature": "36dc18467151606ca0722ba453f1bf83629b213d70522297bcf726b48fb12f2b",
-    "x-client": 1751008772.02,
+    "x-signature": "cd72124ea82ae50a54217816f8a58ce48bd1a46c08feaa696027f535a5c9cc18",
+    "x-client": 1751009169.156,
     "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/o821rcebLUCj1YsV89pcmp+o1KhFlBPxyMB6lGtlMX8leBhsMur6sN8S1vR2t4P8x4boKgM9LkO+kYakCC3Mkc=",
     "x-secure-level": "2",
     "x-api-platform": "web-desktop",
@@ -13,11 +13,13 @@
     "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36",
     "x-user-email": "jeffrybp1991@gmail.com",
     "204-dash": null,
-    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751023171~acl=/stream/204/file/*~id=allUsers~hmac=c3c74d48f14c75ce53ef75db2e766a582ee36efaa3426fe04f74969d750b5ab3",
+    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751023567~acl=/stream/204/file/*~id=allUsers~hmac=647729a456491aeeffb7cb648db94f1781e5dd290d105371c3353ef9c8b1f862",
     "205-dash": null,
-    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751023171~acl=/stream/205/file/*~id=allUsers~hmac=7fba2add415f914c4b85df216001437ad09e151d8f1ede89932687cb49d121f8",
-    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751023171~acl=/stream/206/file/*~id=allUsers~hmac=3b0a37784d159e24de6d0acb4024affb39512bdc8d53bcce9091f3e55f4b4fa7",
-    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751023171~acl=/stream/206/file/*~id=allUsers~hmac=3b0a37784d159e24de6d0acb4024affb39512bdc8d53bcce9091f3e55f4b4fa7",
+    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751023567~acl=/stream/205/file/*~id=allUsers~hmac=b0ef23f91c0bb6d97d65f3955617c71fc77bc74303001d4d5ca82faaa8dc6c5d",
+    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751023568~acl=/stream/206/file/*~id=allUsers~hmac=620e5c7adc05173b7aa1c0462607e7945eb0d066f23f0706ae7189649707e54c",
+    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751023568~acl=/stream/206/file/*~id=allUsers~hmac=620e5c7adc05173b7aa1c0462607e7945eb0d066f23f0706ae7189649707e54c",
+    "18105-dash": null,
+    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751023568~acl=/stream/18105/file/*~id=allUsers~hmac=7d8617460208910d76b961e8d7aded50fde158020958961cca9a2e12822cb29d",
     "all-sections": "16890-17140-17875-17884-18189-18190-18249-18250-18252-18833-18834-18835-18851-18853-18954-18985-18994-206-6299-6317-6685-6786",
     "all-vidiolivetv": [
       {
@@ -501,7 +503,7 @@
       "start_time": "2025-06-27T20:00:00.000Z"
     },
     "18252": {
-      "title": "Yonex US Open 2025  - Quarterfinals (Court 3)",
+      "title": "Lin Yu Chieh/Hung Yu-En (TPE) vs Rasmus Espersen/Amalie Cecillie Kudsk (DEN) - Mixed Doubles Quarterfinals | Yonex US Open 2025",
       "web_url": "18252",
       "cover_url": "https://thumbor.prod.vidiocdn.com/YBgb70ve4cclQ-M_wikCwjrVgT4=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18252/yonex-us-open-2025-round-of-16-court-3-2ef779.jpg",
       "start_time": "2025-06-27T20:00:00.000Z"
@@ -830,11 +832,29 @@
       "cover_url": "https://thumbor.prod.vidiocdn.com/-nlwBlVUfECjq00GJ9pCxI1GpNU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4384557/e8ce9c.jpg",
       "start_time": "2025-06-28T16:00:00.000Z"
     },
-    "4384613": {
-      "title": "Chen Cheng Kuan/Hsu Yin-Hui (TPE) vs Marvin Seidel/Thuc Phuong Nguyen (GER) - Mixed Doubles Quarterfinals | Yonex US Open 2025",
-      "web_url": "18250",
-      "cover_url": "https://thumbor.prod.vidiocdn.com/LDpfnnG47WP0WJrWMAf2jXzAY2c=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18250/yonex-us-open-2025-round-of-16-court-2-a4a21a.jpg",
-      "start_time": "2025-06-27T20:00:00.000Z"
+    "4384623": {
+      "title": "Karupathevan Letshanaa (MAS) vs Tanvi Sharma (IND) - Women’s Singles Quarterfinals | Yonex US Open 2025",
+      "web_url": "18252",
+      "cover_url": "https://thumbor.prod.vidiocdn.com/YBgb70ve4cclQ-M_wikCwjrVgT4=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18252/yonex-us-open-2025-round-of-16-court-3-2ef779.jpg",
+      "start_time": "2025-06-27T22:40:00.000Z"
+    },
+    "4384624": {
+      "title": "Harry Huang (ENG) vs Brian Yang (CAN) - Men’s Singles Quarterfinals | Yonex US Open 2025",
+      "web_url": "18252",
+      "cover_url": "https://thumbor.prod.vidiocdn.com/YBgb70ve4cclQ-M_wikCwjrVgT4=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18252/yonex-us-open-2025-round-of-16-court-3-2ef779.jpg",
+      "start_time": "2025-06-27T21:50:00.000Z"
+    },
+    "4384625": {
+      "title": "Kariharan Amsakarunan/Ruban Kumar Rethinasabapathi (IND) vs Chiang Chien-Wei/Wu Hsuan-Yi (TPE) - Men’s Doubles Quarterfinals | Yonex US Open 2025",
+      "web_url": "18252",
+      "cover_url": "https://thumbor.prod.vidiocdn.com/YBgb70ve4cclQ-M_wikCwjrVgT4=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18252/yonex-us-open-2025-round-of-16-court-3-2ef779.jpg",
+      "start_time": "2025-06-27T23:30:00.000Z"
+    },
+    "4384626": {
+      "title": "Rasmus Espersen/Andreas Sondergaard (DEN) vs Chen Cheng Kuan/Lin Bing-Wei (TPE) - Men’s Doubles Quarterfinals | Yonex US Open 2025",
+      "web_url": "18252",
+      "cover_url": "https://thumbor.prod.vidiocdn.com/YBgb70ve4cclQ-M_wikCwjrVgT4=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18252/yonex-us-open-2025-round-of-16-court-3-2ef779.jpg",
+      "start_time": "2025-06-28T00:20:00.000Z"
     }
   },
   "vidioliveothers": {
