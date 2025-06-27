@@ -1,9 +1,9 @@
 {
-  "time": "2025-06-27T06:49:29.302Z",
+  "time": "2025-06-27T07:04:30.865Z",
   "headers": {
     "luws": "77097D68-83C1-ECDD-27A5-208EDC00058E_22522467",
-    "x-signature": "b170700f112fc2681ebdff2924b3097087df1977fc453095806dcc8088e1f204",
-    "x-client": 1751006966.066,
+    "x-signature": "b1c1a1eeabb43bef6dd7b051fb517b4e2f80269a92e8318ef0ddf35979c9498f",
+    "x-client": 1751007869.024,
     "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/o821rcebLUCj1YsV89pcmp+o1KhFlBPxyMB6lGtlMX8leBhsMur6sN8S1vR2t4P8x4boKgM9LkO+kYakCC3Mkc=",
     "x-secure-level": "2",
     "x-api-platform": "web-desktop",
@@ -13,11 +13,11 @@
     "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36",
     "x-user-email": "jeffrybp1991@gmail.com",
     "204-dash": null,
-    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751021365~acl=/stream/204/file/*~id=allUsers~hmac=1fd6ba2a1ebe966f0d3f7d3867eb5e160740ebd1ddd1601ffcc2512ec26e17c7",
+    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751022268~acl=/stream/204/file/*~id=allUsers~hmac=905ce61b947660e1c15a28285d8750c8920d7292347013d63eacf8a2de73815b",
     "205-dash": null,
-    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751021365~acl=/stream/205/file/*~id=allUsers~hmac=58a5f8fa994b21c4c960a14a013a088a430624beb886a6a4f5666cfccdc06d79",
-    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751021365~acl=/stream/206/file/*~id=allUsers~hmac=8e0dda28151a8da75c05ef0c1224a7410c613c061ea51e99648ff3497e927d61",
-    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751021365~acl=/stream/206/file/*~id=allUsers~hmac=8e0dda28151a8da75c05ef0c1224a7410c613c061ea51e99648ff3497e927d61",
+    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751022268~acl=/stream/205/file/*~id=allUsers~hmac=710cb827e7f43fb58f4bd41830e7e820875333b08093eb3dc475fcc9b6f0ff13",
+    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751022268~acl=/stream/206/file/*~id=allUsers~hmac=20f0b6758da729c59ec1705cd19cd76d47c41cd7f38fbcccf09a4e40154928ba",
+    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751022268~acl=/stream/206/file/*~id=allUsers~hmac=20f0b6758da729c59ec1705cd19cd76d47c41cd7f38fbcccf09a4e40154928ba",
     "all-sections": "16890-17140-17875-17884-18189-18190-18249-18250-18252-18833-18834-18835-18851-18853-18954-18985-18994-206-6299-6317-6685-6786",
     "all-vidiolivetv": [
       {
@@ -572,12 +572,6 @@
       "cover_url": "https://thumbor.prod.vidiocdn.com/QnoQx12U2d7bJJeKISs16RuMBe8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4380410/b230ca.jpg",
       "start_time": "2025-06-27T11:00:00.000Z"
     },
-    "4380413": {
-      "title": "Boys: Berwick College (AUS) vs Nehru World School (IND) - NBA Rising Invitational",
-      "web_url": "18985",
-      "cover_url": "https://thumbor.prod.vidiocdn.com/XeopfvinA53D3y7h7pGp2GfrCUQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4380413/7fe1e4.jpg",
-      "start_time": "2025-06-27T05:13:00.000Z"
-    },
     "4380414": {
       "title": "Girls: Hin Hua High School (MAS) vs Kyoto Seika Gakuen Senior High School Women (JPN) - NBA Rising Invitational",
       "web_url": "18985",
@@ -861,12 +855,6 @@
       "web_url": "18835",
       "cover_url": "https://thumbor.prod.vidiocdn.com/64sg00cKYcw73eeg2pRdQcAyGuY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4380443/b0f684.jpg",
       "start_time": "2025-06-27T03:00:00.000Z"
-    },
-    "18985": {
-      "title": "Boys: Berwick College (AUS) vs Nehru World School (IND) - NBA Rising Invitational",
-      "web_url": "18985",
-      "cover_url": "https://thumbor.prod.vidiocdn.com/XeopfvinA53D3y7h7pGp2GfrCUQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4380413/7fe1e4.jpg",
-      "start_time": "2025-06-27T01:10:00.000Z"
     },
     "19004": {
       "title": "Upacara Penyambutan Kenegaraan PM Malaysia Anwar Ibrahim | LIVE",
