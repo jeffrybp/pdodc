@@ -1,9 +1,9 @@
 {
-  "time": "2025-06-27T08:26:22.194Z",
+  "time": "2025-06-27T08:41:24.021Z",
   "headers": {
     "luws": "77097D68-83C1-ECDD-27A5-208EDC00058E_22522467",
-    "x-signature": "9671bb6c15e527c678b63a95a9e8274ef45da850a2e60601f6dcc10908353c92",
-    "x-client": 1751012779.841,
+    "x-signature": "dd696ca0e34deeee735bb3a3dc85fb7b7dcb1683fe75034d4068d0b41d4df092",
+    "x-client": 1751013682.67,
     "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/o821rcebLUCj1YsV89pcmp+o1KhFlBPxyMB6lGtlMX8leBhsMur6sN8S1vR2t4P8x4boKgM9LkO+kYakCC3Mkc=",
     "x-secure-level": "2",
     "x-api-platform": "web-desktop",
@@ -13,13 +13,13 @@
     "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36",
     "x-user-email": "jeffrybp1991@gmail.com",
     "204-dash": null,
-    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751027178~acl=/stream/204/file/*~id=allUsers~hmac=b16ac1fddea4a2fcae76e0c558569a81da8089bb7b96e2a9205498edca20b67b",
+    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751028081~acl=/stream/204/file/*~id=allUsers~hmac=40dbf733bcb0f7a54083b8e2e6291363fc968787b69aa1953dadf381102fa761",
     "205-dash": null,
-    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751027178~acl=/stream/205/file/*~id=allUsers~hmac=a4ae02475a68bf1406cb7afa9f5c123bdadb162b26cb5f557f355ed7704d998c",
-    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751027179~acl=/stream/206/file/*~id=allUsers~hmac=b3b119e21f6f52441586de10986113e32f43510629cbb46e8b1bfb564a51b78d",
-    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751027179~acl=/stream/206/file/*~id=allUsers~hmac=b3b119e21f6f52441586de10986113e32f43510629cbb46e8b1bfb564a51b78d",
+    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751028081~acl=/stream/205/file/*~id=allUsers~hmac=9b4a12197f1083bb4fd6ff6ada1a052cf684eed8996c7f9eaa7a945c757e4f1e",
+    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751028081~acl=/stream/206/file/*~id=allUsers~hmac=d81dc240c599df078675a6c16d59a2b5d5ae3021c192d1b7b968baed16456abd",
+    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751028081~acl=/stream/206/file/*~id=allUsers~hmac=d81dc240c599df078675a6c16d59a2b5d5ae3021c192d1b7b968baed16456abd",
     "18105-dash": null,
-    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751027179~acl=/stream/18105/file/*~id=allUsers~hmac=4014c95a42bdcc1ab00c384a6d2748871e4b4cb71f64a6bfbe43c5155106efc2",
+    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751028082~acl=/stream/18105/file/*~id=allUsers~hmac=9189d1e9f31f68d0171c3a643c271bd3dbaeca1eb7add4e4359e9e9e1f75c482",
     "all-sections": "16890-17140-17875-17884-18189-18190-18249-18250-18252-18833-18834-18835-18851-18853-18954-18985-18994-206-6299-6317-6685-6786",
     "all-vidiolivetv": [
       {
@@ -568,12 +568,6 @@
       "cover_url": "https://thumbor.prod.vidiocdn.com/QnoQx12U2d7bJJeKISs16RuMBe8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4380410/b230ca.jpg",
       "start_time": "2025-06-27T11:00:00.000Z"
     },
-    "4380414": {
-      "title": "Girls: Hin Hua High School (MAS) vs Kyoto Seika Gakuen Senior High School Women (JPN) - NBA Rising Invitational",
-      "web_url": "18985",
-      "cover_url": "https://thumbor.prod.vidiocdn.com/TjQForopvn9w79OJaoEl6_hgUkU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4380414/44e38f.jpg",
-      "start_time": "2025-06-27T07:10:00.000Z"
-    },
     "4380415": {
       "title": "Boys: Hin Hua High School (MAS) vs Anglo-Chinese Junior College (SGP) - NBA Rising Invitational",
       "web_url": "18985",
@@ -621,12 +615,6 @@
       "web_url": "18835",
       "cover_url": "https://thumbor.prod.vidiocdn.com/64sg00cKYcw73eeg2pRdQcAyGuY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4380443/b0f684.jpg",
       "start_time": "2025-06-27T03:00:00.000Z"
-    },
-    "4382346": {
-      "title": "FIA Formula 3 Championship Austria Grand Prix 2025 - Practice",
-      "web_url": "17884",
-      "cover_url": "https://thumbor.prod.vidiocdn.com/0eCbRcj7oVoibfWuiEvhPhd_EkU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4382346/08a2b4.jpg",
-      "start_time": "2025-06-27T07:55:00.000Z"
     },
     "4382367": {
       "title": "FIA Formula 2 Championship Austria Grand Prix 2025 - Practice",
@@ -883,9 +871,9 @@
   },
   "vidioliveothers": {
     "17884": {
-      "title": "FIA Formula 3 Championship Austria Grand Prix 2025 - Practice",
+      "title": "Formula 1",
       "web_url": "17884",
-      "cover_url": "https://thumbor.prod.vidiocdn.com/0eCbRcj7oVoibfWuiEvhPhd_EkU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4382346/08a2b4.jpg",
+      "cover_url": "https://thumbor.prod.vidiocdn.com/Rc1pHYZnd8l_siMi118TkKusbPM=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17884/formula-1-5ee872.jpg",
       "start_time": "2025-04-02T13:25:00.000Z"
     },
     "17938": {
@@ -905,12 +893,6 @@
       "web_url": "18835",
       "cover_url": "https://thumbor.prod.vidiocdn.com/64sg00cKYcw73eeg2pRdQcAyGuY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4380443/b0f684.jpg",
       "start_time": "2025-06-27T03:00:00.000Z"
-    },
-    "18985": {
-      "title": "Girls: Hin Hua High School (MAS) vs Kyoto Seika Gakuen Senior High School Women (JPN) - NBA Rising Invitational",
-      "web_url": "18985",
-      "cover_url": "https://thumbor.prod.vidiocdn.com/TjQForopvn9w79OJaoEl6_hgUkU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4380414/44e38f.jpg",
-      "start_time": "2025-06-27T07:10:00.000Z"
     },
     "19004": {
       "title": "Upacara Penyambutan Kenegaraan PM Malaysia Anwar Ibrahim | LIVE",
