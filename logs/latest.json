@@ -1,9 +1,9 @@
 {
-  "time": "2025-06-27T09:41:37.085Z",
+  "time": "2025-06-27T09:56:39.796Z",
   "headers": {
     "luws": "77097D68-83C1-ECDD-27A5-208EDC00058E_22522467",
-    "x-signature": "3958dde6581181e4a74add814d64be636013275d95f4b2a6eb60d3483bcaaf06",
-    "x-client": 1751017294.728,
+    "x-signature": "facf396f69e6c25b339d7f1d5aa5a966352683f7bd0b626c6130b0a806dc8416",
+    "x-client": 1751018197.531,
     "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/o821rcebLUCj1YsV89pcmp+o1KhFlBPxyMB6lGtlMX8leBhsMur6sN8S1vR2t4P8x4boKgM9LkO+kYakCC3Mkc=",
     "x-secure-level": "2",
     "x-api-platform": "web-desktop",
@@ -13,13 +13,13 @@
     "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36",
     "x-user-email": "jeffrybp1991@gmail.com",
     "204-dash": null,
-    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751031694~acl=/stream/204/file/*~id=allUsers~hmac=9b487876ddfb6c42ac8d79a17bdb3d4f6012edd0fc5f851305b7151bccf432de",
+    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751032597~acl=/stream/204/file/*~id=allUsers~hmac=60fe6638c6a820fc08acf26368c17d3923f90bea02471fef42bba271ce2ab2d3",
     "205-dash": null,
-    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751031694~acl=/stream/205/file/*~id=allUsers~hmac=ff77fbca2bb580a3d43457f04ade31284aa0393fdbbf16702a9a4b77842449a2",
-    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751031694~acl=/stream/206/file/*~id=allUsers~hmac=ee5d83f48fa52d77c4b8f5f5c70a83048e336d6934d523415002fa36310a8359",
-    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751031694~acl=/stream/206/file/*~id=allUsers~hmac=ee5d83f48fa52d77c4b8f5f5c70a83048e336d6934d523415002fa36310a8359",
+    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751032597~acl=/stream/205/file/*~id=allUsers~hmac=6a4a063f1692130e7de7a79116d8d97644bfc95b5a5aeaa250d897c34cf4e279",
+    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751032597~acl=/stream/206/file/*~id=allUsers~hmac=fa4071f64a7be4a75ae1bf6979cd098fe3f445d970f6ce19d0dbd72ffaef76e6",
+    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751032597~acl=/stream/206/file/*~id=allUsers~hmac=fa4071f64a7be4a75ae1bf6979cd098fe3f445d970f6ce19d0dbd72ffaef76e6",
     "18105-dash": null,
-    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751031694~acl=/stream/18105/file/*~id=allUsers~hmac=7f8db50695df6aceccc7b53843eab841be9b4d60ee34c3dd0c9013ebf5de3b2d",
+    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751032597~acl=/stream/18105/file/*~id=allUsers~hmac=bb1d5e486a31ff2002d97770f0c2cfb6f3b1655953736aa055e73d39c96c281a",
     "all-sections": "16890-17140-17875-17884-18189-18190-18249-18250-18252-18833-18834-18851-18853-18954-18985-18994-206-6299-6317-6685-6786",
     "all-vidiolivetv": [
       {
@@ -554,7 +554,7 @@
       "title": "WTA 250: Lexus Eastbourne Open 2025 - Semifinal",
       "web_url": "6685",
       "cover_url": "https://thumbor.prod.vidiocdn.com/ITK1mwef8drg8LIEieyhvL2zt9Y=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4380409/9e307b.jpg",
-      "start_time": "2025-06-27T10:00:00.000Z"
+      "start_time": "2025-06-27T09:53:00.000Z"
     },
     "4380410": {
       "title": "WTA 500: Bad Homburg Open 2025 - Semifinal",
@@ -865,7 +865,7 @@
       "start_time": "2025-04-02T13:25:00.000Z"
     },
     "17938": {
-      "title": "Monza vs Atalanta - Serie A",
+      "title": "Serie A",
       "web_url": "17938",
       "cover_url": "https://thumbor.prod.vidiocdn.com/tJoOEHTHed9-fRQvnXoew2nr8hY=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17938/serie-a-973769.jpg",
       "start_time": "2024-10-20T10:00:00.000Z"
