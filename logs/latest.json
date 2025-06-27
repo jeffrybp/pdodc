@@ -1,9 +1,9 @@
 {
-  "time": "2025-06-27T09:56:39.796Z",
+  "time": "2025-06-27T10:11:42.274Z",
   "headers": {
     "luws": "77097D68-83C1-ECDD-27A5-208EDC00058E_22522467",
-    "x-signature": "facf396f69e6c25b339d7f1d5aa5a966352683f7bd0b626c6130b0a806dc8416",
-    "x-client": 1751018197.531,
+    "x-signature": "ea7b04a69ebe3ff635b30bfa775656baa05a967cc3e8a0d0d05eb0aba65e4449",
+    "x-client": 1751019100.358,
     "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/o821rcebLUCj1YsV89pcmp+o1KhFlBPxyMB6lGtlMX8leBhsMur6sN8S1vR2t4P8x4boKgM9LkO+kYakCC3Mkc=",
     "x-secure-level": "2",
     "x-api-platform": "web-desktop",
@@ -13,13 +13,13 @@
     "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36",
     "x-user-email": "jeffrybp1991@gmail.com",
     "204-dash": null,
-    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751032597~acl=/stream/204/file/*~id=allUsers~hmac=60fe6638c6a820fc08acf26368c17d3923f90bea02471fef42bba271ce2ab2d3",
+    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751033500~acl=/stream/204/file/*~id=allUsers~hmac=30ab3bc126cb6626183decad14c15ec843f69528af4f5d3c720700277537fd4a",
     "205-dash": null,
-    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751032597~acl=/stream/205/file/*~id=allUsers~hmac=6a4a063f1692130e7de7a79116d8d97644bfc95b5a5aeaa250d897c34cf4e279",
-    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751032597~acl=/stream/206/file/*~id=allUsers~hmac=fa4071f64a7be4a75ae1bf6979cd098fe3f445d970f6ce19d0dbd72ffaef76e6",
-    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751032597~acl=/stream/206/file/*~id=allUsers~hmac=fa4071f64a7be4a75ae1bf6979cd098fe3f445d970f6ce19d0dbd72ffaef76e6",
+    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751033500~acl=/stream/205/file/*~id=allUsers~hmac=3e6f0f037203ea9411fd6371c4706aa6ddd95411fcfa8f67a648d169b3e04b94",
+    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751033500~acl=/stream/206/file/*~id=allUsers~hmac=1a65cb3b517ef1f2ab350718a128e9cd6bf274cb71c994e5dc31146075302c55",
+    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751033500~acl=/stream/206/file/*~id=allUsers~hmac=1a65cb3b517ef1f2ab350718a128e9cd6bf274cb71c994e5dc31146075302c55",
     "18105-dash": null,
-    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751032597~acl=/stream/18105/file/*~id=allUsers~hmac=bb1d5e486a31ff2002d97770f0c2cfb6f3b1655953736aa055e73d39c96c281a",
+    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751033500~acl=/stream/18105/file/*~id=allUsers~hmac=fd1d20df42498e966b2d83a5a59077db2f55d5e2861e54511cb5fb56e387ba3c",
     "all-sections": "16890-17140-17875-17884-18189-18190-18249-18250-18252-18833-18834-18851-18853-18954-18985-18994-206-6299-6317-6685-6786",
     "all-vidiolivetv": [
       {
@@ -580,12 +580,6 @@
       "cover_url": "https://thumbor.prod.vidiocdn.com/JfhZyOIBlnuBdc5s-rzmFrf0Fbs=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4380417/3b44ae.jpg",
       "start_time": "2025-06-27T12:30:00.000Z"
     },
-    "4380418": {
-      "title": "Valladolid P2 Premier Padel 2025 - Quarter Final",
-      "web_url": "6317",
-      "cover_url": "https://thumbor.prod.vidiocdn.com/6RK8MD7AhvklffcbYta4DMpyeaM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4380418/39999d.jpg",
-      "start_time": "2025-06-27T07:00:00.000Z"
-    },
     "4380419": {
       "title": "ATP 250: Mallorca Championships presented by Ecotrans Group 2025 - Semifinal",
       "web_url": "17875",
@@ -603,12 +597,6 @@
       "web_url": "18190",
       "cover_url": "https://thumbor.prod.vidiocdn.com/ASad3A23-iMiKkWQUiFdGtGd2cM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4380442/c8156b.jpg",
       "start_time": "2025-06-27T15:00:00.000Z"
-    },
-    "4382367": {
-      "title": "FIA Formula 2 Championship Austria Grand Prix 2025 - Practice",
-      "web_url": "17884",
-      "cover_url": "https://thumbor.prod.vidiocdn.com/S1VQAxlA_jdA4HFl0EYdvLakCpo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4382367/14ff73.jpg",
-      "start_time": "2025-06-27T09:05:00.000Z"
     },
     "4382368": {
       "title": "Formula 1 MSC Cruises Austrian Grand Prix 2025 - Practice 1",
@@ -859,9 +847,9 @@
   },
   "vidioliveothers": {
     "17884": {
-      "title": "FIA Formula 2 Championship Austria Grand Prix 2025 - Practice",
+      "title": "Formula 1",
       "web_url": "17884",
-      "cover_url": "https://thumbor.prod.vidiocdn.com/S1VQAxlA_jdA4HFl0EYdvLakCpo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4382367/14ff73.jpg",
+      "cover_url": "https://thumbor.prod.vidiocdn.com/Rc1pHYZnd8l_siMi118TkKusbPM=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17884/formula-1-5ee872.jpg",
       "start_time": "2025-04-02T13:25:00.000Z"
     },
     "17938": {
