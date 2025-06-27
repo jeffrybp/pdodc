@@ -1,9 +1,9 @@
 {
-  "time": "2025-06-27T15:57:41.481Z",
+  "time": "2025-06-27T16:12:44.230Z",
   "headers": {
     "luws": "77097D68-83C1-ECDD-27A5-208EDC00058E_22522467",
-    "x-signature": "53bc28ccf89bcd08a128dc1ee628e8732888304ed4955f1d643dc7dbf096c111",
-    "x-client": 1751039859.599,
+    "x-signature": "9b61cabdb35ed2afb6d85bfced9e1ffab0d76dca29517a6458eca170ea3f20cb",
+    "x-client": 1751040762.568,
     "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/o821rcebLUCj1YsV89pcmp+o1KhFlBPxyMB6lGtlMX8leBhsMur6sN8S1vR2t4P8x4boKgM9LkO+kYakCC3Mkc=",
     "x-secure-level": "2",
     "x-api-platform": "web-desktop",
@@ -13,13 +13,13 @@
     "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36",
     "x-user-email": "jeffrybp1991@gmail.com",
     "204-dash": null,
-    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751054258~acl=/stream/204/file/*~id=allUsers~hmac=135ee952af6693710c56af1f338a67baa0911d8ff561e66893b7578d1a71b321",
+    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751055161~acl=/stream/204/file/*~id=allUsers~hmac=4149cc4d9292d135347cfdfb925ceed87ed5190f47ecaf92df60f4df90571b61",
     "205-dash": null,
-    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751054258~acl=/stream/205/file/*~id=allUsers~hmac=2fb8b5cac74f4623aa50b391cbb90e73e1dd38b01f01512cbb95043d87c35d31",
-    "206-dash": "https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751054259~acl=/stream/206/file/*~id=allUsers~hmac=b7e82937af47baeae4ca263014f8d517a042840665276fa236f014d65b1606b4",
-    "206-hls": "https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751054259~acl=/stream/206/file/*~id=allUsers~hmac=b7e82937af47baeae4ca263014f8d517a042840665276fa236f014d65b1606b4",
+    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751055161~acl=/stream/205/file/*~id=allUsers~hmac=198817b7d2f5b98dd3cf8e6864b6ac35c6fce2c6b7eb082900567c0928a5653d",
+    "206-dash": "https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751055161~acl=/stream/206/file/*~id=allUsers~hmac=d984406570479cedbc31a8013a45908e4e17e93650acb2405f0ebf1dbbb208ed",
+    "206-hls": "https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751055161~acl=/stream/206/file/*~id=allUsers~hmac=d984406570479cedbc31a8013a45908e4e17e93650acb2405f0ebf1dbbb208ed",
     "18105-dash": null,
-    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751054259~acl=/stream/18105/file/*~id=allUsers~hmac=977e84a74bd170ff201d42b48ab39510f0d7b201c95562c070efb47ffb966d3d",
+    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751055162~acl=/stream/18105/file/*~id=allUsers~hmac=6ab793df3c111965294fd9986e6804f800a729e7db1a6240fd9eb0d1a74664cb",
     "all-sections": "16890-17140-17875-17884-18189-18190-18249-18250-18252-18833-18834-18851-18853-18954-18985-18994-206-6299-6317-6685-6786",
     "all-vidiolivetv": [
       {
@@ -550,12 +550,6 @@
       "cover_url": "https://thumbor.prod.vidiocdn.com/ASad3A23-iMiKkWQUiFdGtGd2cM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4380442/c8156b.jpg",
       "start_time": "2025-06-27T15:00:00.000Z"
     },
-    "4382371": {
-      "title": "Formula 1 MSC Cruises Austrian Grand Prix 2025 - Practice 2",
-      "web_url": "17884",
-      "cover_url": "https://thumbor.prod.vidiocdn.com/J0ZS281xhk4UZVi8454dhXQ0ZuE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4382371/07a3e5.jpg",
-      "start_time": "2025-06-27T14:55:00.000Z"
-    },
     "4382545": {
       "title": "Men: Argentina vs Iran - Volleyball Nations League",
       "web_url": "206",
@@ -795,6 +789,12 @@
       "web_url": "18985",
       "cover_url": "https://thumbor.prod.vidiocdn.com/Q7b2VPHSK6OIOTxii42qr0SEbro=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4385106/5d115a.jpg",
       "start_time": "2025-06-28T11:10:00.000Z"
+    },
+    "4385150": {
+      "title": "Valladolid P2 Premier Padel 2025 - Final",
+      "web_url": "6317",
+      "cover_url": "https://thumbor.prod.vidiocdn.com/rW4NyRH2uOSvHZlekyDReEpEFts=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4385150/9eae95.jpg",
+      "start_time": "2025-06-29T08:00:00.000Z"
     }
   },
   "vidioliveothers": {
@@ -805,9 +805,9 @@
       "start_time": "2025-06-27T12:30:00.000Z"
     },
     "17884": {
-      "title": "Formula 1 MSC Cruises Austrian Grand Prix 2025 - Practice 2",
+      "title": "Formula 1",
       "web_url": "17884",
-      "cover_url": "https://thumbor.prod.vidiocdn.com/J0ZS281xhk4UZVi8454dhXQ0ZuE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4382371/07a3e5.jpg",
+      "cover_url": "https://thumbor.prod.vidiocdn.com/Rc1pHYZnd8l_siMi118TkKusbPM=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17884/formula-1-5ee872.jpg",
       "start_time": "2025-04-02T13:25:00.000Z"
     },
     "17938": {
