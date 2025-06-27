@@ -1,9 +1,9 @@
 {
-  "time": "2025-06-27T13:57:16.312Z",
+  "time": "2025-06-27T14:12:19.203Z",
   "headers": {
     "luws": "77097D68-83C1-ECDD-27A5-208EDC00058E_22522467",
-    "x-signature": "34a536ddbb24ee5485cfec061e3090401dddf00bfe3b67c75927acd2a0d8695d",
-    "x-client": 1751032633.953,
+    "x-signature": "457f51a4f83bef2550fd0f668024259ca06d24a332fd4c445f29db3b0e96dd7a",
+    "x-client": 1751033536.888,
     "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/o821rcebLUCj1YsV89pcmp+o1KhFlBPxyMB6lGtlMX8leBhsMur6sN8S1vR2t4P8x4boKgM9LkO+kYakCC3Mkc=",
     "x-secure-level": "2",
     "x-api-platform": "web-desktop",
@@ -13,13 +13,13 @@
     "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36",
     "x-user-email": "jeffrybp1991@gmail.com",
     "204-dash": null,
-    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751047033~acl=/stream/204/file/*~id=allUsers~hmac=4366e8c9fea2389e5241ec1e191085c34ceeb7b38d9ddef136f0589512e88d44",
+    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751047936~acl=/stream/204/file/*~id=allUsers~hmac=72c19b5baac81769e150709126ccedc9b431de06beb62f34f980d5bfb5300039",
     "205-dash": null,
-    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751047033~acl=/stream/205/file/*~id=allUsers~hmac=b2aefc3ee9ff588d44dea77a4ba39b511576cb2248c3d44eab2a60e0d931a39f",
-    "206-dash": "https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751047033~acl=/stream/206/file/*~id=allUsers~hmac=0da797187c7578758704d106fdb8b77fc4ba8f7cb84c26c44ee2f6760839942c",
-    "206-hls": "https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751047033~acl=/stream/206/file/*~id=allUsers~hmac=0da797187c7578758704d106fdb8b77fc4ba8f7cb84c26c44ee2f6760839942c",
+    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751047936~acl=/stream/205/file/*~id=allUsers~hmac=a1f172f2eb261c28839bc7857cfa885bd9da59dff02fdb1d100e37a63db58425",
+    "206-dash": "https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751047936~acl=/stream/206/file/*~id=allUsers~hmac=ab9d02a9e506f70aec997999282f761094fc24cbd370caf01e40bd692722a4b6",
+    "206-hls": "https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751047936~acl=/stream/206/file/*~id=allUsers~hmac=ab9d02a9e506f70aec997999282f761094fc24cbd370caf01e40bd692722a4b6",
     "18105-dash": null,
-    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751047034~acl=/stream/18105/file/*~id=allUsers~hmac=ad3ed99bc40af54e39f49196253b6a7219a5d9fd4dc78f993c913285ea9fb1f5",
+    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751047937~acl=/stream/18105/file/*~id=allUsers~hmac=4269596a8b7e5f058d91a5dc1c543a9b82e563723dc2dad5183685cfa90c4c40",
     "all-sections": "16890-17140-17875-17884-18189-18190-18249-18250-18252-18833-18834-18851-18853-18954-18994-206-6299-6317-6685-6786",
     "all-vidiolivetv": [
       {
@@ -531,12 +531,6 @@
       "web_url": "6317",
       "cover_url": "https://thumbor.prod.vidiocdn.com/AtBl6FTAxvyY6auOdmFbGrSpVmA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4380408/3a0072.jpg",
       "start_time": "2025-06-27T14:00:00.000Z"
-    },
-    "4380409": {
-      "title": "WTA 250: Lexus Eastbourne Open 2025 - Semifinal",
-      "web_url": "6685",
-      "cover_url": "https://thumbor.prod.vidiocdn.com/ITK1mwef8drg8LIEieyhvL2zt9Y=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4380409/9e307b.jpg",
-      "start_time": "2025-06-27T09:53:00.000Z"
     },
     "4380410": {
       "title": "WTA 500: Bad Homburg Open 2025 - Semifinal",
