@@ -1,9 +1,9 @@
 {
-  "time": "2025-06-27T15:42:38.385Z",
+  "time": "2025-06-27T15:57:41.481Z",
   "headers": {
     "luws": "77097D68-83C1-ECDD-27A5-208EDC00058E_22522467",
-    "x-signature": "833a74e6967ddc54db24714a153e7f9c0e8ce14c5ffedfc57442143d6038f320",
-    "x-client": 1751038956.653,
+    "x-signature": "53bc28ccf89bcd08a128dc1ee628e8732888304ed4955f1d643dc7dbf096c111",
+    "x-client": 1751039859.599,
     "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/o821rcebLUCj1YsV89pcmp+o1KhFlBPxyMB6lGtlMX8leBhsMur6sN8S1vR2t4P8x4boKgM9LkO+kYakCC3Mkc=",
     "x-secure-level": "2",
     "x-api-platform": "web-desktop",
@@ -13,13 +13,13 @@
     "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36",
     "x-user-email": "jeffrybp1991@gmail.com",
     "204-dash": null,
-    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751053355~acl=/stream/204/file/*~id=allUsers~hmac=13add1b2c1d5f5fa32171d4b8d4e42ab7fdfd0de8dce17526fa9c4746aac557f",
+    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751054258~acl=/stream/204/file/*~id=allUsers~hmac=135ee952af6693710c56af1f338a67baa0911d8ff561e66893b7578d1a71b321",
     "205-dash": null,
-    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751053356~acl=/stream/205/file/*~id=allUsers~hmac=e23531ddcfd7e02e5ed370c04707e454457b5f25fbf6a644299ecac6c9705431",
-    "206-dash": "https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751053356~acl=/stream/206/file/*~id=allUsers~hmac=37658730427df77de652586c46086e37ef985a0d443a538c3f7cba0034c331f0",
-    "206-hls": "https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751053356~acl=/stream/206/file/*~id=allUsers~hmac=37658730427df77de652586c46086e37ef985a0d443a538c3f7cba0034c331f0",
+    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751054258~acl=/stream/205/file/*~id=allUsers~hmac=2fb8b5cac74f4623aa50b391cbb90e73e1dd38b01f01512cbb95043d87c35d31",
+    "206-dash": "https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751054259~acl=/stream/206/file/*~id=allUsers~hmac=b7e82937af47baeae4ca263014f8d517a042840665276fa236f014d65b1606b4",
+    "206-hls": "https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751054259~acl=/stream/206/file/*~id=allUsers~hmac=b7e82937af47baeae4ca263014f8d517a042840665276fa236f014d65b1606b4",
     "18105-dash": null,
-    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751053356~acl=/stream/18105/file/*~id=allUsers~hmac=9aa46afdb6649d4cc5c167097e2d1e405f16a5aa7ac1c70298ce07182ffdaad2",
+    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751054259~acl=/stream/18105/file/*~id=allUsers~hmac=977e84a74bd170ff201d42b48ab39510f0d7b201c95562c070efb47ffb966d3d",
     "all-sections": "16890-17140-17875-17884-18189-18190-18249-18250-18252-18833-18834-18851-18853-18954-18985-18994-206-6299-6317-6685-6786",
     "all-vidiolivetv": [
       {
@@ -525,12 +525,6 @@
       "web_url": "6317",
       "cover_url": "https://thumbor.prod.vidiocdn.com/AtBl6FTAxvyY6auOdmFbGrSpVmA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4380408/3a0072.jpg",
       "start_time": "2025-06-27T14:00:00.000Z"
-    },
-    "4380410": {
-      "title": "WTA 500: Bad Homburg Open 2025 - Semifinal",
-      "web_url": "6786",
-      "cover_url": "https://thumbor.prod.vidiocdn.com/QnoQx12U2d7bJJeKISs16RuMBe8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4380410/b230ca.jpg",
-      "start_time": "2025-06-27T11:15:00.000Z"
     },
     "4380417": {
       "title": "ONE Friday Fights 114",
