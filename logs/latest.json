@@ -1,9 +1,9 @@
 {
-  "time": "2025-06-27T13:27:09.098Z",
+  "time": "2025-06-27T13:42:13.122Z",
   "headers": {
     "luws": "77097D68-83C1-ECDD-27A5-208EDC00058E_22522467",
-    "x-signature": "94aac35e69322bbcb67446437ef9abcb397962cc7f27a079ce535af3764704a0",
-    "x-client": 1751030827.053,
+    "x-signature": "18d5ef765fd9533f095a1360a9313ebb171517f5f5f71f3b2c02e877e1e2d0a0",
+    "x-client": 1751031730.985,
     "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/o821rcebLUCj1YsV89pcmp+o1KhFlBPxyMB6lGtlMX8leBhsMur6sN8S1vR2t4P8x4boKgM9LkO+kYakCC3Mkc=",
     "x-secure-level": "2",
     "x-api-platform": "web-desktop",
@@ -13,13 +13,13 @@
     "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36",
     "x-user-email": "jeffrybp1991@gmail.com",
     "204-dash": null,
-    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751045226~acl=/stream/204/file/*~id=allUsers~hmac=9960089b77ee809c8d3d8662e2eb2d07bb2a64c01aab0dfafac38b66f04d2082",
+    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751046130~acl=/stream/204/file/*~id=allUsers~hmac=137c3c7b56a66e1530ffa9d7b9361eeb1d836c403a9d04608522f4ecaa27680b",
     "205-dash": null,
-    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751045226~acl=/stream/205/file/*~id=allUsers~hmac=2b72d00b2962f2189bb836bb41542e6e82577310e288f6feb6afa7798eb978c8",
-    "206-dash": "https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751045227~acl=/stream/206/file/*~id=allUsers~hmac=59522343aa3f2b0ee83646b9c5a106a3701aa7c3b11bb055c895f9e3b545f7f0",
-    "206-hls": "https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751045227~acl=/stream/206/file/*~id=allUsers~hmac=59522343aa3f2b0ee83646b9c5a106a3701aa7c3b11bb055c895f9e3b545f7f0",
+    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751046130~acl=/stream/205/file/*~id=allUsers~hmac=8d43e0dd25ea9d6c42d3db34c35e1313706a40916602c40b1b3b45d665e36950",
+    "206-dash": "https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751046130~acl=/stream/206/file/*~id=allUsers~hmac=875b19e7b19c97dfeb4ebbea15ba511996d634827f96b7fe31deb38f576cf69e",
+    "206-hls": "https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751046130~acl=/stream/206/file/*~id=allUsers~hmac=875b19e7b19c97dfeb4ebbea15ba511996d634827f96b7fe31deb38f576cf69e",
     "18105-dash": null,
-    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751045227~acl=/stream/18105/file/*~id=allUsers~hmac=1a245f86aa6fdddd7dbde5891667de1903c45d37cd36189df96760fce79fbe31",
+    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751046131~acl=/stream/18105/file/*~id=allUsers~hmac=d3f41af8ae52a6cd1ef29e194b454b9603d1391fd85ca97db0704aea2d6659d1",
     "all-sections": "16890-17140-17875-17884-18189-18190-18249-18250-18252-18833-18834-18851-18853-18954-18994-206-6299-6317-6685-6786",
     "all-vidiolivetv": [
       {
@@ -568,12 +568,6 @@
       "cover_url": "https://thumbor.prod.vidiocdn.com/ASad3A23-iMiKkWQUiFdGtGd2cM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4380442/c8156b.jpg",
       "start_time": "2025-06-27T15:00:00.000Z"
     },
-    "4382369": {
-      "title": "FIA Formula 3 Championship Austria Grand Prix 2025 - Qualifying",
-      "web_url": "17884",
-      "cover_url": "https://thumbor.prod.vidiocdn.com/TuxWxim7F9vuPfjeor7DeGOozx8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4382369/738881.jpg",
-      "start_time": "2025-06-27T12:58:00.000Z"
-    },
     "4382370": {
       "title": "FIA Formula 2 Championship Austria Grand Prix 2025 - Qualifying",
       "web_url": "17884",
@@ -817,9 +811,9 @@
       "start_time": "2025-06-27T12:30:00.000Z"
     },
     "17884": {
-      "title": "FIA Formula 3 Championship Austria Grand Prix 2025 - Qualifying",
+      "title": "Formula 1",
       "web_url": "17884",
-      "cover_url": "https://thumbor.prod.vidiocdn.com/TuxWxim7F9vuPfjeor7DeGOozx8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4382369/738881.jpg",
+      "cover_url": "https://thumbor.prod.vidiocdn.com/Rc1pHYZnd8l_siMi118TkKusbPM=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17884/formula-1-5ee872.jpg",
       "start_time": "2025-04-02T13:25:00.000Z"
     },
     "17938": {
