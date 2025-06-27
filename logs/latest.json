@@ -1,9 +1,9 @@
 {
-  "time": "2025-06-27T00:33:08.337Z",
+  "time": "2025-06-27T00:48:08.784Z",
   "headers": {
     "luws": "77097D68-83C1-ECDD-27A5-208EDC00058E_22522467",
-    "x-signature": "e381f27116e2bb178e25b0af2352f896b1ff16f2a8ea9067bcc9f531be0a5f54",
-    "x-client": 1750984383.536,
+    "x-signature": "2da75a2a2bc568f697fe76431787cc79a5b928b884dcfed4ab1391ea364199c0",
+    "x-client": 1750985286.305,
     "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/vKopbtpIU8aTvnmkl8zqyK/nxVLqaOM7rGXdZpG8beWTRexK5slvX8h3FuYA1mTijn0u97fpSx+WLyeYYYtmhk=",
     "x-secure-level": "2",
     "x-api-platform": "web-desktop",
@@ -13,12 +13,12 @@
     "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36",
     "x-user-email": "jeffrybp1991@gmail.com",
     "204-dash": null,
-    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1750998782~acl=/stream/204/file/*~id=allUsers~hmac=26163e12874238e69fac76902020607c83797a4d4bde19cf1f6014b6b865d803",
+    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1750999685~acl=/stream/204/file/*~id=allUsers~hmac=b4578e4fc4a8e7129e2d209eec52d4d56f6b1ffb2af27331d28798601699c6c9",
     "205-dash": null,
-    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1750998782~acl=/stream/205/file/*~id=allUsers~hmac=b4c929d780432944f9eb86a0e7049c9247179fb4f42cf703e2f0b9f6eb220ef7",
-    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1750998783~acl=/stream/206/file/*~id=allUsers~hmac=ec9c209402f16c43dbd740612de2b005a48aabe05f3623a971c929f77fed0ea2",
-    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1750998783~acl=/stream/206/file/*~id=allUsers~hmac=ec9c209402f16c43dbd740612de2b005a48aabe05f3623a971c929f77fed0ea2",
-    "all-sections": "16890-17140-17875-17884-18190-18249-18250-18252-18253-18833-18834-18835-18851-18853-18985-18994-206-6299-6317-6685-6786",
+    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1750999685~acl=/stream/205/file/*~id=allUsers~hmac=2461785245f5ddfff583ed639bf18808ad31fe05d9902daa5dae7457c40da1cb",
+    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1750999686~acl=/stream/206/file/*~id=allUsers~hmac=20ab852347637b62290ea19240c0cbc346c487dd93e16f9cc51069bfb29dffe2",
+    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1750999686~acl=/stream/206/file/*~id=allUsers~hmac=20ab852347637b62290ea19240c0cbc346c487dd93e16f9cc51069bfb29dffe2",
+    "all-sections": "16890-17140-17875-17884-18190-18249-18250-18252-18833-18834-18835-18851-18853-18985-18994-206-6299-6317-6685-6786",
     "all-vidiolivetv": [
       {
         "content_id": "204",
@@ -501,15 +501,9 @@
       "start_time": "2025-06-26T17:00:00.000Z"
     },
     "18252": {
-      "title": "Hsu Yin-Hui/Lin Jhih Yun (TPE) vs Serena Kani (INA)/Tsavane Mertosono (USA) - Women's Doubles Round of 16 | Yonex US Open 2025",
+      "title": "Chang Ko-Chi/Po Li-Wei (TPE) vs Lai Po Yu/Tsai Fu Cheng (TPE) - Men's Doubles Round of 16 | Yonex US Open 2025",
       "web_url": "18252",
       "cover_url": "https://thumbor.prod.vidiocdn.com/YBgb70ve4cclQ-M_wikCwjrVgT4=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18252/yonex-us-open-2025-round-of-16-court-3-2ef779.jpg",
-      "start_time": "2025-06-26T17:10:00.000Z"
-    },
-    "18253": {
-      "title": "Chen Zhi Ray/Lin Yu Chieh (TPE) vs Izak Batalha/Matheus Voigt (BRA) - Men's Doubles Round of 16 | Yonex US Open 2025",
-      "web_url": "18253",
-      "cover_url": "https://thumbor.prod.vidiocdn.com/LB3sO05TOUr1iECyV55VYzyEwsE=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18253/yonex-us-open-2025-qualifiers-round-of-32-court-4-923e21.jpg",
       "start_time": "2025-06-26T17:10:00.000Z"
     },
     "18833": {
@@ -833,15 +827,9 @@
       "start_time": "2025-06-26T17:00:00.000Z"
     },
     "18252": {
-      "title": "Hsu Yin-Hui/Lin Jhih Yun (TPE) vs Serena Kani (INA)/Tsavane Mertosono (USA) - Women's Doubles Round of 16 | Yonex US Open 2025",
+      "title": "Chang Ko-Chi/Po Li-Wei (TPE) vs Lai Po Yu/Tsai Fu Cheng (TPE) - Men's Doubles Round of 16 | Yonex US Open 2025",
       "web_url": "18252",
       "cover_url": "https://thumbor.prod.vidiocdn.com/YBgb70ve4cclQ-M_wikCwjrVgT4=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18252/yonex-us-open-2025-round-of-16-court-3-2ef779.jpg",
-      "start_time": "2025-06-26T17:10:00.000Z"
-    },
-    "18253": {
-      "title": "Chen Zhi Ray/Lin Yu Chieh (TPE) vs Izak Batalha/Matheus Voigt (BRA) - Men's Doubles Round of 16 | Yonex US Open 2025",
-      "web_url": "18253",
-      "cover_url": "https://thumbor.prod.vidiocdn.com/LB3sO05TOUr1iECyV55VYzyEwsE=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18253/yonex-us-open-2025-qualifiers-round-of-32-court-4-923e21.jpg",
       "start_time": "2025-06-26T17:10:00.000Z"
     },
     "18853": {
