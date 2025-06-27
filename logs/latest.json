@@ -1,9 +1,9 @@
 {
-  "time": "2025-06-27T12:26:57.836Z",
+  "time": "2025-06-27T12:42:02.796Z",
   "headers": {
     "luws": "77097D68-83C1-ECDD-27A5-208EDC00058E_22522467",
-    "x-signature": "15736eec3355668bc396bf7fe3be51fa9fa6f906b85919bdcb1197207eee6cf5",
-    "x-client": 1751027215.312,
+    "x-signature": "b8fe52736d72405e30eb366d400c620b41b331c46dc40a6920ed1af09497ebe2",
+    "x-client": 1751028119.234,
     "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/o821rcebLUCj1YsV89pcmp+o1KhFlBPxyMB6lGtlMX8leBhsMur6sN8S1vR2t4P8x4boKgM9LkO+kYakCC3Mkc=",
     "x-secure-level": "2",
     "x-api-platform": "web-desktop",
@@ -13,13 +13,13 @@
     "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36",
     "x-user-email": "jeffrybp1991@gmail.com",
     "204-dash": null,
-    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751041615~acl=/stream/204/file/*~id=allUsers~hmac=7ab7cea99d892f456d96ef72d08571173d96edb008d8800c685fdbc8c64e0094",
+    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751042519~acl=/stream/204/file/*~id=allUsers~hmac=56a3f2d3bb7ed19736b2ba18b894811c49cbb479a0414fc2a7bc64b36a0ec1d6",
     "205-dash": null,
-    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751041615~acl=/stream/205/file/*~id=allUsers~hmac=2ca2f1fdbb168c8ba33da13c06415cfbdaa874e59386330bb2e0cf0502d37b97",
-    "206-dash": "https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751041615~acl=/stream/206/file/*~id=allUsers~hmac=6b137f50670c2f74510b3037685d409533d7e258e76d6f105cf1407d4fa08101",
-    "206-hls": "https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751041615~acl=/stream/206/file/*~id=allUsers~hmac=6b137f50670c2f74510b3037685d409533d7e258e76d6f105cf1407d4fa08101",
+    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751042519~acl=/stream/205/file/*~id=allUsers~hmac=ff31beb1bf5b0498a5d65b1ef3f8ef8aee7631c68de91b69a2be8a5a0f36e06d",
+    "206-dash": "https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751042519~acl=/stream/206/file/*~id=allUsers~hmac=765d7e8517da5c6c60af22848da8b603eb72e5ba93e764def328a8f34c98a8af",
+    "206-hls": "https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751042519~acl=/stream/206/file/*~id=allUsers~hmac=765d7e8517da5c6c60af22848da8b603eb72e5ba93e764def328a8f34c98a8af",
     "18105-dash": null,
-    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751041615~acl=/stream/18105/file/*~id=allUsers~hmac=05111d1ef828d1fda493d77d438a5cf3269c73fe77c6989fac567af55acee6a5",
+    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751042520~acl=/stream/18105/file/*~id=allUsers~hmac=f9614b97f7ed7856177407e36babd142c4cdd4aa28061387ae1ad0d8571f8b3d",
     "all-sections": "16890-17140-17875-17884-18189-18190-18249-18250-18252-18833-18834-18851-18853-18954-18985-18994-206-6299-6317-6685-6786",
     "all-vidiolivetv": [
       {
@@ -580,12 +580,6 @@
       "cover_url": "https://thumbor.prod.vidiocdn.com/ASad3A23-iMiKkWQUiFdGtGd2cM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4380442/c8156b.jpg",
       "start_time": "2025-06-27T15:00:00.000Z"
     },
-    "4382368": {
-      "title": "Formula 1 MSC Cruises Austrian Grand Prix 2025 - Practice 1",
-      "web_url": "17884",
-      "cover_url": "https://thumbor.prod.vidiocdn.com/oMpCcnH5nX-V3nmH4XZsXaGeTLE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4382368/51b6aa.jpg",
-      "start_time": "2025-06-27T11:25:00.000Z"
-    },
     "4382369": {
       "title": "FIA Formula 3 Championship Austria Grand Prix 2025 - Qualifying",
       "web_url": "17884",
@@ -828,10 +822,16 @@
     }
   },
   "vidioliveothers": {
+    "16890": {
+      "title": "ONE Friday Fights 114",
+      "web_url": "16890",
+      "cover_url": "https://thumbor.prod.vidiocdn.com/JfhZyOIBlnuBdc5s-rzmFrf0Fbs=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4380417/3b44ae.jpg",
+      "start_time": "2025-06-27T12:30:00.000Z"
+    },
     "17884": {
-      "title": "Formula 1 MSC Cruises Austrian Grand Prix 2025 - Practice 1",
+      "title": "Formula 1",
       "web_url": "17884",
-      "cover_url": "https://thumbor.prod.vidiocdn.com/oMpCcnH5nX-V3nmH4XZsXaGeTLE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4382368/51b6aa.jpg",
+      "cover_url": "https://thumbor.prod.vidiocdn.com/Rc1pHYZnd8l_siMi118TkKusbPM=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17884/formula-1-5ee872.jpg",
       "start_time": "2025-04-02T13:25:00.000Z"
     },
     "17938": {
@@ -857,6 +857,12 @@
       "web_url": "19007",
       "cover_url": "https://thumbor.prod.vidiocdn.com/u6_j9DWi29JxKXocSZ2XSUlMKsg=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/19007/healthy-monday-293cc8.jpg",
       "start_time": "2025-06-30T08:30:00.000Z"
+    },
+    "19008": {
+      "title": "BTN Jakarta International Marathon 2025 – Running Jakarta with 4S Spirit!",
+      "web_url": "19008",
+      "cover_url": "https://thumbor.prod.vidiocdn.com/8EOjcdNpJW2ek1k2ql_p2NEyW14=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/19008/btn-jakarta-international-marathon-2025-running-jakarta-with-4s-spirit-6eaa50.jpg",
+      "start_time": "2025-06-28T20:00:00.000Z"
     }
   }
 }
