@@ -1,9 +1,9 @@
 {
-  "time": "2025-06-27T02:33:27.997Z",
+  "time": "2025-06-27T02:48:31.082Z",
   "headers": {
     "luws": "77097D68-83C1-ECDD-27A5-208EDC00058E_22522467",
-    "x-signature": "1ffca5061e257d3b5ea40c51edfd83dc3cec74cff842d4c93a9fcbffb2f6b7db",
-    "x-client": 1750991606.159,
+    "x-signature": "e73277a53f98f3861938516df8f175e669556ef1acf8e17f24c387c98a54ee17",
+    "x-client": 1750992509.116,
     "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/o821rcebLUCj1YsV89pcmp+o1KhFlBPxyMB6lGtlMX8leBhsMur6sN8S1vR2t4P8x4boKgM9LkO+kYakCC3Mkc=",
     "x-secure-level": "2",
     "x-api-platform": "web-desktop",
@@ -13,12 +13,12 @@
     "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36",
     "x-user-email": "jeffrybp1991@gmail.com",
     "204-dash": null,
-    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751006006~acl=/stream/204/file/*~id=allUsers~hmac=4ab10c024d6299302f9dcd3a8f3eeb341b38fc5c104e3a0fdddfb26970a5022c",
+    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751006908~acl=/stream/204/file/*~id=allUsers~hmac=d7fc8210147c64b0ac63b68cc65fc2df7bd42f5a055f3d851b148696057ff997",
     "205-dash": null,
-    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751006006~acl=/stream/205/file/*~id=allUsers~hmac=1e2ac3cb6a562aecec6882bfa5d53e6096051831ac727d7cc883cbe3f0848463",
-    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751006006~acl=/stream/206/file/*~id=allUsers~hmac=6b7bfd68202cc5ea075de396fa27c035595dda8c04120614f534ac54d68ead90",
-    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751006006~acl=/stream/206/file/*~id=allUsers~hmac=6b7bfd68202cc5ea075de396fa27c035595dda8c04120614f534ac54d68ead90",
-    "all-sections": "16890-17140-17875-17884-18189-18190-18833-18834-18835-18851-18985-18994-206-6299-6317-6685-6786",
+    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751006909~acl=/stream/205/file/*~id=allUsers~hmac=390dabc9d8ae81123d342b0834fd99713e0a0a8b3d8b088cb3d27f6b54163ebc",
+    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751006909~acl=/stream/206/file/*~id=allUsers~hmac=c9d63e4c1ee8db1ea7288baffd6318741cfc77c669b059e28f0bb95e877b44f6",
+    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751006909~acl=/stream/206/file/*~id=allUsers~hmac=c9d63e4c1ee8db1ea7288baffd6318741cfc77c669b059e28f0bb95e877b44f6",
+    "all-sections": "16890-17140-17875-17884-18189-18190-18249-18250-18252-18833-18834-18835-18851-18985-18994-206-6299-6317-6685-6786",
     "all-vidiolivetv": [
       {
         "content_id": "204",
@@ -488,6 +488,24 @@
     ]
   },
   "sections": {
+    "18249": {
+      "title": "Yonex US Open 2025  - Quarterfinals (Court 1)",
+      "web_url": "18249",
+      "cover_url": "https://thumbor.prod.vidiocdn.com/Mz7kxlZVk5_kQDt76lczZDjxAls=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18249/yonex-us-open-2025-round-of-32-court-1-5e6d5f.jpg",
+      "start_time": "2025-06-27T20:00:00.000Z"
+    },
+    "18250": {
+      "title": "Yonex US Open 2025  - Quarterfinals (Court 2)",
+      "web_url": "18250",
+      "cover_url": "https://thumbor.prod.vidiocdn.com/LDpfnnG47WP0WJrWMAf2jXzAY2c=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18250/yonex-us-open-2025-round-of-16-court-2-a4a21a.jpg",
+      "start_time": "2025-06-27T20:00:00.000Z"
+    },
+    "18252": {
+      "title": "Yonex US Open 2025  - Quarterfinals (Court 3)",
+      "web_url": "18252",
+      "cover_url": "https://thumbor.prod.vidiocdn.com/YBgb70ve4cclQ-M_wikCwjrVgT4=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18252/yonex-us-open-2025-round-of-16-court-3-2ef779.jpg",
+      "start_time": "2025-06-27T20:00:00.000Z"
+    },
     "18833": {
       "title": "Byon Combat Showbiz Vol.5",
       "web_url": "18833",
@@ -781,6 +799,12 @@
       "web_url": "18189",
       "cover_url": "https://thumbor.prod.vidiocdn.com/UH8JLycG5iISBYwUtOAHfEIe96M=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4384267/ef6a34.jpg",
       "start_time": "2025-06-27T19:00:00.000Z"
+    },
+    "4384275": {
+      "title": "Men: China vs Italy - Volleyball Nations League",
+      "web_url": "206",
+      "cover_url": "https://thumbor.prod.vidiocdn.com/Y7m-t8DBcl08fSwO0hwu62kYsjw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4384275/adec17.jpg",
+      "start_time": "2025-06-27T21:00:00.000Z"
     }
   },
   "vidioliveothers": {
@@ -807,6 +831,12 @@
       "web_url": "18985",
       "cover_url": "https://thumbor.prod.vidiocdn.com/Z0wWufdoIoG6zB9twHpnKcFDW3U=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4380411/7d3972.jpg",
       "start_time": "2025-06-27T01:10:00.000Z"
+    },
+    "19004": {
+      "title": "Upacara Penyambutan Kenegaraan PM Malaysia Anwar Ibrahim | LIVE",
+      "web_url": "19004",
+      "cover_url": "https://thumbor.prod.vidiocdn.com/ouvaE4DwEQtpzblMh9RWJTj0fuY=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/19004/upacara-penyambutan-kenegaraan-pm-malaysia-anwar-ibrahim-live-3f1c72.jpg",
+      "start_time": "2025-06-27T05:30:00.000Z"
     }
   }
 }
