@@ -1,9 +1,9 @@
 {
-  "time": "2025-06-27T10:56:42.024Z",
+  "time": "2025-06-27T11:11:48.381Z",
   "headers": {
     "luws": "77097D68-83C1-ECDD-27A5-208EDC00058E_22522467",
-    "x-signature": "af760ddd38b40f3c486dbdb665d47a0a64b4cbec5d773f1a4ff8178bdd2e2437",
-    "x-client": 1751021795.922,
+    "x-signature": "c1b5c9b84faadc73dd9a4794592fc0582d75157ffd4b00d8556972293a3c37c7",
+    "x-client": 1751022698.773,
     "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/o821rcebLUCj1YsV89pcmp+o1KhFlBPxyMB6lGtlMX8leBhsMur6sN8S1vR2t4P8x4boKgM9LkO+kYakCC3Mkc=",
     "x-secure-level": "2",
     "x-api-platform": "web-desktop",
@@ -13,13 +13,13 @@
     "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36",
     "x-user-email": "jeffrybp1991@gmail.com",
     "204-dash": null,
-    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751036199~acl=/stream/204/file/*~id=allUsers~hmac=9c05a99ada6d269a82f1725ba712bd23c8add1a03b67173898c9ce4178e3524d",
+    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751037105~acl=/stream/204/file/*~id=allUsers~hmac=c4f6e71367d942a27a27353e2dc931a95eb845069e23d7551632bef6ffbe2983",
     "205-dash": null,
-    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751036199~acl=/stream/205/file/*~id=allUsers~hmac=92d7e4d1de2804d4b191c1f6d75b15eb285a1f9ce3cf059d6136b770d6184cb0",
-    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751036199~acl=/stream/206/file/*~id=allUsers~hmac=b61937b73a522311b1c1dbb7d0a972a9ad0dae6f4b602ad5204efd5822851bde",
-    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751036199~acl=/stream/206/file/*~id=allUsers~hmac=b61937b73a522311b1c1dbb7d0a972a9ad0dae6f4b602ad5204efd5822851bde",
+    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751037106~acl=/stream/205/file/*~id=allUsers~hmac=a223a4ffabe8fb68c53687351e3439345c8cb6231bb56e314959e8b3823c9036",
+    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751037106~acl=/stream/206/file/*~id=allUsers~hmac=ae99f71dcc8ade65d67292aaca1929883c30db561df76cf11e208ca90cbdd532",
+    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751037106~acl=/stream/206/file/*~id=allUsers~hmac=ae99f71dcc8ade65d67292aaca1929883c30db561df76cf11e208ca90cbdd532",
     "18105-dash": null,
-    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751036199~acl=/stream/18105/file/*~id=allUsers~hmac=c1fed5871fc6523f47c1952f369e9c2fdd31930a3a8af86e705e0ddd9fb73b70",
+    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751037106~acl=/stream/18105/file/*~id=allUsers~hmac=d753f7f10501cc0ac3a02b349026de49e0b1c9be92b8b5443308eebf888dde95",
     "all-sections": "16890-17140-17875-17884-18189-18190-18249-18250-18252-18833-18834-18851-18853-18954-18985-18994-206-6299-6317-6685-6786",
     "all-vidiolivetv": [
       {
@@ -556,12 +556,6 @@
       "cover_url": "https://thumbor.prod.vidiocdn.com/QnoQx12U2d7bJJeKISs16RuMBe8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4380410/b230ca.jpg",
       "start_time": "2025-06-27T11:00:00.000Z"
     },
-    "4380415": {
-      "title": "Boys: Hin Hua High School (MAS) vs Anglo-Chinese Junior College (SGP) - NBA Rising Invitational",
-      "web_url": "18985",
-      "cover_url": "https://thumbor.prod.vidiocdn.com/pTnn-N5lLrI6QT7UZ0xbDqtSlIE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4380415/f2aa54.jpg",
-      "start_time": "2025-06-27T09:10:00.000Z"
-    },
     "4380416": {
       "title": "Girls: SMAK BPK Penabur Cirebon (INA) vs Tsinghua University High School (CHN) - NBA Rising Invitational",
       "web_url": "18985",
@@ -859,9 +853,9 @@
       "start_time": "2024-10-20T12:45:00.000Z"
     },
     "18985": {
-      "title": "Boys: Hin Hua High School (MAS) vs Anglo-Chinese Junior College (SGP) - NBA Rising Invitational",
+      "title": "Girls: SMAK BPK Penabur Cirebon (INA) vs Tsinghua University High School (CHN) - NBA Rising Invitational",
       "web_url": "18985",
-      "cover_url": "https://thumbor.prod.vidiocdn.com/pTnn-N5lLrI6QT7UZ0xbDqtSlIE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4380415/f2aa54.jpg",
+      "cover_url": "https://thumbor.prod.vidiocdn.com/nmLft-BSzWYNz3y3Y0EfgJn0N1c=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4380416/098176.jpg",
       "start_time": "2025-06-27T09:10:00.000Z"
     },
     "19007": {
