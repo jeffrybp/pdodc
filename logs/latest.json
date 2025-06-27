@@ -1,25 +1,25 @@
 {
-  "time": "2025-06-27T17:28:00.674Z",
+  "time": "2025-06-27T21:59:03.224Z",
   "headers": {
-    "luws": "77097D68-83C1-ECDD-27A5-208EDC00058E_22522467",
-    "x-signature": "a44b82e0fcf185f123fcb0e2db313b3386f0e3617db798d5f56bb735eef37ba3",
-    "x-client": 1751045279.39,
+    "luws": "34401390-43A2-8062-5DE3-D9C3992929CE_22522467",
+    "x-signature": "fd5afbc9e3f7df18d5acdf3eb27494d4a33a6b0603cc81c8acef59e6a0dcd38a",
+    "x-client": 1751061539.652,
     "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/o821rcebLUCj1YsV89pcmp+o1KhFlBPxyMB6lGtlMX8leBhsMur6sN8S1vR2t4P8x4boKgM9LkO+kYakCC3Mkc=",
     "x-secure-level": "2",
     "x-api-platform": "web-desktop",
     "x-request-from": "https://www.vidio.com/live/204",
     "content-type": "application/json",
-    "cookie": "ahoy_visitor=6e3be2bd-3fee-4c75-b69b-28bbf54baae8; g_state={\"i_p\":1750688736787,\"i_l\":2}; plenty_id=22522467; ahoy_visit=26bd527f-bc8b-433a-a38b-ea14b6878ffd; __uid_2=%7B%22advertising_token%22%3A%22A4AAABKBfFVW8FEFzCA00v7eWDk6viCehSw00buEtOM2t8hTe7NHfY7RiqHiMOVZoJPrzQnDzk9Ycx-ceE3xo7m7rxe3Odo604Pnng2HFrfqK9mDSP4v2KQVuaw4E2Wp11arHDB5srM7xtakG-kQPmN0Wqk_kqbBiJjmQW9cT2zZk50nxuA7NkNuJLGfSRRR7dn_QI7Hqtm-ljexWXGfYVd1rA%22%2C%22refresh_token%22%3A%22AAAAEoJgLj3MSYu0pYJokoRHklgB3ZmzAX%2F78S%2Fniq4C57D2DMqEigAw5VAa59wXgG%2FK4laWRAjj5w7JFK0FjNKySrAI61V8l5S3kI%2FP2gvURvEd6atuGLEw%2Fc%2BzrV5p7UBKCUByjmp8s8QuQGbO9Z0O2NerVqa6jtV03wxNDWdZ0eAUaCzUNMublspJcEdyo%2Bu3mwtVQAx%2FII9x%2BduVFhl0Fcl8Z2sobk7pFnGsgDhWT1shzwjzvU4JjKh1m72lo%2FnY0KcdbIFXnhwyWLPAeFgN%2FDc4NQQGAN%2BCdQeq9bjf07F%2B4A4lSsTpC0IYGB3Mgdq%2FrKxnHZRe3%2F94TonD1Offq1BBbdTebVmsjJ7OvF9nLcpJUD%2Bkkd%2BDzzANXWg4XUKZ%22%2C%22identity_expires%22%3A1750994781000%2C%22refresh_expires%22%3A1753327581000%2C%22refresh_from%22%3A1750739181000%2C%22refresh_response_key%22%3A%22vR56VjKzDhTMLzp3B5GFnyyP6DX5frZuRNnu7dVBQpY%3D%22%7D; luws=77097D68-83C1-ECDD-27A5-208EDC00058E_22522467; country_id=ID; shva=1; _vidio_session=xxx;",
-    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36",
+    "cookie": "ahoy_visitor=6e3be2bd-3fee-4c75-b69b-28bbf54baae8; g_state={\"i_p\":1750688736787,\"i_l\":2}; plenty_id=22522467; __uid_2=%7B%22advertising_token%22%3A%22A4AAABKBfFVW8FEFzCA00v7eWDk6viCehSw00buEtOM2t8hTe7NHfY7RiqHiMOVZoJPrzQnDzk9Ycx-ceE3xo7m7rxe3Odo604Pnng2HFrfqK9mDSP4v2KQVuaw4E2Wp11arHDB5srM7xtakG-kQPmN0Wqk_kqbBiJjmQW9cT2zZk50nxuA7NkNuJLGfSRRR7dn_QI7Hqtm-ljexWXGfYVd1rA%22%2C%22refresh_token%22%3A%22AAAAEoJgLj3MSYu0pYJokoRHklgB3ZmzAX%2F78S%2Fniq4C57D2DMqEigAw5VAa59wXgG%2FK4laWRAjj5w7JFK0FjNKySrAI61V8l5S3kI%2FP2gvURvEd6atuGLEw%2Fc%2BzrV5p7UBKCUByjmp8s8QuQGbO9Z0O2NerVqa6jtV03wxNDWdZ0eAUaCzUNMublspJcEdyo%2Bu3mwtVQAx%2FII9x%2BduVFhl0Fcl8Z2sobk7pFnGsgDhWT1shzwjzvU4JjKh1m72lo%2FnY0KcdbIFXnhwyWLPAeFgN%2FDc4NQQGAN%2BCdQeq9bjf07F%2B4A4lSsTpC0IYGB3Mgdq%2FrKxnHZRe3%2F94TonD1Offq1BBbdTebVmsjJ7OvF9nLcpJUD%2Bkkd%2BDzzANXWg4XUKZ%22%2C%22identity_expires%22%3A1750994781000%2C%22refresh_expires%22%3A1753327581000%2C%22refresh_from%22%3A1750739181000%2C%22refresh_response_key%22%3A%22vR56VjKzDhTMLzp3B5GFnyyP6DX5frZuRNnu7dVBQpY%3D%22%7D; ahoy_visit=9cf5e79e-b895-4e82-8f67-84dcf4e6a06b; luws=34401390-43A2-8062-5DE3-D9C3992929CE_22522467; country_id=ID; shva=1; _vidio_session=xxx;",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
     "x-user-email": "jeffrybp1991@gmail.com",
     "204-dash": null,
-    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751059678~acl=/stream/204/file/*~id=allUsers~hmac=ff5f38c58ec67be86e2e199198a1e874cd6f737140565a3d7f2ee8c410c492ef",
+    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751075940~acl=/stream/204/file/*~id=allUsers~hmac=456d658ea5afaaef34177298eb7f4e7afa821ebc60464a58a7df4a6c01f3ed48",
     "205-dash": null,
-    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751059678~acl=/stream/205/file/*~id=allUsers~hmac=4af0d3f873c0fbb5958ff61fba335755ca243a4d5adefff8c3f043133f429bfb",
-    "206-dash": "https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751059678~acl=/stream/206/file/*~id=allUsers~hmac=e49522229b50b4c06f63f640b3e4972bb26dfea4cdd71ef6acf9f1706102c5c7",
-    "206-hls": "https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751059678~acl=/stream/206/file/*~id=allUsers~hmac=e49522229b50b4c06f63f640b3e4972bb26dfea4cdd71ef6acf9f1706102c5c7",
+    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751075940~acl=/stream/205/file/*~id=allUsers~hmac=0231f1664c15f7c1d987b8574c42554d5941d554c3995a5adc5c81232b502a7d",
+    "206-dash": "https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751075941~acl=/stream/206/file/*~id=allUsers~hmac=6014f4e0c5531c77f5ab0ea8fd38f0642831388643e16c9ce0f4ccfdfd4423da",
+    "206-hls": "https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751075941~acl=/stream/206/file/*~id=allUsers~hmac=6014f4e0c5531c77f5ab0ea8fd38f0642831388643e16c9ce0f4ccfdfd4423da",
     "18105-dash": null,
-    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751059678~acl=/stream/18105/file/*~id=allUsers~hmac=d39573eee03fcfd0681ed9fc0d21fa7e9626167b01e4dd4e0523c9b6a5085efa",
+    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751075941~acl=/stream/18105/file/*~id=allUsers~hmac=c026b1e012b98a3ad5e670ba0ba7c13e99d412be12a9a7251dfedbedc93655df",
     "all-sections": "17140-17875-17884-18189-18190-18249-18250-18252-18833-18834-18851-18853-18954-18985-18994-206-6299-6317-6685-6786",
     "all-vidiolivetv": [
       {
@@ -491,19 +491,19 @@
   },
   "sections": {
     "18249": {
-      "title": "Presley Smith/Jennie Gai (USA)  vs Callum Hemming/Estelle Van Leeuwen (ENG) - Mixed Doubles Quarterfinals | Yonex US Open 2025",
+      "title": "Kaloyana Nalbantova (BUL) vs Line Christopersen (DEN) - Women’s Singles Quarterfinals | Yonex US Open 2025",
       "web_url": "18249",
       "cover_url": "https://thumbor.prod.vidiocdn.com/Mz7kxlZVk5_kQDt76lczZDjxAls=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18249/yonex-us-open-2025-round-of-32-court-1-5e6d5f.jpg",
       "start_time": "2025-06-27T20:00:00.000Z"
     },
     "18250": {
-      "title": "Chen Cheng Kuan/Hsu Yin-Hui (TPE) vs Marvin Seidel/Thuc Phuong Nguyen (GER) - Mixed Doubles Quarterfinals | Yonex US Open 2025",
+      "title": "Liao Jhuo-Fu (TPE) vs Kenta Nishimoto (JPN) - Men’s Singles Quarterfinals | Yonex US Open 2025",
       "web_url": "18250",
       "cover_url": "https://thumbor.prod.vidiocdn.com/LDpfnnG47WP0WJrWMAf2jXzAY2c=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18250/yonex-us-open-2025-round-of-16-court-2-a4a21a.jpg",
       "start_time": "2025-06-27T20:00:00.000Z"
     },
     "18252": {
-      "title": "Lin Yu Chieh/Hung Yu-En (TPE) vs Rasmus Espersen/Amalie Cecillie Kudsk (DEN) - Mixed Doubles Quarterfinals | Yonex US Open 2025",
+      "title": "Harry Huang (ENG) vs Brian Yang (CAN) - Men’s Singles Quarterfinals | Yonex US Open 2025",
       "web_url": "18252",
       "cover_url": "https://thumbor.prod.vidiocdn.com/YBgb70ve4cclQ-M_wikCwjrVgT4=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18252/yonex-us-open-2025-round-of-16-court-3-2ef779.jpg",
       "start_time": "2025-06-27T20:00:00.000Z"
@@ -520,35 +520,11 @@
       "cover_url": "https://thumbor.prod.vidiocdn.com/0FVMDw6JH4HKhqaZp9QPYLbKqw8=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18834/byon-combat-showbiz-vol-5-4b168f.jpg",
       "start_time": "2025-06-28T09:00:00.000Z"
     },
-    "4380408": {
-      "title": "ATP 250: Lexus Eastbourne Open 2025 - Semifinal",
-      "web_url": "6317",
-      "cover_url": "https://thumbor.prod.vidiocdn.com/AtBl6FTAxvyY6auOdmFbGrSpVmA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4380408/3a0072.jpg",
-      "start_time": "2025-06-27T14:00:00.000Z"
-    },
-    "4380419": {
-      "title": "ATP 250: Mallorca Championships presented by Ecotrans Group 2025 - Semifinal",
-      "web_url": "17875",
-      "cover_url": "https://thumbor.prod.vidiocdn.com/uk0URaQbiUCAcMPWASduNo51m1A=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4380419/565642.jpg",
-      "start_time": "2025-06-27T13:30:00.000Z"
-    },
     "4380439": {
       "title": "Indonesia vs Kyrgyzstan - AFC Women's Asian Cup 2026 Qualifiers",
       "web_url": "18994",
       "cover_url": "https://thumbor.prod.vidiocdn.com/jXltzZHzi3E8tlDglFjbs5bC5iw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4380439/0c9abe.jpg",
       "start_time": "2025-06-29T13:00:00.000Z"
-    },
-    "4380442": {
-      "title": "Dow Championship 2025 - Round 2",
-      "web_url": "18190",
-      "cover_url": "https://thumbor.prod.vidiocdn.com/ASad3A23-iMiKkWQUiFdGtGd2cM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4380442/c8156b.jpg",
-      "start_time": "2025-06-27T15:00:00.000Z"
-    },
-    "4382546": {
-      "title": "Men: Bulgaria vs Slovenia - Volleyball Nations League",
-      "web_url": "18851",
-      "cover_url": "https://thumbor.prod.vidiocdn.com/bO0d97tdAbk71A7ndxBpBTKUXM8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4382546/66eea1.jpg",
-      "start_time": "2025-06-27T16:15:00.000Z"
     },
     "4382747": {
       "title": "Moto3 Free Practice 2: MotoGP 2025 Round 10 - Motul Grand Prix of the Netherlands",
@@ -592,12 +568,6 @@
       "cover_url": "https://thumbor.prod.vidiocdn.com/yBL2DB4TQxshvLqMSMGjZrAsQw0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4382753/29ffc1.jpg",
       "start_time": "2025-06-28T12:45:00.000Z"
     },
-    "4382754": {
-      "title": "Valladolid P2 Premier Padel 2025 - Quarter Final",
-      "web_url": "6299",
-      "cover_url": "https://thumbor.prod.vidiocdn.com/davrudnx5cdkEoE06BV_VYI-sNM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4382754/693845.jpg",
-      "start_time": "2025-06-27T17:20:00.000Z"
-    },
     "4382755": {
       "title": "Valladolid P2 Premier Padel 2025 - Semifinal",
       "web_url": "6299",
@@ -639,12 +609,6 @@
       "web_url": "6317",
       "cover_url": "https://thumbor.prod.vidiocdn.com/uSC3S-Jk4Lzx0PcxXuFZIcyJCe8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4382783/735c64.jpg",
       "start_time": "2025-06-28T15:00:00.000Z"
-    },
-    "4384266": {
-      "title": "Men: Netherlands vs Cuba - Volleyball Nations League",
-      "web_url": "206",
-      "cover_url": "https://thumbor.prod.vidiocdn.com/shvD12quLGL1yFcbSg9BKbiBWgc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4384266/2c38dd.jpg",
-      "start_time": "2025-06-27T18:00:00.000Z"
     },
     "4384267": {
       "title": "Rocket Classic - Round 2",
@@ -793,7 +757,7 @@
       "start_time": "2025-04-02T13:25:00.000Z"
     },
     "17938": {
-      "title": "Venezia vs Milan - Serie A",
+      "title": "Monza vs Atalanta - Serie A",
       "web_url": "17938",
       "cover_url": "https://thumbor.prod.vidiocdn.com/tJoOEHTHed9-fRQvnXoew2nr8hY=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17938/serie-a-973769.jpg",
       "start_time": "2024-10-20T10:00:00.000Z"
@@ -804,11 +768,23 @@
       "cover_url": "https://thumbor.prod.vidiocdn.com/X-RqLAcQNAoAqhhYdA6L240KI50=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17939/serie-a-4cc90b.jpg",
       "start_time": "2024-10-20T12:45:00.000Z"
     },
-    "18851": {
-      "title": "Men: Bulgaria vs Slovenia - Volleyball Nations League",
-      "web_url": "18851",
-      "cover_url": "https://thumbor.prod.vidiocdn.com/bO0d97tdAbk71A7ndxBpBTKUXM8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4382546/66eea1.jpg",
-      "start_time": "2025-06-27T16:28:00.000Z"
+    "18249": {
+      "title": "Kaloyana Nalbantova (BUL) vs Line Christopersen (DEN) - Women’s Singles Quarterfinals | Yonex US Open 2025",
+      "web_url": "18249",
+      "cover_url": "https://thumbor.prod.vidiocdn.com/Mz7kxlZVk5_kQDt76lczZDjxAls=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18249/yonex-us-open-2025-round-of-32-court-1-5e6d5f.jpg",
+      "start_time": "2025-06-27T20:00:00.000Z"
+    },
+    "18250": {
+      "title": "Liao Jhuo-Fu (TPE) vs Kenta Nishimoto (JPN) - Men’s Singles Quarterfinals | Yonex US Open 2025",
+      "web_url": "18250",
+      "cover_url": "https://thumbor.prod.vidiocdn.com/LDpfnnG47WP0WJrWMAf2jXzAY2c=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18250/yonex-us-open-2025-round-of-16-court-2-a4a21a.jpg",
+      "start_time": "2025-06-27T20:00:00.000Z"
+    },
+    "18252": {
+      "title": "Harry Huang (ENG) vs Brian Yang (CAN) - Men’s Singles Quarterfinals | Yonex US Open 2025",
+      "web_url": "18252",
+      "cover_url": "https://thumbor.prod.vidiocdn.com/YBgb70ve4cclQ-M_wikCwjrVgT4=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18252/yonex-us-open-2025-round-of-16-court-3-2ef779.jpg",
+      "start_time": "2025-06-27T20:00:00.000Z"
     },
     "19007": {
       "title": "Cedera Saat Ikut Tren Olahraga? Ini Risiko Dibalik Popularitasnya",
