@@ -1,9 +1,9 @@
 {
-  "time": "2025-06-27T13:12:06.472Z",
+  "time": "2025-06-27T13:27:09.098Z",
   "headers": {
     "luws": "77097D68-83C1-ECDD-27A5-208EDC00058E_22522467",
-    "x-signature": "94dc2bbfee96529969beceb64c3da88ca383e429af8a21734efd09d7961727eb",
-    "x-client": 1751029924.159,
+    "x-signature": "94aac35e69322bbcb67446437ef9abcb397962cc7f27a079ce535af3764704a0",
+    "x-client": 1751030827.053,
     "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/o821rcebLUCj1YsV89pcmp+o1KhFlBPxyMB6lGtlMX8leBhsMur6sN8S1vR2t4P8x4boKgM9LkO+kYakCC3Mkc=",
     "x-secure-level": "2",
     "x-api-platform": "web-desktop",
@@ -13,14 +13,14 @@
     "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36",
     "x-user-email": "jeffrybp1991@gmail.com",
     "204-dash": null,
-    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751044323~acl=/stream/204/file/*~id=allUsers~hmac=e32151da0b439bbc9ef672bdc7a927a238d584ca806761f21a707615b168292c",
+    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751045226~acl=/stream/204/file/*~id=allUsers~hmac=9960089b77ee809c8d3d8662e2eb2d07bb2a64c01aab0dfafac38b66f04d2082",
     "205-dash": null,
-    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751044324~acl=/stream/205/file/*~id=allUsers~hmac=4d376d234f26f9c591fabe21288916bbceb0847aef05b2d9ebf4fc36d6a01c80",
-    "206-dash": "https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751044324~acl=/stream/206/file/*~id=allUsers~hmac=0d0c65606d63b08e3cfbf751e727fcf0542db61f15c3dd6bb3c6fce63b1445c6",
-    "206-hls": "https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751044324~acl=/stream/206/file/*~id=allUsers~hmac=0d0c65606d63b08e3cfbf751e727fcf0542db61f15c3dd6bb3c6fce63b1445c6",
+    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751045226~acl=/stream/205/file/*~id=allUsers~hmac=2b72d00b2962f2189bb836bb41542e6e82577310e288f6feb6afa7798eb978c8",
+    "206-dash": "https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751045227~acl=/stream/206/file/*~id=allUsers~hmac=59522343aa3f2b0ee83646b9c5a106a3701aa7c3b11bb055c895f9e3b545f7f0",
+    "206-hls": "https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751045227~acl=/stream/206/file/*~id=allUsers~hmac=59522343aa3f2b0ee83646b9c5a106a3701aa7c3b11bb055c895f9e3b545f7f0",
     "18105-dash": null,
-    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751044324~acl=/stream/18105/file/*~id=allUsers~hmac=ec751ae720f43a8e2257c072a34c84e23a3f35d0af57d06901d52047d4343c78",
-    "all-sections": "16890-17140-17875-17884-18189-18190-18249-18250-18252-18833-18834-18851-18853-18954-18985-18994-206-6299-6317-6685-6786",
+    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751045227~acl=/stream/18105/file/*~id=allUsers~hmac=1a245f86aa6fdddd7dbde5891667de1903c45d37cd36189df96760fce79fbe31",
+    "all-sections": "16890-17140-17875-17884-18189-18190-18249-18250-18252-18833-18834-18851-18853-18954-18994-206-6299-6317-6685-6786",
     "all-vidiolivetv": [
       {
         "content_id": "204",
@@ -544,12 +544,6 @@
       "cover_url": "https://thumbor.prod.vidiocdn.com/QnoQx12U2d7bJJeKISs16RuMBe8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4380410/b230ca.jpg",
       "start_time": "2025-06-27T11:15:00.000Z"
     },
-    "4380416": {
-      "title": "Girls: SMAK BPK Penabur Cirebon (INA) vs Tsinghua University High School (CHN) - NBA Rising Invitational",
-      "web_url": "18985",
-      "cover_url": "https://thumbor.prod.vidiocdn.com/nmLft-BSzWYNz3y3Y0EfgJn0N1c=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4380416/098176.jpg",
-      "start_time": "2025-06-27T11:10:00.000Z"
-    },
     "4380417": {
       "title": "ONE Friday Fights 114",
       "web_url": "16890",
@@ -839,12 +833,6 @@
       "web_url": "17939",
       "cover_url": "https://thumbor.prod.vidiocdn.com/X-RqLAcQNAoAqhhYdA6L240KI50=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17939/serie-a-4cc90b.jpg",
       "start_time": "2024-10-20T12:45:00.000Z"
-    },
-    "18985": {
-      "title": "Girls: SMAK BPK Penabur Cirebon (INA) vs Tsinghua University High School (CHN) - NBA Rising Invitational",
-      "web_url": "18985",
-      "cover_url": "https://thumbor.prod.vidiocdn.com/nmLft-BSzWYNz3y3Y0EfgJn0N1c=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4380416/098176.jpg",
-      "start_time": "2025-06-27T09:10:00.000Z"
     },
     "19007": {
       "title": "Cedera Saat Ikut Tren Olahraga? Ini Risiko Dibalik Popularitasnya",
