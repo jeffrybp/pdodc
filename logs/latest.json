@@ -1,9 +1,9 @@
 {
-  "time": "2025-06-27T01:03:11.497Z",
+  "time": "2025-06-27T01:18:14.281Z",
   "headers": {
     "luws": "77097D68-83C1-ECDD-27A5-208EDC00058E_22522467",
-    "x-signature": "0a761f1a21ab24a164d140582a78e4e8bb10058962e7e93553462886308a317a",
-    "x-client": 1750986189.115,
+    "x-signature": "da85e404240fbed676c5f72612da7ca72fedad1d11420f68b5316ff4dc5984f3",
+    "x-client": 1750987091.916,
     "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/vKopbtpIU8aTvnmkl8zqyK/nxVLqaOM7rGXdZpG8beWTRexK5slvX8h3FuYA1mTijn0u97fpSx+WLyeYYYtmhk=",
     "x-secure-level": "2",
     "x-api-platform": "web-desktop",
@@ -13,12 +13,12 @@
     "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36",
     "x-user-email": "jeffrybp1991@gmail.com",
     "204-dash": null,
-    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751000588~acl=/stream/204/file/*~id=allUsers~hmac=3d076c5c6076ba979d925ea1113922ab5a483815e5547c1973610f824070dd2a",
+    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751001491~acl=/stream/204/file/*~id=allUsers~hmac=a0e88eb26af0032f09be1a6d7378ec1d9675d395fe23abf154d70106d76818bd",
     "205-dash": null,
-    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751000589~acl=/stream/205/file/*~id=allUsers~hmac=a6e4d986ead2e2e63699b29c88f8f73c91e7fb32652edfa67641b6bc38866c88",
-    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751000589~acl=/stream/206/file/*~id=allUsers~hmac=464bc2d00cb3c8f8de0cc5ec9dc82569ebe11cc0b94100626a7cb3817dabcf8c",
-    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751000589~acl=/stream/206/file/*~id=allUsers~hmac=464bc2d00cb3c8f8de0cc5ec9dc82569ebe11cc0b94100626a7cb3817dabcf8c",
-    "all-sections": "16890-17140-17875-17884-18190-18249-18250-18252-18833-18834-18835-18851-18853-18985-18994-206-6299-6317-6685-6786",
+    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751001491~acl=/stream/205/file/*~id=allUsers~hmac=1436f76aa81f7bafd8c1334ec2d23f6884fee84284eb2d92c11bebb2643254af",
+    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751001491~acl=/stream/206/file/*~id=allUsers~hmac=162fb39296940d87b6ace4d5721752be4c120831da53f6c71e6b22bcf7cabcfd",
+    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751001491~acl=/stream/206/file/*~id=allUsers~hmac=162fb39296940d87b6ace4d5721752be4c120831da53f6c71e6b22bcf7cabcfd",
+    "all-sections": "16890-17140-17875-17884-18190-18833-18834-18835-18851-18853-18985-18994-206-6299-6317-6685-6786",
     "all-vidiolivetv": [
       {
         "content_id": "204",
@@ -488,24 +488,6 @@
     ]
   },
   "sections": {
-    "18249": {
-      "title": "Polina Buhrova/Yevheniia Kantemyr (UKR) vs Audrey Chand/Jasmine Yeung (USA) - Women's Doubles Round of 16 | Yonex US Open 2025",
-      "web_url": "18249",
-      "cover_url": "https://thumbor.prod.vidiocdn.com/Mz7kxlZVk5_kQDt76lczZDjxAls=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18249/yonex-us-open-2025-round-of-32-court-1-5e6d5f.jpg",
-      "start_time": "2025-06-26T17:00:00.000Z"
-    },
-    "18250": {
-      "title": "Gronya Somerville/Angela Yu (AUS) vs Chang Ching Hui/Yang Ching Tun (TPE) - Women's Doubles Round of 16 | Yonex US Open 2025",
-      "web_url": "18250",
-      "cover_url": "https://thumbor.prod.vidiocdn.com/LDpfnnG47WP0WJrWMAf2jXzAY2c=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18250/yonex-us-open-2025-round-of-16-court-2-a4a21a.jpg",
-      "start_time": "2025-06-26T17:00:00.000Z"
-    },
-    "18252": {
-      "title": "Chang Ko-Chi/Po Li-Wei (TPE) vs Lai Po Yu/Tsai Fu Cheng (TPE) - Men's Doubles Round of 16 | Yonex US Open 2025",
-      "web_url": "18252",
-      "cover_url": "https://thumbor.prod.vidiocdn.com/YBgb70ve4cclQ-M_wikCwjrVgT4=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18252/yonex-us-open-2025-round-of-16-court-3-2ef779.jpg",
-      "start_time": "2025-06-26T17:10:00.000Z"
-    },
     "18833": {
       "title": "Byon Combat Showbiz Vol.5",
       "web_url": "18833",
@@ -814,29 +796,17 @@
       "cover_url": "https://thumbor.prod.vidiocdn.com/X-RqLAcQNAoAqhhYdA6L240KI50=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17939/serie-a-4cc90b.jpg",
       "start_time": "2024-10-20T12:45:00.000Z"
     },
-    "18249": {
-      "title": "Polina Buhrova/Yevheniia Kantemyr (UKR) vs Audrey Chand/Jasmine Yeung (USA) - Women's Doubles Round of 16 | Yonex US Open 2025",
-      "web_url": "18249",
-      "cover_url": "https://thumbor.prod.vidiocdn.com/Mz7kxlZVk5_kQDt76lczZDjxAls=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18249/yonex-us-open-2025-round-of-32-court-1-5e6d5f.jpg",
-      "start_time": "2025-06-26T17:00:00.000Z"
-    },
-    "18250": {
-      "title": "Gronya Somerville/Angela Yu (AUS) vs Chang Ching Hui/Yang Ching Tun (TPE) - Women's Doubles Round of 16 | Yonex US Open 2025",
-      "web_url": "18250",
-      "cover_url": "https://thumbor.prod.vidiocdn.com/LDpfnnG47WP0WJrWMAf2jXzAY2c=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18250/yonex-us-open-2025-round-of-16-court-2-a4a21a.jpg",
-      "start_time": "2025-06-26T17:00:00.000Z"
-    },
-    "18252": {
-      "title": "Chang Ko-Chi/Po Li-Wei (TPE) vs Lai Po Yu/Tsai Fu Cheng (TPE) - Men's Doubles Round of 16 | Yonex US Open 2025",
-      "web_url": "18252",
-      "cover_url": "https://thumbor.prod.vidiocdn.com/YBgb70ve4cclQ-M_wikCwjrVgT4=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18252/yonex-us-open-2025-round-of-16-court-3-2ef779.jpg",
-      "start_time": "2025-06-26T17:10:00.000Z"
-    },
     "18853": {
       "title": "Men: Canada vs United States - Volleyball Nations League",
       "web_url": "18853",
       "cover_url": "https://thumbor.prod.vidiocdn.com/tCcH4oIB62neooCQehtzDAX-zxQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4382480/caf171.jpg",
       "start_time": "2025-06-27T00:15:00.000Z"
+    },
+    "18985": {
+      "title": "Boys: Yongsan High School (KOR) vs National University - Nazareth School Bullpups (PHI) - NBA Rising Invitational",
+      "web_url": "18985",
+      "cover_url": "https://thumbor.prod.vidiocdn.com/Z0wWufdoIoG6zB9twHpnKcFDW3U=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4380411/7d3972.jpg",
+      "start_time": "2025-06-27T01:10:00.000Z"
     }
   }
 }
