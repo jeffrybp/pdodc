@@ -1,9 +1,9 @@
 {
-  "time": "2025-06-28T10:33:16.907Z",
+  "time": "2025-06-28T10:48:20.476Z",
   "headers": {
     "luws": "34401390-43A2-8062-5DE3-D9C3992929CE_22522467",
-    "x-signature": "89dea28766dfc0eb398d5601e7ff0fb5769a21a0fe1bc747a5955d925e0c739e",
-    "x-client": 1751106794.468,
+    "x-signature": "a1457f51bda8fc4278e8f001d24e201b89a60138d8b84caa6e9a3c656a53d636",
+    "x-client": 1751107696.458,
     "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/tlQZPLoi996gTdFYWEDR3x6uz+H1EPfjDzRvZ2T3HMNx2FaC51zYziJiOjogp+YLidXLrfaxgpb6Stw80eMK6Q=",
     "x-secure-level": "2",
     "x-api-platform": "web-desktop",
@@ -13,13 +13,13 @@
     "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
     "x-user-email": "jeffrybp1991@gmail.com",
     "204-dash": null,
-    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751121194~acl=/stream/204/file/*~id=allUsers~hmac=0191032ed426e964c94ffb33fca503ff9f7642a3c3089a98ec05c3c80288b97d",
+    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751122097~acl=/stream/204/file/*~id=allUsers~hmac=4384018dcbc481a4ba2d7bead3e7ab25c926a19c8783dfdf31e6c9f5296a09f0",
     "205-dash": null,
-    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751121195~acl=/stream/205/file/*~id=allUsers~hmac=5dbe2f090c2589b34c4ce6078d173a53ff34e9cd8375a5ab09e5d49852eae345",
-    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751121195~acl=/stream/206/file/*~id=allUsers~hmac=42a667d299af5367758fa90d27cbb834b7676e0f99d7888bdbb7831fd187af9b",
-    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751121195~acl=/stream/206/file/*~id=allUsers~hmac=42a667d299af5367758fa90d27cbb834b7676e0f99d7888bdbb7831fd187af9b",
+    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751122098~acl=/stream/205/file/*~id=allUsers~hmac=a33ca4cb2ada862c6aecffa1cd4e9e3ee88076c9a8c948ab541f4ec4880ef68f",
+    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751122098~acl=/stream/206/file/*~id=allUsers~hmac=1e9fa7bf3e900d80ba58dc1171ab66fb87d8f140e55efc8fdff43c7b315c00d3",
+    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751122098~acl=/stream/206/file/*~id=allUsers~hmac=1e9fa7bf3e900d80ba58dc1171ab66fb87d8f140e55efc8fdff43c7b315c00d3",
     "18105-dash": null,
-    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751121195~acl=/stream/18105/file/*~id=allUsers~hmac=819a60720f42e5872ac6b755505b177d7701c561347a7328b7824ea0cb1f3b43",
+    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751122098~acl=/stream/18105/file/*~id=allUsers~hmac=adb0648d0745ea2dadb0e165318ef41c3fe62b8cc414f3d307acd5abf9663978",
     "all-sections": "17140-17875-17884-18189-18190-18249-18250-18762-18833-18851-18954-18985-18994-206-6299-6317-6685-6786",
     "all-vidiolivetv": [
       {
@@ -503,9 +503,9 @@
       "start_time": "2025-06-28T22:00:00.000Z"
     },
     "18833": {
-      "title": "Surya Dharma vs Puriwat - WBC Youth Title Bout -  Byon Combat Showbiz Vol.5",
+      "title": "Byon Combat Showbiz Vol.5",
       "web_url": "18833",
-      "cover_url": "https://thumbor.prod.vidiocdn.com/HmG39HubTzhiXDiwmVr_9p18Uag=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4380694/00b402.jpg",
+      "cover_url": "https://thumbor.prod.vidiocdn.com/xgKh9e0gwEm9ZBReVBVmnKE3LXE=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18833/byon-5-combat-showbiz-avod-442e7b.jpg",
       "start_time": "2025-06-28T08:30:00.000Z"
     },
     "4380439": {
@@ -726,6 +726,12 @@
     }
   },
   "vidioliveothers": {
+    "6954": {
+      "title": "Pesta ST.Petrus dan Paulus ",
+      "web_url": "6954",
+      "cover_url": "https://thumbor.prod.vidiocdn.com/ASLvJEzn8iA3hYluyuk6_q1xfds=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6954/misa-katedral-3545fc.jpg",
+      "start_time": "2025-06-29T01:30:00.000Z"
+    },
     "17884": {
       "title": "Formula 1 MSC Cruises Austrian Grand Prix 2025 - Practice 3",
       "web_url": "17884",
@@ -745,9 +751,9 @@
       "start_time": "2024-10-20T12:45:00.000Z"
     },
     "18833": {
-      "title": "Surya Dharma vs Puriwat - WBC Youth Title Bout -  Byon Combat Showbiz Vol.5",
+      "title": "Byon Combat Showbiz Vol.5",
       "web_url": "18833",
-      "cover_url": "https://thumbor.prod.vidiocdn.com/HmG39HubTzhiXDiwmVr_9p18Uag=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4380694/00b402.jpg",
+      "cover_url": "https://thumbor.prod.vidiocdn.com/xgKh9e0gwEm9ZBReVBVmnKE3LXE=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18833/byon-5-combat-showbiz-avod-442e7b.jpg",
       "start_time": "2025-06-28T08:30:00.000Z"
     },
     "18985": {
@@ -767,12 +773,6 @@
       "web_url": "19008",
       "cover_url": "https://thumbor.prod.vidiocdn.com/8EOjcdNpJW2ek1k2ql_p2NEyW14=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/19008/btn-jakarta-international-marathon-2025-running-jakarta-with-4s-spirit-6eaa50.jpg",
       "start_time": "2025-06-28T20:00:00.000Z"
-    },
-    "19009": {
-      "title": "Konpers KPK Soal OTT di Sumatra Utara | LIVE",
-      "web_url": "19009",
-      "cover_url": "https://thumbor.prod.vidiocdn.com/yWYBRa9e7pzRJTEyMhTqUDAJqRk=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/19009/konpers-kpk-soal-ott-di-sumatra-utara-live-b55299.jpg",
-      "start_time": "2025-06-28T09:42:00.000Z"
     }
   }
 }
