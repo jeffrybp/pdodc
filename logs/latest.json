@@ -1,9 +1,9 @@
 {
-  "time": "2025-06-28T10:18:15.068Z",
+  "time": "2025-06-28T10:33:16.907Z",
   "headers": {
     "luws": "34401390-43A2-8062-5DE3-D9C3992929CE_22522467",
-    "x-signature": "6c87f5be8de98a221261722d52b528ab5b2015b59d3baa7d4745fca14e50856f",
-    "x-client": 1751105892.511,
+    "x-signature": "89dea28766dfc0eb398d5601e7ff0fb5769a21a0fe1bc747a5955d925e0c739e",
+    "x-client": 1751106794.468,
     "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/tlQZPLoi996gTdFYWEDR3x6uz+H1EPfjDzRvZ2T3HMNx2FaC51zYziJiOjogp+YLidXLrfaxgpb6Stw80eMK6Q=",
     "x-secure-level": "2",
     "x-api-platform": "web-desktop",
@@ -13,13 +13,13 @@
     "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
     "x-user-email": "jeffrybp1991@gmail.com",
     "204-dash": null,
-    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751120292~acl=/stream/204/file/*~id=allUsers~hmac=15ac7e9e86b3d6e2a7596edb8943d9dc5ff39b614b045c43a9d182babc6871f2",
+    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751121194~acl=/stream/204/file/*~id=allUsers~hmac=0191032ed426e964c94ffb33fca503ff9f7642a3c3089a98ec05c3c80288b97d",
     "205-dash": null,
-    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751120293~acl=/stream/205/file/*~id=allUsers~hmac=d2f4bc5993ece39e661fc5da98e74dfb613c0c9cc741f7048d840d3e0c3d396d",
-    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751120293~acl=/stream/206/file/*~id=allUsers~hmac=310a08a877d3b84fff12f311fd1c7e5c65c130ded2b1c1a03ff0365e828ff8ac",
-    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751120293~acl=/stream/206/file/*~id=allUsers~hmac=310a08a877d3b84fff12f311fd1c7e5c65c130ded2b1c1a03ff0365e828ff8ac",
+    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751121195~acl=/stream/205/file/*~id=allUsers~hmac=5dbe2f090c2589b34c4ce6078d173a53ff34e9cd8375a5ab09e5d49852eae345",
+    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751121195~acl=/stream/206/file/*~id=allUsers~hmac=42a667d299af5367758fa90d27cbb834b7676e0f99d7888bdbb7831fd187af9b",
+    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751121195~acl=/stream/206/file/*~id=allUsers~hmac=42a667d299af5367758fa90d27cbb834b7676e0f99d7888bdbb7831fd187af9b",
     "18105-dash": null,
-    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751120293~acl=/stream/18105/file/*~id=allUsers~hmac=4c15ea321110e8c6a0715fb8ddd09c919a332c845c42a293d90395e048601489",
+    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751121195~acl=/stream/18105/file/*~id=allUsers~hmac=819a60720f42e5872ac6b755505b177d7701c561347a7328b7824ea0cb1f3b43",
     "all-sections": "17140-17875-17884-18189-18190-18249-18250-18762-18833-18851-18954-18985-18994-206-6299-6317-6685-6786",
     "all-vidiolivetv": [
       {
@@ -727,9 +727,9 @@
   },
   "vidioliveothers": {
     "17884": {
-      "title": "Formula 1",
+      "title": "Formula 1 MSC Cruises Austrian Grand Prix 2025 - Practice 3",
       "web_url": "17884",
-      "cover_url": "https://thumbor.prod.vidiocdn.com/Rc1pHYZnd8l_siMi118TkKusbPM=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17884/formula-1-5ee872.jpg",
+      "cover_url": "https://thumbor.prod.vidiocdn.com/jQ-9fVa1_BZeyumLj0qV6LTkiPY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4382757/9faa64.jpg",
       "start_time": "2025-04-02T13:25:00.000Z"
     },
     "17938": {
