@@ -1,9 +1,9 @@
 {
-  "time": "2025-06-28T05:02:15.464Z",
+  "time": "2025-06-28T05:17:16.374Z",
   "headers": {
     "luws": "34401390-43A2-8062-5DE3-D9C3992929CE_22522467",
-    "x-signature": "5d765e9d17cef33c2c8b805363096eb7f42acaf00db2fbcc9f99a0bf73d7bc23",
-    "x-client": 1751086930.82,
+    "x-signature": "1dd9d9b585c438f1729ec257168c677e6ae56b419a8bd2b3b4b4d4221f9dacfb",
+    "x-client": 1751087833.817,
     "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/tlQZPLoi996gTdFYWEDR3x6uz+H1EPfjDzRvZ2T3HMNx2FaC51zYziJiOjogp+YLidXLrfaxgpb6Stw80eMK6Q=",
     "x-secure-level": "2",
     "x-api-platform": "web-desktop",
@@ -13,13 +13,13 @@
     "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
     "x-user-email": "jeffrybp1991@gmail.com",
     "204-dash": null,
-    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751101332~acl=/stream/204/file/*~id=allUsers~hmac=32988c2336bb9045e7d496f9135139c94f954c9555c1e1d1e440f2153d187b83",
+    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751102234~acl=/stream/204/file/*~id=allUsers~hmac=0edc4f74d92751fc381f2b62c5363ba9de6b915d2c6459eec6551c1d7ff76069",
     "205-dash": null,
-    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751101332~acl=/stream/205/file/*~id=allUsers~hmac=ff112df7ae14b604b9493a660ca02c08a8e0bbc751e0ecda1d94cba24001f17f",
-    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751101332~acl=/stream/206/file/*~id=allUsers~hmac=fb8e93c8b850a55b9591b4c2b77215bc1c9e8a15044ffeb53feeec121b665a78",
-    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751101332~acl=/stream/206/file/*~id=allUsers~hmac=fb8e93c8b850a55b9591b4c2b77215bc1c9e8a15044ffeb53feeec121b665a78",
+    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751102234~acl=/stream/205/file/*~id=allUsers~hmac=9aeef7289136e4a82421e8d7dc1681d05aa85104d00355c7c315fb47f4ff2f18",
+    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751102234~acl=/stream/206/file/*~id=allUsers~hmac=1cf16a3acbe0a3d8ed1b05983da8e9786ed6079b95cc07b1289bddb14b1ac927",
+    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751102234~acl=/stream/206/file/*~id=allUsers~hmac=1cf16a3acbe0a3d8ed1b05983da8e9786ed6079b95cc07b1289bddb14b1ac927",
     "18105-dash": null,
-    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751101332~acl=/stream/18105/file/*~id=allUsers~hmac=331ae7ca1792a86f14dc1c205bc894d78d6aa791d3f04ded1469bdefd1613c49",
+    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751102234~acl=/stream/18105/file/*~id=allUsers~hmac=01721c8b5d5f0c898af8a096b75f0bfcd92f514bb1cc5ceeadb80676b09ecb84",
     "all-sections": "17140-17875-17884-18189-18190-18249-18250-18762-18833-18851-18954-18985-18994-206-6299-6317-6685-6786",
     "all-vidiolivetv": [
       {
@@ -775,7 +775,7 @@
   },
   "vidioliveothers": {
     "17884": {
-      "title": "FIA Formula 2 Championship Qualifying 2025",
+      "title": "Formula 1 Practice 2025",
       "web_url": "17884",
       "cover_url": "https://thumbor.prod.vidiocdn.com/Rc1pHYZnd8l_siMi118TkKusbPM=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17884/formula-1-5ee872.jpg",
       "start_time": "2025-04-02T13:25:00.000Z"
@@ -791,6 +791,12 @@
       "web_url": "17939",
       "cover_url": "https://thumbor.prod.vidiocdn.com/X-RqLAcQNAoAqhhYdA6L240KI50=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17939/serie-a-4cc90b.jpg",
       "start_time": "2024-10-20T12:45:00.000Z"
+    },
+    "18985": {
+      "title": "Semifinal Girls: Flinders College Christian Community College (AUS) vs Onyang Girls' High School (KOR)- NBA Rising Invitational",
+      "web_url": "18985",
+      "cover_url": "https://thumbor.prod.vidiocdn.com/Y_O764QIts07S0h_nq6yOAGJRYs=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4385103/4824b9.jpg",
+      "start_time": "2025-06-28T05:10:00.000Z"
     },
     "19007": {
       "title": "Cedera Saat Ikut Tren Olahraga? Ini Risiko Dibalik Popularitasnya",
