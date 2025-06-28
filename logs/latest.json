@@ -1,9 +1,9 @@
 {
-  "time": "2025-06-28T23:43:31.532Z",
+  "time": "2025-06-28T23:58:34.644Z",
   "headers": {
     "luws": "34401390-43A2-8062-5DE3-D9C3992929CE_22522467",
-    "x-signature": "a41830831d9bb5a68e8f873a819a6313d79382ca779045981d2140257b719a2c",
-    "x-client": 1751154208.432,
+    "x-signature": "ac5761556849289969484d1c04c3fe9635db60571ddfc5e7ea93c1ca4b5d14fb",
+    "x-client": 1751155111.429,
     "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/tlQZPLoi996gTdFYWEDR3x6uz+H1EPfjDzRvZ2T3HMNx2FaC51zYziJiOjogp+YLidXLrfaxgpb6Stw80eMK6Q=",
     "x-secure-level": "2",
     "x-api-platform": "web-desktop",
@@ -13,14 +13,14 @@
     "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
     "x-user-email": "jeffrybp1991@gmail.com",
     "204-dash": null,
-    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751168609~acl=/stream/204/file/*~id=allUsers~hmac=a8962e9cf279a76e2f9292dec716b099c5c6df983cbf1c7d19ee596b9b30af26",
+    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751169512~acl=/stream/204/file/*~id=allUsers~hmac=f7bc6603e8fec5dc931a69fc4ee9ff4ec5b4891e510fb33608b1f0541d20e0e8",
     "205-dash": null,
-    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751168609~acl=/stream/205/file/*~id=allUsers~hmac=328b8bfc8893029362de8c2d7c394ba4a6b03c2030f3e78b3b55f981e7c01c4d",
-    "206-dash": "https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751168609~acl=/stream/206/file/*~id=allUsers~hmac=f94cc60936f239b54709dfe880de9beec1585a8222a3bdb972f01a6b1354be94",
-    "206-hls": "https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751168609~acl=/stream/206/file/*~id=allUsers~hmac=f94cc60936f239b54709dfe880de9beec1585a8222a3bdb972f01a6b1354be94",
+    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751169512~acl=/stream/205/file/*~id=allUsers~hmac=d93a93217a1b2a22967f3208a6a53b1e308f2de0205cc4bcf355c209a849d25d",
+    "206-dash": "https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751169512~acl=/stream/206/file/*~id=allUsers~hmac=4ea189e60c8cc8febe901671f6352226d4ef4a76697d0e5da2c1a74b97e1f621",
+    "206-hls": "https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751169512~acl=/stream/206/file/*~id=allUsers~hmac=4ea189e60c8cc8febe901671f6352226d4ef4a76697d0e5da2c1a74b97e1f621",
     "18105-dash": null,
-    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751168610~acl=/stream/18105/file/*~id=allUsers~hmac=c819fe15ab99310c10811527be7532ab6955604fb3ff436a8ec2ca1f3dbd6dc0",
-    "all-sections": "17139-17140-17884-18189-18190-18249-18250-18762-18851-18954-18985-18994-206-6317",
+    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751169513~acl=/stream/18105/file/*~id=allUsers~hmac=e54003f68d225986d77c1ba30752b27ec6f9807574dc56d684c5dd72a5aa1eb6",
+    "all-sections": "17139-17140-17884-18189-18190-18249-18762-18851-18954-18985-18994-206-6317",
     "all-vidiolivetv": [
       {
         "content_id": "204",
@@ -496,12 +496,6 @@
       "cover_url": "https://thumbor.prod.vidiocdn.com/SfbehxJ4KftNwOPk3aJPj6CvZ1o=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18249/yonex-us-open-2025-semifinals-court-1-a720d0.jpg",
       "start_time": "2025-06-28T16:45:00.000Z"
     },
-    "18250": {
-      "title": "Yonex US Open 2025 - Round of 16 (Court 2)",
-      "web_url": "18250",
-      "cover_url": "https://thumbor.prod.vidiocdn.com/MENI6OhJzjtKFt4P8FRVGFlTrZ0=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18250/yonex-us-open-2025-round-of-16-court-2-203a9d.jpg",
-      "start_time": "2025-06-28T22:00:00.000Z"
-    },
     "4380439": {
       "title": "Indonesia vs Kyrgyzstan - AFC Women's Asian Cup 2026 Qualifiers",
       "web_url": "18994",
@@ -671,12 +665,6 @@
       "web_url": "18249",
       "cover_url": "https://thumbor.prod.vidiocdn.com/SfbehxJ4KftNwOPk3aJPj6CvZ1o=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18249/yonex-us-open-2025-semifinals-court-1-a720d0.jpg",
       "start_time": "2025-06-28T16:45:00.000Z"
-    },
-    "18250": {
-      "title": "Yonex US Open 2025 - Round of 16 (Court 2)",
-      "web_url": "18250",
-      "cover_url": "https://thumbor.prod.vidiocdn.com/MENI6OhJzjtKFt4P8FRVGFlTrZ0=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18250/yonex-us-open-2025-round-of-16-court-2-203a9d.jpg",
-      "start_time": "2025-06-28T22:00:00.000Z"
     },
     "19007": {
       "title": "Cedera Saat Ikut Tren Olahraga? Ini Risiko Dibalik Popularitasnya",
