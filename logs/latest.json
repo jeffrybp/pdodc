@@ -1,9 +1,9 @@
 {
-  "time": "2025-06-28T17:57:25.791Z",
+  "time": "2025-06-28T18:12:28.740Z",
   "headers": {
     "luws": "34401390-43A2-8062-5DE3-D9C3992929CE_22522467",
-    "x-signature": "dd388039583a586e9dbc2232c89926c55b3901486f6d1000216feaf12c6f12f0",
-    "x-client": 1751133443.601,
+    "x-signature": "d71ecd07b1072ce1b6368125250eca3c4d1644a382e9a645b132fb91234e1ecb",
+    "x-client": 1751134345.598,
     "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/tlQZPLoi996gTdFYWEDR3x6uz+H1EPfjDzRvZ2T3HMNx2FaC51zYziJiOjogp+YLidXLrfaxgpb6Stw80eMK6Q=",
     "x-secure-level": "2",
     "x-api-platform": "web-desktop",
@@ -13,14 +13,14 @@
     "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
     "x-user-email": "jeffrybp1991@gmail.com",
     "204-dash": null,
-    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751147843~acl=/stream/204/file/*~id=allUsers~hmac=b28a26dd51a53b95adb75d368f72c008381294f48ae4a1b7acc6ab7ded304163",
+    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751148746~acl=/stream/204/file/*~id=allUsers~hmac=c3599804e9e94dc53b3c4761a4f395dee1838196049985c58f417fc380ffc339",
     "205-dash": null,
-    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751147843~acl=/stream/205/file/*~id=allUsers~hmac=33df79e3454ca10f83b7b54edfdec1e6a5945687172e47021633d8b73baf7903",
-    "206-dash": "https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751147844~acl=/stream/206/file/*~id=allUsers~hmac=e7fa53c8ffe24c58329ffcc52aadabd8c1966b4356ee2179639b57db0c5fa6ee",
-    "206-hls": "https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751147844~acl=/stream/206/file/*~id=allUsers~hmac=e7fa53c8ffe24c58329ffcc52aadabd8c1966b4356ee2179639b57db0c5fa6ee",
+    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751148746~acl=/stream/205/file/*~id=allUsers~hmac=719d1540fb8af8d50f1af085c1b70957f464e2b770a7f48324a3c2c69461a907",
+    "206-dash": "https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751148747~acl=/stream/206/file/*~id=allUsers~hmac=52ee413ef61d0dfcbf3553a25769ac92ea4e913e0835d2349cad9314c5862ec2",
+    "206-hls": "https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751148747~acl=/stream/206/file/*~id=allUsers~hmac=52ee413ef61d0dfcbf3553a25769ac92ea4e913e0835d2349cad9314c5862ec2",
     "18105-dash": null,
-    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751147844~acl=/stream/18105/file/*~id=allUsers~hmac=43d1f048a8e994263f06d940d463c26e127530494ca231ceb7adc68d148da6ed",
-    "all-sections": "17140-17884-18189-18190-18249-18250-18762-18834-18851-18954-18985-18994-206-6299-6317",
+    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751148747~acl=/stream/18105/file/*~id=allUsers~hmac=b577b6908f3a5380f85b43f34675a50f76c7347d1efc83e04865f3dce070dc92",
+    "all-sections": "17140-17884-18189-18190-18249-18250-18762-18851-18954-18985-18994-206-6317",
     "all-vidiolivetv": [
       {
         "content_id": "204",
@@ -502,23 +502,11 @@
       "cover_url": "https://thumbor.prod.vidiocdn.com/MENI6OhJzjtKFt4P8FRVGFlTrZ0=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18250/yonex-us-open-2025-round-of-16-court-2-203a9d.jpg",
       "start_time": "2025-06-28T22:00:00.000Z"
     },
-    "18834": {
-      "title": "KKAJHE vs Aziz - Kickstriking National Title Bout -  Byon Combat Showbiz Vol.5",
-      "web_url": "18834",
-      "cover_url": "https://thumbor.prod.vidiocdn.com/xPNCUDh05BxPKkxU2IrXlNNolGk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4378294/3b2623.jpg",
-      "start_time": "2025-06-28T08:30:00.000Z"
-    },
     "4380439": {
       "title": "Indonesia vs Kyrgyzstan - AFC Women's Asian Cup 2026 Qualifiers",
       "web_url": "18994",
       "cover_url": "https://thumbor.prod.vidiocdn.com/jXltzZHzi3E8tlDglFjbs5bC5iw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4380439/0c9abe.jpg",
       "start_time": "2025-06-29T13:00:00.000Z"
-    },
-    "4382755": {
-      "title": "Valladolid P2 Premier Padel 2025 - Semifinal",
-      "web_url": "6299",
-      "cover_url": "https://thumbor.prod.vidiocdn.com/vCoBYw5gRG4WwhoXw-3FfXzcj_o=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4382755/1d37e4.jpg",
-      "start_time": "2025-06-28T16:30:00.000Z"
     },
     "4384706": {
       "title": "FIA Formula 3 Championship Austria Grand Prix 2025 - Race",
@@ -677,12 +665,6 @@
       "web_url": "18249",
       "cover_url": "https://thumbor.prod.vidiocdn.com/SfbehxJ4KftNwOPk3aJPj6CvZ1o=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18249/yonex-us-open-2025-semifinals-court-1-a720d0.jpg",
       "start_time": "2025-06-28T16:45:00.000Z"
-    },
-    "18834": {
-      "title": "KKAJHE vs Aziz - Kickstriking National Title Bout -  Byon Combat Showbiz Vol.5",
-      "web_url": "18834",
-      "cover_url": "https://thumbor.prod.vidiocdn.com/xPNCUDh05BxPKkxU2IrXlNNolGk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4378294/3b2623.jpg",
-      "start_time": "2025-06-28T08:30:00.000Z"
     },
     "19007": {
       "title": "Cedera Saat Ikut Tren Olahraga? Ini Risiko Dibalik Popularitasnya",
