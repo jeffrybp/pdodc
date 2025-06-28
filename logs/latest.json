@@ -1,9 +1,9 @@
 {
-  "time": "2025-06-28T14:57:06.972Z",
+  "time": "2025-06-28T15:11:56.270Z",
   "headers": {
     "luws": "34401390-43A2-8062-5DE3-D9C3992929CE_22522467",
-    "x-signature": "4b26d1c2d5f311900f172663e76445921a6b373f56919edcdcd8284676fad3ea",
-    "x-client": 1751122609.422,
+    "x-signature": "bb915df0e3c074f456dc92ae02434f9bf885e1914d0a605b7749b0e953a9fe1f",
+    "x-client": 1751123512.468,
     "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/tlQZPLoi996gTdFYWEDR3x6uz+H1EPfjDzRvZ2T3HMNx2FaC51zYziJiOjogp+YLidXLrfaxgpb6Stw80eMK6Q=",
     "x-secure-level": "2",
     "x-api-platform": "web-desktop",
@@ -13,14 +13,14 @@
     "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
     "x-user-email": "jeffrybp1991@gmail.com",
     "204-dash": null,
-    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751137010~acl=/stream/204/file/*~id=allUsers~hmac=13e746572b5a19df79b582845115a4e92b15c171629f4bcba55be64abc06ae7a",
+    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751137913~acl=/stream/204/file/*~id=allUsers~hmac=59a8cc1f69c72e2c2ff045a0386111d91fb06e83dcafc02f3c755a3068134f09",
     "205-dash": null,
-    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751137011~acl=/stream/205/file/*~id=allUsers~hmac=043a31e2c3708cba6fe1f756538c0de83ffd87cfd7f3bf878ebcb0e42d8303a1",
-    "206-dash": "https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751137011~acl=/stream/206/file/*~id=allUsers~hmac=2976b6b13ea072ffc2ae2325454101ae52361e46c3cbeedff19c7e9f39047e48",
-    "206-hls": "https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751137011~acl=/stream/206/file/*~id=allUsers~hmac=2976b6b13ea072ffc2ae2325454101ae52361e46c3cbeedff19c7e9f39047e48",
+    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751137914~acl=/stream/205/file/*~id=allUsers~hmac=d52bf10b99d67e26702d1782b2d2f5263437ee1201ec594a17b8014dc6727e95",
+    "206-dash": "https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751137914~acl=/stream/206/file/*~id=allUsers~hmac=c17fd4e1a6726e410ac44856c4a970901411f7d59fa63c3d8c160a7ebc91f825",
+    "206-hls": "https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751137914~acl=/stream/206/file/*~id=allUsers~hmac=c17fd4e1a6726e410ac44856c4a970901411f7d59fa63c3d8c160a7ebc91f825",
     "18105-dash": null,
-    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751137011~acl=/stream/18105/file/*~id=allUsers~hmac=ba8b4dca642dfc3b15676e9d8cde8a3c9fb2247196b1ed0a3448dc4a5085d21a",
-    "all-sections": "17140-17875-17884-18189-18190-18249-18250-18762-18834-18851-18954-18994-206-6299-6317",
+    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751137914~acl=/stream/18105/file/*~id=allUsers~hmac=bbe8f1505718b9337f08257eadb4519cd8d56175cf667903e53387fad8256771",
+    "all-sections": "17140-17884-18189-18190-18249-18250-18762-18834-18851-18954-18994-206-6299-6317",
     "all-vidiolivetv": [
       {
         "content_id": "204",
@@ -503,9 +503,9 @@
       "start_time": "2025-06-28T22:00:00.000Z"
     },
     "18834": {
-      "title": "Redho Rocky vs Weerian - Kickstriking Light Flyweight - Byon Combat Showbiz Vol.5",
+      "title": "Danar Ilmawan vs Ramadhani Londo - Kickstriking National Title Bout - Byon Combat Showbiz Vol.5",
       "web_url": "18834",
-      "cover_url": "https://thumbor.prod.vidiocdn.com/8hBb2KlKn2ZpNb2jbPA1iblLCz0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4378290/c9f810.jpg",
+      "cover_url": "https://thumbor.prod.vidiocdn.com/yxZSyogDbrCeCYIESTW2NtYPF8E=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4380728/1c85a3.jpg",
       "start_time": "2025-06-28T08:30:00.000Z"
     },
     "4380439": {
@@ -520,23 +520,11 @@
       "cover_url": "https://thumbor.prod.vidiocdn.com/vCoBYw5gRG4WwhoXw-3FfXzcj_o=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4382755/1d37e4.jpg",
       "start_time": "2025-06-28T16:30:00.000Z"
     },
-    "4382759": {
-      "title": "Formula 1 MSC Cruises Austrian Grand Prix 2025 - Qualifying",
-      "web_url": "17884",
-      "cover_url": "https://thumbor.prod.vidiocdn.com/EX3Vh_x2-u8vfOUjyBTfpzRhQ8E=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4382759/107f7c.jpg",
-      "start_time": "2025-06-28T13:55:00.000Z"
-    },
     "4382783": {
       "title": "ATP 250: Lexus Eastbourne Open 2025 - Final",
       "web_url": "6317",
       "cover_url": "https://thumbor.prod.vidiocdn.com/uSC3S-Jk4Lzx0PcxXuFZIcyJCe8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4382783/735c64.jpg",
       "start_time": "2025-06-28T15:00:00.000Z"
-    },
-    "4384291": {
-      "title": "ATP 250: Mallorca Championships presented by Ecotrans Group 2025 - Final",
-      "web_url": "17875",
-      "cover_url": "https://thumbor.prod.vidiocdn.com/pShNa4JlOu-2Lz4XY_caLE-G-T0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4384291/139a6c.jpg",
-      "start_time": "2025-06-28T13:00:00.000Z"
     },
     "4384556": {
       "title": "Men: Germany vs Iran - Volleyball Nations League",
@@ -673,9 +661,9 @@
       "start_time": "2025-06-29T01:30:00.000Z"
     },
     "17884": {
-      "title": "Formula 1 MSC Cruises Austrian Grand Prix 2025 - Qualifying",
+      "title": "Formula 1",
       "web_url": "17884",
-      "cover_url": "https://thumbor.prod.vidiocdn.com/EX3Vh_x2-u8vfOUjyBTfpzRhQ8E=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4382759/107f7c.jpg",
+      "cover_url": "https://thumbor.prod.vidiocdn.com/Rc1pHYZnd8l_siMi118TkKusbPM=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17884/formula-1-5ee872.jpg",
       "start_time": "2025-04-02T13:25:00.000Z"
     },
     "17938": {
@@ -691,9 +679,9 @@
       "start_time": "2024-10-20T12:45:00.000Z"
     },
     "18834": {
-      "title": "Redho Rocky vs Weerian - Kickstriking Light Flyweight - Byon Combat Showbiz Vol.5",
+      "title": "Danar Ilmawan vs Ramadhani Londo - Kickstriking National Title Bout - Byon Combat Showbiz Vol.5",
       "web_url": "18834",
-      "cover_url": "https://thumbor.prod.vidiocdn.com/8hBb2KlKn2ZpNb2jbPA1iblLCz0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4378290/c9f810.jpg",
+      "cover_url": "https://thumbor.prod.vidiocdn.com/yxZSyogDbrCeCYIESTW2NtYPF8E=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4380728/1c85a3.jpg",
       "start_time": "2025-06-28T08:30:00.000Z"
     },
     "18954": {
