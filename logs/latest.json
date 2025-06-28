@@ -1,9 +1,9 @@
 {
-  "time": "2025-06-28T22:13:14.518Z",
+  "time": "2025-06-28T22:28:16.546Z",
   "headers": {
     "luws": "34401390-43A2-8062-5DE3-D9C3992929CE_22522467",
-    "x-signature": "e1db176d84b9dea4f118538c72f80070885142b7bba2d01fffc935f4a7571776",
-    "x-client": 1751148792.432,
+    "x-signature": "28075662164ad2f7c56a1b2088ec409c0a70675169b37be4f3913142bcbe8768",
+    "x-client": 1751149694.435,
     "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/tlQZPLoi996gTdFYWEDR3x6uz+H1EPfjDzRvZ2T3HMNx2FaC51zYziJiOjogp+YLidXLrfaxgpb6Stw80eMK6Q=",
     "x-secure-level": "2",
     "x-api-platform": "web-desktop",
@@ -13,13 +13,13 @@
     "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
     "x-user-email": "jeffrybp1991@gmail.com",
     "204-dash": null,
-    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751163192~acl=/stream/204/file/*~id=allUsers~hmac=0d7f2007dcd8af1a94f41a33d1ca51950f660ddb37731ae70285c51eee77e581",
+    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751164094~acl=/stream/204/file/*~id=allUsers~hmac=4149e7760c26d5e8c1310f484cce43011fa2470ed900a18a3cc2439dc8691b20",
     "205-dash": null,
-    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751163192~acl=/stream/205/file/*~id=allUsers~hmac=014be9e6eabb6c36e937d5c1027beec17b6654ccea5f58fbe06f85ddbb3c2ff1",
-    "206-dash": "https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751163192~acl=/stream/206/file/*~id=allUsers~hmac=e6b832687987d60a4352d48bc024f8ca5588a8197d4a40cc5415f6f444cc40a1",
-    "206-hls": "https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751163192~acl=/stream/206/file/*~id=allUsers~hmac=e6b832687987d60a4352d48bc024f8ca5588a8197d4a40cc5415f6f444cc40a1",
+    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751164094~acl=/stream/205/file/*~id=allUsers~hmac=787dae0c04855adbc4385ca66775efbcd9ef974091bd67ff73909da4ea720671",
+    "206-dash": "https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751164094~acl=/stream/206/file/*~id=allUsers~hmac=9c24b7b1abb11339c8cbf8ec1051e599d4c341be9701ff973367d3624ad256f9",
+    "206-hls": "https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751164094~acl=/stream/206/file/*~id=allUsers~hmac=9c24b7b1abb11339c8cbf8ec1051e599d4c341be9701ff973367d3624ad256f9",
     "18105-dash": null,
-    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751163193~acl=/stream/18105/file/*~id=allUsers~hmac=0c370a528c5a10cf769c91379f13e32995db671811f54d27d6033d7185ab5e53",
+    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751164095~acl=/stream/18105/file/*~id=allUsers~hmac=92ba565df3b2a4e9deabab08b75c07f2ee9647bae6244e519fa7d51b3e03c9a7",
     "all-sections": "17139-17140-17884-18189-18190-18249-18250-18762-18851-18954-18985-18994-206-6317",
     "all-vidiolivetv": [
       {
@@ -491,7 +491,7 @@
   },
   "sections": {
     "18249": {
-      "title": "Benyapa Aimsaard/Nuntakarn Aimsaard (THA) vs Chang Ching Hui/Yang Ching Tun (TPE) - Women's Doubles Semifinals | Yonex US Open 2025",
+      "title": "Brian Yang (CAN) vs Liao Jhuo-Fu (TPE) - Men's Singles Semifinals | Yonex US Open 2025",
       "web_url": "18249",
       "cover_url": "https://thumbor.prod.vidiocdn.com/SfbehxJ4KftNwOPk3aJPj6CvZ1o=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18249/yonex-us-open-2025-semifinals-court-1-a720d0.jpg",
       "start_time": "2025-06-28T16:45:00.000Z"
@@ -673,7 +673,7 @@
       "start_time": "2024-10-20T12:45:00.000Z"
     },
     "18249": {
-      "title": "Benyapa Aimsaard/Nuntakarn Aimsaard (THA) vs Chang Ching Hui/Yang Ching Tun (TPE) - Women's Doubles Semifinals | Yonex US Open 2025",
+      "title": "Brian Yang (CAN) vs Liao Jhuo-Fu (TPE) - Men's Singles Semifinals | Yonex US Open 2025",
       "web_url": "18249",
       "cover_url": "https://thumbor.prod.vidiocdn.com/SfbehxJ4KftNwOPk3aJPj6CvZ1o=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18249/yonex-us-open-2025-semifinals-court-1-a720d0.jpg",
       "start_time": "2025-06-28T16:45:00.000Z"
