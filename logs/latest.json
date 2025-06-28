@@ -1,9 +1,9 @@
 {
-  "time": "2025-06-28T00:46:22.939Z",
+  "time": "2025-06-28T01:01:24.705Z",
   "headers": {
     "luws": "34401390-43A2-8062-5DE3-D9C3992929CE_22522467",
-    "x-signature": "9a17e7632a9e6a4735ca5f41f28339e2bcf359b7346147a81c30a20842feac1a",
-    "x-client": 1751071578.763,
+    "x-signature": "0c2d7a8feacb647230ca88ce1b97ce76b71dfa6d6bde196d24f3257ec5c9003f",
+    "x-client": 1751072480.697,
     "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/o821rcebLUCj1YsV89pcmp+o1KhFlBPxyMB6lGtlMX8leBhsMur6sN8S1vR2t4P8x4boKgM9LkO+kYakCC3Mkc=",
     "x-secure-level": "2",
     "x-api-platform": "web-desktop",
@@ -13,14 +13,14 @@
     "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
     "x-user-email": "jeffrybp1991@gmail.com",
     "204-dash": null,
-    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751085980~acl=/stream/204/file/*~id=allUsers~hmac=feda010980bfa0145ff42ec01baec5d1e6f5e7c6d2e112a7cb40c1d7d678daf4",
+    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751086882~acl=/stream/204/file/*~id=allUsers~hmac=ea7c790365e0280425e04d7c179ae4b359a9a59ab53ecd83f3963084ba2ed89d",
     "205-dash": null,
-    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751085980~acl=/stream/205/file/*~id=allUsers~hmac=cab98ee077c958e6b51ba396df1f2830b686f9078151051f229a0adee2ee5e9d",
-    "206-dash": "https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751085980~acl=/stream/206/file/*~id=allUsers~hmac=b98c8667d1293eca4f9de6a2e67113137d28bd9c6400c14f34018d4026e14790",
-    "206-hls": "https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751085980~acl=/stream/206/file/*~id=allUsers~hmac=b98c8667d1293eca4f9de6a2e67113137d28bd9c6400c14f34018d4026e14790",
+    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751086882~acl=/stream/205/file/*~id=allUsers~hmac=dfdd8e18fc214c738ff2a7303a4f7e397b9071f75d7be7c5f12e8eca97785eae",
+    "206-dash": "https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751086882~acl=/stream/206/file/*~id=allUsers~hmac=d304f3bf51107a75e57972d8a53e6356769f3e3647212788a354da1dca8bf181",
+    "206-hls": "https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751086882~acl=/stream/206/file/*~id=allUsers~hmac=d304f3bf51107a75e57972d8a53e6356769f3e3647212788a354da1dca8bf181",
     "18105-dash": null,
-    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751085980~acl=/stream/18105/file/*~id=allUsers~hmac=35b71349d67e19d41d972a2415e6d4f5e00ba50e326667e0c551cac153e74413",
-    "all-sections": "17140-17875-17884-18189-18190-18249-18250-18252-18833-18834-18851-18853-18954-18985-18994-206-6299-6317-6685-6786",
+    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751086882~acl=/stream/18105/file/*~id=allUsers~hmac=b98220b1a66a09e36670e2bd8a84bc3637f632513bba94310c90f2753f8910a8",
+    "all-sections": "17140-17875-17884-18189-18190-18249-18250-18833-18834-18851-18853-18954-18985-18994-206-6299-6317-6685-6786",
     "all-vidiolivetv": [
       {
         "content_id": "204",
@@ -491,21 +491,15 @@
   },
   "sections": {
     "18249": {
-      "title": "Hsu Yin-Hui/Lin Jhih Yun (TPE) vs Lauren Lam/Allison Lee (USA) - Women’s Doubles Quarterfinals | Yonex US Open 2025",
+      "title": "Zhi-Wei He/Huang Jui-Hsuan (TPE) vs Chen Zhi Yi/Presley Smith (USA) - Men’s Doubles Quarterfinals | Yonex US Open 2025",
       "web_url": "18249",
       "cover_url": "https://thumbor.prod.vidiocdn.com/Mz7kxlZVk5_kQDt76lczZDjxAls=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18249/yonex-us-open-2025-round-of-32-court-1-5e6d5f.jpg",
       "start_time": "2025-06-27T20:00:00.000Z"
     },
     "18250": {
-      "title": "Lai Po Yu/Tsai Fu Cheng (TPE) vs Chen Zhi Ray/Lin Yu Chieh (TPE) - Men’s Doubles Quarterfinals | Yonex US Open 2025",
+      "title": "Audrey Chang/Jasmine Yeung (USA) vs Hsu Ya Ching/Sung Yu-Hsuan (TPE) - Women's Doubles Quarterfinals | Yonex US Open 2025",
       "web_url": "18250",
       "cover_url": "https://thumbor.prod.vidiocdn.com/LDpfnnG47WP0WJrWMAf2jXzAY2c=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18250/yonex-us-open-2025-round-of-16-court-2-a4a21a.jpg",
-      "start_time": "2025-06-27T20:00:00.000Z"
-    },
-    "18252": {
-      "title": "Rasmus Espersen/Andreas Sondergaard (DEN) vs Chen Cheng Kuan/Lin Bing-Wei (TPE) - Men’s Doubles Quarterfinals | Yonex US Open 2025",
-      "web_url": "18252",
-      "cover_url": "https://thumbor.prod.vidiocdn.com/YBgb70ve4cclQ-M_wikCwjrVgT4=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18252/yonex-us-open-2025-round-of-16-court-3-2ef779.jpg",
       "start_time": "2025-06-27T20:00:00.000Z"
     },
     "18833": {
@@ -739,7 +733,7 @@
   },
   "vidioliveothers": {
     "17884": {
-      "title": "Formula 1 Practice 2025",
+      "title": "Formula 1",
       "web_url": "17884",
       "cover_url": "https://thumbor.prod.vidiocdn.com/Rc1pHYZnd8l_siMi118TkKusbPM=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17884/formula-1-5ee872.jpg",
       "start_time": "2025-04-02T13:25:00.000Z"
@@ -757,21 +751,15 @@
       "start_time": "2024-10-20T12:45:00.000Z"
     },
     "18249": {
-      "title": "Hsu Yin-Hui/Lin Jhih Yun (TPE) vs Lauren Lam/Allison Lee (USA) - Women’s Doubles Quarterfinals | Yonex US Open 2025",
+      "title": "Zhi-Wei He/Huang Jui-Hsuan (TPE) vs Chen Zhi Yi/Presley Smith (USA) - Men’s Doubles Quarterfinals | Yonex US Open 2025",
       "web_url": "18249",
       "cover_url": "https://thumbor.prod.vidiocdn.com/Mz7kxlZVk5_kQDt76lczZDjxAls=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18249/yonex-us-open-2025-round-of-32-court-1-5e6d5f.jpg",
       "start_time": "2025-06-27T20:00:00.000Z"
     },
     "18250": {
-      "title": "Lai Po Yu/Tsai Fu Cheng (TPE) vs Chen Zhi Ray/Lin Yu Chieh (TPE) - Men’s Doubles Quarterfinals | Yonex US Open 2025",
+      "title": "Audrey Chang/Jasmine Yeung (USA) vs Hsu Ya Ching/Sung Yu-Hsuan (TPE) - Women's Doubles Quarterfinals | Yonex US Open 2025",
       "web_url": "18250",
       "cover_url": "https://thumbor.prod.vidiocdn.com/LDpfnnG47WP0WJrWMAf2jXzAY2c=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18250/yonex-us-open-2025-round-of-16-court-2-a4a21a.jpg",
-      "start_time": "2025-06-27T20:00:00.000Z"
-    },
-    "18252": {
-      "title": "Rasmus Espersen/Andreas Sondergaard (DEN) vs Chen Cheng Kuan/Lin Bing-Wei (TPE) - Men’s Doubles Quarterfinals | Yonex US Open 2025",
-      "web_url": "18252",
-      "cover_url": "https://thumbor.prod.vidiocdn.com/YBgb70ve4cclQ-M_wikCwjrVgT4=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18252/yonex-us-open-2025-round-of-16-court-3-2ef779.jpg",
       "start_time": "2025-06-27T20:00:00.000Z"
     },
     "18853": {
