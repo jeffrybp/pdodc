@@ -1,9 +1,9 @@
 {
-  "time": "2025-06-28T14:01:41.620Z",
+  "time": "2025-06-28T14:16:44.245Z",
   "headers": {
     "luws": "34401390-43A2-8062-5DE3-D9C3992929CE_22522467",
-    "x-signature": "0e3acaa09b0fb5dd222b508b3d80821dc9502a56d7394c25de3659afdeae8d44",
-    "x-client": 1751119297.805,
+    "x-signature": "7e6b9581e09885de37373f6c933f93bf92ba88a304b485aa1a21e03a0006fb93",
+    "x-client": 1751120200.428,
     "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/tlQZPLoi996gTdFYWEDR3x6uz+H1EPfjDzRvZ2T3HMNx2FaC51zYziJiOjogp+YLidXLrfaxgpb6Stw80eMK6Q=",
     "x-secure-level": "2",
     "x-api-platform": "web-desktop",
@@ -13,14 +13,14 @@
     "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
     "x-user-email": "jeffrybp1991@gmail.com",
     "204-dash": null,
-    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751133698~acl=/stream/204/file/*~id=allUsers~hmac=b1a3e98027d93515938ff8102191a878e4fe315c63a963a0cd20149b8c92d9e8",
+    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751134601~acl=/stream/204/file/*~id=allUsers~hmac=fa2606184a9f8a5afd2a180dd9d786637c41ca39becc94bd1768f1744ea5e153",
     "205-dash": null,
-    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751133698~acl=/stream/205/file/*~id=allUsers~hmac=8edb4635495bf277b41faaaf57103593cef162bdc881b2bc17c632f28e21fefc",
-    "206-dash": "https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751133698~acl=/stream/206/file/*~id=allUsers~hmac=e74bdb7c1b7f49d715165863bd6ce52b0b19408fc86a6c839a72273e1eec26df",
-    "206-hls": "https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751133698~acl=/stream/206/file/*~id=allUsers~hmac=e74bdb7c1b7f49d715165863bd6ce52b0b19408fc86a6c839a72273e1eec26df",
+    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751134601~acl=/stream/205/file/*~id=allUsers~hmac=180da79dee18067d689a185c543d08d57632bfff05d47dfb10ae5986aff58782",
+    "206-dash": "https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751134602~acl=/stream/206/file/*~id=allUsers~hmac=e50ef169cfce90dce8924fffb479d850520973deaaa8ca5adb2b895cd1cd0bd2",
+    "206-hls": "https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751134602~acl=/stream/206/file/*~id=allUsers~hmac=e50ef169cfce90dce8924fffb479d850520973deaaa8ca5adb2b895cd1cd0bd2",
     "18105-dash": null,
-    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751133698~acl=/stream/18105/file/*~id=allUsers~hmac=06fad4ce56b1187c0d42b738ce774cf50d466d03dd7ad5408456b8a4516cd53c",
-    "all-sections": "17140-17875-17884-18189-18190-18249-18250-18762-18833-18834-18851-18954-18994-206-6299-6317-6685",
+    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751134602~acl=/stream/18105/file/*~id=allUsers~hmac=769bc3cb8457c5a6a43c50562369debfa4f48cfa2060fdc942af1afeaa402228",
+    "all-sections": "17140-17875-17884-18189-18190-18249-18250-18762-18834-18851-18954-18994-206-6299-6317-6685",
     "all-vidiolivetv": [
       {
         "content_id": "204",
@@ -502,12 +502,6 @@
       "cover_url": "https://thumbor.prod.vidiocdn.com/MENI6OhJzjtKFt4P8FRVGFlTrZ0=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18250/yonex-us-open-2025-round-of-16-court-2-203a9d.jpg",
       "start_time": "2025-06-28T22:00:00.000Z"
     },
-    "18833": {
-      "title": "Byon Combat Showbiz Vol.5",
-      "web_url": "18833",
-      "cover_url": "https://thumbor.prod.vidiocdn.com/xgKh9e0gwEm9ZBReVBVmnKE3LXE=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18833/byon-5-combat-showbiz-avod-442e7b.jpg",
-      "start_time": "2025-06-28T08:30:00.000Z"
-    },
     "18834": {
       "title": "Redho Rocky vs Weerian - Kickstriking Light Flyweight - Byon Combat Showbiz Vol.5",
       "web_url": "18834",
@@ -708,17 +702,17 @@
       "cover_url": "https://thumbor.prod.vidiocdn.com/X-RqLAcQNAoAqhhYdA6L240KI50=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17939/serie-a-4cc90b.jpg",
       "start_time": "2024-10-20T12:45:00.000Z"
     },
-    "18833": {
-      "title": "Byon Combat Showbiz Vol.5",
-      "web_url": "18833",
-      "cover_url": "https://thumbor.prod.vidiocdn.com/xgKh9e0gwEm9ZBReVBVmnKE3LXE=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18833/byon-5-combat-showbiz-avod-442e7b.jpg",
-      "start_time": "2025-06-28T08:30:00.000Z"
-    },
     "18834": {
       "title": "Redho Rocky vs Weerian - Kickstriking Light Flyweight - Byon Combat Showbiz Vol.5",
       "web_url": "18834",
       "cover_url": "https://thumbor.prod.vidiocdn.com/8hBb2KlKn2ZpNb2jbPA1iblLCz0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4378290/c9f810.jpg",
       "start_time": "2025-06-28T08:30:00.000Z"
+    },
+    "18954": {
+      "title": "Men: Germany vs Iran - Volleyball Nations League",
+      "web_url": "18954",
+      "cover_url": "https://thumbor.prod.vidiocdn.com/5H7vKOXHHpkxYpGGXWLAM37wEtY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4384556/b7111e.jpg",
+      "start_time": "2025-06-28T14:15:00.000Z"
     },
     "19007": {
       "title": "Cedera Saat Ikut Tren Olahraga? Ini Risiko Dibalik Popularitasnya",
