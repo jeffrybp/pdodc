@@ -1,9 +1,9 @@
 {
-  "time": "2025-06-28T09:48:10.002Z",
+  "time": "2025-06-28T10:03:13.344Z",
   "headers": {
     "luws": "34401390-43A2-8062-5DE3-D9C3992929CE_22522467",
-    "x-signature": "65a045874827b6f3b11bac10b2c87c64aae660891f88a8cd33e0527c15214166",
-    "x-client": 1751104086.568,
+    "x-signature": "f0318eb72eca5a7b67ae7e1b45aaf6d01d6b4a9c537a9732b5aa3968f595e04a",
+    "x-client": 1751104989.567,
     "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/tlQZPLoi996gTdFYWEDR3x6uz+H1EPfjDzRvZ2T3HMNx2FaC51zYziJiOjogp+YLidXLrfaxgpb6Stw80eMK6Q=",
     "x-secure-level": "2",
     "x-api-platform": "web-desktop",
@@ -13,13 +13,13 @@
     "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
     "x-user-email": "jeffrybp1991@gmail.com",
     "204-dash": null,
-    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751118487~acl=/stream/204/file/*~id=allUsers~hmac=fd97339433715acb278ecc8c89d5dc35c171c1b1c59b38310bef9b6a0e059f72",
+    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751119391~acl=/stream/204/file/*~id=allUsers~hmac=4e5c56c378f4c93bdcf00a920b44b9665e52b787bd6b02a3b077b5b247d8d9ba",
     "205-dash": null,
-    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751118488~acl=/stream/205/file/*~id=allUsers~hmac=b986f4dc64fd1e6e2255dc37d1e1e6844a82b84f99ae6ac379f1fd7e6f11cb86",
-    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751118488~acl=/stream/206/file/*~id=allUsers~hmac=099a8dd3782bcea5060d721e0ef8917c06f856b0c980b15f2580c2dad03a0679",
-    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751118488~acl=/stream/206/file/*~id=allUsers~hmac=099a8dd3782bcea5060d721e0ef8917c06f856b0c980b15f2580c2dad03a0679",
+    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751119391~acl=/stream/205/file/*~id=allUsers~hmac=91d23cf7981907e04e422724114c959b75f56a70095c41f1721163aa17f15b35",
+    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751119391~acl=/stream/206/file/*~id=allUsers~hmac=329f7639e89ba122b2593a67df52b31ebb1ec61e868f8197572fa0f965bfdace",
+    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751119391~acl=/stream/206/file/*~id=allUsers~hmac=329f7639e89ba122b2593a67df52b31ebb1ec61e868f8197572fa0f965bfdace",
     "18105-dash": null,
-    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751118488~acl=/stream/18105/file/*~id=allUsers~hmac=88b53fecaeaaa1394c93b22c29a42778b6c6511832df83d2531b05e127fa465a",
+    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751119391~acl=/stream/18105/file/*~id=allUsers~hmac=124498215f7e7a0fb79850dab9bd80eec2884e5cb27bda15da273574225f33ec",
     "all-sections": "17140-17875-17884-18189-18190-18249-18250-18762-18833-18851-18954-18985-18994-206-6299-6317-6685-6786",
     "all-vidiolivetv": [
       {
@@ -562,12 +562,6 @@
       "cover_url": "https://thumbor.prod.vidiocdn.com/EX3Vh_x2-u8vfOUjyBTfpzRhQ8E=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4382759/107f7c.jpg",
       "start_time": "2025-06-28T13:55:00.000Z"
     },
-    "4382782": {
-      "title": "Valladolid P2 Premier Padel 2025 - Semifinal",
-      "web_url": "6317",
-      "cover_url": "https://thumbor.prod.vidiocdn.com/TAy7JP-2PmIUxvrjbNq1Gv3C1-8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4382782/2e79a0.jpg",
-      "start_time": "2025-06-28T08:00:00.000Z"
-    },
     "4382783": {
       "title": "ATP 250: Lexus Eastbourne Open 2025 - Final",
       "web_url": "6317",
@@ -745,7 +739,7 @@
       "start_time": "2025-04-02T13:25:00.000Z"
     },
     "17938": {
-      "title": "Inter vs Lazio - Serie A",
+      "title": "Roma vs Milan - Serie A",
       "web_url": "17938",
       "cover_url": "https://thumbor.prod.vidiocdn.com/tJoOEHTHed9-fRQvnXoew2nr8hY=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17938/serie-a-973769.jpg",
       "start_time": "2024-10-20T10:00:00.000Z"
