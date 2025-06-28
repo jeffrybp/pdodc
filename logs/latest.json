@@ -1,9 +1,9 @@
 {
-  "time": "2025-06-28T11:03:24.329Z",
+  "time": "2025-06-28T11:18:26.464Z",
   "headers": {
     "luws": "34401390-43A2-8062-5DE3-D9C3992929CE_22522467",
-    "x-signature": "2c7400e217f67f25711d8bf7aa00ede677457a9fb4213bbf835c78bd56878795",
-    "x-client": 1751108599.44,
+    "x-signature": "0cfe9e81d4635e54ada059cb1b18af6226fe5e0c0d894e7a7ee16cb8866d15da",
+    "x-client": 1751109502.424,
     "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/tlQZPLoi996gTdFYWEDR3x6uz+H1EPfjDzRvZ2T3HMNx2FaC51zYziJiOjogp+YLidXLrfaxgpb6Stw80eMK6Q=",
     "x-secure-level": "2",
     "x-api-platform": "web-desktop",
@@ -13,13 +13,13 @@
     "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
     "x-user-email": "jeffrybp1991@gmail.com",
     "204-dash": null,
-    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751123000~acl=/stream/204/file/*~id=allUsers~hmac=a530fd24051abb966c9cf2d7995057679a3b03f264340869a9b08a40974ba6ca",
+    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751123903~acl=/stream/204/file/*~id=allUsers~hmac=1c0ef55198d466506453f639473762fd4d43702e2fd6ac64fe988cf2ca71c035",
     "205-dash": null,
-    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751123001~acl=/stream/205/file/*~id=allUsers~hmac=8f90ee6ed8ced87b973a59e90a698a229d248c784210795f1d5ecfb959a026fc",
-    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751123002~acl=/stream/206/file/*~id=allUsers~hmac=bb5c9e516bc77333ab69f32931038f16adc4a02e9deb28c5e6fe32fc1454fe84",
-    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751123002~acl=/stream/206/file/*~id=allUsers~hmac=bb5c9e516bc77333ab69f32931038f16adc4a02e9deb28c5e6fe32fc1454fe84",
+    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751123904~acl=/stream/205/file/*~id=allUsers~hmac=10d737ff4ff572e46c3e81eab769e364cac65a74ec2debf52bed544bc43af3cf",
+    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751123904~acl=/stream/206/file/*~id=allUsers~hmac=a793aed3e3c71f89eadbf2efae6171b900463130f2ceb935cb1d2b866bb76cb2",
+    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751123904~acl=/stream/206/file/*~id=allUsers~hmac=a793aed3e3c71f89eadbf2efae6171b900463130f2ceb935cb1d2b866bb76cb2",
     "18105-dash": null,
-    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751123002~acl=/stream/18105/file/*~id=allUsers~hmac=4d8a39a1b18f674269676e6896706592edf9b4b2c21f458da88501bfd2c78af4",
+    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751123904~acl=/stream/18105/file/*~id=allUsers~hmac=cde93cd7c41b3b229747be87fab8dec6c57879be269da0e819596b4ad834744b",
     "all-sections": "17140-17875-17884-18189-18190-18249-18250-18762-18833-18851-18954-18985-18994-206-6299-6317-6685-6786",
     "all-vidiolivetv": [
       {
@@ -662,7 +662,7 @@
       "title": "Semifinal Boys: Fukuoka University Ohori Senior High School (JPN) vs Yongsan High School (KOR) - NBA Rising Invitational",
       "web_url": "18985",
       "cover_url": "https://thumbor.prod.vidiocdn.com/Q7b2VPHSK6OIOTxii42qr0SEbro=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4385106/5d115a.jpg",
-      "start_time": "2025-06-28T11:10:00.000Z"
+      "start_time": "2025-06-28T11:30:00.000Z"
     },
     "4385150": {
       "title": "Valladolid P2 Premier Padel 2025 - Final",
