@@ -1,9 +1,9 @@
 {
-  "time": "2025-06-28T13:33:52.399Z",
+  "time": "2025-06-28T13:48:55.519Z",
   "headers": {
     "luws": "34401390-43A2-8062-5DE3-D9C3992929CE_22522467",
-    "x-signature": "efd8f3ea9b5dbc1bb01e2795a12632bcd560198135c8d4691c1afa4d43713413",
-    "x-client": 1751117628.366,
+    "x-signature": "b480ca92c8a3b33eec931b7707874d3977e137e01920b571b3d87b4253090b70",
+    "x-client": 1751118531.375,
     "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/tlQZPLoi996gTdFYWEDR3x6uz+H1EPfjDzRvZ2T3HMNx2FaC51zYziJiOjogp+YLidXLrfaxgpb6Stw80eMK6Q=",
     "x-secure-level": "2",
     "x-api-platform": "web-desktop",
@@ -13,14 +13,14 @@
     "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
     "x-user-email": "jeffrybp1991@gmail.com",
     "204-dash": null,
-    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751132029~acl=/stream/204/file/*~id=allUsers~hmac=fbbe5acd0d9b7a513fc1b95a812b1ea5b67363f949abd48e9ffe5be793300344",
+    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751132932~acl=/stream/204/file/*~id=allUsers~hmac=865a9a299f26fe6d98df7a2e6eca3c84c7532a3a690b8724a3cf3832c5b35be7",
     "205-dash": null,
-    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751132030~acl=/stream/205/file/*~id=allUsers~hmac=5317e5514652d59ce02ecbee55791eefd62d4039f699b586755c936d2b33ed57",
-    "206-dash": "https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751132030~acl=/stream/206/file/*~id=allUsers~hmac=9c8d2073388dc2ff480b2d05cb0db52baa86956b0797894f1442b0fa635043f6",
-    "206-hls": "https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751132030~acl=/stream/206/file/*~id=allUsers~hmac=9c8d2073388dc2ff480b2d05cb0db52baa86956b0797894f1442b0fa635043f6",
+    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751132933~acl=/stream/205/file/*~id=allUsers~hmac=a2047a259ecf2bbb5acff1614612f20fe05f8b3f3020840a86ed724e189c2c9f",
+    "206-dash": "https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751132933~acl=/stream/206/file/*~id=allUsers~hmac=2aa507101fd5715162e56c210ff11343c3e8ece39ea898764c5dbfbf470779e0",
+    "206-hls": "https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751132933~acl=/stream/206/file/*~id=allUsers~hmac=2aa507101fd5715162e56c210ff11343c3e8ece39ea898764c5dbfbf470779e0",
     "18105-dash": null,
-    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751132030~acl=/stream/18105/file/*~id=allUsers~hmac=05da2e2f5ad2e977948b7a721ca109974626685c9babf091bc34f7ca401e70ec",
-    "all-sections": "17140-17875-17884-18189-18190-18249-18250-18762-18833-18834-18851-18954-18985-18994-206-6299-6317-6685",
+    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751132933~acl=/stream/18105/file/*~id=allUsers~hmac=ad19da2b8d93697b6435cbe62d3c46c40f5842dc63721cb90dc6fd7f403f6789",
+    "all-sections": "17140-17875-17884-18189-18190-18249-18250-18762-18833-18834-18851-18954-18994-206-6299-6317-6685",
     "all-vidiolivetv": [
       {
         "content_id": "204",
@@ -628,12 +628,6 @@
       "cover_url": "https://thumbor.prod.vidiocdn.com/P2ME5QYlTzaQv1lMri9vlR28vIE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4384792/c0897a.jpg",
       "start_time": "2025-06-28T19:00:00.000Z"
     },
-    "4385106": {
-      "title": "Semifinal Boys: Fukuoka University Ohori Senior High School (JPN) vs Yongsan High School (KOR) - NBA Rising Invitational",
-      "web_url": "18985",
-      "cover_url": "https://thumbor.prod.vidiocdn.com/Q7b2VPHSK6OIOTxii42qr0SEbro=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4385106/5d115a.jpg",
-      "start_time": "2025-06-28T11:37:00.000Z"
-    },
     "4385150": {
       "title": "Valladolid P2 Premier Padel 2025 - Final",
       "web_url": "6317",
@@ -731,12 +725,6 @@
       "web_url": "18834",
       "cover_url": "https://thumbor.prod.vidiocdn.com/0FVMDw6JH4HKhqaZp9QPYLbKqw8=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18834/byon-combat-showbiz-vol-5-4b168f.jpg",
       "start_time": "2025-06-28T08:30:00.000Z"
-    },
-    "18985": {
-      "title": "Semifinal Boys: Fukuoka University Ohori Senior High School (JPN) vs Yongsan High School (KOR) - NBA Rising Invitational",
-      "web_url": "18985",
-      "cover_url": "https://thumbor.prod.vidiocdn.com/Q7b2VPHSK6OIOTxii42qr0SEbro=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4385106/5d115a.jpg",
-      "start_time": "2025-06-28T07:10:00.000Z"
     },
     "19007": {
       "title": "Cedera Saat Ikut Tren Olahraga? Ini Risiko Dibalik Popularitasnya",
