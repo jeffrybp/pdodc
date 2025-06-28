@@ -1,9 +1,9 @@
 {
-  "time": "2025-06-28T13:03:48.112Z",
+  "time": "2025-06-28T13:18:49.099Z",
   "headers": {
     "luws": "34401390-43A2-8062-5DE3-D9C3992929CE_22522467",
-    "x-signature": "a56a8dc7968b543a5c07d37abe719ef9a318d72eae23ea10cdcd97a6bba86ae2",
-    "x-client": 1751115822.368,
+    "x-signature": "41424f9035c6d8412651bf5513da880b0ffd2015e43d3ccb81e34fa5ed123283",
+    "x-client": 1751116725.373,
     "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/tlQZPLoi996gTdFYWEDR3x6uz+H1EPfjDzRvZ2T3HMNx2FaC51zYziJiOjogp+YLidXLrfaxgpb6Stw80eMK6Q=",
     "x-secure-level": "2",
     "x-api-platform": "web-desktop",
@@ -13,13 +13,13 @@
     "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
     "x-user-email": "jeffrybp1991@gmail.com",
     "204-dash": null,
-    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751130224~acl=/stream/204/file/*~id=allUsers~hmac=5c7710c98fc68345c30f6da07455c76e3ed97cc959e33e11d4070b3e08e7bff0",
+    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751131126~acl=/stream/204/file/*~id=allUsers~hmac=350ab5deadc13dce273b25cb81a8c3fbe6a79f0d96a497c52dcbbd868aaa2b9c",
     "205-dash": null,
-    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751130224~acl=/stream/205/file/*~id=allUsers~hmac=f9140412d32322117053071822b87af7ee0c5ed417ee5fbd36815ce52049b483",
-    "206-dash": "https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751130224~acl=/stream/206/file/*~id=allUsers~hmac=38638adb09b807b7b15d1780c4f32fa3b62ec5af74f8bbe553a596fba71b2c1c",
-    "206-hls": "https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751130224~acl=/stream/206/file/*~id=allUsers~hmac=38638adb09b807b7b15d1780c4f32fa3b62ec5af74f8bbe553a596fba71b2c1c",
+    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751131127~acl=/stream/205/file/*~id=allUsers~hmac=bf0fe67bdb88c1f6991fe1f2380b2e4c570bced4909671d9875a50b3c061738f",
+    "206-dash": "https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751131127~acl=/stream/206/file/*~id=allUsers~hmac=db70f3eef8e9b192e8882957464a9fbc54338e97073316186552a57dd42d1301",
+    "206-hls": "https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751131127~acl=/stream/206/file/*~id=allUsers~hmac=db70f3eef8e9b192e8882957464a9fbc54338e97073316186552a57dd42d1301",
     "18105-dash": null,
-    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751130225~acl=/stream/18105/file/*~id=allUsers~hmac=e7546330607e388e547b9a6d0f16eb8040f6182d618b72ebd368ac68237ca403",
+    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751131127~acl=/stream/18105/file/*~id=allUsers~hmac=d7fe25c5c4193fadea4231d9953e4302bbcc95c5883652610ee6d6e5da6b5eeb",
     "all-sections": "17140-17875-17884-18189-18190-18249-18250-18762-18833-18834-18851-18954-18985-18994-206-6299-6317-6685-6786",
     "all-vidiolivetv": [
       {
@@ -503,13 +503,13 @@
       "start_time": "2025-06-28T22:00:00.000Z"
     },
     "18833": {
-      "title": "Felmy Sumaehe vs Tsunami - WBA Asia Title Bout - Byon Combat Showbiz Vol.5",
+      "title": "Brian Lawitan vs Kabilan Jelevan - Kickstriking Lightweight - Byon Combat Showbiz Vol.5",
       "web_url": "18833",
-      "cover_url": "https://thumbor.prod.vidiocdn.com/jdTPolAzQaPwCnhC1wS_iwbe1GA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4380697/12c62a.jpg",
+      "cover_url": "https://thumbor.prod.vidiocdn.com/g-bJM9zYAOuLAk_-L0wpc2AtfFo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4380698/26b741.jpg",
       "start_time": "2025-06-28T08:30:00.000Z"
     },
     "18834": {
-      "title": "Felmy Sumaehe vs Tsunami - WBA Asia Title Bout - Byon Combat Showbiz Vol.5",
+      "title": "Brian Lawitan vs Kabilan Jelevan - Kickstriking Lightweight - Byon Combat Showbiz Vol.5",
       "web_url": "18834",
       "cover_url": "https://thumbor.prod.vidiocdn.com/0FVMDw6JH4HKhqaZp9QPYLbKqw8=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18834/byon-combat-showbiz-vol-5-4b168f.jpg",
       "start_time": "2025-06-28T08:30:00.000Z"
@@ -709,7 +709,7 @@
       "start_time": "2025-06-29T01:30:00.000Z"
     },
     "17884": {
-      "title": "Formula 1",
+      "title": "Formula 1 Qualifying Pre Show 2025 - LIVE",
       "web_url": "17884",
       "cover_url": "https://thumbor.prod.vidiocdn.com/Rc1pHYZnd8l_siMi118TkKusbPM=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17884/formula-1-5ee872.jpg",
       "start_time": "2025-04-02T13:25:00.000Z"
@@ -727,13 +727,13 @@
       "start_time": "2024-10-20T12:45:00.000Z"
     },
     "18833": {
-      "title": "Felmy Sumaehe vs Tsunami - WBA Asia Title Bout - Byon Combat Showbiz Vol.5",
+      "title": "Brian Lawitan vs Kabilan Jelevan - Kickstriking Lightweight - Byon Combat Showbiz Vol.5",
       "web_url": "18833",
-      "cover_url": "https://thumbor.prod.vidiocdn.com/jdTPolAzQaPwCnhC1wS_iwbe1GA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4380697/12c62a.jpg",
+      "cover_url": "https://thumbor.prod.vidiocdn.com/g-bJM9zYAOuLAk_-L0wpc2AtfFo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4380698/26b741.jpg",
       "start_time": "2025-06-28T08:30:00.000Z"
     },
     "18834": {
-      "title": "Felmy Sumaehe vs Tsunami - WBA Asia Title Bout - Byon Combat Showbiz Vol.5",
+      "title": "Brian Lawitan vs Kabilan Jelevan - Kickstriking Lightweight - Byon Combat Showbiz Vol.5",
       "web_url": "18834",
       "cover_url": "https://thumbor.prod.vidiocdn.com/0FVMDw6JH4HKhqaZp9QPYLbKqw8=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18834/byon-combat-showbiz-vol-5-4b168f.jpg",
       "start_time": "2025-06-28T08:30:00.000Z"
