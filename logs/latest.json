@@ -1,9 +1,9 @@
 {
-  "time": "2025-06-28T23:28:28.462Z",
+  "time": "2025-06-28T23:43:31.532Z",
   "headers": {
     "luws": "34401390-43A2-8062-5DE3-D9C3992929CE_22522467",
-    "x-signature": "1b3459d82177b319b0c16965f32d307b914e1b47fddb49178aeab54e79caf655",
-    "x-client": 1751153305.426,
+    "x-signature": "a41830831d9bb5a68e8f873a819a6313d79382ca779045981d2140257b719a2c",
+    "x-client": 1751154208.432,
     "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/tlQZPLoi996gTdFYWEDR3x6uz+H1EPfjDzRvZ2T3HMNx2FaC51zYziJiOjogp+YLidXLrfaxgpb6Stw80eMK6Q=",
     "x-secure-level": "2",
     "x-api-platform": "web-desktop",
@@ -13,13 +13,13 @@
     "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
     "x-user-email": "jeffrybp1991@gmail.com",
     "204-dash": null,
-    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751167706~acl=/stream/204/file/*~id=allUsers~hmac=941e6b5de8a3371dd7747d85a82d9a2226e9eb591cab4f925ecf0aa757203656",
+    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751168609~acl=/stream/204/file/*~id=allUsers~hmac=a8962e9cf279a76e2f9292dec716b099c5c6df983cbf1c7d19ee596b9b30af26",
     "205-dash": null,
-    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751167706~acl=/stream/205/file/*~id=allUsers~hmac=dea702bd3c73ecedc2d7b816f019102c5a0cdc230390cdf9d296b9764b1ad299",
-    "206-dash": "https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751167706~acl=/stream/206/file/*~id=allUsers~hmac=88ed78dcbb92cbf53245f7fc0e251c764263c6b0ce1903f6155da9f3ce0feb6b",
-    "206-hls": "https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751167706~acl=/stream/206/file/*~id=allUsers~hmac=88ed78dcbb92cbf53245f7fc0e251c764263c6b0ce1903f6155da9f3ce0feb6b",
+    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751168609~acl=/stream/205/file/*~id=allUsers~hmac=328b8bfc8893029362de8c2d7c394ba4a6b03c2030f3e78b3b55f981e7c01c4d",
+    "206-dash": "https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751168609~acl=/stream/206/file/*~id=allUsers~hmac=f94cc60936f239b54709dfe880de9beec1585a8222a3bdb972f01a6b1354be94",
+    "206-hls": "https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751168609~acl=/stream/206/file/*~id=allUsers~hmac=f94cc60936f239b54709dfe880de9beec1585a8222a3bdb972f01a6b1354be94",
     "18105-dash": null,
-    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751167707~acl=/stream/18105/file/*~id=allUsers~hmac=64a8a3828c8258d4f6b9ed7262a81aac059d67b103d90b0c824b99f6f997d270",
+    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751168610~acl=/stream/18105/file/*~id=allUsers~hmac=c819fe15ab99310c10811527be7532ab6955604fb3ff436a8ec2ca1f3dbd6dc0",
     "all-sections": "17139-17140-17884-18189-18190-18249-18250-18762-18851-18954-18985-18994-206-6317",
     "all-vidiolivetv": [
       {
@@ -497,7 +497,7 @@
       "start_time": "2025-06-28T16:45:00.000Z"
     },
     "18250": {
-      "title": "Hsu Yin-Hui/Lin Jhih Yun (TPE) vs Hsu Ya Ching/Sung Yu-Hsuan (TPE) - Women's Doubles Semifinals | Yonex US Open 2025",
+      "title": "Yonex US Open 2025 - Round of 16 (Court 2)",
       "web_url": "18250",
       "cover_url": "https://thumbor.prod.vidiocdn.com/MENI6OhJzjtKFt4P8FRVGFlTrZ0=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18250/yonex-us-open-2025-round-of-16-court-2-203a9d.jpg",
       "start_time": "2025-06-28T22:00:00.000Z"
@@ -673,7 +673,7 @@
       "start_time": "2025-06-28T16:45:00.000Z"
     },
     "18250": {
-      "title": "Hsu Yin-Hui/Lin Jhih Yun (TPE) vs Hsu Ya Ching/Sung Yu-Hsuan (TPE) - Women's Doubles Semifinals | Yonex US Open 2025",
+      "title": "Yonex US Open 2025 - Round of 16 (Court 2)",
       "web_url": "18250",
       "cover_url": "https://thumbor.prod.vidiocdn.com/MENI6OhJzjtKFt4P8FRVGFlTrZ0=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18250/yonex-us-open-2025-round-of-16-court-2-203a9d.jpg",
       "start_time": "2025-06-28T22:00:00.000Z"
@@ -689,6 +689,12 @@
       "web_url": "19008",
       "cover_url": "https://thumbor.prod.vidiocdn.com/8EOjcdNpJW2ek1k2ql_p2NEyW14=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/19008/btn-jakarta-international-marathon-2025-running-jakarta-with-4s-spirit-6eaa50.jpg",
       "start_time": "2025-06-28T20:30:00.000Z"
+    },
+    "19010": {
+      "title": "Final | U-14 - LTS 2 - Newland FA VS Tunas Betawi",
+      "web_url": "19010",
+      "cover_url": "https://thumbor.prod.vidiocdn.com/pFOw7zctMc8RxHM-uG3u4lS_8Vk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4387321/7eeada.jpg",
+      "start_time": "2025-06-28T23:30:00.000Z"
     }
   }
 }
