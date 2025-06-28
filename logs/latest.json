@@ -1,9 +1,9 @@
 {
-  "time": "2025-06-28T16:42:13.154Z",
+  "time": "2025-06-28T16:57:16.182Z",
   "headers": {
     "luws": "34401390-43A2-8062-5DE3-D9C3992929CE_22522467",
-    "x-signature": "49052a67c2a8b1f754222db3e8194090e8cba99b8afaf8099fa269fe287a3d52",
-    "x-client": 1751128929.604,
+    "x-signature": "0f4e547002aae48faef064e91a1dc6d0708b3e5c352b10117238b1e17894c574",
+    "x-client": 1751129832.646,
     "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/tlQZPLoi996gTdFYWEDR3x6uz+H1EPfjDzRvZ2T3HMNx2FaC51zYziJiOjogp+YLidXLrfaxgpb6Stw80eMK6Q=",
     "x-secure-level": "2",
     "x-api-platform": "web-desktop",
@@ -13,13 +13,13 @@
     "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
     "x-user-email": "jeffrybp1991@gmail.com",
     "204-dash": null,
-    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751143330~acl=/stream/204/file/*~id=allUsers~hmac=b73f85c4a2e5e8068d67ab4977045770beec4b471e342a52f6c1ee2ad619d1db",
+    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751144233~acl=/stream/204/file/*~id=allUsers~hmac=22fbb037c77b60f2f8424e3f0920cc187ea8318d782fe178e305e75a335f825b",
     "205-dash": null,
-    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751143331~acl=/stream/205/file/*~id=allUsers~hmac=a19d9f6754ee0843da564153af304ceb46f60312a20f3ad0b7a5b0f6e93527ae",
-    "206-dash": "https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751143331~acl=/stream/206/file/*~id=allUsers~hmac=ce7c8b0dc4ff26dc2f6fb07389f936f59064ee4bb1582f919e98815a73748e55",
-    "206-hls": "https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751143331~acl=/stream/206/file/*~id=allUsers~hmac=ce7c8b0dc4ff26dc2f6fb07389f936f59064ee4bb1582f919e98815a73748e55",
+    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751144233~acl=/stream/205/file/*~id=allUsers~hmac=00bfea00d60e9033854399860ee7d741fe4e7a17b8042ba2d62da0486ac99b34",
+    "206-dash": "https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751144234~acl=/stream/206/file/*~id=allUsers~hmac=65176cdc80cc098f2f9ae59ca097d30034ac9c7be14331111166539be950c33b",
+    "206-hls": "https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751144234~acl=/stream/206/file/*~id=allUsers~hmac=65176cdc80cc098f2f9ae59ca097d30034ac9c7be14331111166539be950c33b",
     "18105-dash": null,
-    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751143331~acl=/stream/18105/file/*~id=allUsers~hmac=0cfad78db2701d951e071cebc78c5dd98d38fdec46f954c4f984e4fe071d858c",
+    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751144234~acl=/stream/18105/file/*~id=allUsers~hmac=8c3f8049df6b64cf690325a4c0daf3b6a5a5901c7dcf539acb4e1dc57d7118a0",
     "all-sections": "17140-17884-18189-18190-18249-18250-18762-18834-18851-18954-18985-18994-206-6299-6317",
     "all-vidiolivetv": [
       {
@@ -494,7 +494,7 @@
       "title": "Rasmus Espersen/Amalie Cecilie Kudsk (DEN) vs Chen Cheng Kuan/Hsu Yin-Hui (TPE) - Mixed Doubles Semifinals | Yonex US Open 2025",
       "web_url": "18249",
       "cover_url": "https://thumbor.prod.vidiocdn.com/SfbehxJ4KftNwOPk3aJPj6CvZ1o=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18249/yonex-us-open-2025-semifinals-court-1-a720d0.jpg",
-      "start_time": "2025-06-28T17:00:00.000Z"
+      "start_time": "2025-06-28T16:45:00.000Z"
     },
     "18250": {
       "title": "Lai Po Yu/Tsai Fu Cheng (TPE) vs Chiang Chien-Wei/Wu Hsuan-Yi (TPE) - Men's Doubles Semifinals | Yonex US Open 2025",
@@ -525,12 +525,6 @@
       "web_url": "6317",
       "cover_url": "https://thumbor.prod.vidiocdn.com/uSC3S-Jk4Lzx0PcxXuFZIcyJCe8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4382783/735c64.jpg",
       "start_time": "2025-06-28T15:00:00.000Z"
-    },
-    "4384556": {
-      "title": "Men: Germany vs Iran - Volleyball Nations League",
-      "web_url": "18954",
-      "cover_url": "https://thumbor.prod.vidiocdn.com/5H7vKOXHHpkxYpGGXWLAM37wEtY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4384556/b7111e.jpg",
-      "start_time": "2025-06-28T14:15:00.000Z"
     },
     "4384557": {
       "title": "Men: Bulgaria vs Turkey - Volleyball Nations League",
@@ -690,6 +684,12 @@
       "cover_url": "https://thumbor.prod.vidiocdn.com/X-RqLAcQNAoAqhhYdA6L240KI50=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17939/serie-a-4cc90b.jpg",
       "start_time": "2024-10-20T12:45:00.000Z"
     },
+    "18249": {
+      "title": "Rasmus Espersen/Amalie Cecilie Kudsk (DEN) vs Chen Cheng Kuan/Hsu Yin-Hui (TPE) - Mixed Doubles Semifinals | Yonex US Open 2025",
+      "web_url": "18249",
+      "cover_url": "https://thumbor.prod.vidiocdn.com/SfbehxJ4KftNwOPk3aJPj6CvZ1o=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18249/yonex-us-open-2025-semifinals-court-1-a720d0.jpg",
+      "start_time": "2025-06-28T16:45:00.000Z"
+    },
     "18834": {
       "title": "Jaden vs Andi Cobra - ICB National Title Bout - Byon Combat Showbiz Vol.5",
       "web_url": "18834",
@@ -701,12 +701,6 @@
       "web_url": "18851",
       "cover_url": "https://thumbor.prod.vidiocdn.com/-nlwBlVUfECjq00GJ9pCxI1GpNU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4384557/e8ce9c.jpg",
       "start_time": "2025-06-28T16:00:00.000Z"
-    },
-    "18954": {
-      "title": "Men: Germany vs Iran - Volleyball Nations League",
-      "web_url": "18954",
-      "cover_url": "https://thumbor.prod.vidiocdn.com/5H7vKOXHHpkxYpGGXWLAM37wEtY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4384556/b7111e.jpg",
-      "start_time": "2025-06-28T14:15:00.000Z"
     },
     "19007": {
       "title": "Cedera Saat Ikut Tren Olahraga? Ini Risiko Dibalik Popularitasnya",
