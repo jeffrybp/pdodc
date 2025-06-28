@@ -1,9 +1,9 @@
 {
-  "time": "2025-06-28T17:42:23.880Z",
+  "time": "2025-06-28T17:57:25.791Z",
   "headers": {
     "luws": "34401390-43A2-8062-5DE3-D9C3992929CE_22522467",
-    "x-signature": "8437cb95d13c8aca4089ca7c8e4df39bae23e3cc38d6eb710dff4b5a782757d2",
-    "x-client": 1751132540.61,
+    "x-signature": "dd388039583a586e9dbc2232c89926c55b3901486f6d1000216feaf12c6f12f0",
+    "x-client": 1751133443.601,
     "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/tlQZPLoi996gTdFYWEDR3x6uz+H1EPfjDzRvZ2T3HMNx2FaC51zYziJiOjogp+YLidXLrfaxgpb6Stw80eMK6Q=",
     "x-secure-level": "2",
     "x-api-platform": "web-desktop",
@@ -13,13 +13,13 @@
     "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
     "x-user-email": "jeffrybp1991@gmail.com",
     "204-dash": null,
-    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751146941~acl=/stream/204/file/*~id=allUsers~hmac=64a6dbe8f128aa82811fbefc39d11b1f7df5bcd945d28750193193d7a7e89bc8",
+    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751147843~acl=/stream/204/file/*~id=allUsers~hmac=b28a26dd51a53b95adb75d368f72c008381294f48ae4a1b7acc6ab7ded304163",
     "205-dash": null,
-    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751146941~acl=/stream/205/file/*~id=allUsers~hmac=1fa3ddd005a4ce0540b15e34186c9246b01b7f90c7d493e3b40498f2c59faa26",
-    "206-dash": "https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751146942~acl=/stream/206/file/*~id=allUsers~hmac=1ad1d2a5d05ede18b243d764b804be28197827fc21e46aa543f6854a343c6fdf",
-    "206-hls": "https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751146942~acl=/stream/206/file/*~id=allUsers~hmac=1ad1d2a5d05ede18b243d764b804be28197827fc21e46aa543f6854a343c6fdf",
+    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751147843~acl=/stream/205/file/*~id=allUsers~hmac=33df79e3454ca10f83b7b54edfdec1e6a5945687172e47021633d8b73baf7903",
+    "206-dash": "https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751147844~acl=/stream/206/file/*~id=allUsers~hmac=e7fa53c8ffe24c58329ffcc52aadabd8c1966b4356ee2179639b57db0c5fa6ee",
+    "206-hls": "https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751147844~acl=/stream/206/file/*~id=allUsers~hmac=e7fa53c8ffe24c58329ffcc52aadabd8c1966b4356ee2179639b57db0c5fa6ee",
     "18105-dash": null,
-    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751146942~acl=/stream/18105/file/*~id=allUsers~hmac=3ce33a664cde280729d208044c4e4b377cf31cf0a9e32bb509ecd45a616c28b9",
+    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751147844~acl=/stream/18105/file/*~id=allUsers~hmac=43d1f048a8e994263f06d940d463c26e127530494ca231ceb7adc68d148da6ed",
     "all-sections": "17140-17884-18189-18190-18249-18250-18762-18834-18851-18954-18985-18994-206-6299-6317",
     "all-vidiolivetv": [
       {
@@ -491,7 +491,7 @@
   },
   "sections": {
     "18249": {
-      "title": "Rasmus Espersen/Amalie Cecilie Kudsk (DEN) vs Chen Cheng Kuan/Hsu Yin-Hui (TPE) - Mixed Doubles Semifinals | Yonex US Open 2025",
+      "title": "Polina Buhrova (UKR) vs Tanvi Sharma (IND) - Women's Singles Semifinals | Yonex US Open 2025",
       "web_url": "18249",
       "cover_url": "https://thumbor.prod.vidiocdn.com/SfbehxJ4KftNwOPk3aJPj6CvZ1o=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18249/yonex-us-open-2025-semifinals-court-1-a720d0.jpg",
       "start_time": "2025-06-28T16:45:00.000Z"
@@ -519,12 +519,6 @@
       "web_url": "6299",
       "cover_url": "https://thumbor.prod.vidiocdn.com/vCoBYw5gRG4WwhoXw-3FfXzcj_o=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4382755/1d37e4.jpg",
       "start_time": "2025-06-28T16:30:00.000Z"
-    },
-    "4384557": {
-      "title": "Men: Bulgaria vs Turkey - Volleyball Nations League",
-      "web_url": "18851",
-      "cover_url": "https://thumbor.prod.vidiocdn.com/-nlwBlVUfECjq00GJ9pCxI1GpNU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4384557/e8ce9c.jpg",
-      "start_time": "2025-06-28T16:00:00.000Z"
     },
     "4384706": {
       "title": "FIA Formula 3 Championship Austria Grand Prix 2025 - Race",
@@ -679,7 +673,7 @@
       "start_time": "2024-10-20T12:45:00.000Z"
     },
     "18249": {
-      "title": "Rasmus Espersen/Amalie Cecilie Kudsk (DEN) vs Chen Cheng Kuan/Hsu Yin-Hui (TPE) - Mixed Doubles Semifinals | Yonex US Open 2025",
+      "title": "Polina Buhrova (UKR) vs Tanvi Sharma (IND) - Women's Singles Semifinals | Yonex US Open 2025",
       "web_url": "18249",
       "cover_url": "https://thumbor.prod.vidiocdn.com/SfbehxJ4KftNwOPk3aJPj6CvZ1o=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18249/yonex-us-open-2025-semifinals-court-1-a720d0.jpg",
       "start_time": "2025-06-28T16:45:00.000Z"
@@ -689,12 +683,6 @@
       "web_url": "18834",
       "cover_url": "https://thumbor.prod.vidiocdn.com/xPNCUDh05BxPKkxU2IrXlNNolGk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4378294/3b2623.jpg",
       "start_time": "2025-06-28T08:30:00.000Z"
-    },
-    "18851": {
-      "title": "Men: Bulgaria vs Turkey - Volleyball Nations League",
-      "web_url": "18851",
-      "cover_url": "https://thumbor.prod.vidiocdn.com/-nlwBlVUfECjq00GJ9pCxI1GpNU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4384557/e8ce9c.jpg",
-      "start_time": "2025-06-28T16:00:00.000Z"
     },
     "19007": {
       "title": "Cedera Saat Ikut Tren Olahraga? Ini Risiko Dibalik Popularitasnya",
