@@ -1,9 +1,9 @@
 {
-  "time": "2025-06-28T18:57:38.632Z",
+  "time": "2025-06-28T19:12:41.733Z",
   "headers": {
     "luws": "34401390-43A2-8062-5DE3-D9C3992929CE_22522467",
-    "x-signature": "d6f986fc88487c4ce6be2386e01efb00c9a45f1dcaf3421433c2274ed5a55468",
-    "x-client": 1751137055.593,
+    "x-signature": "31bd04c72d9419144ada725c79e186f1870aa730f1e208cce48ef544e76525e9",
+    "x-client": 1751137958.582,
     "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/tlQZPLoi996gTdFYWEDR3x6uz+H1EPfjDzRvZ2T3HMNx2FaC51zYziJiOjogp+YLidXLrfaxgpb6Stw80eMK6Q=",
     "x-secure-level": "2",
     "x-api-platform": "web-desktop",
@@ -13,13 +13,13 @@
     "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
     "x-user-email": "jeffrybp1991@gmail.com",
     "204-dash": null,
-    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751151456~acl=/stream/204/file/*~id=allUsers~hmac=62d1120e02d3c32755a20c8c3e8f585e1527579ac284eb3aa069a7b6b0daac2e",
+    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751152359~acl=/stream/204/file/*~id=allUsers~hmac=c1a1c875cc016fe078f129e17ab241d248f8a1e6baec6504e4c783f29d8b46c9",
     "205-dash": null,
-    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751151456~acl=/stream/205/file/*~id=allUsers~hmac=aa3a3dcb35828a6dc86fbdbe14e9e6ea95ddfcf6838f4b31e4b82ce18675f2dc",
-    "206-dash": "https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751151457~acl=/stream/206/file/*~id=allUsers~hmac=6def3a7e78beddf9f41bfb600702b9a8e67b5ac44f79cac6d3e07dadd99578a4",
-    "206-hls": "https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751151457~acl=/stream/206/file/*~id=allUsers~hmac=6def3a7e78beddf9f41bfb600702b9a8e67b5ac44f79cac6d3e07dadd99578a4",
+    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751152359~acl=/stream/205/file/*~id=allUsers~hmac=7d38b7715eb674b2bda047cf120089082412393b542e35ffbe1539a6f5cbf97a",
+    "206-dash": "https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751152360~acl=/stream/206/file/*~id=allUsers~hmac=1c8c616dda825594959695903e30ecbdedaa1c7374c7793192464e6a2da6aef2",
+    "206-hls": "https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751152360~acl=/stream/206/file/*~id=allUsers~hmac=1c8c616dda825594959695903e30ecbdedaa1c7374c7793192464e6a2da6aef2",
     "18105-dash": null,
-    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751151457~acl=/stream/18105/file/*~id=allUsers~hmac=5ecd15a5eb982f37dade58907453ab8f926f3f07a61734bf9ad5cd778eac7957",
+    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751152360~acl=/stream/18105/file/*~id=allUsers~hmac=b62c14939dc9a746c3868a30bcb58d7688abcdd53ae05dd4242c5f5885b17f68",
     "all-sections": "17140-17884-18189-18190-18249-18250-18762-18851-18954-18985-18994-206-6317",
     "all-vidiolivetv": [
       {
@@ -649,7 +649,7 @@
       "start_time": "2025-04-02T13:25:00.000Z"
     },
     "17938": {
-      "title": "Fiorentina vs Bologna - Serie A",
+      "title": "Serie A",
       "web_url": "17938",
       "cover_url": "https://thumbor.prod.vidiocdn.com/tJoOEHTHed9-fRQvnXoew2nr8hY=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17938/serie-a-973769.jpg",
       "start_time": "2024-10-20T10:00:00.000Z"
