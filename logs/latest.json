@@ -1,9 +1,9 @@
 {
-  "time": "2025-06-28T07:47:46.030Z",
+  "time": "2025-06-28T08:02:48.923Z",
   "headers": {
     "luws": "34401390-43A2-8062-5DE3-D9C3992929CE_22522467",
-    "x-signature": "f03b71835603b9aeea7f488ded27acd64cfed2eb03652c69fa7a2b67366a1a87",
-    "x-client": 1751096863.718,
+    "x-signature": "8d3f22f57f15d93bd474c547c124769c5bc52d11fc6a1d7b1589898c24b03e00",
+    "x-client": 1751097765.666,
     "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/tlQZPLoi996gTdFYWEDR3x6uz+H1EPfjDzRvZ2T3HMNx2FaC51zYziJiOjogp+YLidXLrfaxgpb6Stw80eMK6Q=",
     "x-secure-level": "2",
     "x-api-platform": "web-desktop",
@@ -13,13 +13,13 @@
     "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
     "x-user-email": "jeffrybp1991@gmail.com",
     "204-dash": null,
-    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751111263~acl=/stream/204/file/*~id=allUsers~hmac=ba1629588cbe3c05000edc6ab49a06b5086dd0831b827993cef98eb0d2f7e0ce",
+    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751112166~acl=/stream/204/file/*~id=allUsers~hmac=d27317abbeef6d638debe5778a1fd3b62a2359f778b1454e6dab1f31629cd493",
     "205-dash": null,
-    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751111264~acl=/stream/205/file/*~id=allUsers~hmac=161af0a37cb36cc9789cebf65b7f94e0408c5ef023a1e15cc12b80afeb884b71",
-    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751111264~acl=/stream/206/file/*~id=allUsers~hmac=58e2e67d9cb1c9f6b7815883b9e638c40e8bc7b8e5a0d3a54e57e35c8c14b22e",
-    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751111264~acl=/stream/206/file/*~id=allUsers~hmac=58e2e67d9cb1c9f6b7815883b9e638c40e8bc7b8e5a0d3a54e57e35c8c14b22e",
+    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751112167~acl=/stream/205/file/*~id=allUsers~hmac=85a26fec5b66772a533f9279bdb36cb69737ab67f9fc29b02f01499b4a3515ed",
+    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751112167~acl=/stream/206/file/*~id=allUsers~hmac=4ea5add5207c6c026232bef63d11811a9418f8d9a0ae3f931266987f1ca07599",
+    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751112167~acl=/stream/206/file/*~id=allUsers~hmac=4ea5add5207c6c026232bef63d11811a9418f8d9a0ae3f931266987f1ca07599",
     "18105-dash": null,
-    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751111264~acl=/stream/18105/file/*~id=allUsers~hmac=631c12611523875a8a5b40d201ca352e60cfdcc0aa5314814c55222a71bce9db",
+    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751112167~acl=/stream/18105/file/*~id=allUsers~hmac=815237684ef992f64cd77a26340a8af007a064ec4816bbea0cbf8b6a32edaa2d",
     "all-sections": "17140-17875-17884-18189-18190-18249-18250-18762-18833-18851-18954-18985-18994-206-6299-6317-6685-6786",
     "all-vidiolivetv": [
       {
@@ -514,12 +514,6 @@
       "cover_url": "https://thumbor.prod.vidiocdn.com/jXltzZHzi3E8tlDglFjbs5bC5iw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4380439/0c9abe.jpg",
       "start_time": "2025-06-29T13:00:00.000Z"
     },
-    "4382748": {
-      "title": "Moto2 Free Practice 2: MotoGP 2025 Round 10 - Motul Grand Prix of the Netherlands",
-      "web_url": "17140",
-      "cover_url": "https://thumbor.prod.vidiocdn.com/Gye8SQd4eCTH-I_64AYCiDNJNlA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4382748/b8ebba.jpg",
-      "start_time": "2025-06-28T07:20:00.000Z"
-    },
     "4382749": {
       "title": "MotoGP Free Practice 2: MotoGP 2025 Round 10 - Motul Grand Prix of the Netherlands",
       "web_url": "17140",
@@ -763,13 +757,13 @@
   },
   "vidioliveothers": {
     "17884": {
-      "title": "Formula 1",
+      "title": "FIA Formula 3 Championship Austria Grand Prix 2025 - Sprint Race",
       "web_url": "17884",
-      "cover_url": "https://thumbor.prod.vidiocdn.com/Rc1pHYZnd8l_siMi118TkKusbPM=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17884/formula-1-5ee872.jpg",
+      "cover_url": "https://thumbor.prod.vidiocdn.com/01LwDoo27TNOTfrv86KH4ud6L8M=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4382756/26d8bb.jpg",
       "start_time": "2025-04-02T13:25:00.000Z"
     },
     "17938": {
-      "title": "Fiorentina vs Bologna - Serie A",
+      "title": "Inter vs Lazio - Serie A",
       "web_url": "17938",
       "cover_url": "https://thumbor.prod.vidiocdn.com/tJoOEHTHed9-fRQvnXoew2nr8hY=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17938/serie-a-973769.jpg",
       "start_time": "2024-10-20T10:00:00.000Z"
