@@ -1,9 +1,9 @@
 {
-  "time": "2025-06-28T20:12:52.014Z",
+  "time": "2025-06-28T20:27:54.824Z",
   "headers": {
     "luws": "34401390-43A2-8062-5DE3-D9C3992929CE_22522467",
-    "x-signature": "247492e2db19d6efdd4cdefc4ab50cac94e628133329b78838684fb6194bd692",
-    "x-client": 1751141568.502,
+    "x-signature": "bdb59a58ede3f7a916150c6f15c6454eedac0fa73792ea4316f13e9a11d1e949",
+    "x-client": 1751142471.484,
     "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/tlQZPLoi996gTdFYWEDR3x6uz+H1EPfjDzRvZ2T3HMNx2FaC51zYziJiOjogp+YLidXLrfaxgpb6Stw80eMK6Q=",
     "x-secure-level": "2",
     "x-api-platform": "web-desktop",
@@ -13,13 +13,13 @@
     "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
     "x-user-email": "jeffrybp1991@gmail.com",
     "204-dash": null,
-    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751155969~acl=/stream/204/file/*~id=allUsers~hmac=b80be901836824f6c5ef93b8fe6896aece0a1c84e17d440ba6ee36109b7626b9",
+    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751156872~acl=/stream/204/file/*~id=allUsers~hmac=31130f011350e2718442d6f4a35899cdf924047f4aac311a927059404cd7f207",
     "205-dash": null,
-    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751155969~acl=/stream/205/file/*~id=allUsers~hmac=34705cb8c1ba22ad13e03c812a44aa47f85d0f39394e53a15e7625b0c018e0dc",
-    "206-dash": "https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751155970~acl=/stream/206/file/*~id=allUsers~hmac=5efffd102914f04c6e2b29b34946172f5b537abfb81c16303584b8c89d458594",
-    "206-hls": "https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751155970~acl=/stream/206/file/*~id=allUsers~hmac=5efffd102914f04c6e2b29b34946172f5b537abfb81c16303584b8c89d458594",
+    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751156872~acl=/stream/205/file/*~id=allUsers~hmac=df48bbcd23e6f2eee6a7157809bb9ed77c3c288013ef52fa8b339b1e2d23a3d4",
+    "206-dash": "https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751156873~acl=/stream/206/file/*~id=allUsers~hmac=3ef01266d105a8b2d98955d4933bd6333c1a9a63df509b565a1f94167fbd0f2f",
+    "206-hls": "https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751156873~acl=/stream/206/file/*~id=allUsers~hmac=3ef01266d105a8b2d98955d4933bd6333c1a9a63df509b565a1f94167fbd0f2f",
     "18105-dash": null,
-    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751155970~acl=/stream/18105/file/*~id=allUsers~hmac=f221dabb0f75b4a8dbb846c9c34ba087aedd9aa856fea44c9fa4d242e7a20716",
+    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751156873~acl=/stream/18105/file/*~id=allUsers~hmac=e7d7ce63797a3b4e8b3ff9c70b03b213771c93cde38aa7ab42c51b2f3a628af8",
     "all-sections": "17139-17140-17884-18189-18190-18249-18250-18762-18851-18954-18985-18994-206-6317",
     "all-vidiolivetv": [
       {
@@ -491,7 +491,7 @@
   },
   "sections": {
     "18249": {
-      "title": "Beiwen Zhang (USA) vs Line Christophersen (DEN) - Women's Singles Semifinals | Yonex US Open 2025",
+      "title": "Chou Tien Chen (TPE) vs Ayush Shetty (IND) - Men's Singles Semifinals | Yonex US Open 2025",
       "web_url": "18249",
       "cover_url": "https://thumbor.prod.vidiocdn.com/SfbehxJ4KftNwOPk3aJPj6CvZ1o=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18249/yonex-us-open-2025-semifinals-court-1-a720d0.jpg",
       "start_time": "2025-06-28T16:45:00.000Z"
@@ -685,7 +685,7 @@
       "start_time": "2024-10-20T12:45:00.000Z"
     },
     "18249": {
-      "title": "Beiwen Zhang (USA) vs Line Christophersen (DEN) - Women's Singles Semifinals | Yonex US Open 2025",
+      "title": "Chou Tien Chen (TPE) vs Ayush Shetty (IND) - Men's Singles Semifinals | Yonex US Open 2025",
       "web_url": "18249",
       "cover_url": "https://thumbor.prod.vidiocdn.com/SfbehxJ4KftNwOPk3aJPj6CvZ1o=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18249/yonex-us-open-2025-semifinals-court-1-a720d0.jpg",
       "start_time": "2025-06-28T16:45:00.000Z"
