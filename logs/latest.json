@@ -1,9 +1,9 @@
 {
-  "time": "2025-06-28T03:01:52.818Z",
+  "time": "2025-06-28T03:16:53.677Z",
   "headers": {
     "luws": "34401390-43A2-8062-5DE3-D9C3992929CE_22522467",
-    "x-signature": "19a3ffb386eb196f79535f9936ff898dacce08f1e03da7c456cc5d3d75146563",
-    "x-client": 1751079706.79,
+    "x-signature": "20cead115fcef18de398b09d2abf32b2945d16e48b2a0bc3579aeaf17ddb3823",
+    "x-client": 1751080609.797,
     "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/tlQZPLoi996gTdFYWEDR3x6uz+H1EPfjDzRvZ2T3HMNx2FaC51zYziJiOjogp+YLidXLrfaxgpb6Stw80eMK6Q=",
     "x-secure-level": "2",
     "x-api-platform": "web-desktop",
@@ -13,14 +13,14 @@
     "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
     "x-user-email": "jeffrybp1991@gmail.com",
     "204-dash": null,
-    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751094108~acl=/stream/204/file/*~id=allUsers~hmac=9aac45a542f382ea0b6e840effa8d75e2c0afdbe69774b82051f63277fa57e6b",
+    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751095011~acl=/stream/204/file/*~id=allUsers~hmac=842f29ceb35566d06a077470e1316516cb06660fe4d9cf9be5fe01f272dad1a2",
     "205-dash": null,
-    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751094108~acl=/stream/205/file/*~id=allUsers~hmac=4c62acbaf9c6ba91c1187e47af59c59116f944b224e10dc6ddabf498e01906ad",
-    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751094108~acl=/stream/206/file/*~id=allUsers~hmac=951e939ced3abf94eb17b26d75a5d1b68404c24305f04385fe59c46ef974552d",
-    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751094108~acl=/stream/206/file/*~id=allUsers~hmac=951e939ced3abf94eb17b26d75a5d1b68404c24305f04385fe59c46ef974552d",
+    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751095011~acl=/stream/205/file/*~id=allUsers~hmac=b3634d13e0b35d8280eff0b610095173707007e214c54f34c264ebbe0e6ea6d2",
+    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751095011~acl=/stream/206/file/*~id=allUsers~hmac=297299fb68852cd738dfeeea46d3ded2cbf7e1a6f6d30ca7d5b3ccf71f7934bf",
+    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751095011~acl=/stream/206/file/*~id=allUsers~hmac=297299fb68852cd738dfeeea46d3ded2cbf7e1a6f6d30ca7d5b3ccf71f7934bf",
     "18105-dash": null,
-    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751094109~acl=/stream/18105/file/*~id=allUsers~hmac=edfcbb4b8ae1d91a7fa87fed471b277732d15e00f40c28f5f9a019f83dc93127",
-    "all-sections": "17140-17875-17884-18189-18190-18250-18833-18834-18851-18853-18954-18985-18994-206-6299-6317-6685-6786",
+    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751095011~acl=/stream/18105/file/*~id=allUsers~hmac=e2f9698d042e05af219de5cc6d8f3139ca318989e2aab27df2d593d4824db8ee",
+    "all-sections": "17140-17875-17884-18189-18190-18250-18762-18833-18834-18851-18954-18985-18994-206-6299-6317-6685-6786",
     "all-vidiolivetv": [
       {
         "content_id": "204",
@@ -598,12 +598,6 @@
       "cover_url": "https://thumbor.prod.vidiocdn.com/uSC3S-Jk4Lzx0PcxXuFZIcyJCe8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4382783/735c64.jpg",
       "start_time": "2025-06-28T15:00:00.000Z"
     },
-    "4384277": {
-      "title": "Men: Canada vs Poland - Volleyball Nations League",
-      "web_url": "18853",
-      "cover_url": "https://thumbor.prod.vidiocdn.com/dHgG1LhzLXZRqumXX8AhNnF8LNs=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4384277/d78d6b.jpg",
-      "start_time": "2025-06-28T00:05:00.000Z"
-    },
     "4384278": {
       "title": "WTA 500: Bad Homburg Open 2025 - Final",
       "web_url": "6786",
@@ -759,6 +753,24 @@
       "web_url": "18954",
       "cover_url": "https://thumbor.prod.vidiocdn.com/bHDO0ITDQ8dCJ8RDY9I7hgzMb4I=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4386980/3b3b78.jpg",
       "start_time": "2025-06-29T11:00:00.000Z"
+    },
+    "4386981": {
+      "title": "Men: Turkey vs France - Volleyball Nations League",
+      "web_url": "18851",
+      "cover_url": "https://thumbor.prod.vidiocdn.com/Q7Of1wenCGUdEOm_FnlStTP6Qqc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4386981/a785f7.jpg",
+      "start_time": "2025-06-29T12:00:00.000Z"
+    },
+    "4386982": {
+      "title": "Men: Bulgaria vs Ukraine - Volleyball Nations League",
+      "web_url": "18851",
+      "cover_url": "https://thumbor.prod.vidiocdn.com/bqev8rxMw4Ieroe8fYGu-rONNoU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4386982/e1f484.jpg",
+      "start_time": "2025-06-29T16:00:00.000Z"
+    },
+    "4386984": {
+      "title": "F1 Kids Austria - Race",
+      "web_url": "18762",
+      "cover_url": "https://thumbor.prod.vidiocdn.com/sJjNGUfcGDLANMXFkhTIWPxdfwo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4386984/d46b00.jpg",
+      "start_time": "2025-06-29T12:55:00.000Z"
     }
   },
   "vidioliveothers": {
@@ -779,12 +791,6 @@
       "web_url": "17939",
       "cover_url": "https://thumbor.prod.vidiocdn.com/X-RqLAcQNAoAqhhYdA6L240KI50=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17939/serie-a-4cc90b.jpg",
       "start_time": "2024-10-20T12:45:00.000Z"
-    },
-    "18853": {
-      "title": "Men: Canada vs Poland - Volleyball Nations League",
-      "web_url": "18853",
-      "cover_url": "https://thumbor.prod.vidiocdn.com/dHgG1LhzLXZRqumXX8AhNnF8LNs=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4384277/d78d6b.jpg",
-      "start_time": "2025-06-28T00:05:00.000Z"
     },
     "19007": {
       "title": "Cedera Saat Ikut Tren Olahraga? Ini Risiko Dibalik Popularitasnya",
