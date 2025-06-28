@@ -1,9 +1,9 @@
 {
-  "time": "2025-06-28T12:48:43.627Z",
+  "time": "2025-06-28T13:03:48.112Z",
   "headers": {
     "luws": "34401390-43A2-8062-5DE3-D9C3992929CE_22522467",
-    "x-signature": "b426b6b92224b92da2466b2dec2dac7757e39e02dcaea29321355599758e3dc2",
-    "x-client": 1751114919.378,
+    "x-signature": "a56a8dc7968b543a5c07d37abe719ef9a318d72eae23ea10cdcd97a6bba86ae2",
+    "x-client": 1751115822.368,
     "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/tlQZPLoi996gTdFYWEDR3x6uz+H1EPfjDzRvZ2T3HMNx2FaC51zYziJiOjogp+YLidXLrfaxgpb6Stw80eMK6Q=",
     "x-secure-level": "2",
     "x-api-platform": "web-desktop",
@@ -13,13 +13,13 @@
     "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
     "x-user-email": "jeffrybp1991@gmail.com",
     "204-dash": null,
-    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751129320~acl=/stream/204/file/*~id=allUsers~hmac=436d3d2b308deca7cdf0045d6454ec2167d41465c688de0ceb25fddb12ecd0c7",
+    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751130224~acl=/stream/204/file/*~id=allUsers~hmac=5c7710c98fc68345c30f6da07455c76e3ed97cc959e33e11d4070b3e08e7bff0",
     "205-dash": null,
-    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751129321~acl=/stream/205/file/*~id=allUsers~hmac=001918358e509d98e7d078563f96146ec66a23356b8ae6e7c4312673f649b1ed",
-    "206-dash": "https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751129321~acl=/stream/206/file/*~id=allUsers~hmac=1c185ab20b842d490756ac233c9539427a9bf8fd709bc58d384e9938c42a4a86",
-    "206-hls": "https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751129321~acl=/stream/206/file/*~id=allUsers~hmac=1c185ab20b842d490756ac233c9539427a9bf8fd709bc58d384e9938c42a4a86",
+    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751130224~acl=/stream/205/file/*~id=allUsers~hmac=f9140412d32322117053071822b87af7ee0c5ed417ee5fbd36815ce52049b483",
+    "206-dash": "https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751130224~acl=/stream/206/file/*~id=allUsers~hmac=38638adb09b807b7b15d1780c4f32fa3b62ec5af74f8bbe553a596fba71b2c1c",
+    "206-hls": "https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751130224~acl=/stream/206/file/*~id=allUsers~hmac=38638adb09b807b7b15d1780c4f32fa3b62ec5af74f8bbe553a596fba71b2c1c",
     "18105-dash": null,
-    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751129321~acl=/stream/18105/file/*~id=allUsers~hmac=b1f3da098b9916c8be8db74260383b82c73dcb7c769928c696bc0e19c844684d",
+    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751130225~acl=/stream/18105/file/*~id=allUsers~hmac=e7546330607e388e547b9a6d0f16eb8040f6182d618b72ebd368ac68237ca403",
     "all-sections": "17140-17875-17884-18189-18190-18249-18250-18762-18833-18834-18851-18954-18985-18994-206-6299-6317-6685-6786",
     "all-vidiolivetv": [
       {
@@ -532,12 +532,6 @@
       "cover_url": "https://thumbor.prod.vidiocdn.com/vCoBYw5gRG4WwhoXw-3FfXzcj_o=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4382755/1d37e4.jpg",
       "start_time": "2025-06-28T16:30:00.000Z"
     },
-    "4382758": {
-      "title": "FIA Formula 2 Championship Austria Grand Prix 2025 - Sprint Race",
-      "web_url": "17884",
-      "cover_url": "https://thumbor.prod.vidiocdn.com/Pdknm5tS17ruYan1VB9bZ3q355w=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4382758/09d061.jpg",
-      "start_time": "2025-06-28T12:10:00.000Z"
-    },
     "4382759": {
       "title": "Formula 1 MSC Cruises Austrian Grand Prix 2025 - Qualifying",
       "web_url": "17884",
@@ -715,9 +709,9 @@
       "start_time": "2025-06-29T01:30:00.000Z"
     },
     "17884": {
-      "title": "FIA Formula 2 Championship Austria Grand Prix 2025 - Sprint Race",
+      "title": "Formula 1",
       "web_url": "17884",
-      "cover_url": "https://thumbor.prod.vidiocdn.com/Pdknm5tS17ruYan1VB9bZ3q355w=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4382758/09d061.jpg",
+      "cover_url": "https://thumbor.prod.vidiocdn.com/Rc1pHYZnd8l_siMi118TkKusbPM=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17884/formula-1-5ee872.jpg",
       "start_time": "2025-04-02T13:25:00.000Z"
     },
     "17938": {
