@@ -1,9 +1,9 @@
 {
-  "time": "2025-06-28T09:33:06.962Z",
+  "time": "2025-06-28T09:48:10.002Z",
   "headers": {
     "luws": "34401390-43A2-8062-5DE3-D9C3992929CE_22522467",
-    "x-signature": "82f5436f55df5ef99f0aacd36902d5b45970ede31f84927bdf71ebb7b32ab816",
-    "x-client": 1751103183.577,
+    "x-signature": "65a045874827b6f3b11bac10b2c87c64aae660891f88a8cd33e0527c15214166",
+    "x-client": 1751104086.568,
     "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/tlQZPLoi996gTdFYWEDR3x6uz+H1EPfjDzRvZ2T3HMNx2FaC51zYziJiOjogp+YLidXLrfaxgpb6Stw80eMK6Q=",
     "x-secure-level": "2",
     "x-api-platform": "web-desktop",
@@ -13,13 +13,13 @@
     "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
     "x-user-email": "jeffrybp1991@gmail.com",
     "204-dash": null,
-    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751117585~acl=/stream/204/file/*~id=allUsers~hmac=f07b26eb62c6b0fad141918f1373797feae02790abbc143c32a3823a8ed671cd",
+    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751118487~acl=/stream/204/file/*~id=allUsers~hmac=fd97339433715acb278ecc8c89d5dc35c171c1b1c59b38310bef9b6a0e059f72",
     "205-dash": null,
-    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751117585~acl=/stream/205/file/*~id=allUsers~hmac=5828940af47f83c6c6c74a22214e3bec265e8480c11d9153b5b29041748c2d43",
-    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751117585~acl=/stream/206/file/*~id=allUsers~hmac=e11b20cd316785180625e2ddd587b1c4cb38d53d8a43111a1e8014d914f3c789",
-    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751117585~acl=/stream/206/file/*~id=allUsers~hmac=e11b20cd316785180625e2ddd587b1c4cb38d53d8a43111a1e8014d914f3c789",
+    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751118488~acl=/stream/205/file/*~id=allUsers~hmac=b986f4dc64fd1e6e2255dc37d1e1e6844a82b84f99ae6ac379f1fd7e6f11cb86",
+    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751118488~acl=/stream/206/file/*~id=allUsers~hmac=099a8dd3782bcea5060d721e0ef8917c06f856b0c980b15f2580c2dad03a0679",
+    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751118488~acl=/stream/206/file/*~id=allUsers~hmac=099a8dd3782bcea5060d721e0ef8917c06f856b0c980b15f2580c2dad03a0679",
     "18105-dash": null,
-    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751117585~acl=/stream/18105/file/*~id=allUsers~hmac=4b8ac47307f52681923e59ee76d2b170f15d280a373c0e17a481141ac704b9bb",
+    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751118488~acl=/stream/18105/file/*~id=allUsers~hmac=88b53fecaeaaa1394c93b22c29a42778b6c6511832df83d2531b05e127fa465a",
     "all-sections": "17140-17875-17884-18189-18190-18249-18250-18762-18833-18851-18954-18985-18994-206-6299-6317-6685-6786",
     "all-vidiolivetv": [
       {
@@ -779,6 +779,12 @@
       "web_url": "19008",
       "cover_url": "https://thumbor.prod.vidiocdn.com/8EOjcdNpJW2ek1k2ql_p2NEyW14=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/19008/btn-jakarta-international-marathon-2025-running-jakarta-with-4s-spirit-6eaa50.jpg",
       "start_time": "2025-06-28T20:00:00.000Z"
+    },
+    "19009": {
+      "title": "Konpers KPK Soal OTT di Sumatra Utara | LIVE",
+      "web_url": "19009",
+      "cover_url": "https://thumbor.prod.vidiocdn.com/yWYBRa9e7pzRJTEyMhTqUDAJqRk=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/19009/konpers-kpk-soal-ott-di-sumatra-utara-live-b55299.jpg",
+      "start_time": "2025-06-28T09:42:00.000Z"
     }
   }
 }
