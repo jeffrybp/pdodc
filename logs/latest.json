@@ -1,9 +1,9 @@
 {
-  "time": "2025-06-28T12:18:37.482Z",
+  "time": "2025-06-28T12:33:40.326Z",
   "headers": {
     "luws": "34401390-43A2-8062-5DE3-D9C3992929CE_22522467",
-    "x-signature": "6316c460c07b73da89d0c4754c7bf2d5487d15761d1b289f87671c4b3c49f1ba",
-    "x-client": 1751113113.412,
+    "x-signature": "24b32ccfd2a4795fdc96e0174640308dbcf78b04b65f33de128865af24e5ee17",
+    "x-client": 1751114016.396,
     "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/tlQZPLoi996gTdFYWEDR3x6uz+H1EPfjDzRvZ2T3HMNx2FaC51zYziJiOjogp+YLidXLrfaxgpb6Stw80eMK6Q=",
     "x-secure-level": "2",
     "x-api-platform": "web-desktop",
@@ -13,13 +13,13 @@
     "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
     "x-user-email": "jeffrybp1991@gmail.com",
     "204-dash": null,
-    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751127515~acl=/stream/204/file/*~id=allUsers~hmac=7fcffc23e5cf02d7346e004106f55710b776060b7b28bd764263394599719adc",
+    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751128417~acl=/stream/204/file/*~id=allUsers~hmac=429373d5d5c4124ae12a2fb8ee8c4e313272c68904e17bccab7ba0080f2b42f3",
     "205-dash": null,
-    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751127515~acl=/stream/205/file/*~id=allUsers~hmac=f6f017a1d792f886e281139a424c58d33a88dd7cba1619858326cb97def0b4b3",
-    "206-dash": "https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751127515~acl=/stream/206/file/*~id=allUsers~hmac=8d96b4f4f9fbb87ffbb7e6c150a5315f47a9b0d27a4c0a9ef592086695c275a9",
-    "206-hls": "https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751127515~acl=/stream/206/file/*~id=allUsers~hmac=8d96b4f4f9fbb87ffbb7e6c150a5315f47a9b0d27a4c0a9ef592086695c275a9",
+    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751128418~acl=/stream/205/file/*~id=allUsers~hmac=48ef7374e37262d74341830559e522d97f7f75d5cd91dd1e80ffb5cf0cbea56c",
+    "206-dash": "https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751128418~acl=/stream/206/file/*~id=allUsers~hmac=d1659d1dc4d31a77951aac559df938b0ba357dc79fcc5cecd5f3d3cb2e71d9de",
+    "206-hls": "https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751128418~acl=/stream/206/file/*~id=allUsers~hmac=d1659d1dc4d31a77951aac559df938b0ba357dc79fcc5cecd5f3d3cb2e71d9de",
     "18105-dash": null,
-    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751127515~acl=/stream/18105/file/*~id=allUsers~hmac=05c100a3173aa5d0b47a62ab7fdabc5de2cbba4754ff558cfed951db5337e2c3",
+    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751128418~acl=/stream/18105/file/*~id=allUsers~hmac=3c26cc7bcb52c4e4368a162f690f52fe4c69e569dae1527ae120383707e6d64f",
     "all-sections": "17140-17875-17884-18189-18190-18249-18250-18762-18833-18851-18954-18985-18994-206-6299-6317-6685-6786",
     "all-vidiolivetv": [
       {
@@ -754,7 +754,7 @@
       "title": "BTN Jakarta International Marathon 2025: Merayakan HUT DKI Jakarta dengan Semangat 4S",
       "web_url": "19008",
       "cover_url": "https://thumbor.prod.vidiocdn.com/8EOjcdNpJW2ek1k2ql_p2NEyW14=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/19008/btn-jakarta-international-marathon-2025-running-jakarta-with-4s-spirit-6eaa50.jpg",
-      "start_time": "2025-06-28T20:00:00.000Z"
+      "start_time": "2025-06-28T20:30:00.000Z"
     }
   }
 }
