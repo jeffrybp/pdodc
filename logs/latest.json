@@ -1,9 +1,9 @@
 {
-  "time": "2025-06-28T23:58:34.644Z",
+  "time": "2025-06-29T00:13:37.521Z",
   "headers": {
     "luws": "34401390-43A2-8062-5DE3-D9C3992929CE_22522467",
-    "x-signature": "ac5761556849289969484d1c04c3fe9635db60571ddfc5e7ea93c1ca4b5d14fb",
-    "x-client": 1751155111.429,
+    "x-signature": "fe749f68c079f9f7bdf764b656f0a22d22df5dcd824d20b13743bdb38a125580",
+    "x-client": 1751156014.422,
     "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/tlQZPLoi996gTdFYWEDR3x6uz+H1EPfjDzRvZ2T3HMNx2FaC51zYziJiOjogp+YLidXLrfaxgpb6Stw80eMK6Q=",
     "x-secure-level": "2",
     "x-api-platform": "web-desktop",
@@ -13,13 +13,13 @@
     "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
     "x-user-email": "jeffrybp1991@gmail.com",
     "204-dash": null,
-    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751169512~acl=/stream/204/file/*~id=allUsers~hmac=f7bc6603e8fec5dc931a69fc4ee9ff4ec5b4891e510fb33608b1f0541d20e0e8",
+    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751170415~acl=/stream/204/file/*~id=allUsers~hmac=adf130abaac95d62059a05f2b28f8a13a4f38094c4006f2e47b185cf314019ae",
     "205-dash": null,
-    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751169512~acl=/stream/205/file/*~id=allUsers~hmac=d93a93217a1b2a22967f3208a6a53b1e308f2de0205cc4bcf355c209a849d25d",
-    "206-dash": "https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751169512~acl=/stream/206/file/*~id=allUsers~hmac=4ea189e60c8cc8febe901671f6352226d4ef4a76697d0e5da2c1a74b97e1f621",
-    "206-hls": "https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751169512~acl=/stream/206/file/*~id=allUsers~hmac=4ea189e60c8cc8febe901671f6352226d4ef4a76697d0e5da2c1a74b97e1f621",
+    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751170415~acl=/stream/205/file/*~id=allUsers~hmac=e629462851820a27db706d62d1898af798126021fe3c80c0f7e9277be789b81e",
+    "206-dash": "https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751170415~acl=/stream/206/file/*~id=allUsers~hmac=2675b2de8cb4196a4cab0a54fe7c0631f06de6fe28ed41347a7cfcc88f5b73cf",
+    "206-hls": "https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751170415~acl=/stream/206/file/*~id=allUsers~hmac=2675b2de8cb4196a4cab0a54fe7c0631f06de6fe28ed41347a7cfcc88f5b73cf",
     "18105-dash": null,
-    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751169513~acl=/stream/18105/file/*~id=allUsers~hmac=e54003f68d225986d77c1ba30752b27ec6f9807574dc56d684c5dd72a5aa1eb6",
+    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751170416~acl=/stream/18105/file/*~id=allUsers~hmac=27a530fafcefe138d645279a2063e17db46e278ff0499eb6699a280087099aff",
     "all-sections": "17139-17140-17884-18189-18190-18249-18762-18851-18954-18985-18994-206-6317",
     "all-vidiolivetv": [
       {
@@ -643,13 +643,13 @@
       "start_time": "2025-06-29T01:30:00.000Z"
     },
     "17884": {
-      "title": "Formula 1 Qualifying 2025",
+      "title": "Formula 1",
       "web_url": "17884",
       "cover_url": "https://thumbor.prod.vidiocdn.com/Rc1pHYZnd8l_siMi118TkKusbPM=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17884/formula-1-5ee872.jpg",
       "start_time": "2025-04-02T13:25:00.000Z"
     },
     "17938": {
-      "title": "Roma vs Milan - Serie A",
+      "title": "Serie A",
       "web_url": "17938",
       "cover_url": "https://thumbor.prod.vidiocdn.com/tJoOEHTHed9-fRQvnXoew2nr8hY=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17938/serie-a-973769.jpg",
       "start_time": "2024-10-20T10:00:00.000Z"
