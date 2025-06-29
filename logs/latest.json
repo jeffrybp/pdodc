@@ -1,9 +1,9 @@
 {
-  "time": "2025-06-29T15:54:22.207Z",
+  "time": "2025-06-29T16:09:24.877Z",
   "headers": {
     "luws": "34401390-43A2-8062-5DE3-D9C3992929CE_22522467",
-    "x-signature": "1d0786b50f59c49855744986e955b347b48af54d44647662035046bf4e87103a",
-    "x-client": 1751212458.643,
+    "x-signature": "ac35df0530ba37019e98429a558a6666d174ce278b38f0db4c446f39e4b923c5",
+    "x-client": 1751213361.987,
     "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/tsxDQaX3H5HERlacZi3M6xfbZixTeZgN4HDMFeT2uHSUOkUUuPO/vPxu/SLyEqHVIBM+hTom49ad8R2gj+gx+0=",
     "x-secure-level": "2",
     "x-api-platform": "web-desktop",
@@ -13,13 +13,13 @@
     "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
     "x-user-email": "jeffrybp1991@gmail.com",
     "204-dash": null,
-    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751226859~acl=/stream/204/file/*~id=allUsers~hmac=29510f3dc13cd0794a8623d5341c0d42376cb1d7913ba164331eea942b703c2c",
+    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751227762~acl=/stream/204/file/*~id=allUsers~hmac=2257faec38ce5213d038e4638f14f374676ca4f9cb71faae67470c78b624bbc7",
     "205-dash": null,
-    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751226859~acl=/stream/205/file/*~id=allUsers~hmac=62dfc28bad90c8e400923a6f47db21d9300a24330dd6b9fd8d2ef656b4121307",
-    "206-dash": "https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751226860~acl=/stream/206/file/*~id=allUsers~hmac=cfc00237b9e5ff043ad1c9ca2ecea6d9d8422e3f20f9ca3c5b5777fc0bea5d9a",
-    "206-hls": "https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751226860~acl=/stream/206/file/*~id=allUsers~hmac=cfc00237b9e5ff043ad1c9ca2ecea6d9d8422e3f20f9ca3c5b5777fc0bea5d9a",
+    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751227762~acl=/stream/205/file/*~id=allUsers~hmac=e6dfdf6db758209a3a3e5d99213710a41020d53a126da6e04cc196b0364290e2",
+    "206-dash": "https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751227762~acl=/stream/206/file/*~id=allUsers~hmac=dd85c2b4dbe4887a3ed1003fd0c2d94d6d8c210b4694fdcda9883a8f756ee935",
+    "206-hls": "https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751227762~acl=/stream/206/file/*~id=allUsers~hmac=dd85c2b4dbe4887a3ed1003fd0c2d94d6d8c210b4694fdcda9883a8f756ee935",
     "18105-dash": null,
-    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751226860~acl=/stream/18105/file/*~id=allUsers~hmac=9b44320056f9ffc9d08b0766ff8076d8b3f8277c9892b945f04794480b583be7",
+    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751227762~acl=/stream/18105/file/*~id=allUsers~hmac=edb19baead864118eba94c4a00263368c6eb1b171cbf933ea665569830f79234",
     "all-sections": "17139-17140-18189-18190-18249-18851-18853-18994-206-6317",
     "all-vidiolivetv": [
       {
@@ -591,7 +591,7 @@
   },
   "vidioliveothers": {
     "17884": {
-      "title": "Chequered Flag 2025 - LIVE",
+      "title": "Ted's Notebook 2025 - LIVE",
       "web_url": "17884",
       "cover_url": "https://thumbor.prod.vidiocdn.com/Rc1pHYZnd8l_siMi118TkKusbPM=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17884/formula-1-5ee872.jpg",
       "start_time": "2025-04-02T13:25:00.000Z"
@@ -607,12 +607,6 @@
       "web_url": "17939",
       "cover_url": "https://thumbor.prod.vidiocdn.com/X-RqLAcQNAoAqhhYdA6L240KI50=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17939/serie-a-4cc90b.jpg",
       "start_time": "2024-10-20T12:45:00.000Z"
-    },
-    "18762": {
-      "title": "Formula 1 Kids",
-      "web_url": "18762",
-      "cover_url": "https://thumbor.prod.vidiocdn.com/PnElKFs7vV7NhwCuqd0pgD2mq70=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18762/formula-1-kids-7b7ae8.jpg",
-      "start_time": "2025-06-29T12:55:00.000Z"
     },
     "18851": {
       "title": "Men: Bulgaria vs Ukraine - Volleyball Nations League",
