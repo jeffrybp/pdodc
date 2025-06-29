@@ -1,9 +1,9 @@
 {
-  "time": "2025-06-29T07:30:05.287Z",
+  "time": "2025-06-29T07:45:08.202Z",
   "headers": {
     "luws": "34401390-43A2-8062-5DE3-D9C3992929CE_22522467",
-    "x-signature": "6de52c20cfd8256fb4d3723b6a157c431f25708c56aa7305ac90bba43b9cfcd7",
-    "x-client": 1751182201.457,
+    "x-signature": "bb5f7f091a1090fa88015ff4e70976b0f4c3ac0f618b4fc139adb6d2e87cefb8",
+    "x-client": 1751183104.464,
     "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/tsxDQaX3H5HERlacZi3M6xfbZixTeZgN4HDMFeT2uHSUOkUUuPO/vPxu/SLyEqHVIBM+hTom49ad8R2gj+gx+0=",
     "x-secure-level": "2",
     "x-api-platform": "web-desktop",
@@ -13,13 +13,13 @@
     "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
     "x-user-email": "jeffrybp1991@gmail.com",
     "204-dash": null,
-    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751196602~acl=/stream/204/file/*~id=allUsers~hmac=d9d9fffbbe91288a188b674dfac1eb0e64c8b43540c5e915d033e8da0985fd91",
+    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751197505~acl=/stream/204/file/*~id=allUsers~hmac=8dfe78f5f8d78e801aabd61aac4f77896459d9ad45478ae760d561acdd79af6e",
     "205-dash": null,
-    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751196602~acl=/stream/205/file/*~id=allUsers~hmac=4820ab1fbdebd3c2fc489c8b46a0626f23486d46450fdf0a2741a2ab4ac9a8ca",
-    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751196602~acl=/stream/206/file/*~id=allUsers~hmac=6aadd57b8283b9bb28114fc11d4e946cbe0813332fd5bc8de12d2894e1d2d70a",
-    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751196602~acl=/stream/206/file/*~id=allUsers~hmac=6aadd57b8283b9bb28114fc11d4e946cbe0813332fd5bc8de12d2894e1d2d70a",
+    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751197505~acl=/stream/205/file/*~id=allUsers~hmac=3c8b6b908a32add34644b13720087131a4bb05c90c098ba1d8c7812f6cd6ec4e",
+    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751197505~acl=/stream/206/file/*~id=allUsers~hmac=55a2f96663dd0b6a14ce14d2a991a24e784f82722cb14430505be3893cb58f82",
+    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751197505~acl=/stream/206/file/*~id=allUsers~hmac=55a2f96663dd0b6a14ce14d2a991a24e784f82722cb14430505be3893cb58f82",
     "18105-dash": null,
-    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751196603~acl=/stream/18105/file/*~id=allUsers~hmac=e86fa1c286cc60c90102d65220f7da31c569bc66db7d807f94e7a2f3e7f23546",
+    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751197506~acl=/stream/18105/file/*~id=allUsers~hmac=c1964edfb8e4db0d011fe32807c9d5a8ad9d5a46dd2832d8dc2fd9ca6e8d9acf",
     "all-sections": "17139-17140-17884-18189-18190-18249-18762-18851-18853-18954-18985-18994-206-6317",
     "all-vidiolivetv": [
       {
@@ -677,6 +677,12 @@
       "web_url": "19007",
       "cover_url": "https://thumbor.prod.vidiocdn.com/u6_j9DWi29JxKXocSZ2XSUlMKsg=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/19007/healthy-monday-293cc8.jpg",
       "start_time": "2025-06-30T08:30:00.000Z"
+    },
+    "19011": {
+      "title": "Groundbreaking Pabrik Baterai Listrik Karawang | LIVE",
+      "web_url": "19011",
+      "cover_url": "https://thumbor.prod.vidiocdn.com/turHGuTlQ9tjLXoTj6IhIzcQiqI=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/19011/groundbreaking-pabrik-baterai-listrik-karawang-live-16ad6d.jpg",
+      "start_time": "2025-06-29T07:43:00.000Z"
     }
   }
 }
