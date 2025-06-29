@@ -1,9 +1,9 @@
 {
-  "time": "2025-06-29T13:18:43.117Z",
+  "time": "2025-06-29T13:20:58.639Z",
   "headers": {
     "luws": "7C967F3E-6156-BBAA-FE9F-247D6A11E867_",
-    "x-signature": "586aaf209d7420bbcf6038642ccb2c99b824b61d36946efefea8bbf31dd4c8e2",
-    "x-client": 1751202869.017,
+    "x-signature": "fbf2dcc995e6e0da1fcbccfdf5c25ffbb9f92576dd727c809a75090a73967d5f",
+    "x-client": 1751203261.629,
     "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/gu6NlkzUD1cbz+00G4ApwHGc1PtsbmrurxIWc/XaWBGrz62LyIS3GI4VjNPSL+ks6bDjM3RmklOR5wnPHUHf88=",
     "x-secure-level": "2",
     "x-api-platform": "web-desktop",
@@ -13,13 +13,13 @@
     "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
     "x-user-email": null,
     "204-dash": null,
-    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751217521~acl=/stream/204/file/*~id=allUsers~hmac=c322dfff5d1caec3451d719d628a32a0de85e728a24f94b018e414347d7e0a18",
+    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751217657~acl=/stream/204/file/*~id=allUsers~hmac=e89d5b9980e0955ad3f0fd0fd3f24b82c2ddb3d2eb3291ff2e3abfef2d66b020",
     "205-dash": null,
     "205-hls": null,
-    "206-dash": "https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751217521~acl=/stream/206/file/*~id=allUsers~hmac=f58d4d27cd5f610e65830025665466ae408929812e997fe5fd2a0aac44caadf2",
-    "206-hls": "https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751217521~acl=/stream/206/file/*~id=allUsers~hmac=f58d4d27cd5f610e65830025665466ae408929812e997fe5fd2a0aac44caadf2",
+    "206-dash": "https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751217657~acl=/stream/206/file/*~id=allUsers~hmac=529fdaa9150c77a0ad7b69e7988e61d9b10159ebc0448f32b1f965d58b21aca9",
+    "206-hls": "https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751217657~acl=/stream/206/file/*~id=allUsers~hmac=529fdaa9150c77a0ad7b69e7988e61d9b10159ebc0448f32b1f965d58b21aca9",
     "18105-dash": null,
-    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751217521~acl=/stream/18105/file/*~id=allUsers~hmac=5c45db25c2a34cbb7e059512d180ad75dda520e62bbac6012ddef79d7b81f0e0",
+    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751217657~acl=/stream/18105/file/*~id=allUsers~hmac=fbb4ecf6e8d8f9d6396b269efcd957158ae630934becf837989626529e3348a7",
     "all-sections": "17139-17140-17884-18189-18190-18249-18762-18851-18853-18994-206-6317",
     "all-vidiolivetv": [
       {
@@ -626,18 +626,6 @@
     }
   },
   "vidioliveothers": {
-    "733": {
-      "title": "Dunia Punya Cerita",
-      "web_url": "733",
-      "cover_url": "https://thumbor.prod.vidiocdn.com/2S-x_Sf0KpeWXcPj5oXIy0ZY3Zk=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/733/trans-tv-210a5f.jpg",
-      "start_time": "2016-04-22T19:58:00.000Z"
-    },
-    "734": {
-      "title": "Arisan",
-      "web_url": "734",
-      "cover_url": "https://thumbor.prod.vidiocdn.com/kNpgzMw6CuJ5p4DFITTwHwDoNfI=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/734/trans7-8f2401.jpg",
-      "start_time": "2016-04-22T20:02:00.000Z"
-    },
     "17884": {
       "title": "Formula 1 MSC Cruises Austrian Grand Prix 2025 - Race",
       "web_url": "17884",
@@ -679,60 +667,6 @@
       "web_url": "19007",
       "cover_url": "https://thumbor.prod.vidiocdn.com/u6_j9DWi29JxKXocSZ2XSUlMKsg=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/19007/healthy-monday-293cc8.jpg",
       "start_time": "2025-06-30T08:30:00.000Z"
-    },
-    "4376346": {
-      "title": "Bioskop Trans TV",
-      "web_url": "733",
-      "cover_url": "https://thumbor.prod.vidiocdn.com/9akdR3Oam7pYwstio8N8zs3kFlM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/382657/b1374a.jpg",
-      "start_time": "2025-06-29T14:00:00.000Z"
-    },
-    "4376360": {
-      "title": "Brownis - Obrowlan Manis",
-      "web_url": "733",
-      "cover_url": "https://thumbor.prod.vidiocdn.com/NLNGXQ5E07I5RIBJkTkeMtQYcu8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/382655/7439fd.jpg",
-      "start_time": "2025-06-30T05:30:00.000Z"
-    },
-    "4376361": {
-      "title": "Rumpi No Secret",
-      "web_url": "733",
-      "cover_url": "https://thumbor.prod.vidiocdn.com/IaB2gl2MY6w_foRPYmtpWxzVfSI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/382645/5cec43.jpg",
-      "start_time": "2025-06-30T07:00:00.000Z"
-    },
-    "4376364": {
-      "title": "Dream Box Indonesia",
-      "web_url": "733",
-      "cover_url": "https://thumbor.prod.vidiocdn.com/KDco5UhvVLI8VZlWByZFVH1KLTc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/382648/b84c86.jpg",
-      "start_time": "2025-06-30T09:30:00.000Z"
-    },
-    "4376365": {
-      "title": "Bikin Laper",
-      "web_url": "733",
-      "cover_url": "https://thumbor.prod.vidiocdn.com/tPEpzsL8e3vzeqN-Z8d9epHwuNE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/382649/f6c845.jpg",
-      "start_time": "2025-06-30T10:30:00.000Z"
-    },
-    "4376366": {
-      "title": "Bioskop Trans TV",
-      "web_url": "733",
-      "cover_url": "https://thumbor.prod.vidiocdn.com/9akdR3Oam7pYwstio8N8zs3kFlM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/382657/b1374a.jpg",
-      "start_time": "2025-06-30T14:00:00.000Z"
-    },
-    "4376367": {
-      "title": "Bioskop Trans TV",
-      "web_url": "733",
-      "cover_url": "https://thumbor.prod.vidiocdn.com/9akdR3Oam7pYwstio8N8zs3kFlM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/382657/b1374a.jpg",
-      "start_time": "2025-06-30T16:00:00.000Z"
-    },
-    "4380104": {
-      "title": "On The Spot",
-      "web_url": "734",
-      "cover_url": "https://thumbor.prod.vidiocdn.com/mmuHjYEG25_WnMhacwn_7UuhCz4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/380585/e4afba.jpg",
-      "start_time": "2025-06-30T11:00:00.000Z"
-    },
-    "4380106": {
-      "title": "POV - Pasti Obrolan Viral",
-      "web_url": "734",
-      "cover_url": "https://thumbor.prod.vidiocdn.com/7jeIgwog37A17vLnXj_ue8RQm0o=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/380587/fb5479.jpg",
-      "start_time": "2025-06-30T12:30:00.000Z"
     }
   }
 }
