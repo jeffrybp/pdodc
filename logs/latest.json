@@ -1,9 +1,9 @@
 {
-  "time": "2025-06-29T19:55:12.322Z",
+  "time": "2025-06-29T20:10:15.509Z",
   "headers": {
     "luws": "34401390-43A2-8062-5DE3-D9C3992929CE_22522467",
-    "x-signature": "48aeca1b7135570c8a1d1346ed26841ba92ede9459bea9ebe5d24c96a34fa6aa",
-    "x-client": 1751226909.096,
+    "x-signature": "9b16b85162ec7ce8fb19be427b03ef40395bf55e4283206e11e590b346dc0f2e",
+    "x-client": 1751227812.106,
     "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/tsxDQaX3H5HERlacZi3M6xfbZixTeZgN4HDMFeT2uHSUOkUUuPO/vPxu/SLyEqHVIBM+hTom49ad8R2gj+gx+0=",
     "x-secure-level": "2",
     "x-api-platform": "web-desktop",
@@ -13,13 +13,13 @@
     "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
     "x-user-email": "jeffrybp1991@gmail.com",
     "204-dash": null,
-    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751241310~acl=/stream/204/file/*~id=allUsers~hmac=8e960ffb4b78ef139cb9a5f85b29aaf042176d6a8300bf32c5036c1bc5529fff",
+    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751242213~acl=/stream/204/file/*~id=allUsers~hmac=8ad80df4ec9de971fa9bab402631f20df1578b4f86534f6205bc639920d9e05e",
     "205-dash": null,
-    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751241310~acl=/stream/205/file/*~id=allUsers~hmac=f380baca3fb6709e327cdd8503781d61cda7ad299e9252fc7a6a8a478da75074",
-    "206-dash": "https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751241310~acl=/stream/206/file/*~id=allUsers~hmac=c4f8267b7585c2691ae5f59b22a86178881699acf5aeb3446937bcd8ba940ed6",
-    "206-hls": "https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751241310~acl=/stream/206/file/*~id=allUsers~hmac=c4f8267b7585c2691ae5f59b22a86178881699acf5aeb3446937bcd8ba940ed6",
+    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751242213~acl=/stream/205/file/*~id=allUsers~hmac=0cecf1b183f824bae4e0413e46729234cecef272871f466e44f32cc746f5c88d",
+    "206-dash": "https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751242213~acl=/stream/206/file/*~id=allUsers~hmac=06f2e2009ffdb014a5417f7d94f5e64a04441a161cb95ad98a7c586b3969881e",
+    "206-hls": "https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751242213~acl=/stream/206/file/*~id=allUsers~hmac=06f2e2009ffdb014a5417f7d94f5e64a04441a161cb95ad98a7c586b3969881e",
     "18105-dash": null,
-    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751241310~acl=/stream/18105/file/*~id=allUsers~hmac=79fbc00f6f7d362fd66dfb1874c8a6762c0429e2e43a73fa7792749f633d6db9",
+    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751242213~acl=/stream/18105/file/*~id=allUsers~hmac=2fde4736cf08ac96079857e0bc7e450bb61aafa8970c07042ff1202e2e62f8d5",
     "all-sections": "17139-17140-18189-18190-18249-18994-206-6317",
     "all-vidiolivetv": [
       {
@@ -516,12 +516,6 @@
       "cover_url": "https://thumbor.prod.vidiocdn.com/M746uq0SIMQYwD-9Ul0fSpa3_oY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4388997/d9e862.jpg",
       "start_time": "2025-06-29T22:00:00.000Z"
     },
-    "4389181": {
-      "title": "Men: Germany vs Serbia - Volleyball Nations League",
-      "web_url": "206",
-      "cover_url": "https://thumbor.prod.vidiocdn.com/LSPWFPa9VIXBoOZmuiWPItjwQ9I=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4389181/111761.jpg",
-      "start_time": "2025-06-29T18:00:00.000Z"
-    },
     "4389182": {
       "title": "Men: Brazil vs Poland - Volleyball Nations League",
       "web_url": "206",
@@ -603,7 +597,7 @@
       "start_time": "2025-04-02T13:25:00.000Z"
     },
     "17938": {
-      "title": "Serie A",
+      "title": "Udinese vs Milan - Serie A",
       "web_url": "17938",
       "cover_url": "https://thumbor.prod.vidiocdn.com/tJoOEHTHed9-fRQvnXoew2nr8hY=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17938/serie-a-973769.jpg",
       "start_time": "2024-10-20T10:00:00.000Z"
