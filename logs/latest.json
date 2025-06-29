@@ -1,9 +1,9 @@
 {
-  "time": "2025-06-29T19:10:03.659Z",
+  "time": "2025-06-29T19:25:05.433Z",
   "headers": {
     "luws": "34401390-43A2-8062-5DE3-D9C3992929CE_22522467",
-    "x-signature": "820180de2cf05ed190058eec73563bf61e30331df9319250b1783fc016a82067",
-    "x-client": 1751224199.051,
+    "x-signature": "6447bd95aad4038a992cf6acd7d426af6068f4311b150fc73be3a1cf53f04b99",
+    "x-client": 1751225102.168,
     "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/tsxDQaX3H5HERlacZi3M6xfbZixTeZgN4HDMFeT2uHSUOkUUuPO/vPxu/SLyEqHVIBM+hTom49ad8R2gj+gx+0=",
     "x-secure-level": "2",
     "x-api-platform": "web-desktop",
@@ -13,14 +13,14 @@
     "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
     "x-user-email": "jeffrybp1991@gmail.com",
     "204-dash": null,
-    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751238600~acl=/stream/204/file/*~id=allUsers~hmac=c67ea3a0a74ee658b9b998fc20fb432012c68fd5ac0ffed65d9cf1a9a43235ba",
+    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751239503~acl=/stream/204/file/*~id=allUsers~hmac=9a717f8f613f53850aaf828c0bb656ea38c7535e394f2367b7501357dc7cf931",
     "205-dash": null,
-    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751238600~acl=/stream/205/file/*~id=allUsers~hmac=979e68d370a016d6ef3222173ec417abf87e88ed7c9bb7ab550b6781958a4e00",
-    "206-dash": "https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751238600~acl=/stream/206/file/*~id=allUsers~hmac=f37cdea72e49641f50c11b91cd50cb42b32b39012455dda7c6404106cbe977ae",
-    "206-hls": "https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751238600~acl=/stream/206/file/*~id=allUsers~hmac=f37cdea72e49641f50c11b91cd50cb42b32b39012455dda7c6404106cbe977ae",
+    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751239503~acl=/stream/205/file/*~id=allUsers~hmac=de784d2426a8a96e3d18586a12efef644e06d37f748b515e675b957c7dace34b",
+    "206-dash": "https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751239503~acl=/stream/206/file/*~id=allUsers~hmac=fc8ad040e01b10e77a7ca7ced4428757007108e83027277252029c1f033f876d",
+    "206-hls": "https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751239503~acl=/stream/206/file/*~id=allUsers~hmac=fc8ad040e01b10e77a7ca7ced4428757007108e83027277252029c1f033f876d",
     "18105-dash": null,
-    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751238601~acl=/stream/18105/file/*~id=allUsers~hmac=a80c59014a43141158a30eeeef08f8295a8d8838932f90544e0a2574548a8eda",
-    "all-sections": "17139-17140-18189-18190-18249-18853-18994-206-6317",
+    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751239503~acl=/stream/18105/file/*~id=allUsers~hmac=17b96cf2d0b9f0437ad19823559a9386adeedfa4ef4f75092c7fee95f00ffcf2",
+    "all-sections": "17139-17140-18189-18190-18249-18994-206-6317",
     "all-vidiolivetv": [
       {
         "content_id": "204",
@@ -516,12 +516,6 @@
       "cover_url": "https://thumbor.prod.vidiocdn.com/M746uq0SIMQYwD-9Ul0fSpa3_oY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4388997/d9e862.jpg",
       "start_time": "2025-06-29T22:00:00.000Z"
     },
-    "4389174": {
-      "title": "Men: China vs Canada - Volleyball Nations League",
-      "web_url": "18853",
-      "cover_url": "https://thumbor.prod.vidiocdn.com/bYJoquaLmG_XAOBhSIBoL7wkz1A=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4389174/28d599.jpg",
-      "start_time": "2025-06-29T17:15:00.000Z"
-    },
     "4389181": {
       "title": "Men: Germany vs Serbia - Volleyball Nations League",
       "web_url": "206",
@@ -607,12 +601,6 @@
       "web_url": "18249",
       "cover_url": "https://thumbor.prod.vidiocdn.com/lJ0R-3uPAp38wQef9pA_i1lv8yg=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18249/yonex-us-open-2025-finals-71e773.jpg",
       "start_time": "2025-06-29T17:00:00.000Z"
-    },
-    "18853": {
-      "title": "Men: China vs Canada - Volleyball Nations League",
-      "web_url": "18853",
-      "cover_url": "https://thumbor.prod.vidiocdn.com/bYJoquaLmG_XAOBhSIBoL7wkz1A=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4389174/28d599.jpg",
-      "start_time": "2025-06-29T17:15:00.000Z"
     },
     "19007": {
       "title": "Cedera Saat Ikut Tren Olahraga? Ini Risiko Dibalik Popularitasnya",
