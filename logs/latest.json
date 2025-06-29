@@ -1,9 +1,9 @@
 {
-  "time": "2025-06-29T02:29:04.087Z",
+  "time": "2025-06-29T02:44:06.140Z",
   "headers": {
     "luws": "34401390-43A2-8062-5DE3-D9C3992929CE_22522467",
-    "x-signature": "c7de45c187b44471b5bae748750f5f6b0c62edad000125c7461fc6c9ed49410f",
-    "x-client": 1751164140.424,
+    "x-signature": "b6e7c08b7941b941eecd4c3b8820a4441bdc9915c299b5c5605740ed7bc5ea93",
+    "x-client": 1751165043.418,
     "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/tsxDQaX3H5HERlacZi3M6xfbZixTeZgN4HDMFeT2uHSUOkUUuPO/vPxu/SLyEqHVIBM+hTom49ad8R2gj+gx+0=",
     "x-secure-level": "2",
     "x-api-platform": "web-desktop",
@@ -13,13 +13,13 @@
     "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
     "x-user-email": "jeffrybp1991@gmail.com",
     "204-dash": null,
-    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751178541~acl=/stream/204/file/*~id=allUsers~hmac=026a002b0f2da105d24cb0b5b3e79f14275ccc4066d6e791a7b94b3feb060202",
+    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751179443~acl=/stream/204/file/*~id=allUsers~hmac=baeae7575fe7c9c7d92140603c875d95d5186c6f1c1aacaa3df939aa0dda803c",
     "205-dash": null,
-    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751178541~acl=/stream/205/file/*~id=allUsers~hmac=39110aa4ce656ef8150b944b697c10c4d575c96abb3b99cf9ce760898733a377",
-    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751178542~acl=/stream/206/file/*~id=allUsers~hmac=3a956cb02c3ce564aac6da6ffda8129dcd6a3d644eb7ea098bcac0fda22ab8bd",
-    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751178541~acl=/stream/206/file/*~id=allUsers~hmac=acf3c952ee9d15cda5cc5213ed5df4396b39a4fc3e8d40c4ca7b07f94038302c",
+    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751179443~acl=/stream/205/file/*~id=allUsers~hmac=6feacf8d75e7e5509cb08edbf1b9e387358dd9439f389279926f729ffd420eba",
+    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751179444~acl=/stream/206/file/*~id=allUsers~hmac=b4326bff34a1a169c6a3f9a3a6cab7322f997a39cfc69ddeef5580cf61edc502",
+    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751179444~acl=/stream/206/file/*~id=allUsers~hmac=b4326bff34a1a169c6a3f9a3a6cab7322f997a39cfc69ddeef5580cf61edc502",
     "18105-dash": null,
-    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751178542~acl=/stream/18105/file/*~id=allUsers~hmac=d6b85866c00efc38c51c07ad9bfefc96f1ffd8edd217c7afca1d9d617ec00441",
+    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751179444~acl=/stream/18105/file/*~id=allUsers~hmac=ffd60e06f92bfb25c95da1b68a47a0672e2e7c5060996911492be6a1c3df95a8",
     "all-sections": "17139-17140-17884-18189-18190-18762-18851-18954-18985-18994-206-6317",
     "all-vidiolivetv": [
       {
@@ -655,9 +655,9 @@
       "start_time": "2025-06-30T08:30:00.000Z"
     },
     "19010": {
-      "title": "Final | U-15 - LTS 2 - Tajimalela FA VS Binna Banua",
+      "title": "Final | U-16 - LTS 2 - Cipondoh Putra VS Java Soccer",
       "web_url": "19010",
-      "cover_url": "https://thumbor.prod.vidiocdn.com/QWEzKkzm8ZuWnWJZCQ_K8wFKdEQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4388400/bf2712.jpg",
+      "cover_url": "https://thumbor.prod.vidiocdn.com/FbuNMeY6PnINSg-GFb6VgpV22cY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4388401/2951ff.jpg",
       "start_time": "2025-06-28T23:30:00.000Z"
     }
   }
