@@ -1,9 +1,9 @@
 {
-  "time": "2025-06-29T04:59:33.381Z",
+  "time": "2025-06-29T05:14:36.299Z",
   "headers": {
     "luws": "34401390-43A2-8062-5DE3-D9C3992929CE_22522467",
-    "x-signature": "fd752fcc446a7b6e994e606b68a53a59fc3c5857461904b3af78116e9afc9b5c",
-    "x-client": 1751173169.448,
+    "x-signature": "de95f84a81a39eaa17e2d0160eeaa969754d4461d480d3578e59f0b7638d2a41",
+    "x-client": 1751174072.439,
     "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/tsxDQaX3H5HERlacZi3M6xfbZixTeZgN4HDMFeT2uHSUOkUUuPO/vPxu/SLyEqHVIBM+hTom49ad8R2gj+gx+0=",
     "x-secure-level": "2",
     "x-api-platform": "web-desktop",
@@ -13,13 +13,13 @@
     "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
     "x-user-email": "jeffrybp1991@gmail.com",
     "204-dash": null,
-    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751187570~acl=/stream/204/file/*~id=allUsers~hmac=202dc849ec24dd3e6141c267653b43c3bd0f8cf860a62255213f3e0af2cc5b4b",
+    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751188473~acl=/stream/204/file/*~id=allUsers~hmac=96879ef1320234f633f2c50a9ce0bc5849382deb9d544ef9468613793f82bb8d",
     "205-dash": null,
-    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751187570~acl=/stream/205/file/*~id=allUsers~hmac=da58168446a1b9cf4f67ffa9c66231dea198f586225b600f93dc24fcfd16a535",
-    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751187571~acl=/stream/206/file/*~id=allUsers~hmac=279b8796039c3a745fb62c486c7b3303f8f522ed3f24a20e366703edcf823a46",
-    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751187571~acl=/stream/206/file/*~id=allUsers~hmac=279b8796039c3a745fb62c486c7b3303f8f522ed3f24a20e366703edcf823a46",
+    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751188473~acl=/stream/205/file/*~id=allUsers~hmac=8b95ece27720ec6d8cd5d4ae06cf6990df7915fb1a3140802949da097f91204b",
+    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751188473~acl=/stream/206/file/*~id=allUsers~hmac=8104a0c811d5dc1acc9c346426c74eb8d7b07e6511ba34d6ae5eac01e6991e9d",
+    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751188473~acl=/stream/206/file/*~id=allUsers~hmac=8104a0c811d5dc1acc9c346426c74eb8d7b07e6511ba34d6ae5eac01e6991e9d",
     "18105-dash": null,
-    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751187571~acl=/stream/18105/file/*~id=allUsers~hmac=56feac585a28bd64b8e3464a4a22bd4fedef138fdb9eaece3634914700f8b93d",
+    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751188474~acl=/stream/18105/file/*~id=allUsers~hmac=05a885eb0b02e7b22a3511ddc05e5d64971582ae2a6a28718c895d801bc2bdd2",
     "all-sections": "17139-17140-17884-18189-18190-18762-18851-18853-18954-18985-18994-206-6317",
     "all-vidiolivetv": [
       {
@@ -655,7 +655,7 @@
       "start_time": "2025-04-02T13:25:00.000Z"
     },
     "17938": {
-      "title": "Udinese vs Milan - Serie A",
+      "title": "Serie A",
       "web_url": "17938",
       "cover_url": "https://thumbor.prod.vidiocdn.com/tJoOEHTHed9-fRQvnXoew2nr8hY=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17938/serie-a-973769.jpg",
       "start_time": "2024-10-20T10:00:00.000Z"
@@ -673,9 +673,9 @@
       "start_time": "2025-06-30T08:30:00.000Z"
     },
     "19010": {
-      "title": "Final | U-13 3rd - 4th | LTS 2 - Bimba AIUEO VS Cartoon RPJ",
+      "title": "Final | U-13 Champion | LTS 2 -  Bina Taruna VS Newland FA",
       "web_url": "19010",
-      "cover_url": "https://thumbor.prod.vidiocdn.com/1KSCJSpuB_QwnInIjOAb8w9w6kM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4388402/0d6a56.jpg",
+      "cover_url": "https://thumbor.prod.vidiocdn.com/4rosGgrO-fa5w5oH25Cvq22CUEg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4388403/e7c9a7.jpg",
       "start_time": "2025-06-28T23:30:00.000Z"
     }
   }
