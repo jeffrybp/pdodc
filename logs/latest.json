@@ -1,9 +1,9 @@
 {
-  "time": "2025-06-29T22:25:45.796Z",
+  "time": "2025-06-29T22:40:48.513Z",
   "headers": {
     "luws": "34401390-43A2-8062-5DE3-D9C3992929CE_22522467",
-    "x-signature": "d42d5f147a9b5d301a14dd28c6cca3f5f194dc2fa76e508256b38c16d10932be",
-    "x-client": 1751235942.165,
+    "x-signature": "b67cacbe03a6c65e5525cfbca243096c6e7a2dbf6f15d0067476755d1db02c33",
+    "x-client": 1751236845.139,
     "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/tsxDQaX3H5HERlacZi3M6xfbZixTeZgN4HDMFeT2uHSUOkUUuPO/vPxu/SLyEqHVIBM+hTom49ad8R2gj+gx+0=",
     "x-secure-level": "2",
     "x-api-platform": "web-desktop",
@@ -13,14 +13,14 @@
     "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
     "x-user-email": "jeffrybp1991@gmail.com",
     "204-dash": null,
-    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751250343~acl=/stream/204/file/*~id=allUsers~hmac=1372d4766459c20924e0d17581c997078661ccca52d2de309d2c2482f599a1de",
+    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751251246~acl=/stream/204/file/*~id=allUsers~hmac=59783136f6f42612c166e6972e6a7ea2c2774c18a0ecadf31ff1b6b7449ceb8b",
     "205-dash": null,
-    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751250343~acl=/stream/205/file/*~id=allUsers~hmac=8dbd72426be9ea4467634beca91c720edb7cf58cf27bf8040816de5ed7083af0",
-    "206-dash": "https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751250343~acl=/stream/206/file/*~id=allUsers~hmac=18b0dcd6d6849c556291d2f91690b4358964cbbc6cf346b4f029e5c3544b299f",
-    "206-hls": "https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751250343~acl=/stream/206/file/*~id=allUsers~hmac=18b0dcd6d6849c556291d2f91690b4358964cbbc6cf346b4f029e5c3544b299f",
+    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751251246~acl=/stream/205/file/*~id=allUsers~hmac=f42a8605ec91af6bebe471c03f4a76960ce41fc3576ab1814fdf696a1265e4a3",
+    "206-dash": "https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751251246~acl=/stream/206/file/*~id=allUsers~hmac=985d2c71b82e1e424685e8db774ed2240edf103bb838c73a179268ff0f31e9c9",
+    "206-hls": "https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751251246~acl=/stream/206/file/*~id=allUsers~hmac=985d2c71b82e1e424685e8db774ed2240edf103bb838c73a179268ff0f31e9c9",
     "18105-dash": null,
-    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751250343~acl=/stream/18105/file/*~id=allUsers~hmac=07a85b7f2201d4c55c5ddf4768278194cbd9a519c89ac089400d08ea3f6f6ae2",
-    "all-sections": "17139-17140-18249-18994-206-6317",
+    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751251246~acl=/stream/18105/file/*~id=allUsers~hmac=f7fde8be132a15788d456f7b1c217d268d7ffca38e6ebf09e4530f8c395f7ddb",
+    "all-sections": "17139-17140-18994-206-6317",
     "all-vidiolivetv": [
       {
         "content_id": "204",
@@ -480,12 +480,6 @@
     ]
   },
   "sections": {
-    "18249": {
-      "title": "Beiwen Zhang (USA) vs Tanvi Sharma (IND) - Women's Singles Finals | Yonex US Open 2025",
-      "web_url": "18249",
-      "cover_url": "https://thumbor.prod.vidiocdn.com/lJ0R-3uPAp38wQef9pA_i1lv8yg=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18249/yonex-us-open-2025-finals-71e773.jpg",
-      "start_time": "2025-06-29T17:00:00.000Z"
-    },
     "4388993": {
       "title": "Pakistan vs Indonesia - AFC Women's Asian Cup 2026 Qualifiers",
       "web_url": "18994",
@@ -595,12 +589,6 @@
       "web_url": "17939",
       "cover_url": "https://thumbor.prod.vidiocdn.com/X-RqLAcQNAoAqhhYdA6L240KI50=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17939/serie-a-4cc90b.jpg",
       "start_time": "2024-10-20T12:45:00.000Z"
-    },
-    "18249": {
-      "title": "Beiwen Zhang (USA) vs Tanvi Sharma (IND) - Women's Singles Finals | Yonex US Open 2025",
-      "web_url": "18249",
-      "cover_url": "https://thumbor.prod.vidiocdn.com/lJ0R-3uPAp38wQef9pA_i1lv8yg=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18249/yonex-us-open-2025-finals-71e773.jpg",
-      "start_time": "2025-06-29T17:00:00.000Z"
     },
     "19007": {
       "title": "Cedera Saat Ikut Tren Olahraga? Ini Risiko Dibalik Popularitasnya",
