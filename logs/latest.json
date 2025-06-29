@@ -1,9 +1,9 @@
 {
-  "time": "2025-06-29T06:59:59.611Z",
+  "time": "2025-06-29T07:15:02.296Z",
   "headers": {
     "luws": "34401390-43A2-8062-5DE3-D9C3992929CE_22522467",
-    "x-signature": "0415b1e5121f686891004f220dcdd8ebfbb683cc32f599b58fe79e2e8697236a",
-    "x-client": 1751180395.452,
+    "x-signature": "87de022a838b2ead2f0a3cf73025402bf95610694884f909a18cb1fda3ccc628",
+    "x-client": 1751181298.46,
     "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/tsxDQaX3H5HERlacZi3M6xfbZixTeZgN4HDMFeT2uHSUOkUUuPO/vPxu/SLyEqHVIBM+hTom49ad8R2gj+gx+0=",
     "x-secure-level": "2",
     "x-api-platform": "web-desktop",
@@ -13,13 +13,13 @@
     "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
     "x-user-email": "jeffrybp1991@gmail.com",
     "204-dash": null,
-    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751194796~acl=/stream/204/file/*~id=allUsers~hmac=77a862a71ca5e012f7656d2b6ba40664ba96dfcc7321b2c8a63877b37ec1868a",
+    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751195699~acl=/stream/204/file/*~id=allUsers~hmac=f979aca3e0b05437e58a988be09437f9d27bd549cbe6f393b5fc444d8857bc65",
     "205-dash": null,
-    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751194796~acl=/stream/205/file/*~id=allUsers~hmac=07ba44974b07a8152d88904b8d456f7608e5715deae1eacc44535cb7ddca491b",
-    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751194796~acl=/stream/206/file/*~id=allUsers~hmac=4dcbc55399a68961cb7e3b74b5372dfb8c6a9d125c975ec9445d22d3545cfe1e",
-    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751194796~acl=/stream/206/file/*~id=allUsers~hmac=4dcbc55399a68961cb7e3b74b5372dfb8c6a9d125c975ec9445d22d3545cfe1e",
+    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751195699~acl=/stream/205/file/*~id=allUsers~hmac=e29ccf499743a8617ced409bc63ddbbafd3b88224ff75ba920a021d25158440a",
+    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751195699~acl=/stream/206/file/*~id=allUsers~hmac=05ec702033478249f29884a471589b727df07bcaeb25328e4d596934dddc39a5",
+    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751195699~acl=/stream/206/file/*~id=allUsers~hmac=05ec702033478249f29884a471589b727df07bcaeb25328e4d596934dddc39a5",
     "18105-dash": null,
-    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751194797~acl=/stream/18105/file/*~id=allUsers~hmac=ee756c7456e3217d20f3a5cd2010c8cfcff6e33ba32d02dd5e870871f80b5c62",
+    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751195700~acl=/stream/18105/file/*~id=allUsers~hmac=107ed4610b40b78e31167119dcd7611d6eb8847dca31cdabd225707a82914c5e",
     "all-sections": "17139-17140-17884-18189-18190-18249-18762-18851-18853-18954-18985-18994-206-6317",
     "all-vidiolivetv": [
       {
@@ -671,6 +671,12 @@
       "web_url": "17939",
       "cover_url": "https://thumbor.prod.vidiocdn.com/X-RqLAcQNAoAqhhYdA6L240KI50=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17939/serie-a-4cc90b.jpg",
       "start_time": "2024-10-20T12:45:00.000Z"
+    },
+    "18985": {
+      "title": "Girls Final:  Kyoto Seika Gakuen Senior High School (JPN) vs Onyang Girls' High School (KOR) - NBA Rising Invitational",
+      "web_url": "18985",
+      "cover_url": "https://thumbor.prod.vidiocdn.com/YNVBTD0VQZvcvj1wRs2UiN_XFrY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4387326/e91c6f.jpg",
+      "start_time": "2025-06-29T07:10:00.000Z"
     },
     "19007": {
       "title": "Cedera Saat Ikut Tren Olahraga? Ini Risiko Dibalik Popularitasnya",
