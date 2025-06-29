@@ -1,26 +1,26 @@
 {
-  "time": "2025-06-29T14:48:00.706Z",
+  "time": "2025-06-29T15:39:20.980Z",
   "headers": {
     "luws": "34401390-43A2-8062-5DE3-D9C3992929CE_22522467",
-    "x-signature": "1542b3f5c3ff379839c03d2e13953d64b2e95415ab5ac92cf077d1b97a2bac2c",
-    "x-client": 1751208477.053,
+    "x-signature": "9c245ca3d245a6653ec1e63830d7182fab70faf50bd01e83732f349b260ebb61",
+    "x-client": 1751211557.115,
     "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/tsxDQaX3H5HERlacZi3M6xfbZixTeZgN4HDMFeT2uHSUOkUUuPO/vPxu/SLyEqHVIBM+hTom49ad8R2gj+gx+0=",
     "x-secure-level": "2",
     "x-api-platform": "web-desktop",
     "x-request-from": "https://www.vidio.com/live/204",
     "content-type": "application/json",
-    "cookie": "ahoy_visitor=6e3be2bd-3fee-4c75-b69b-28bbf54baae8; plenty_id=22522467; __uid_2=%7B%22advertising_token%22%3A%22A4AAABKBfFVW8FEFzCA00v7eWDk6viCehSw00buEtOM2t8hTe7NHfY7RiqHiMOVZoJPrzQnDzk9Ycx-ceE3xo7m7rxe3Odo604Pnng2HFrfqK9mDSP4v2KQVuaw4E2Wp11arHDB5srM7xtakG-kQPmN0Wqk_kqbBiJjmQW9cT2zZk50nxuA7NkNuJLGfSRRR7dn_QI7Hqtm-ljexWXGfYVd1rA%22%2C%22refresh_token%22%3A%22AAAAEoJgLj3MSYu0pYJokoRHklgB3ZmzAX%2F78S%2Fniq4C57D2DMqEigAw5VAa59wXgG%2FK4laWRAjj5w7JFK0FjNKySrAI61V8l5S3kI%2FP2gvURvEd6atuGLEw%2Fc%2BzrV5p7UBKCUByjmp8s8QuQGbO9Z0O2NerVqa6jtV03wxNDWdZ0eAUaCzUNMublspJcEdyo%2Bu3mwtVQAx%2FII9x%2BduVFhl0Fcl8Z2sobk7pFnGsgDhWT1shzwjzvU4JjKh1m72lo%2FnY0KcdbIFXnhwyWLPAeFgN%2FDc4NQQGAN%2BCdQeq9bjf07F%2B4A4lSsTpC0IYGB3Mgdq%2FrKxnHZRe3%2F94TonD1Offq1BBbdTebVmsjJ7OvF9nLcpJUD%2Bkkd%2BDzzANXWg4XUKZ%22%2C%22identity_expires%22%3A1750994781000%2C%22refresh_expires%22%3A1753327581000%2C%22refresh_from%22%3A1750739181000%2C%22refresh_response_key%22%3A%22vR56VjKzDhTMLzp3B5GFnyyP6DX5frZuRNnu7dVBQpY%3D%22%7D; luws=34401390-43A2-8062-5DE3-D9C3992929CE_22522467; country_id=ID; shva=1; ahoy_visit=a0bcb2df-81e8-4779-bc9e-c385bcd37a38; _vidio_session=xxx;",
+    "cookie": "ahoy_visitor=6e3be2bd-3fee-4c75-b69b-28bbf54baae8; plenty_id=22522467; __uid_2=%7B%22advertising_token%22%3A%22A4AAABKBfFVW8FEFzCA00v7eWDk6viCehSw00buEtOM2t8hTe7NHfY7RiqHiMOVZoJPrzQnDzk9Ycx-ceE3xo7m7rxe3Odo604Pnng2HFrfqK9mDSP4v2KQVuaw4E2Wp11arHDB5srM7xtakG-kQPmN0Wqk_kqbBiJjmQW9cT2zZk50nxuA7NkNuJLGfSRRR7dn_QI7Hqtm-ljexWXGfYVd1rA%22%2C%22refresh_token%22%3A%22AAAAEoJgLj3MSYu0pYJokoRHklgB3ZmzAX%2F78S%2Fniq4C57D2DMqEigAw5VAa59wXgG%2FK4laWRAjj5w7JFK0FjNKySrAI61V8l5S3kI%2FP2gvURvEd6atuGLEw%2Fc%2BzrV5p7UBKCUByjmp8s8QuQGbO9Z0O2NerVqa6jtV03wxNDWdZ0eAUaCzUNMublspJcEdyo%2Bu3mwtVQAx%2FII9x%2BduVFhl0Fcl8Z2sobk7pFnGsgDhWT1shzwjzvU4JjKh1m72lo%2FnY0KcdbIFXnhwyWLPAeFgN%2FDc4NQQGAN%2BCdQeq9bjf07F%2B4A4lSsTpC0IYGB3Mgdq%2FrKxnHZRe3%2F94TonD1Offq1BBbdTebVmsjJ7OvF9nLcpJUD%2Bkkd%2BDzzANXWg4XUKZ%22%2C%22identity_expires%22%3A1750994781000%2C%22refresh_expires%22%3A1753327581000%2C%22refresh_from%22%3A1750739181000%2C%22refresh_response_key%22%3A%22vR56VjKzDhTMLzp3B5GFnyyP6DX5frZuRNnu7dVBQpY%3D%22%7D; luws=34401390-43A2-8062-5DE3-D9C3992929CE_22522467; country_id=ID; shva=1; ahoy_visit=119c93c9-d250-48dc-8eb9-89c1161ad7c5; _vidio_session=xxx;",
     "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
     "x-user-email": "jeffrybp1991@gmail.com",
     "204-dash": null,
-    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751222878~acl=/stream/204/file/*~id=allUsers~hmac=85015b46fa7cbd9acfbe1e16c9177a3d3dc487bd466f82c485927d905f1987aa",
+    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751225958~acl=/stream/204/file/*~id=allUsers~hmac=fb5d60a2df1f2b0187a1b7ddc073e39dac6af56b227ebe22e0446f4f71f81393",
     "205-dash": null,
-    "205-hls": null,
-    "206-dash": "https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751222878~acl=/stream/206/file/*~id=allUsers~hmac=aa80132a11523f82108138eb7e767cb7cab16d31523f66ae55e4be07ec1854ca",
-    "206-hls": "https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751222878~acl=/stream/206/file/*~id=allUsers~hmac=aa80132a11523f82108138eb7e767cb7cab16d31523f66ae55e4be07ec1854ca",
+    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751225958~acl=/stream/205/file/*~id=allUsers~hmac=e7686ff35b23ba817133d8c4b3c73c200608df3b766f7afe854acd86a5756c9c",
+    "206-dash": "https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751225958~acl=/stream/206/file/*~id=allUsers~hmac=513106e3fac22bf02691467a393c8f2355b6f324ea2a94b4e0e9a509f5a29468",
+    "206-hls": "https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751225958~acl=/stream/206/file/*~id=allUsers~hmac=513106e3fac22bf02691467a393c8f2355b6f324ea2a94b4e0e9a509f5a29468",
     "18105-dash": null,
-    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751222878~acl=/stream/18105/file/*~id=allUsers~hmac=8b9f62ceacf35edbda32ef5a05b8e452bb3be4d5bb652f69bd8e8f41605ad1c6",
-    "all-sections": "17139-17140-17884-18189-18190-18249-18762-18851-18853-18994-206-6317",
+    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751225958~acl=/stream/18105/file/*~id=allUsers~hmac=49acf58e78125ab690cbc184bdf25d517cff3f309cd7ef35bd920d6965008c27",
+    "all-sections": "17139-17140-18189-18190-18249-18851-18853-18994-206-6317",
     "all-vidiolivetv": [
       {
         "content_id": "204",
@@ -486,18 +486,6 @@
       "cover_url": "https://thumbor.prod.vidiocdn.com/lJ0R-3uPAp38wQef9pA_i1lv8yg=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18249/yonex-us-open-2025-finals-71e773.jpg",
       "start_time": "2025-06-29T17:00:00.000Z"
     },
-    "4380439": {
-      "title": "Indonesia vs Kyrgyzstan - AFC Women's Asian Cup 2026 Qualifiers",
-      "web_url": "18994",
-      "cover_url": "https://thumbor.prod.vidiocdn.com/jXltzZHzi3E8tlDglFjbs5bC5iw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4380439/0c9abe.jpg",
-      "start_time": "2025-06-29T12:38:00.000Z"
-    },
-    "4384708": {
-      "title": "Formula 1 MSC Cruises Austrian Grand Prix 2025 - Race",
-      "web_url": "17884",
-      "cover_url": "https://thumbor.prod.vidiocdn.com/g7eN22jChZXmQ0LYA552OADgSm8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4384708/642646.jpg",
-      "start_time": "2025-06-29T12:55:00.000Z"
-    },
     "4386979": {
       "title": "Men: Cuba vs Argentina - Volleyball Nations League",
       "web_url": "206",
@@ -509,12 +497,6 @@
       "web_url": "18851",
       "cover_url": "https://thumbor.prod.vidiocdn.com/bqev8rxMw4Ieroe8fYGu-rONNoU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4386982/e1f484.jpg",
       "start_time": "2025-06-29T15:45:00.000Z"
-    },
-    "4386984": {
-      "title": "F1 Kids Austria - Race",
-      "web_url": "18762",
-      "cover_url": "https://thumbor.prod.vidiocdn.com/sJjNGUfcGDLANMXFkhTIWPxdfwo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4386984/d46b00.jpg",
-      "start_time": "2025-06-29T12:55:00.000Z"
     },
     "4388993": {
       "title": "Pakistan vs Indonesia - AFC Women's Asian Cup 2026 Qualifiers",
@@ -609,9 +591,9 @@
   },
   "vidioliveothers": {
     "17884": {
-      "title": "Formula 1 MSC Cruises Austrian Grand Prix 2025 - Race",
+      "title": "Chequered Flag 2025 - LIVE",
       "web_url": "17884",
-      "cover_url": "https://thumbor.prod.vidiocdn.com/g7eN22jChZXmQ0LYA552OADgSm8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4384708/642646.jpg",
+      "cover_url": "https://thumbor.prod.vidiocdn.com/Rc1pHYZnd8l_siMi118TkKusbPM=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17884/formula-1-5ee872.jpg",
       "start_time": "2025-04-02T13:25:00.000Z"
     },
     "17938": {
@@ -627,16 +609,10 @@
       "start_time": "2024-10-20T12:45:00.000Z"
     },
     "18762": {
-      "title": "F1 Kids Austria - Race",
+      "title": "Formula 1 Kids",
       "web_url": "18762",
-      "cover_url": "https://thumbor.prod.vidiocdn.com/sJjNGUfcGDLANMXFkhTIWPxdfwo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4386984/d46b00.jpg",
+      "cover_url": "https://thumbor.prod.vidiocdn.com/PnElKFs7vV7NhwCuqd0pgD2mq70=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18762/formula-1-kids-7b7ae8.jpg",
       "start_time": "2025-06-29T12:55:00.000Z"
-    },
-    "18994": {
-      "title": "Indonesia vs Kyrgyzstan - AFC Women's Asian Cup 2026 Qualifiers",
-      "web_url": "18994",
-      "cover_url": "https://thumbor.prod.vidiocdn.com/jXltzZHzi3E8tlDglFjbs5bC5iw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4380439/0c9abe.jpg",
-      "start_time": "2025-06-29T12:38:00.000Z"
     },
     "19007": {
       "title": "Cedera Saat Ikut Tren Olahraga? Ini Risiko Dibalik Popularitasnya",
