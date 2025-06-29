@@ -1,9 +1,9 @@
 {
-  "time": "2025-06-29T11:53:46.017Z",
+  "time": "2025-06-29T12:08:49.018Z",
   "headers": {
     "luws": "34401390-43A2-8062-5DE3-D9C3992929CE_22522467",
-    "x-signature": "2e44e3f7bb3a4be1ab6ae6cd8d9cd320abc47ce4a2e51a84c2585f9b80a9a278",
-    "x-client": 1751198022.239,
+    "x-signature": "8bd6f753262e59d7f632bd835dc98c005c42b833eb44f56259a2df61efb82566",
+    "x-client": 1751198925.213,
     "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/tsxDQaX3H5HERlacZi3M6xfbZixTeZgN4HDMFeT2uHSUOkUUuPO/vPxu/SLyEqHVIBM+hTom49ad8R2gj+gx+0=",
     "x-secure-level": "2",
     "x-api-platform": "web-desktop",
@@ -13,14 +13,14 @@
     "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
     "x-user-email": "jeffrybp1991@gmail.com",
     "204-dash": null,
-    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751212423~acl=/stream/204/file/*~id=allUsers~hmac=7b433ea59bba41e172a831d249b7b374d96f1d28a7d76446b792ca25dccbd373",
+    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751213326~acl=/stream/204/file/*~id=allUsers~hmac=3dc0589112bbf85743ca24af0ff93453227beaf2ebfe3f34c5d7e6510e3f6b1e",
     "205-dash": null,
-    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751212423~acl=/stream/205/file/*~id=allUsers~hmac=9cde147d9d92fb433a98af792a9df5e21ac90e3ab46ff5a70610cb4ca1c9132f",
-    "206-dash": "https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751212423~acl=/stream/206/file/*~id=allUsers~hmac=27521d84022d94fd798440bb43df8f7bde3c5a21894c6b572bb3154c26faf0ff",
-    "206-hls": "https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751212423~acl=/stream/206/file/*~id=allUsers~hmac=27521d84022d94fd798440bb43df8f7bde3c5a21894c6b572bb3154c26faf0ff",
+    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751213326~acl=/stream/205/file/*~id=allUsers~hmac=caa3825edb1bc93495478402ea169a6894cb08bc104cb1ffd4b19b5104c7e10f",
+    "206-dash": "https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751213326~acl=/stream/206/file/*~id=allUsers~hmac=405e08927024deb8a5428cb414b01faf8e89525a6e8a52ba6aa95ad2d27376cd",
+    "206-hls": "https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751213326~acl=/stream/206/file/*~id=allUsers~hmac=405e08927024deb8a5428cb414b01faf8e89525a6e8a52ba6aa95ad2d27376cd",
     "18105-dash": null,
-    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751212423~acl=/stream/18105/file/*~id=allUsers~hmac=363ce0001c6aa64ee01efa1c6d3e8bf2698076d9b12826111587012bc5aafe2f",
-    "all-sections": "17139-17140-17884-18189-18190-18249-18762-18851-18853-18985-18994-206-6317",
+    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751213326~acl=/stream/18105/file/*~id=allUsers~hmac=2e9e8a493b99180f1567edeea58bc3c5e010213b8e1dff146bed3b06543886af",
+    "all-sections": "17139-17140-17884-18189-18190-18249-18762-18851-18853-18994-206-6317",
     "all-vidiolivetv": [
       {
         "content_id": "204",
@@ -538,12 +538,6 @@
       "cover_url": "https://thumbor.prod.vidiocdn.com/sJjNGUfcGDLANMXFkhTIWPxdfwo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4386984/d46b00.jpg",
       "start_time": "2025-06-29T12:55:00.000Z"
     },
-    "4387327": {
-      "title": "Boys Final: Tsinghua University High School (CHN) vs Yongsan High School (KOR) - NBA Rising Invitational",
-      "web_url": "18985",
-      "cover_url": "https://thumbor.prod.vidiocdn.com/nioln2T6CPPHudhAPsMFwR72xcM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4387327/e45cf4.jpg",
-      "start_time": "2025-06-29T09:10:00.000Z"
-    },
     "4388993": {
       "title": "Pakistan vs Indonesia - AFC Women's Asian Cup 2026 Qualifiers",
       "web_url": "18994",
@@ -665,12 +659,6 @@
       "web_url": "18851",
       "cover_url": "https://thumbor.prod.vidiocdn.com/Q7Of1wenCGUdEOm_FnlStTP6Qqc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4386981/a785f7.jpg",
       "start_time": "2025-06-29T11:45:00.000Z"
-    },
-    "18985": {
-      "title": "Boys Final: Tsinghua University High School (CHN) vs Yongsan High School (KOR) - NBA Rising Invitational",
-      "web_url": "18985",
-      "cover_url": "https://thumbor.prod.vidiocdn.com/nioln2T6CPPHudhAPsMFwR72xcM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4387327/e45cf4.jpg",
-      "start_time": "2025-06-29T09:10:00.000Z"
     },
     "19007": {
       "title": "Cedera Saat Ikut Tren Olahraga? Ini Risiko Dibalik Popularitasnya",
