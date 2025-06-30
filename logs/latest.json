@@ -1,9 +1,9 @@
 {
-  "time": "2025-06-30T19:08:32.535Z",
+  "time": "2025-06-30T19:23:35.482Z",
   "headers": {
     "luws": "34401390-43A2-8062-5DE3-D9C3992929CE_22522467",
-    "x-signature": "ffbfb27b6ab65078850868212e2c60299374c25c4c966858aa4e652ee07bd596",
-    "x-client": 1751310509.011,
+    "x-signature": "3c43aff8d07cf319d993b3941b3e69026a8851340eb522a247f0ab83618669f0",
+    "x-client": 1751311411.986,
     "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/kRUrzjpvUXUClTac/+AfyrshkPPf/fAPHZoDJF1Bnb4awdeNZ3QZXDRnbVANEXzjJYJuHvH88l8Qew7H3LNByo=",
     "x-secure-level": "2",
     "x-api-platform": "web-desktop",
@@ -13,13 +13,13 @@
     "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
     "x-user-email": "jeffrybp1991@gmail.com",
     "204-dash": null,
-    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751324910~acl=/stream/204/file/*~id=allUsers~hmac=584bc253dc5523462edd82a1afd664bafe23231dea4a5ab756bd3f87ec018b8d",
+    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751325813~acl=/stream/204/file/*~id=allUsers~hmac=23cb3715eacbea0fd8776529e2b0a47134b7005db7d6c5cc027a8f0681b07f8d",
     "205-dash": null,
-    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751324910~acl=/stream/205/file/*~id=allUsers~hmac=032e524ef9005c8341ac5805e64a205bc4c85a00103b8484e7ece7930314f238",
-    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751324910~acl=/stream/206/file/*~id=allUsers~hmac=b70eb5f13a22c1c6b0b6dbe615bbb343c1c57a600d09ac21fda0e878abdcb9a2",
-    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751324910~acl=/stream/206/file/*~id=allUsers~hmac=b70eb5f13a22c1c6b0b6dbe615bbb343c1c57a600d09ac21fda0e878abdcb9a2",
+    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751325813~acl=/stream/205/file/*~id=allUsers~hmac=738d33cf1288c3747014d472be580595d2b167abc39a63a93c0e8929782cd055",
+    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751325813~acl=/stream/206/file/*~id=allUsers~hmac=f7f4871f3e926fe8e57724ebd60fffa87bf68ad89938c1da625b5f4d6bd8b27c",
+    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751325813~acl=/stream/206/file/*~id=allUsers~hmac=f7f4871f3e926fe8e57724ebd60fffa87bf68ad89938c1da625b5f4d6bd8b27c",
     "18105-dash": null,
-    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751324910~acl=/stream/18105/file/*~id=allUsers~hmac=fa521e7b761cf4a745a7a55fabd822386cbb8b241219e7560d0c1377fb05fa14",
+    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751325813~acl=/stream/18105/file/*~id=allUsers~hmac=be15ca12872ec89b8a1399abd5ea347680a2466bdd64e69f8fd9d124f1e10acd",
     "all-sections": "17139-17140-18249-18250-18252-18253-18994-6317",
     "all-vidiolivetv": [
       {
@@ -266,11 +266,6 @@
         "content_id": "12784",
         "nama_channel": "Africanews",
         "cover_url": "https://thumbor.prod.vidiocdn.com/gxp9cK9zfpgAKXUUuVc7SYF1q1g=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/12784/b75a42.png"
-      },
-      {
-        "content_id": "7687",
-        "nama_channel": "SEA TODAY",
-        "cover_url": "https://thumbor.prod.vidiocdn.com/sPaZ7qG786X3UGD6rDqkDpwGdZo=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/7687/b25cb7.jpg"
       },
       {
         "content_id": "6412",
