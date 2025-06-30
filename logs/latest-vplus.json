@@ -1,7 +1,7 @@
 {
-  "time": "2025-06-25T09:31:44.525Z",
+  "time": "2025-06-30T00:49:50.522Z",
   "headers": {
-    "time": "2025-06-25T09:31:44.667Z",
+    "time": "2025-06-30T00:49:49.929Z",
     "source": "xhr",
     "url": "https://www.visionplus.id/iris/unifiedPolling?target=WEB",
     "request": {
@@ -12,38 +12,35 @@
         "iris-hw-device-id": "ea9d81cd-75aa-492b-a36b-563d03ee730a",
         "iris-app-version": "11.3.75",
         "iris-device-region": "Indonesia",
-        "iris-device-status": "BACKGROUND",
+        "iris-device-status": "ACTIVE",
         "iris-module-id": "izZQB12n",
         "iris-app-mode": "Normal",
-        "authorization": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1aWQiOjM0MTY2NjAsInR5IjoiVVNFUiIsInBjaSI6Ijk1MjM3IiwiaHdJZCI6ImVhOWQ4MWNkLTc1YWEtNDkyYi1hMzZiLTU2M2QwM2VlNzMwYSIsImV4cCI6MTc1MDg1NzA0NCwicG4iOiJNTkMiLCJjaWQiOjMyOTM3MTl9.htKlnW8fYWRG2OhiMMhEVIshDDZ_sVRbaL_bkC0xlOM",
+        "authorization": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1aWQiOjM0MTY2NjAsInR5IjoiVVNFUiIsInBjaSI6Ijk1MjM3IiwiaHdJZCI6ImVhOWQ4MWNkLTc1YWEtNDkyYi1hMzZiLTU2M2QwM2VlNzMwYSIsImV4cCI6MTc1MDg1MzY1MCwicG4iOiJNTkMiLCJjaWQiOjMyOTM3MTksImFwIjoiMTAwNjc3NSJ9.9SeqHucbzVc3mucxkQrhf49A4mjnILDAJkuVm65uDIk",
         "iris-profile-id": "1006775",
         "iris-endpoints-version": "VklSVFVBTF9DSEFOTkVMUz0xNjk1NjIyNzE1NTI2LE5PVElGSUNBVElPTl9TVUJTQ1JJUFRJT05TPTE3MzY2Njk0ODEyNDYsUEVSU09OQUxfQ0hBTk5FTF9MSVNUUz0xNzUwNjcxOTk4OTk5LFNVQlNDUklCRVJfU0VUVElOR1M9MTc1MDY3MTk5ODk5OSxQVVJDSEFTRV9MSVNUPTE3NTA2NzE5OTg5OTksVUlfREFUQT0xNzA3MTA1NTkwOTE5LFdJU0hfTElTVD0xNzA3MTA1NTkwOTE5LFVTRVJfREFUQT0xNzUwNjcxOTk4OTk5LFJFQ09SRElOR19MSVNUPTE3MDcxMDU1OTA5MTksWU9VX1dBVENIRUQ9MTcyNjEzODg3NDU0MixVU0VSX1BST0ZJTEU9MTcwNzEwNTczODEwNixTRUdNRU5UQVRJT049MTc1MDc3ODQyMDkxNCxQRVJTT05BTF9BQ1RJVkVfQ0hBTk5FTFM9MTc1MDY1MDk1NDI5MixERVZJQ0VfU0VUVElOR1M9MTc1MDY3MTk5ODk5OSxGQVZfQ0hBTk5FTF9MSVNUPTE3NTA2NzE5OTg5OTksQUNUSVZFX0NIQU5ORUxTPTE3NTA2NzE5OTg5OTk=",
         "content-type": "application/json"
       }
     },
     "response": {
-      "status": 200,
+      "status": 401,
       "headers": {
         "access-control-allow-headers": "Accept-Encoding,Content-Encoding,If-None-Match,Content-Type,IRIS-HW-DEVICE-ID,IRIS-DEVICE-TYPE,IRIS-DEVICE-CLASS,IRIS-APP-VERSION,IRIS-VIP-USER,Authorization,IRIS-PROFILE-ID,IRIS-LANGUAGE,Usage,IRIS-TARGET,IRIS-DEVICE-REGION,Cache-Control,IRIS-REQUEST-ID,IRIS-DEVICE-STATUS,IRIS-HW-NOTIFICATION-ID,IRIS-UP-LAST-SYNC,IRIS-APP-MODE,IRIS-ENDPOINTS-VERSION,IRIS-MODULE-ID,X-Prerender-Token,X-Prerender-Version,x-prerender-requestid",
         "access-control-allow-methods": "GET, POST, PUT, DELETE, OPTIONS",
         "access-control-allow-origin": "*",
-        "access-control-expose-headers": "IRIS-SOURCE-ADDRESS, Authorization",
+        "access-control-expose-headers": "Authorization",
         "age": "0",
-        "authorization": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1aWQiOjM0MTY2NjAsInR5IjoiVVNFUiIsInBjaSI6Ijk1MjM3IiwiaHdJZCI6ImVhOWQ4MWNkLTc1YWEtNDkyYi1hMzZiLTU2M2QwM2VlNzMwYSIsImV4cCI6MTc1MDg1NzUyNCwicG4iOiJNTkMiLCJjaWQiOjMyOTM3MTl9.aTk_PaHwnk_z883U1ZlYUvQh0kWv8Zmk5-P5tKqkhOo",
         "cache-control": "max-age=0",
         "content-encoding": "br",
+        "content-length": "41",
         "content-type": "application/json",
-        "date": "Wed, 25 Jun 2025 09:31:44 GMT",
-        "iris-cache-control": "600",
+        "date": "Mon, 30 Jun 2025 00:49:49 GMT",
         "iris-disconnection-timeout": "604800",
-        "iris-endpoints-version": "VklSVFVBTF9DSEFOTkVMUz0xNjk1NjIyNzE1NTI2LE5PVElGSUNBVElPTl9TVUJTQ1JJUFRJT05TPTE3MzY2Njk0ODEyNDYsUEVSU09OQUxfQ0hBTk5FTF9MSVNUUz0xNzUwNjcxOTk4OTk5LFNVQlNDUklCRVJfU0VUVElOR1M9MTc1MDY3MTk5ODk5OSxQVVJDSEFTRV9MSVNUPTE3NTA2NzE5OTg5OTksVUlfREFUQT0xNzA3MTA1NTkwOTE5LFdJU0hfTElTVD0xNzA3MTA1NTkwOTE5LFVTRVJfREFUQT0xNzUwNjcxOTk4OTk5LFJFQ09SRElOR19MSVNUPTE3MDcxMDU1OTA5MTksWU9VX1dBVENIRUQ9MTcyNjEzODg3NDU0MixVU0VSX1BST0ZJTEU9MTcwNzEwNTczODEwNixTRUdNRU5UQVRJT049MTc1MDc3ODQyMDkxNCxQRVJTT05BTF9BQ1RJVkVfQ0hBTk5FTFM9MTc1MDY1MDk1NDI5MixERVZJQ0VfU0VUVElOR1M9MTc1MDY3MTk5ODk5OSxGQVZfQ0hBTk5FTF9MSVNUPTE3NTA2NzE5OTg5OTksQUNUSVZFX0NIQU5ORUxTPTE3NTA2NzE5OTg5OTk=",
-        "iris-source-address": "124.158.150.102",
         "server": "ATS/7.1.0 Ingress/1.0.0-alpha9",
         "vary": "Accept-Encoding",
-        "via": "http/1.1 trafficserver-7876f7c99b-82kbs (ATS/7.1.0 Ingress/1.0.0-alpha9), 1.1 a8ef71255c0989c762e576fe9eb64d98.cloudfront.net (CloudFront)",
-        "x-amz-cf-id": "nijFQyypzcWq-jvUS-3pz6zOFFBuDEIqIwErFJt120lGCJHXl9hL6Q==",
-        "x-amz-cf-pop": "CGK50-P2",
-        "x-cache": "Miss from cloudfront",
+        "via": "http/1.1 trafficserver-7876f7c99b-ng5bp (ATS/7.1.0 Ingress/1.0.0-alpha9), 1.1 9b42888bacc8273877421321cf54240a.cloudfront.net (CloudFront)",
+        "x-amz-cf-id": "kvclRLBZJv-ZY8bm4hSXJwMdIqNZYI3e1kZszSDdcEt5zL-pHlVzrA==",
+        "x-amz-cf-pop": "SIN2-P2",
+        "x-cache": "Error from cloudfront",
         "x-cache-status": "skipped (-1)"
       }
     }
