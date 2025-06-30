@@ -1,9 +1,9 @@
 {
-  "time": "2025-06-30T08:17:16.738Z",
+  "time": "2025-06-30T08:32:24.384Z",
   "headers": {
     "luws": "34401390-43A2-8062-5DE3-D9C3992929CE_22522467",
-    "x-signature": "60ff3406675d677dadebd8c5f3bb2553bde93c556ebb383b9161143b45dd2ee0",
-    "x-client": 1751271431.872,
+    "x-signature": "4da98ee3b5915f52b38b5f640b34a4d59c9378f6e223648c8d0766ab23cce7e9",
+    "x-client": 1751272334.866,
     "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/kRUrzjpvUXUClTac/+AfyrshkPPf/fAPHZoDJF1Bnb4awdeNZ3QZXDRnbVANEXzjJYJuHvH88l8Qew7H3LNByo=",
     "x-secure-level": "2",
     "x-api-platform": "web-desktop",
@@ -13,13 +13,13 @@
     "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
     "x-user-email": "jeffrybp1991@gmail.com",
     "204-dash": null,
-    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751285833~acl=/stream/204/file/*~id=allUsers~hmac=1bb6c6ba9523d178b866061b2432c050efc7cb164191c4250e886e0fe7759222",
+    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751286736~acl=/stream/204/file/*~id=allUsers~hmac=937436f618f3c5b0bf7b4b43871f725c13533df6e71b7c7dbee3e58894f72cda",
     "205-dash": null,
-    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751285833~acl=/stream/205/file/*~id=allUsers~hmac=951842ba3288a286ccbb781c05b1352e95673182210b4be5bcd056a42d115a38",
-    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751285833~acl=/stream/206/file/*~id=allUsers~hmac=1730dc5d136315204644cf3d5a0cf1c3e00689af406fafd00e3df566239ebe8e",
-    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751285833~acl=/stream/206/file/*~id=allUsers~hmac=1730dc5d136315204644cf3d5a0cf1c3e00689af406fafd00e3df566239ebe8e",
+    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751286736~acl=/stream/205/file/*~id=allUsers~hmac=b9c03152ab14e37a9c8881f36c9c4526b820dc60b682ac85b6800e5e6a4e9286",
+    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751286736~acl=/stream/206/file/*~id=allUsers~hmac=ac040e4de98df9e9e76d55133a29b3c301f8d8eb5bf3a56a70989b25f0461d4c",
+    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751286736~acl=/stream/206/file/*~id=allUsers~hmac=ac040e4de98df9e9e76d55133a29b3c301f8d8eb5bf3a56a70989b25f0461d4c",
     "18105-dash": null,
-    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751285834~acl=/stream/18105/file/*~id=allUsers~hmac=4b7f8b72cc0aef6a836d20d0b62fc4dbf20b1123f65418c71a5202e098d7c21b",
+    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751286736~acl=/stream/18105/file/*~id=allUsers~hmac=b757003298ba869ccb0db0dc9a42cc78feec801583ebffddd0ebd6c2d5304972",
     "all-sections": "17139-17140-18249-18250-18252-18253-18994-6317",
     "all-vidiolivetv": [
       {
@@ -595,7 +595,7 @@
       "start_time": "2025-04-02T13:25:00.000Z"
     },
     "17938": {
-      "title": "Serie A",
+      "title": "Udinese vs Milan - Serie A",
       "web_url": "17938",
       "cover_url": "https://thumbor.prod.vidiocdn.com/tJoOEHTHed9-fRQvnXoew2nr8hY=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17938/serie-a-973769.jpg",
       "start_time": "2024-10-20T10:00:00.000Z"
@@ -611,12 +611,6 @@
       "web_url": "19007",
       "cover_url": "https://thumbor.prod.vidiocdn.com/u6_j9DWi29JxKXocSZ2XSUlMKsg=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/19007/healthy-monday-293cc8.jpg",
       "start_time": "2025-06-30T08:30:00.000Z"
-    },
-    "19012": {
-      "title": "Mario Ginanjar Ungkap Rahasia Kahitna, Dari Jarang Latihan Sampai Rekaman Dadakan",
-      "web_url": "19012",
-      "cover_url": "https://thumbor.prod.vidiocdn.com/kEDOZtjE5-Bsw0ZME13nS_Yj_uQ=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/19012/obrolan-balkon-b36c49.jpg",
-      "start_time": "2025-06-30T07:00:00.000Z"
     }
   }
 }
