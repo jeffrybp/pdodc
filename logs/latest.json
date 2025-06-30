@@ -1,9 +1,9 @@
 {
-  "time": "2025-06-30T06:42:24.524Z",
+  "time": "2025-06-30T06:44:09.364Z",
   "headers": {
     "luws": "34401390-43A2-8062-5DE3-D9C3992929CE_22522467",
-    "x-signature": "4b3752d5bb9151b4ce4d516d1d8acde8f76e1a34ddc0dbd72866bdfca832140d",
-    "x-client": 1751265739.857,
+    "x-signature": "91c4765a6aaaffb222fcd898ee8d61fb64341e4fd6beb770609b5c4960fd058b",
+    "x-client": 1751265847.462,
     "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/kRUrzjpvUXUClTac/+AfyrshkPPf/fAPHZoDJF1Bnb4awdeNZ3QZXDRnbVANEXzjJYJuHvH88l8Qew7H3LNByo=",
     "x-secure-level": "2",
     "x-api-platform": "web-desktop",
@@ -13,13 +13,13 @@
     "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
     "x-user-email": "jeffrybp1991@gmail.com",
     "204-dash": null,
-    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751280141~acl=/stream/204/file/*~id=allUsers~hmac=86fc985e516637c843df8c481f49d7f0d6c2e3661903f6a2654924173dd94395",
+    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751280248~acl=/stream/204/file/*~id=allUsers~hmac=1061ea29c3a3cc2e7427369c8fa5cece16c964845c1aee52b3a71321c60001ed",
     "205-dash": null,
-    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751280141~acl=/stream/205/file/*~id=allUsers~hmac=be1191e09eaaebb3d9e17587c214b581a7ba3a5cfae0e90ab4c898c415a52cd9",
-    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751280141~acl=/stream/206/file/*~id=allUsers~hmac=b74ef34f95fc29243e176403fb36ba1ee7e44538073e537a67e68bbe3f2ee859",
-    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751280141~acl=/stream/206/file/*~id=allUsers~hmac=b74ef34f95fc29243e176403fb36ba1ee7e44538073e537a67e68bbe3f2ee859",
+    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751280248~acl=/stream/205/file/*~id=allUsers~hmac=8978d5681c0d01ed1e3eefcb79d4ee78ad6f6af255ac045e6bc8ec663d36227b",
+    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751280248~acl=/stream/206/file/*~id=allUsers~hmac=37f950a8f81ab4d732324d3b0b6e898d6152650426389244a2c09516d1a87167",
+    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751280248~acl=/stream/206/file/*~id=allUsers~hmac=37f950a8f81ab4d732324d3b0b6e898d6152650426389244a2c09516d1a87167",
     "18105-dash": null,
-    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751280141~acl=/stream/18105/file/*~id=allUsers~hmac=acd67da8c20788ab814ce95c9ad9834d4324529eb1ecdcd9d1a258f00ad33f58",
+    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751280248~acl=/stream/18105/file/*~id=allUsers~hmac=9bb944cb436444e671f71e682ce1ad3c7063794f9bf6b0b395f5056cfef7ca4d",
     "all-sections": "17139-17140-18994-6317",
     "all-vidiolivetv": [
       {
@@ -36,6 +36,16 @@
         "content_id": "206",
         "nama_channel": "Moji",
         "cover_url": "https://thumbor.prod.vidiocdn.com/g7gTjD2Il1GI4DJULOZ1cv6NSj4=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/206/1823dc.png"
+      },
+      {
+        "content_id": "734",
+        "nama_channel": "Trans7",
+        "cover_url": "https://thumbor.prod.vidiocdn.com/-MEB2a6J4sB6SvBDimCb7JYP6WY=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/734/131514.png"
+      },
+      {
+        "content_id": "733",
+        "nama_channel": "TRANS TV",
+        "cover_url": "https://thumbor.prod.vidiocdn.com/__j35q7LPpcS2EgkR7v8GpE4USQ=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/733/ecaa60.png"
       },
       {
         "content_id": "783",
