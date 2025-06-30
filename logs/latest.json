@@ -1,9 +1,9 @@
 {
-  "time": "2025-06-30T08:47:22.030Z",
+  "time": "2025-06-30T09:02:25.051Z",
   "headers": {
     "luws": "34401390-43A2-8062-5DE3-D9C3992929CE_22522467",
-    "x-signature": "03fef3e74b4443bf883b80c52b9bf8d5b365d46059408f2ddb411378c94dbaab",
-    "x-client": 1751273237.882,
+    "x-signature": "8e0fb5c1615796775e322ec7c1b48139d242f6b78a049cf4a5127397a0e5eb1d",
+    "x-client": 1751274140.873,
     "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/kRUrzjpvUXUClTac/+AfyrshkPPf/fAPHZoDJF1Bnb4awdeNZ3QZXDRnbVANEXzjJYJuHvH88l8Qew7H3LNByo=",
     "x-secure-level": "2",
     "x-api-platform": "web-desktop",
@@ -13,13 +13,13 @@
     "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
     "x-user-email": "jeffrybp1991@gmail.com",
     "204-dash": null,
-    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751287639~acl=/stream/204/file/*~id=allUsers~hmac=ebd9a1c0566a0f93516fa6756920defb0b9865d32c3267b5b082939aadc9e996",
+    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751288542~acl=/stream/204/file/*~id=allUsers~hmac=21a8ad4f70e979d8b07f7604da36001206cf5f121b30d7ef595ffb9866dc1690",
     "205-dash": null,
-    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751287639~acl=/stream/205/file/*~id=allUsers~hmac=2aff0ec7c514bc77cfb4315965dca2ce622f1f99da3bfe51e1e8a5d2b366a0cf",
-    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751287639~acl=/stream/206/file/*~id=allUsers~hmac=5a21d2a2e92e923ebbe5509b8b8a1441ec7243fbd904d3d2e32d1f23aded62fa",
-    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751287639~acl=/stream/206/file/*~id=allUsers~hmac=5a21d2a2e92e923ebbe5509b8b8a1441ec7243fbd904d3d2e32d1f23aded62fa",
+    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751288542~acl=/stream/205/file/*~id=allUsers~hmac=f81e0266d1c10ce4e1995e53e70a1512c5a089de29dfcad1917537644675c4fd",
+    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751288542~acl=/stream/206/file/*~id=allUsers~hmac=0d139d10497d8f1ff84994ab65451c9a19564e1039a0d2c39a4555e9ac70f039",
+    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751288542~acl=/stream/206/file/*~id=allUsers~hmac=0d139d10497d8f1ff84994ab65451c9a19564e1039a0d2c39a4555e9ac70f039",
     "18105-dash": null,
-    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751287639~acl=/stream/18105/file/*~id=allUsers~hmac=df98912506708910313fcc393173dcc1f273e6a3bec1d7b54c8ea33a9c79a8c3",
+    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751288542~acl=/stream/18105/file/*~id=allUsers~hmac=3ebf8f533b62821ba2bcb7c0b5e9b3442ac96eff00f3b208f3ae3382e0ca752d",
     "all-sections": "17139-17140-18249-18250-18252-18253-18994-6317",
     "all-vidiolivetv": [
       {
@@ -589,7 +589,7 @@
   },
   "vidioliveothers": {
     "17884": {
-      "title": "Formula 1",
+      "title": "FIA Formula 3 Championship Feature Race 2025",
       "web_url": "17884",
       "cover_url": "https://thumbor.prod.vidiocdn.com/Rc1pHYZnd8l_siMi118TkKusbPM=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17884/formula-1-5ee872.jpg",
       "start_time": "2025-04-02T13:25:00.000Z"
