@@ -1,9 +1,9 @@
 {
-  "time": "2025-06-30T12:48:17.399Z",
+  "time": "2025-06-30T13:03:21.080Z",
   "headers": {
     "luws": "34401390-43A2-8062-5DE3-D9C3992929CE_22522467",
-    "x-signature": "0dd5c5dde8c010bdd896e20a97d5bd34f73f3f6d70a22b6ca42ccbbda7c225c2",
-    "x-client": 1751287691.886,
+    "x-signature": "45190334299c3f58b77580e5dde18c3a9d863f02afb4a9f16e64dcde67831ba8",
+    "x-client": 1751288594.91,
     "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/kRUrzjpvUXUClTac/+AfyrshkPPf/fAPHZoDJF1Bnb4awdeNZ3QZXDRnbVANEXzjJYJuHvH88l8Qew7H3LNByo=",
     "x-secure-level": "2",
     "x-api-platform": "web-desktop",
@@ -13,13 +13,13 @@
     "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
     "x-user-email": "jeffrybp1991@gmail.com",
     "204-dash": null,
-    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751302093~acl=/stream/204/file/*~id=allUsers~hmac=a53f110c7110f0a0674d524bb5b941ab498360f02d83219223eaa2689e63ac68",
+    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751302996~acl=/stream/204/file/*~id=allUsers~hmac=1d48363ffbc17fac277963cc01d6cffb4d9bbefa74bbc9ce7fd2dd91d0b956b9",
     "205-dash": null,
-    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751302093~acl=/stream/205/file/*~id=allUsers~hmac=70fbe58997ce08eedc8ff19d99b3a0f866a9f33bd348e34c16ded79dfd071043",
-    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751302094~acl=/stream/206/file/*~id=allUsers~hmac=5683529c31a7ce54959b6e3b3e80b657be821421686622aad48bcdcc91a5fd51",
-    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751302094~acl=/stream/206/file/*~id=allUsers~hmac=5683529c31a7ce54959b6e3b3e80b657be821421686622aad48bcdcc91a5fd51",
+    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751302996~acl=/stream/205/file/*~id=allUsers~hmac=b372f40ace481a24ffab7cf354f1e974e457b1a802dc8d4bb5986fcdb2dedb84",
+    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751302996~acl=/stream/206/file/*~id=allUsers~hmac=46774d51a964db6220c3664e14c0f529790973cff19fff0ba22559e9ed05b069",
+    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751302996~acl=/stream/206/file/*~id=allUsers~hmac=46774d51a964db6220c3664e14c0f529790973cff19fff0ba22559e9ed05b069",
     "18105-dash": null,
-    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751302094~acl=/stream/18105/file/*~id=allUsers~hmac=730f623a4bd46fa5b1a354e27a158e47534018f88a7acbad7de0d1df5b4e340a",
+    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751302996~acl=/stream/18105/file/*~id=allUsers~hmac=bd22ae917cdcf5e6068fea50721f432d7b31fda579a0845e10b4ac17effcfd78",
     "all-sections": "17139-17140-18249-18250-18252-18253-18994-6317",
     "all-vidiolivetv": [
       {
@@ -595,7 +595,7 @@
       "start_time": "2025-04-02T13:25:00.000Z"
     },
     "17938": {
-      "title": "Serie A",
+      "title": "Venezia vs Milan - Serie A",
       "web_url": "17938",
       "cover_url": "https://thumbor.prod.vidiocdn.com/tJoOEHTHed9-fRQvnXoew2nr8hY=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17938/serie-a-973769.jpg",
       "start_time": "2024-10-20T10:00:00.000Z"
