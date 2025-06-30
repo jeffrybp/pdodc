@@ -1,9 +1,9 @@
 {
-  "time": "2025-06-30T22:09:07.540Z",
+  "time": "2025-06-30T22:24:10.363Z",
   "headers": {
     "luws": "34401390-43A2-8062-5DE3-D9C3992929CE_22522467",
-    "x-signature": "b319d9c084e252939f74ce529549437e7064ec5b6c8e16d894df0a82c0c31818",
-    "x-client": 1751321343.926,
+    "x-signature": "f6da1d1a8c00d0dcdeb7bac79ced738fca8f5962efcabdf99bb5970b8b8d9cea",
+    "x-client": 1751322246.959,
     "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/kRUrzjpvUXUClTac/+AfyrshkPPf/fAPHZoDJF1Bnb4awdeNZ3QZXDRnbVANEXzjJYJuHvH88l8Qew7H3LNByo=",
     "x-secure-level": "2",
     "x-api-platform": "web-desktop",
@@ -13,13 +13,13 @@
     "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
     "x-user-email": "jeffrybp1991@gmail.com",
     "204-dash": null,
-    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751335745~acl=/stream/204/file/*~id=allUsers~hmac=61193f2893c9e5686dcfc6b7678d4014b014e3f9c2ce1f6b7e453bf1d0590687",
+    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751336648~acl=/stream/204/file/*~id=allUsers~hmac=ff7fbbb1d5029bb3c08c22b98042d37632cb8d216b070f500acb3d3880a342a1",
     "205-dash": null,
-    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751335745~acl=/stream/205/file/*~id=allUsers~hmac=e0eec22b4fa78b4c6e66cf8418b44e97ff8ae16e8100c3d2675c76e326a5ceb4",
-    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751335745~acl=/stream/206/file/*~id=allUsers~hmac=3074c09b0c928af8d0b24661da60df77dedd944b7c2ee11c2a25cc70970cd105",
-    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751335745~acl=/stream/206/file/*~id=allUsers~hmac=3074c09b0c928af8d0b24661da60df77dedd944b7c2ee11c2a25cc70970cd105",
+    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751336648~acl=/stream/205/file/*~id=allUsers~hmac=6178885c063b7832534c5ce8c98bf53be32e01f7228630da67033af0a104c4ac",
+    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751336648~acl=/stream/206/file/*~id=allUsers~hmac=c4844d954ddc79c3b9d49a89b1c5baee44e97aa15663657c65639f1e2f05851d",
+    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751336648~acl=/stream/206/file/*~id=allUsers~hmac=c4844d954ddc79c3b9d49a89b1c5baee44e97aa15663657c65639f1e2f05851d",
     "18105-dash": null,
-    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751335745~acl=/stream/18105/file/*~id=allUsers~hmac=b34ca40b37d7ac10744d4a9060f53dd3fe621204a211dc44c4fde52843597cad",
+    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751336648~acl=/stream/18105/file/*~id=allUsers~hmac=c32a4ab6136890ece20bf70f81c487fa1587bec2c7d9c055d03567cdf62944c3",
     "all-sections": "17139-17140-18249-18250-18252-18253-18994-6317",
     "all-vidiolivetv": [
       {
@@ -514,12 +514,6 @@
       "web_url": "18994",
       "cover_url": "https://thumbor.prod.vidiocdn.com/WNSCGz2H0Aimisrw85FJYcS8imM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4388993/2fcd78.jpg",
       "start_time": "2025-07-02T13:00:00.000Z"
-    },
-    "4389219": {
-      "title": "Arthur Rinderknech vs Alexander Zverev - Gentlemen's Singles First Round | Wimbledon 2025",
-      "web_url": "17139",
-      "cover_url": "https://thumbor.prod.vidiocdn.com/GtmPAz57Ig1pyQbJhtFzV3sgSMw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4389219/a7426f.jpg",
-      "start_time": "2025-06-30T19:39:00.000Z"
     },
     "4389993": {
       "title": "Bordeaux P2 Premier Padel 2025 - Day 2",
