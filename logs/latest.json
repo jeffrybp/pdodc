@@ -1,29 +1,25 @@
 {
-  "time": "2025-07-01T14:40:10.625Z",
+  "time": "2025-07-01T16:25:50.839Z",
   "headers": {
-    "x-api-platform": "web-desktop",
-    "content-type": "application/vnd.api+json",
-    "x-request-from": "https://www.vidio.com/live/204",
-    "sec-ch-ua-platform": "\"Windows\"",
-    "referer": "https://www.vidio.com/",
-    "accept-language": "undefined",
-    "sec-ch-ua": "\"Not)A;Brand\";v=\"8\", \"Chromium\";v=\"138\", \"HeadlessChrome\";v=\"138\"",
-    "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/qHntSHDizggdYzCHyXt8h9jPR7gvQyGVk5J1EzzrurQHW5jalDDwIhFOw9n48twjaFmj1QPS4S9P+4vDUNHvuQ=",
-    "sec-ch-ua-mobile": "?0",
-    "luws": "14A0C695-7C68-77D2-55C8-E4216F4C362C_",
-    "x-signature": "cc32442943e14a978bcd05c7852434a28ee571f820708ad5441897abe780b92a",
-    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/138.0.7204.23 Safari/537.36",
+    "luws": "479B6303-A5B0-9BAD-F38B-A2D0235E5890_",
+    "x-signature": "d6a66ecc646a3fa70af4196a40002533b4dbfffdfe252c563760e0aca476ce6e",
+    "x-client": 1751387153.58,
+    "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/sFLk8UxoR2WgVrW7PlGuGo71yn51TO/txw5najASZ3FaNehjZFbdGVVyAlL3DURXMjm1ab7x1+mUD2rDb+vOu0=",
     "x-secure-level": "2",
-    "x-client": "1751380805.67",
+    "x-api-platform": "web-desktop",
+    "x-request-from": "https://www.vidio.com/live/204",
+    "content-type": "application/json",
+    "cookie": "ahoy_visitor=60d66794-a103-40d5-895a-925070783754; plenty_id=22522467; ahoy_visit=d69f4814-0b60-4823-8b7c-97d2c17a9a72; luws=479B6303-A5B0-9BAD-F38B-A2D0235E5890_; country_id=ID; _vidio_session=xxx;",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
     "x-user-email": null,
-    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751395208~acl=/stream/206/file/*~id=allUsers~hmac=0e295e47b98506ec10d7f0cd2afa8b2d9dba50f9dae96a2a24e6f6cfb4ea2638",
-    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751395208~acl=/stream/206/file/*~id=allUsers~hmac=0e295e47b98506ec10d7f0cd2afa8b2d9dba50f9dae96a2a24e6f6cfb4ea2638",
-    "18105-dash": null,
-    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751395208~acl=/stream/18105/file/*~id=allUsers~hmac=7b03aacbfb6e4efae8b1187df76868110d3238b99cffc889ae30db5164db48b9",
     "204-dash": null,
-    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751395208~acl=/stream/204/file/*~id=allUsers~hmac=251ff28cabc13c368db5b3688b7c264c66d9f197efbb10c3fbe7b91d4880f7b3",
+    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751401548~acl=/stream/204/file/*~id=allUsers~hmac=2687637c667b0b89665aea59223c13e46e8ebd6a5270b4ae88c13d596b365ce6",
     "205-dash": null,
-    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751395208~acl=/stream/205/file/*~id=allUsers~hmac=1d55d57fa4042bc69bf5899896314be752aeb1ad73f2efa0ccacaa9fb99a96fe",
+    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751401548~acl=/stream/205/file/*~id=allUsers~hmac=4c7cc3525b318336f4460e64d87889c53413fd7f6d5d2e5e8661a711fc41bd6e",
+    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751401548~acl=/stream/206/file/*~id=allUsers~hmac=907e46dc643fba936dfd997e930c58cf88060752b14bd59d953a88935a091737",
+    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751401548~acl=/stream/206/file/*~id=allUsers~hmac=907e46dc643fba936dfd997e930c58cf88060752b14bd59d953a88935a091737",
+    "18105-dash": null,
+    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751401548~acl=/stream/18105/file/*~id=allUsers~hmac=668a7c085f30937248ddaccbf7a5fd13fd8b469ff4e555705e39e9d12a930ff4",
     "all-sections": "17139-17140-17884-18189-18249-18250-18252-18253-18994-6317",
     "all-vidiolivetv": [
       {
@@ -40,16 +36,6 @@
         "content_id": "206",
         "nama_channel": "Moji",
         "cover_url": "https://thumbor.prod.vidiocdn.com/g7gTjD2Il1GI4DJULOZ1cv6NSj4=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/206/1823dc.png"
-      },
-      {
-        "content_id": "734",
-        "nama_channel": "Trans7",
-        "cover_url": "https://thumbor.prod.vidiocdn.com/-MEB2a6J4sB6SvBDimCb7JYP6WY=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/734/131514.png"
-      },
-      {
-        "content_id": "733",
-        "nama_channel": "TRANS TV",
-        "cover_url": "https://thumbor.prod.vidiocdn.com/__j35q7LPpcS2EgkR7v8GpE4USQ=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/733/ecaa60.png"
       },
       {
         "content_id": "783",
@@ -490,25 +476,25 @@
   },
   "sections": {
     "18249": {
-      "title": "Nyl Yakura/Jackie Dent (CAN) vs Chang Ko-Chi/Lin Jhih Yun (TPE) - Mixed Doubles Qualification | Yonex Canada Open 2025",
+      "title": "Emma Goyette/Jasmine Yuexin Zhang (CAN) vs Paula Guo/Ying Jian (CAN) - Women's Doubles Qualification | Yonex Canada Open 2025",
       "web_url": "18249",
       "cover_url": "https://thumbor.prod.vidiocdn.com/xeqn_EfSRY20ufR_dRHmAm2wy2s=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18249/yonex-canada-open-2025-qualifiers-r32-court-1-5dadc4.jpg",
       "start_time": "2025-07-01T13:00:00.000Z"
     },
     "18250": {
-      "title": "Mark Shelley Alcala (USA) vs Saket Thavanani (CAN) - Men's Singles Qualification | Yonex Canada Open 2025",
+      "title": "Harry Huang (ENG) vs Fabian Roth (GER) - Men's Singles Qualification | Yonex Canada Open 2025",
       "web_url": "18250",
       "cover_url": "https://thumbor.prod.vidiocdn.com/qbmsBBoTeUtSnDgNKoSP_OJFWxg=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18250/yonex-canada-open-2025-qualifiers-r32-court-2-1b2b12.jpg",
       "start_time": "2025-07-01T13:00:00.000Z"
     },
     "18252": {
-      "title": "Chen Zhi Ray/Yang Ching Tun (TPE) vs Tsai Fu Cheng/Sung Yu-Hsuan (TPE) - Mixed Doubles Qualification | Yonex Canada Open 2025",
+      "title": "Chloe Ho/Katelin Ngo (USA) vs Kathrine Vang/Mette Werge (DEN) - Women's Doubles Qualification | Yonex Canada Open 2025",
       "web_url": "18252",
       "cover_url": "https://thumbor.prod.vidiocdn.com/Ju-eVeSQ3p5ntoT3ANWwms1S3Xk=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18252/yonex-canada-open-2025-qualifiers-r32-court-3-417f21.jpg",
       "start_time": "2025-07-01T13:00:00.000Z"
     },
     "18253": {
-      "title": "Yoo Tae Bin (KOR) vs Victor Lai (CAN) - Mens Singles Qualification | Yonex Canada Open 2025",
+      "title": "Benedict Chen (USA)/Raymond Webster (ENG) vs Michael Ji/Ferdinand Simmons Zhang (CAN) - Men's Doubles Qualification | Yonex Canada Open 2025",
       "web_url": "18253",
       "cover_url": "https://thumbor.prod.vidiocdn.com/WsRlt70LgrRIvXxbleP35yDdKyA=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18253/yonex-canada-open-2025-qualifiers-r32-court-4-685805.jpg",
       "start_time": "2025-07-01T13:00:00.000Z"
@@ -547,43 +533,31 @@
       "title": "Petra Kvitova vs Emma Navarro - Ladies' Singles First Round | Wimbledon 2025",
       "web_url": "17140",
       "cover_url": "https://thumbor.prod.vidiocdn.com/y2-m0xHqaXoOd5QNoly3_P4Qecw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4392510/54afaf.jpg",
-      "start_time": "2025-07-01T15:00:00.000Z"
+      "start_time": "2025-07-01T15:05:00.000Z"
     },
     "4392511": {
       "title": "Jack Draper vs Sebastian Baez - Gentlemen's Singles First Round | Wimbledon 2025",
       "web_url": "17140",
       "cover_url": "https://thumbor.prod.vidiocdn.com/q6Q-2m0b5gFqMCWLzhBelknKMQs=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4392511/4b917e.jpg",
-      "start_time": "2025-07-01T17:00:00.000Z"
+      "start_time": "2025-07-01T18:30:00.000Z"
     },
     "4392549": {
       "title": "Alexandre Muller vs  Novak Djokovic - Gentlemen's Singles First Round | Wimbledon 2025",
       "web_url": "17139",
       "cover_url": "https://thumbor.prod.vidiocdn.com/OM513iJSvII2Tl9lTJ6Zh94Wcr4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4392549/9cd328.jpg",
-      "start_time": "2025-07-01T15:00:00.000Z"
+      "start_time": "2025-07-01T17:15:00.000Z"
     },
     "4392550": {
       "title": "Dayana Yastremska vs Coco Gauff - Ladies' Singles First Round | Wimbledon 2025",
       "web_url": "17139",
       "cover_url": "https://thumbor.prod.vidiocdn.com/E06VPdJkYmnjdsJNZ5Z9L2dw6r0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4392550/61124b.jpg",
-      "start_time": "2025-07-01T17:30:00.000Z"
-    },
-    "4394218": {
-      "title": "Taylor Fritz vs Giovanni Mpetshi Perricard - Gentlemen's Singles First Round | Wimbledon 2025",
-      "web_url": "17140",
-      "cover_url": "https://thumbor.prod.vidiocdn.com/K6ydT-Yh6RAZUyvvfBJVCtW5rHg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4394218/69d33b.jpg",
-      "start_time": "2025-07-01T14:05:00.000Z"
-    },
-    "4394219": {
-      "title": "Barbora Krejcikova vs Alexandra Eala - Ladies' Singles First Round | Wimbledon 2025",
-      "web_url": "17139",
-      "cover_url": "https://thumbor.prod.vidiocdn.com/-xMkYrx48v0_HNAdG1xXKpSLXjA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4394219/7ae44a.jpg",
-      "start_time": "2025-07-01T12:30:00.000Z"
+      "start_time": "2025-07-01T19:30:00.000Z"
     },
     "4394220": {
       "title": "Arthur Rinderknech vs Alexander Zverev - Gentlemen's Singles First Round | Wimbledon 2025",
       "web_url": "17139",
       "cover_url": "https://thumbor.prod.vidiocdn.com/J-UhkfOU7o7BZczoMqpYluUEAjY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4394220/6449a3.jpg",
-      "start_time": "2025-07-01T14:45:00.000Z"
+      "start_time": "2025-07-01T14:56:00.000Z"
     },
     "4394222": {
       "title": "Bordeaux P2 Premier Padel 2025 - Day 4",
@@ -636,7 +610,7 @@
   },
   "vidioliveothers": {
     "17884": {
-      "title": "Spielberg, Austria : FIA Formula 2 Championship Feature Race 2025",
+      "title": "Formula 1",
       "web_url": "17884",
       "cover_url": "https://thumbor.prod.vidiocdn.com/Rc1pHYZnd8l_siMi118TkKusbPM=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17884/formula-1-5ee872.jpg",
       "start_time": "2025-04-02T13:25:00.000Z"
@@ -654,25 +628,25 @@
       "start_time": "2024-10-20T12:45:00.000Z"
     },
     "18249": {
-      "title": "Nyl Yakura/Jackie Dent (CAN) vs Chang Ko-Chi/Lin Jhih Yun (TPE) - Mixed Doubles Qualification | Yonex Canada Open 2025",
+      "title": "Emma Goyette/Jasmine Yuexin Zhang (CAN) vs Paula Guo/Ying Jian (CAN) - Women's Doubles Qualification | Yonex Canada Open 2025",
       "web_url": "18249",
       "cover_url": "https://thumbor.prod.vidiocdn.com/xeqn_EfSRY20ufR_dRHmAm2wy2s=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18249/yonex-canada-open-2025-qualifiers-r32-court-1-5dadc4.jpg",
       "start_time": "2025-07-01T13:00:00.000Z"
     },
     "18250": {
-      "title": "Mark Shelley Alcala (USA) vs Saket Thavanani (CAN) - Men's Singles Qualification | Yonex Canada Open 2025",
+      "title": "Harry Huang (ENG) vs Fabian Roth (GER) - Men's Singles Qualification | Yonex Canada Open 2025",
       "web_url": "18250",
       "cover_url": "https://thumbor.prod.vidiocdn.com/qbmsBBoTeUtSnDgNKoSP_OJFWxg=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18250/yonex-canada-open-2025-qualifiers-r32-court-2-1b2b12.jpg",
       "start_time": "2025-07-01T13:00:00.000Z"
     },
     "18252": {
-      "title": "Chen Zhi Ray/Yang Ching Tun (TPE) vs Tsai Fu Cheng/Sung Yu-Hsuan (TPE) - Mixed Doubles Qualification | Yonex Canada Open 2025",
+      "title": "Chloe Ho/Katelin Ngo (USA) vs Kathrine Vang/Mette Werge (DEN) - Women's Doubles Qualification | Yonex Canada Open 2025",
       "web_url": "18252",
       "cover_url": "https://thumbor.prod.vidiocdn.com/Ju-eVeSQ3p5ntoT3ANWwms1S3Xk=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18252/yonex-canada-open-2025-qualifiers-r32-court-3-417f21.jpg",
       "start_time": "2025-07-01T13:00:00.000Z"
     },
     "18253": {
-      "title": "Yoo Tae Bin (KOR) vs Victor Lai (CAN) - Mens Singles Qualification | Yonex Canada Open 2025",
+      "title": "Benedict Chen (USA)/Raymond Webster (ENG) vs Michael Ji/Ferdinand Simmons Zhang (CAN) - Men's Doubles Qualification | Yonex Canada Open 2025",
       "web_url": "18253",
       "cover_url": "https://thumbor.prod.vidiocdn.com/WsRlt70LgrRIvXxbleP35yDdKyA=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18253/yonex-canada-open-2025-qualifiers-r32-court-4-685805.jpg",
       "start_time": "2025-07-01T13:00:00.000Z"
