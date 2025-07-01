@@ -1,21 +1,21 @@
 {
-  "time": "2025-07-01T00:19:12.905Z",
+  "time": "2025-07-01T00:26:15.840Z",
   "headers": {
     "x-api-platform": "web-desktop",
     "content-type": "application/json",
-    "x-signature": "5035d0ac0b613cacfd023bbf289ce7b4a5888e176a91c7f234c2dc6518702f3d",
-    "x-client": "1751329151.729",
-    "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/mklR5pdVchEKF95I5ETU7GoWmwxluTDJ4RFligmsA5i8Cp55sw4Ekpte+cIuC+EJcJoXWK+NANeFaACO/EAXEY=",
+    "x-signature": "c700e563c0b4c872957b63ff4a7179bec568f13b8da43f81e3486d7f1643dec5",
+    "x-client": "1751329573.311",
+    "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/lHmi8m4lZXFnVlwrGQe8u/sCo+Qo8opb9kefsg/cwOjt1yfy8ndNVWlQ9Va0mS8t+GRzAxeqM/HN2m0V9IOGEk=",
     "x-secure-level": "2",
     "x-user-email": null,
     "204-dash": null,
-    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751343552~acl=/stream/204/file/*~id=allUsers~hmac=e542b89e93500ba777b42c4d0726462b0a04b4b66735a3ee03fb7791d947c323",
+    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751343973~acl=/stream/204/file/*~id=allUsers~hmac=6ae9cdb998860edaa09c1d92443c82740a39bec32bf12bc9ea746eac527b9c9e",
     "205-dash": null,
-    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751343552~acl=/stream/205/file/*~id=allUsers~hmac=0101f9297c9df3af4842f6f0ac6f8fa9be6a78fa97e3aa0d6249893a8d3273b3",
-    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751343552~acl=/stream/206/file/*~id=allUsers~hmac=ce74badbf25c8898b150e93e2d9f2ba808b110a85ec867c511ef50388a95f16c",
-    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751343552~acl=/stream/206/file/*~id=allUsers~hmac=ce74badbf25c8898b150e93e2d9f2ba808b110a85ec867c511ef50388a95f16c",
+    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751343973~acl=/stream/205/file/*~id=allUsers~hmac=8756638ea428469aca4776627f1e1b3e066e7b397d1c375213d19e78c34818af",
+    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751343973~acl=/stream/206/file/*~id=allUsers~hmac=e4ca12408012d63bd8ceb9b47f33c315bee91d4f40107acf15c827b4ac79c34d",
+    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751343973~acl=/stream/206/file/*~id=allUsers~hmac=e4ca12408012d63bd8ceb9b47f33c315bee91d4f40107acf15c827b4ac79c34d",
     "18105-dash": null,
-    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751343552~acl=/stream/18105/file/*~id=allUsers~hmac=9bf925fc3e9699782093a0abb18f6ba034beb4fefb39e3cffe5b065955fd6862",
+    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751343973~acl=/stream/18105/file/*~id=allUsers~hmac=acffd681b537b6656345e3191c66d993ffa82be8bc131fa8b630e30a16ad73ae",
     "all-sections": "17139-17140-18249-18250-18252-18253-18994-6317",
     "all-vidiolivetv": [
       {
@@ -590,6 +590,12 @@
       "web_url": "17939",
       "cover_url": "https://thumbor.prod.vidiocdn.com/X-RqLAcQNAoAqhhYdA6L240KI50=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17939/serie-a-4cc90b.jpg",
       "start_time": "2024-10-20T12:45:00.000Z"
+    },
+    "19018": {
+      "title": "Presiden Prabowo Pimpin Upacara Hari Bhayangkara ke-79 | LIVE",
+      "web_url": "19018",
+      "cover_url": "https://thumbor.prod.vidiocdn.com/j4xcKX4nBXNCBbRw7mPHMfWB2ns=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/19018/presiden-prabowo-pimpin-upacara-hari-bhayangkara-ke-79-live-e63d57.jpg",
+      "start_time": "2025-07-01T00:22:00.000Z"
     },
     "19019": {
       "title": "Perayaan HUT ke-79 Bhayangkara 1 Juli 2025, Meriah Penuh Kejutan",
