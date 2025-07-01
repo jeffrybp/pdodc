@@ -21,5 +21,8 @@ jobs:
       - name: Install dependencies
         run: npm install playwright node-fetch@3.3.2
 
+      - name: Install Playwright browsers
+        run: npx playwright install --with-deps
+
       - name: Run script
         run: node scripts/pdo.js
