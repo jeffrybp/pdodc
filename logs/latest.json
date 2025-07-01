@@ -1,5 +1,5 @@
 {
-  "time": "2025-07-01T05:30:09.235Z",
+  "time": "2025-07-01T05:40:09.272Z",
   "headers": {
     "x-api-platform": "web-desktop",
     "content-type": "application/vnd.api+json",
@@ -8,22 +8,22 @@
     "referer": "https://www.vidio.com/",
     "accept-language": "undefined",
     "sec-ch-ua": "\"Not)A;Brand\";v=\"8\", \"Chromium\";v=\"138\", \"HeadlessChrome\";v=\"138\"",
-    "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/v0hrf5SATM8YioHrwtzbgPgH0YsB2OO9OXSmzSmjr3zHeU3t6fQ7zfi6o/rdHWYGuTk34zcOXMaLyKDa2Jy7KY=",
+    "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/lqtqinp30tVLiTDFFKTqts00Imp3lRL9mif2lxxU1gnpZ8FjGxfgqHx0WD58+eQ2vXGDSFQyqJrDeF/pK1wnGk=",
     "sec-ch-ua-mobile": "?0",
-    "luws": "51760E74-62A7-0A98-8C05-C0CCF5F9A43E_",
-    "x-signature": "038049bf372f8723a320d92b6c92706593a3a03bb85ea242334cc96967222f99",
+    "luws": "F456DD04-E98C-D71A-6CB1-0443DD806611_",
+    "x-signature": "92834843f2289e826c5e8bb373b320ed0ff20d6da5198f41546da847da25472d",
     "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/138.0.7204.23 Safari/537.36",
     "x-secure-level": "2",
-    "x-client": "1751347806.305",
+    "x-client": "1751348406.352",
     "x-user-email": null,
-    "18105-dash": null,
-    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751362207~acl=/stream/18105/file/*~id=allUsers~hmac=aae2c460d95f5a8741190762f20b47559ba79cd4ee3feda7ae208b12f509af19",
     "204-dash": null,
-    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751362207~acl=/stream/204/file/*~id=allUsers~hmac=6cd0ad69ddde5dbe2cda16da93d3c1d5af03a1b1d4b510f525a0d8d4c1b8f871",
-    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751362207~acl=/stream/206/file/*~id=allUsers~hmac=4c742189094ab240bbac4bf030b3970bdec41f1cbe4da4cc200c118753223e12",
-    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751362207~acl=/stream/206/file/*~id=allUsers~hmac=4c742189094ab240bbac4bf030b3970bdec41f1cbe4da4cc200c118753223e12",
+    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751362807~acl=/stream/204/file/*~id=allUsers~hmac=ec2c76fd0ced7ff7a17311ddced9613a5b1514413de0cbd147d0ab6f264170b7",
+    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751362807~acl=/stream/206/file/*~id=allUsers~hmac=066480f70c7539891c7d4d67de814a5de827172cd3e5d2a85c7292625f84183b",
+    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751362807~acl=/stream/206/file/*~id=allUsers~hmac=066480f70c7539891c7d4d67de814a5de827172cd3e5d2a85c7292625f84183b",
     "205-dash": null,
-    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751362207~acl=/stream/205/file/*~id=allUsers~hmac=43a1ba5786849b1418e873bb96d8a105c65a5af01afad0a75afba39a71dd313a",
+    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751362807~acl=/stream/205/file/*~id=allUsers~hmac=7f4d32b31258585c4111a2c5e871a2d38d82927d9b765835c2af07704734b817",
+    "18105-dash": null,
+    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751362807~acl=/stream/18105/file/*~id=allUsers~hmac=76c4c7f80d969e76759f70f1853c765c767bf137b0d7cc229bc461d160083d7a",
     "all-sections": "17139-17140-17884-18189-18249-18250-18252-18253-18994-6317",
     "all-vidiolivetv": [
       {
@@ -642,7 +642,7 @@
   },
   "vidioliveothers": {
     "17884": {
-      "title": "Formula 1",
+      "title": "Austria : Formula 1 Highlights",
       "web_url": "17884",
       "cover_url": "https://thumbor.prod.vidiocdn.com/Rc1pHYZnd8l_siMi118TkKusbPM=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17884/formula-1-5ee872.jpg",
       "start_time": "2025-04-02T13:25:00.000Z"
@@ -658,12 +658,6 @@
       "web_url": "17939",
       "cover_url": "https://thumbor.prod.vidiocdn.com/X-RqLAcQNAoAqhhYdA6L240KI50=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17939/serie-a-4cc90b.jpg",
       "start_time": "2024-10-20T12:45:00.000Z"
-    },
-    "19019": {
-      "title": "Perayaan HUT ke-79 Bhayangkara 1 Juli 2025, Meriah Penuh Kejutan",
-      "web_url": "19019",
-      "cover_url": "https://thumbor.prod.vidiocdn.com/vLEtjzmX9Ya4TktR3ytTyFlF8Po=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/19019/live-now-51951c.jpg",
-      "start_time": "2025-07-01T00:07:00.000Z"
     }
   }
 }
