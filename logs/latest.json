@@ -1,5 +1,5 @@
 {
-  "time": "2025-07-01T12:10:09.192Z",
+  "time": "2025-07-01T12:20:19.568Z",
   "headers": {
     "x-api-platform": "web-desktop",
     "content-type": "application/vnd.api+json",
@@ -8,22 +8,22 @@
     "referer": "https://www.vidio.com/",
     "accept-language": "undefined",
     "sec-ch-ua": "\"Not)A;Brand\";v=\"8\", \"Chromium\";v=\"138\", \"HeadlessChrome\";v=\"138\"",
-    "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/kA3BXvNFhLkclcuMGTmF1GF6eqnBiuC7xRAX7z7LVFun/engWMZKyPYrM009glbDhtPsSjrZ5ExBX6zJsFX0vM=",
+    "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/k9jDpbitAh0UbpdJlUn1TOJz31Lh5nYMHsi8Wbfr9yW6mozQzyM4seKE1RztLbsMQ74es0DQSOXjtAsOAEmSSg=",
     "sec-ch-ua-mobile": "?0",
-    "luws": "F642154B-687E-6A83-5709-875F81F6BC3B_",
-    "x-signature": "8ac5232fc055815233963974eb56b4e8a6e720c69c8a7709e428fababadf7b32",
+    "luws": "37580B8E-073A-F374-4364-5E48C2E0C46D_",
+    "x-signature": "cd57f71317388351104618beb506d639c7ad719c34197479b49545b142aebb78",
     "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/138.0.7204.23 Safari/537.36",
     "x-secure-level": "2",
-    "x-client": "1751371805.774",
+    "x-client": "1751372414.933",
     "x-user-email": null,
-    "204-dash": null,
-    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751386207~acl=/stream/204/file/*~id=allUsers~hmac=2dc664c1354ab6b044ff46391c218c57b67ece0e76e3fe7281410e952a631006",
-    "18105-dash": null,
-    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751386206~acl=/stream/18105/file/*~id=allUsers~hmac=5e4c720749fb9576ed0dacf7956923760ffb41d4fad76d07d2ef4674638c7681",
-    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751386207~acl=/stream/206/file/*~id=allUsers~hmac=cb9633bd6a024c2aa91cf95612d0e45c21ef5499a979c7f9a7d0c8b23c05e8fe",
-    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751386207~acl=/stream/206/file/*~id=allUsers~hmac=cb9633bd6a024c2aa91cf95612d0e45c21ef5499a979c7f9a7d0c8b23c05e8fe",
     "205-dash": null,
-    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751386207~acl=/stream/205/file/*~id=allUsers~hmac=60666f3ee6d87305bd01ce0ffcaff8dd501b5d503c74325bbb0299a44adc32dc",
+    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751386815~acl=/stream/205/file/*~id=allUsers~hmac=9299546fb208cc652db0329ffc854efdb01db50b1f068eed7c7e7d497e0b2b82",
+    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751386815~acl=/stream/206/file/*~id=allUsers~hmac=776c2e53a3fd27ad6b874716f7608a13508be19d452a6c56bb15fc28aec71176",
+    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751386815~acl=/stream/206/file/*~id=allUsers~hmac=776c2e53a3fd27ad6b874716f7608a13508be19d452a6c56bb15fc28aec71176",
+    "204-dash": null,
+    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751386816~acl=/stream/204/file/*~id=allUsers~hmac=1018ad998be0c773cdc7f05c583f8029a370769e5dcac3d1e726b3ca99ceaac9",
+    "18105-dash": null,
+    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751386816~acl=/stream/18105/file/*~id=allUsers~hmac=cb38290cf4a265ee1ec0a8a5caea4bb73b7663bacd030d2dee65311995d7129f",
     "all-sections": "17139-17140-17884-18189-18249-18250-18252-18253-18994-6317",
     "all-vidiolivetv": [
       {
@@ -648,7 +648,7 @@
       "start_time": "2025-04-02T13:25:00.000Z"
     },
     "17938": {
-      "title": "Roma vs Milan - Serie A",
+      "title": "Serie A",
       "web_url": "17938",
       "cover_url": "https://thumbor.prod.vidiocdn.com/tJoOEHTHed9-fRQvnXoew2nr8hY=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17938/serie-a-973769.jpg",
       "start_time": "2024-10-20T10:00:00.000Z"
