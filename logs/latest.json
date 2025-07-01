@@ -1,5 +1,5 @@
 {
-  "time": "2025-07-01T07:20:10.140Z",
+  "time": "2025-07-01T07:30:09.097Z",
   "headers": {
     "x-api-platform": "web-desktop",
     "content-type": "application/vnd.api+json",
@@ -8,22 +8,22 @@
     "referer": "https://www.vidio.com/",
     "accept-language": "undefined",
     "sec-ch-ua": "\"Not)A;Brand\";v=\"8\", \"Chromium\";v=\"138\", \"HeadlessChrome\";v=\"138\"",
-    "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/vCDZ8F2MHUcTPUYAXO0/SwcTx19+rrtKyzV79vX6gL4pkmkhKpXt1khDFACWcIB1zWAtlx4p1tM1mZ5Oi+q/f0=",
+    "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/iZ5vw/1tAyKLi6OshI9PmQ2Y/P0FM0aaru9rVTO7fGcORN9iSZcnRufEwuTQ073k/CKArh8XgrlxHdkrsyeSA0=",
     "sec-ch-ua-mobile": "?0",
-    "luws": "3DA5E84A-E8E3-8B94-31B4-C17B8F715188_",
-    "x-signature": "04e8a945169abdd3bb21a71a7a8c83fd41b5d7455f59d36d12f5a1bc1a076c84",
+    "luws": "9D6C43F8-82A7-ECA3-F5B3-F233AD79D561_",
+    "x-signature": "144ea436eedb1e1254f68cda8323de42783551261e7a6b64ad52c0ffad02323a",
     "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/138.0.7204.23 Safari/537.36",
     "x-secure-level": "2",
-    "x-client": "1751354403.681",
+    "x-client": "1751355006.352",
     "x-user-email": null,
-    "204-dash": null,
-    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751368807~acl=/stream/204/file/*~id=allUsers~hmac=572abfbc435bd1183fc8d7e86d7ba2105ae8459737527c866edf84313e7cbab5",
     "18105-dash": null,
-    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751368807~acl=/stream/18105/file/*~id=allUsers~hmac=b201cc25974caced19750de16ba8d10e5abb8489ce9295b6bd295e90e2665cbb",
-    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751368807~acl=/stream/206/file/*~id=allUsers~hmac=97301389615c4690d93c36d14b03b96ccd46403b338e79211ddc4d76d976d353",
-    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751368807~acl=/stream/206/file/*~id=allUsers~hmac=97301389615c4690d93c36d14b03b96ccd46403b338e79211ddc4d76d976d353",
+    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751369407~acl=/stream/18105/file/*~id=allUsers~hmac=b7ae507e0ee0bf727a2557582dadac8d033a151f26fab94785c458abf2566c50",
     "205-dash": null,
-    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751368807~acl=/stream/205/file/*~id=allUsers~hmac=7ead894a596cadc5ec2592679534292f89fa4350ccb76f8a68d71165102ed6cb",
+    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751369407~acl=/stream/205/file/*~id=allUsers~hmac=cad93113e0c28981043355cb1f135ef88559f08c6f71e0f709cb77158125dd1a",
+    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751369407~acl=/stream/206/file/*~id=allUsers~hmac=cab63856bc7627b208b1b1c0c251475642ad084024c3485b281f924c222f8af1",
+    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751369407~acl=/stream/206/file/*~id=allUsers~hmac=cab63856bc7627b208b1b1c0c251475642ad084024c3485b281f924c222f8af1",
+    "204-dash": null,
+    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751369407~acl=/stream/204/file/*~id=allUsers~hmac=0510e84856cb9f52fbab883a5082026a3832ee2431d82371e492478a6629575e",
     "all-sections": "17139-17140-17884-18189-18249-18250-18252-18253-18994-6317",
     "all-vidiolivetv": [
       {
@@ -658,12 +658,6 @@
       "web_url": "17939",
       "cover_url": "https://thumbor.prod.vidiocdn.com/X-RqLAcQNAoAqhhYdA6L240KI50=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17939/serie-a-4cc90b.jpg",
       "start_time": "2024-10-20T12:45:00.000Z"
-    },
-    "19021": {
-      "title": "DPR Rapat Bareng Mendagri hingga Gubernur se-Indonesia",
-      "web_url": "19021",
-      "cover_url": "https://thumbor.prod.vidiocdn.com/ePYt0AU_CwvYzySf9ia2sDgzcSw=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/19021/live-now-fe2079.jpg",
-      "start_time": "2025-07-01T08:00:00.000Z"
     }
   }
 }
