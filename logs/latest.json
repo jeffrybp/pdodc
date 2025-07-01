@@ -1,5 +1,5 @@
 {
-  "time": "2025-07-01T17:30:08.858Z",
+  "time": "2025-07-01T17:40:08.563Z",
   "headers": {
     "x-api-platform": "web-desktop",
     "content-type": "application/vnd.api+json",
@@ -10,20 +10,20 @@
     "sec-ch-ua": "\"Not)A;Brand\";v=\"8\", \"Chromium\";v=\"138\", \"HeadlessChrome\";v=\"138\"",
     "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/go3Pfu1Rn6DLuG7dm7Rr/7jnlNS2btkT2ziW0vrwj9Nwkn91S8UpOM/fXbuwURz0syBBn2f3Ma/EeDzzubKnmM=",
     "sec-ch-ua-mobile": "?0",
-    "luws": "2D5AF26D-93A1-3E52-3CAF-2E8C17ED7949_",
-    "x-signature": "2de3ad0e1556032080baa118ab869b0fd2bfb06217e76b3c1828b8965edde49a",
+    "luws": "CC87184B-E5D9-679D-A8E9-AC7B248137A1_",
+    "x-signature": "856b5d67ab377541810964c2ff5e9187cda52b5ffb924354407d987d7f3e6eb6",
     "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/138.0.7204.23 Safari/537.36",
     "x-secure-level": "2",
-    "x-client": "1751391006.194",
+    "x-client": "1751391606.089",
     "x-user-email": null,
-    "204-dash": null,
-    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751405406~acl=/stream/204/file/*~id=allUsers~hmac=5291dc2cdfd1660a231851b06c70c47ebd67d74ded8f22e80e8dca5090abe632",
-    "18105-dash": null,
-    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751405406~acl=/stream/18105/file/*~id=allUsers~hmac=1da68fc295d2c824e939062e44e8abb687d8d31061a59ce8e62829b8332764e1",
-    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751405406~acl=/stream/206/file/*~id=allUsers~hmac=d834b385e604b9b3a0c6655341d71fcb79f8bb5f798ed47debac915d7fffea15",
-    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751405406~acl=/stream/206/file/*~id=allUsers~hmac=d834b385e604b9b3a0c6655341d71fcb79f8bb5f798ed47debac915d7fffea15",
+    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751406006~acl=/stream/206/file/*~id=allUsers~hmac=a5cead93e1c9e3e08cbe6cfaea3de6d93a754440371fcb01716208d7a31f5d3b",
+    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751406006~acl=/stream/206/file/*~id=allUsers~hmac=a5cead93e1c9e3e08cbe6cfaea3de6d93a754440371fcb01716208d7a31f5d3b",
     "205-dash": null,
-    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751405406~acl=/stream/205/file/*~id=allUsers~hmac=e0ca37e426b71421698a6f8ab315f16be35e39277f6696889ec0fabe02333121",
+    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751406006~acl=/stream/205/file/*~id=allUsers~hmac=1e0324a985ccfd2fdc1b1ab3b6ed6a4358f732b211c15e302cd9b3d7d2e2797a",
+    "204-dash": null,
+    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751406006~acl=/stream/204/file/*~id=allUsers~hmac=65144491015fabcdaa7f72343ed3fff459dacc7932fec86f51065ca9c9f1cf49",
+    "18105-dash": null,
+    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751406006~acl=/stream/18105/file/*~id=allUsers~hmac=e8e4e4ef71a87cb2040ef3bd77280b5f1a627eb1ddf75c4bcd9029150d61bf84",
     "all-sections": "17139-17140-17884-18189-18249-18250-18252-18253-18994-6317",
     "all-vidiolivetv": [
       {
@@ -502,7 +502,7 @@
       "start_time": "2025-07-01T13:00:00.000Z"
     },
     "18252": {
-      "title": "Disha Gupta (USA) vs Chen Su Yu (TPE) - Women's Singles Qualification | Yonex Canada Open 2025",
+      "title": "Rory Easton/Alex Green (ENG) vs Bjarne Geiss/Jones Ralgy Jansen (GER) - Men's Doubles Round of 32 | Yonex Canada Open 2025",
       "web_url": "18252",
       "cover_url": "https://thumbor.prod.vidiocdn.com/Ju-eVeSQ3p5ntoT3ANWwms1S3Xk=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18252/yonex-canada-open-2025-qualifiers-r32-court-3-417f21.jpg",
       "start_time": "2025-07-01T13:00:00.000Z"
@@ -642,7 +642,7 @@
       "start_time": "2025-07-01T13:00:00.000Z"
     },
     "18252": {
-      "title": "Disha Gupta (USA) vs Chen Su Yu (TPE) - Women's Singles Qualification | Yonex Canada Open 2025",
+      "title": "Rory Easton/Alex Green (ENG) vs Bjarne Geiss/Jones Ralgy Jansen (GER) - Men's Doubles Round of 32 | Yonex Canada Open 2025",
       "web_url": "18252",
       "cover_url": "https://thumbor.prod.vidiocdn.com/Ju-eVeSQ3p5ntoT3ANWwms1S3Xk=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18252/yonex-canada-open-2025-qualifiers-r32-court-3-417f21.jpg",
       "start_time": "2025-07-01T13:00:00.000Z"
