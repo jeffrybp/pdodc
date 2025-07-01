@@ -1,5 +1,5 @@
 {
-  "time": "2025-07-01T21:30:11.186Z",
+  "time": "2025-07-01T21:40:15.770Z",
   "headers": {
     "x-api-platform": "web-desktop",
     "content-type": "application/vnd.api+json",
@@ -8,22 +8,22 @@
     "referer": "https://www.vidio.com/",
     "accept-language": "undefined",
     "sec-ch-ua": "\"Not)A;Brand\";v=\"8\", \"Chromium\";v=\"138\", \"HeadlessChrome\";v=\"138\"",
-    "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/tWeKB4Ks0itTN0SkeqvD6iJJZgDkVI4SAeRGhDNcrghVz5V0bMVYRrC5R41DruNfa7iciplnhIaN0wsPkzPdCY=",
+    "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/qrdmUY6Eo5ywaRn27aBL1vkPdLimmf79moMHV5jOaAn5Swyb12CjW9wyQPKM60Yby+XW1Po4K0f0UBhDVt4DsU=",
     "sec-ch-ua-mobile": "?0",
-    "luws": "B8C87465-8377-3FCB-C9EF-B9B80465CD87_",
-    "x-signature": "0686c074453355859e6db513442fbece50a53a581253fb59cd0dd94399fc3e2f",
+    "luws": "E94172B2-12D5-089C-E26F-3D88A06B5228_",
+    "x-signature": "4df6dddc5ce61057e7aeda6865a13fa35cca9a57315724357f01c5bf23f60511",
     "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/138.0.7204.23 Safari/537.36",
     "x-secure-level": "2",
-    "x-client": "1751405406.661",
+    "x-client": "1751406013.525",
     "x-user-email": null,
-    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751419809~acl=/stream/206/file/*~id=allUsers~hmac=5d7e773a8847a184254ee6074d4f4211d0affa264d47576426c80a2d774e9eb9",
-    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751419809~acl=/stream/206/file/*~id=allUsers~hmac=5d7e773a8847a184254ee6074d4f4211d0affa264d47576426c80a2d774e9eb9",
-    "204-dash": null,
-    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751419809~acl=/stream/204/file/*~id=allUsers~hmac=0b51d8e98d686f8b5b7a926574ef3f39d1aad331bdd6db1bbf768229f651498c",
-    "205-dash": null,
-    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751419809~acl=/stream/205/file/*~id=allUsers~hmac=99d5aef1005eea2b4621638afa08cea8e2b777527a52261b08b53fd596690f47",
     "18105-dash": null,
-    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751419809~acl=/stream/18105/file/*~id=allUsers~hmac=9e893430cb34e893a1d61d54949c51481fbcfb92f29076d89952e83deec1de1b",
+    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751420414~acl=/stream/18105/file/*~id=allUsers~hmac=6aeb5923a43de0ae1a833aa2aba1b022e94a22b37bc23aed3bc63d763c6eb910",
+    "204-dash": null,
+    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751420414~acl=/stream/204/file/*~id=allUsers~hmac=4b67a7874b8473fae21cf5006be6f39afa6c1237e473041e6c4ae8258f8570f0",
+    "205-dash": null,
+    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751420414~acl=/stream/205/file/*~id=allUsers~hmac=a6f5b35dc2ea9d146ecd532114191d9a56565d5d5fa7a8b8fd1a2ded110a745e",
+    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751420414~acl=/stream/206/file/*~id=allUsers~hmac=072313afcb99e3b0f4bd87122f20ac1a99160cccc13bcdba07a3215edc061988",
+    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751420414~acl=/stream/206/file/*~id=allUsers~hmac=072313afcb99e3b0f4bd87122f20ac1a99160cccc13bcdba07a3215edc061988",
     "all-sections": "17884-18189-18249-18250-18252-18253-18994-6317",
     "all-vidiolivetv": [
       {
@@ -508,7 +508,7 @@
       "start_time": "2025-07-01T13:00:00.000Z"
     },
     "18253": {
-      "title": "Fang-Chih Lee/Fang-Jen Lee (TPE) vs Fabricio Farias/Davi Silva (BRA) - Men's Doubles Round of 32 | Yonex Canada Open 2025",
+      "title": "Wei Chun Wei/Po Chih Yang (TPE) vs Chen Zhi Yi/Presley Smith (USA) - Men's Doubles Round of 32 | Yonex Canada Open 2025",
       "web_url": "18253",
       "cover_url": "https://thumbor.prod.vidiocdn.com/WsRlt70LgrRIvXxbleP35yDdKyA=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18253/yonex-canada-open-2025-qualifiers-r32-court-4-685805.jpg",
       "start_time": "2025-07-01T13:00:00.000Z"
@@ -624,7 +624,7 @@
       "start_time": "2025-07-01T13:00:00.000Z"
     },
     "18253": {
-      "title": "Fang-Chih Lee/Fang-Jen Lee (TPE) vs Fabricio Farias/Davi Silva (BRA) - Men's Doubles Round of 32 | Yonex Canada Open 2025",
+      "title": "Wei Chun Wei/Po Chih Yang (TPE) vs Chen Zhi Yi/Presley Smith (USA) - Men's Doubles Round of 32 | Yonex Canada Open 2025",
       "web_url": "18253",
       "cover_url": "https://thumbor.prod.vidiocdn.com/WsRlt70LgrRIvXxbleP35yDdKyA=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18253/yonex-canada-open-2025-qualifiers-r32-court-4-685805.jpg",
       "start_time": "2025-07-01T13:00:00.000Z"
