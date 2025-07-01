@@ -1,5 +1,5 @@
 {
-  "time": "2025-07-01T07:53:33.158Z",
+  "time": "2025-07-01T08:00:06.285Z",
   "headers": {
     "x-api-platform": "web-desktop",
     "content-type": "application/vnd.api+json",
@@ -8,22 +8,22 @@
     "referer": "https://www.vidio.com/",
     "accept-language": "undefined",
     "sec-ch-ua": "\"Not)A;Brand\";v=\"8\", \"Chromium\";v=\"138\", \"HeadlessChrome\";v=\"138\"",
-    "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/lvZSHETzhOsuW1+NWCeDAsgHiG8X8x/BsMGSJi3ZsjdPNoVScW6Va88rgoz9KWxwfIJil32UXd/x0QaqkOs9iY=",
+    "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/nZNySlJ4hOpe4T36x+STsCjtvRxAEkQvBvvTrL+9pRQpQxC+3JIlS+DY4Mhj8MeAuM6kJj20i03aSdx+3fw478=",
     "sec-ch-ua-mobile": "?0",
-    "luws": "132BE991-900F-D4E4-AEBB-9A4FE9263A49_",
-    "x-signature": "c20742dad4d157b0babba15254563ad3a6231e377bcfa4c40c0d73a6dde97669",
+    "luws": "5CEBF9D4-D9A4-4DE3-E522-B58E56480C20_",
+    "x-signature": "019587efe77ac94465a0a8360ef632d7503f2652f0ff3de29dab7d6aa97060d0",
     "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/138.0.7204.23 Safari/537.36",
     "x-secure-level": "2",
-    "x-client": "1751356408.367",
+    "x-client": "1751356803.61",
     "x-user-email": null,
-    "18105-dash": null,
-    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751370809~acl=/stream/18105/file/*~id=allUsers~hmac=e832949f7385d7b5c29f28c2b32bfe215b9a033f2b077271a2ac3c389b0b7af6",
     "204-dash": null,
-    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751370809~acl=/stream/204/file/*~id=allUsers~hmac=f0cd14b8882f3f485d54afaf540786327632214c1eb1a0a31b45891d90cf4f0d",
-    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751370809~acl=/stream/206/file/*~id=allUsers~hmac=53dc934ea344219e99222ffdf6127355e2ae2caa5820e925d9b0f49e67069934",
-    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751370809~acl=/stream/206/file/*~id=allUsers~hmac=53dc934ea344219e99222ffdf6127355e2ae2caa5820e925d9b0f49e67069934",
+    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751371204~acl=/stream/204/file/*~id=allUsers~hmac=59b72831ddefe5830ee289fa739539d803a3b4d3887dc8d816feef7c7057502e",
     "205-dash": null,
-    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751370809~acl=/stream/205/file/*~id=allUsers~hmac=d3e562042f1d8cb87bf2c9c9358baecc097593a4837c38e7c95c7f72017dc582",
+    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751371204~acl=/stream/205/file/*~id=allUsers~hmac=862cd2626ed537281aab5ccff70a7f64597dbe09102474fb002ad6f0c6eaa2fc",
+    "18105-dash": null,
+    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751371204~acl=/stream/18105/file/*~id=allUsers~hmac=cfda1a13b401231723d598b480f0492edac177a3e8bc5608e759bceb93f75de4",
+    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751371204~acl=/stream/206/file/*~id=allUsers~hmac=efcf75756a5f8196f3815d2beb8f6c64c464591ab54a49701763e1783ed79ac0",
+    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751371204~acl=/stream/206/file/*~id=allUsers~hmac=efcf75756a5f8196f3815d2beb8f6c64c464591ab54a49701763e1783ed79ac0",
     "all-sections": "17139-17140-17884-18189-18249-18250-18252-18253-18994-6317",
     "all-vidiolivetv": [
       {
@@ -648,7 +648,7 @@
       "start_time": "2025-04-02T13:25:00.000Z"
     },
     "17938": {
-      "title": "Fiorentina vs Bologna",
+      "title": "Inter vs Lazio - Serie A",
       "web_url": "17938",
       "cover_url": "https://thumbor.prod.vidiocdn.com/tJoOEHTHed9-fRQvnXoew2nr8hY=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17938/serie-a-973769.jpg",
       "start_time": "2024-10-20T10:00:00.000Z"
