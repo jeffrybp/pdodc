@@ -1,22 +1,21 @@
 {
-  "time": "2025-07-01T00:26:15.840Z",
+  "time": "2025-07-01T00:41:20.986Z",
   "headers": {
     "x-api-platform": "web-desktop",
     "content-type": "application/json",
-    "x-signature": "c700e563c0b4c872957b63ff4a7179bec568f13b8da43f81e3486d7f1643dec5",
-    "x-client": "1751329573.311",
-    "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/lHmi8m4lZXFnVlwrGQe8u/sCo+Qo8opb9kefsg/cwOjt1yfy8ndNVWlQ9Va0mS8t+GRzAxeqM/HN2m0V9IOGEk=",
+    "x-signature": "f0e60bbe6f55251019745f0c09c244fe2787bdc0bf1e452d0fe734de5d0c3951",
+    "x-client": "1751330471.823",
+    "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/sc/NmctOmNcc6HBBGwpYWbQxEIPvXV6bDzjUHKVYY58VFCwzU4/MaRl7DxXSeEDDKcEpjzRUYBaL0HPWfFk6Lo=",
     "x-secure-level": "2",
     "x-user-email": null,
     "204-dash": null,
-    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751343973~acl=/stream/204/file/*~id=allUsers~hmac=6ae9cdb998860edaa09c1d92443c82740a39bec32bf12bc9ea746eac527b9c9e",
+    "204-hls": "https://www.vidio.com/videos/2384351/common_tokenized_playlist.m3u8?ott=eyJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoiYWxsdXNlcnMiLCJ2aWRlb19pZCI6IjIzODQzNTEiLCJjcmVhdGVkX2F0IjoxNzUxMzMwNDc0LCJleHRfZHVyYXRpb24iOjYwMH0.THTaIoFiVga4M6JCBLAhqkwKqRF0nIwaJokWFPvsgvE",
     "205-dash": null,
-    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751343973~acl=/stream/205/file/*~id=allUsers~hmac=8756638ea428469aca4776627f1e1b3e066e7b397d1c375213d19e78c34818af",
-    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751343973~acl=/stream/206/file/*~id=allUsers~hmac=e4ca12408012d63bd8ceb9b47f33c315bee91d4f40107acf15c827b4ac79c34d",
-    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751343973~acl=/stream/206/file/*~id=allUsers~hmac=e4ca12408012d63bd8ceb9b47f33c315bee91d4f40107acf15c827b4ac79c34d",
+    "205-hls": "https://www.vidio.com/videos/2384351/common_tokenized_playlist.m3u8?ott=eyJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoiYWxsdXNlcnMiLCJ2aWRlb19pZCI6IjIzODQzNTEiLCJjcmVhdGVkX2F0IjoxNzUxMzMwNDc1LCJleHRfZHVyYXRpb24iOjYwMH0.RhIS8YysCiZHyrqziSwvNsFrrbf0bu-SzxvkRu0_io8",
+    "206-dash": null,
+    "206-hls": "https://www.vidio.com/videos/2384351/common_tokenized_playlist.m3u8?ott=eyJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoiYWxsdXNlcnMiLCJ2aWRlb19pZCI6IjIzODQzNTEiLCJjcmVhdGVkX2F0IjoxNzUxMzMwNDc2LCJleHRfZHVyYXRpb24iOjYwMH0.eURc0kEl7mcR557pM6CgAckQ3SAuopzpeevs4HsxKJI",
     "18105-dash": null,
-    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751343973~acl=/stream/18105/file/*~id=allUsers~hmac=acffd681b537b6656345e3191c66d993ffa82be8bc131fa8b630e30a16ad73ae",
-    "all-sections": "17139-17140-18249-18250-18252-18253-18994-6317",
+    "18105-hls": "https://www.vidio.com/videos/2384351/common_tokenized_playlist.m3u8?ott=eyJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoiYWxsdXNlcnMiLCJ2aWRlb19pZCI6IjIzODQzNTEiLCJjcmVhdGVkX2F0IjoxNzUxMzMwNDc2LCJleHRfZHVyYXRpb24iOjYwMH0.eURc0kEl7mcR557pM6CgAckQ3SAuopzpeevs4HsxKJI",
     "all-vidiolivetv": [
       {
         "content_id": "204",
@@ -44,16 +43,6 @@
         "cover_url": "https://thumbor.prod.vidiocdn.com/__j35q7LPpcS2EgkR7v8GpE4USQ=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/733/ecaa60.png"
       },
       {
-        "content_id": "783",
-        "nama_channel": "TVOne",
-        "cover_url": "https://thumbor.prod.vidiocdn.com/APQ6a9vXvN6lU1zjeyL15IV_AJQ=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/783/07750c.png"
-      },
-      {
-        "content_id": "782",
-        "nama_channel": "ANTV",
-        "cover_url": "https://thumbor.prod.vidiocdn.com/IRVkD3QGRzroJ4IZzXBpS-0MRls=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/782/e1af8b.png"
-      },
-      {
         "content_id": "777",
         "nama_channel": "Metro TV",
         "cover_url": "https://thumbor.prod.vidiocdn.com/u0aa_S_rQeujrp5eR6LwXdertrI=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/777/ea8483.png"
@@ -69,11 +58,6 @@
         "cover_url": "https://thumbor.prod.vidiocdn.com/cSyueV9bIgkdLkvVWqIZOlR6TFQ=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/18280/c7fc8f.png"
       },
       {
-        "content_id": "1561",
-        "nama_channel": "RTV",
-        "cover_url": "https://thumbor.prod.vidiocdn.com/cStgoV5oqj2Om_6NMOzK0AFY-sg=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/1561/665aea.png"
-      },
-      {
         "content_id": "6165",
         "nama_channel": "BTV",
         "cover_url": "https://thumbor.prod.vidiocdn.com/DoRk_b8tcmbwDHroNxP2-o6QRKU=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6165/8c950f.png"
@@ -87,11 +71,6 @@
         "content_id": "18162",
         "nama_channel": "Garuda TV",
         "cover_url": "https://thumbor.prod.vidiocdn.com/qtIYvE-mjwMPwd-VUxilo2gFiAI=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/18162/b4bea2.png"
-      },
-      {
-        "content_id": "875",
-        "nama_channel": "MDTV",
-        "cover_url": "https://thumbor.prod.vidiocdn.com/LCZH_yEBnTYEQzrU1pB7w7ev-Bw=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/875/325605.png"
       },
       {
         "content_id": "5415",
@@ -119,91 +98,6 @@
         "cover_url": "https://thumbor.prod.vidiocdn.com/RFPy_yTRC9PPPbHGeJlLQgt-RaE=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/9713/a11faf.png"
       },
       {
-        "content_id": "6299",
-        "nama_channel": "Bein 1",
-        "cover_url": "https://thumbor.prod.vidiocdn.com/R5o3HOzN4coNEldIuKjnpawojr4=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6299/d74f54.png"
-      },
-      {
-        "content_id": "6685",
-        "nama_channel": "CTV 1",
-        "cover_url": "https://thumbor.prod.vidiocdn.com/7chJIHmXZKn6pLd4kHzMH44577M=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6685/a2ed39.png"
-      },
-      {
-        "content_id": "9182",
-        "nama_channel": "CTV 5",
-        "cover_url": "https://thumbor.prod.vidiocdn.com/yRBAoM6H7dAkEINjwCH-TVbeacE=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/9182/13b733.png"
-      },
-      {
-        "content_id": "6317",
-        "nama_channel": "Bein 3",
-        "cover_url": "https://thumbor.prod.vidiocdn.com/lKgFAcljoRcYILYnMzYh8dt7Ixw=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6317/4a8762.png"
-      },
-      {
-        "content_id": "6786",
-        "nama_channel": "CTV 3",
-        "cover_url": "https://thumbor.prod.vidiocdn.com/RoE6gTfzYNnm1APnwvK_Bi7j_-Y=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6786/d2ebc5.png"
-      },
-      {
-        "content_id": "6717",
-        "nama_channel": "NBA TV",
-        "cover_url": "https://thumbor.prod.vidiocdn.com/KLX48tQxYRs4GxMnvm2avGTXpf0=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6717/790cc9.png"
-      },
-      {
-        "content_id": "17875",
-        "nama_channel": "Bein 2",
-        "cover_url": "https://thumbor.prod.vidiocdn.com/HsxPbK2T6gPnpmNmiL4KEApfzz0=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/17875/afb4ca.png"
-      },
-      {
-        "content_id": "6686",
-        "nama_channel": "CTV 2",
-        "cover_url": "https://thumbor.prod.vidiocdn.com/czBGyoVEbdU5E64ZH88sgEfmWXg=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6686/14270d.png"
-      },
-      {
-        "content_id": "9183",
-        "nama_channel": "CTV 6",
-        "cover_url": "https://thumbor.prod.vidiocdn.com/mlEiapp7GXmQN5-WBHtM1EY6-kM=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/9183/33e19d.png"
-      },
-      {
-        "content_id": "9353",
-        "nama_channel": "Premier League TV",
-        "cover_url": "https://thumbor.prod.vidiocdn.com/wxu6A5xCPmydS0PsUyDZa9kbGeo=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/9353/a79dfe.png"
-      },
-      {
-        "content_id": "17139",
-        "nama_channel": "SPOTV",
-        "cover_url": "https://thumbor.prod.vidiocdn.com/1MzvDHEzp4Zo_wfPgQQzwkJOKc8=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/17139/e5207b.png"
-      },
-      {
-        "content_id": "17140",
-        "nama_channel": "SPOTV 2",
-        "cover_url": "https://thumbor.prod.vidiocdn.com/7Yaodip5SnRzHSrJqowhSrt1uSo=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/17140/18e12a.png"
-      },
-      {
-        "content_id": "18189",
-        "nama_channel": "Champions Golf 1",
-        "cover_url": "https://thumbor.prod.vidiocdn.com/5RyqXQzhOVE-gf2Y_IG1e5heJV8=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/18189/8180b2.png"
-      },
-      {
-        "content_id": "18190",
-        "nama_channel": "Champions Golf 2",
-        "cover_url": "https://thumbor.prod.vidiocdn.com/iASUDB26jxl_lTZyJTM2mmr3fQY=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/18190/541269.png"
-      },
-      {
-        "content_id": "6362",
-        "nama_channel": "TVN",
-        "cover_url": "https://thumbor.prod.vidiocdn.com/TjMKXqjCDGF1uqycTxG-Os7E87E=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6362/dcd434.png"
-      },
-      {
-        "content_id": "8121",
-        "nama_channel": "Rock Action",
-        "cover_url": "https://thumbor.prod.vidiocdn.com/KNwURMx7JBhbW7yXRRo9_SQUvHM=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/8121/e9e2b9.png"
-      },
-      {
-        "content_id": "8120",
-        "nama_channel": "ROCK Entertainment",
-        "cover_url": "https://thumbor.prod.vidiocdn.com/evo4ygNACDOou93AiTxBSlw6wrs=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/8120/8d7f22.png"
-      },
-      {
         "content_id": "6784",
         "nama_channel": "Arirang",
         "cover_url": "https://thumbor.prod.vidiocdn.com/oBMhyILK-ywwtqBqQyt51dmDs5o=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6784/b9cb20.png"
@@ -212,11 +106,6 @@
         "content_id": "18105",
         "nama_channel": "GGS TV",
         "cover_url": "https://thumbor.prod.vidiocdn.com/mKMJ1J-ffUe8NpZ3ky3Ve5oDzuI=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/18105/25d569.png"
-      },
-      {
-        "content_id": "17278",
-        "nama_channel": "TV5Monde",
-        "cover_url": "https://thumbor.prod.vidiocdn.com/AW2JNvGveJR_JGN4sr8pcViIxNM=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/17278/138bad.png"
       },
       {
         "content_id": "10975",
@@ -232,16 +121,6 @@
         "content_id": "7619",
         "nama_channel": "MUSICA",
         "cover_url": "https://thumbor.prod.vidiocdn.com/I6siEUUN1ga4mYcu0Ysr9BlHeH4=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/7619/379f71.png"
-      },
-      {
-        "content_id": "6410",
-        "nama_channel": "Aljazeera",
-        "cover_url": "https://thumbor.prod.vidiocdn.com/ylPI-fG-She_OlfbH8KWncdsDe8=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6410/6027db.png"
-      },
-      {
-        "content_id": "5075",
-        "nama_channel": "DW English",
-        "cover_url": "https://thumbor.prod.vidiocdn.com/CkGuUHK9vLiapJ8s_TVp_Mj5v60=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/5075/f6106b.png"
       },
       {
         "content_id": "7150",
@@ -267,31 +146,6 @@
         "content_id": "6412",
         "nama_channel": "Euronews",
         "cover_url": "https://thumbor.prod.vidiocdn.com/mv4ZFcm2QaBMgaCprNUczDIaSJ4=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6412/c0e105.png"
-      },
-      {
-        "content_id": "8237",
-        "nama_channel": "Mentari TV",
-        "cover_url": "https://thumbor.prod.vidiocdn.com/59CZO-IVdps6hUK6gEQqn-w-bCw=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/8237/18585d.png"
-      },
-      {
-        "content_id": "6533",
-        "nama_channel": "Zoomoo",
-        "cover_url": "https://thumbor.prod.vidiocdn.com/vQdbJZqHtzPPXckjO0Hy8yy-3_0=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6533/f6c9c0.png"
-      },
-      {
-        "content_id": "7052",
-        "nama_channel": "Hip Hip Horee!",
-        "cover_url": "https://thumbor.prod.vidiocdn.com/EOkH5JDfHzAnCeGKEXiY12G36Qw=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/7052/63032e.png"
-      },
-      {
-        "content_id": "6397",
-        "nama_channel": "Horee",
-        "cover_url": "https://thumbor.prod.vidiocdn.com/lfyNbk-BG70u8ahFpO9I0HhV3bM=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6397/d422cd.png"
-      },
-      {
-        "content_id": "18622",
-        "nama_channel": "Daystar TV",
-        "cover_url": "https://thumbor.prod.vidiocdn.com/a_R11gFNIXuNsUiqJ6Tsj-45lqE=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/18622/d20ab7.png"
       },
       {
         "content_id": "7464",
@@ -480,116 +334,13 @@
       }
     ]
   },
-  "sections": {
-    "18249": {
-      "title": "Yonex Canada Open 2025 - Qualifiers + R32 (Court 1)",
-      "web_url": "18249",
-      "cover_url": "https://thumbor.prod.vidiocdn.com/xeqn_EfSRY20ufR_dRHmAm2wy2s=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18249/yonex-canada-open-2025-qualifiers-r32-court-1-5dadc4.jpg",
-      "start_time": "2025-07-01T13:00:00.000Z"
-    },
-    "18250": {
-      "title": "Yonex Canada Open 2025 - Qualifiers + R32 (Court 2)",
-      "web_url": "18250",
-      "cover_url": "https://thumbor.prod.vidiocdn.com/qbmsBBoTeUtSnDgNKoSP_OJFWxg=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18250/yonex-canada-open-2025-qualifiers-r32-court-2-1b2b12.jpg",
-      "start_time": "2025-07-01T13:00:00.000Z"
-    },
-    "18252": {
-      "title": "Yonex Canada Open 2025 - Qualifiers + R32 (Court 3)",
-      "web_url": "18252",
-      "cover_url": "https://thumbor.prod.vidiocdn.com/Ju-eVeSQ3p5ntoT3ANWwms1S3Xk=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18252/yonex-canada-open-2025-qualifiers-r32-court-3-417f21.jpg",
-      "start_time": "2025-07-01T13:00:00.000Z"
-    },
-    "18253": {
-      "title": "Yonex Canada Open 2025 - Qualifiers + R32 (Court 4)",
-      "web_url": "18253",
-      "cover_url": "https://thumbor.prod.vidiocdn.com/WsRlt70LgrRIvXxbleP35yDdKyA=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18253/yonex-canada-open-2025-qualifiers-r32-court-4-685805.jpg",
-      "start_time": "2025-07-01T13:00:00.000Z"
-    },
-    "4388993": {
-      "title": "Pakistan vs Indonesia - AFC Women's Asian Cup 2026 Qualifiers",
-      "web_url": "18994",
-      "cover_url": "https://thumbor.prod.vidiocdn.com/WNSCGz2H0Aimisrw85FJYcS8imM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4388993/2fcd78.jpg",
-      "start_time": "2025-07-02T13:00:00.000Z"
-    },
-    "4389993": {
-      "title": "Bordeaux P2 Premier Padel 2025 - Day 2",
-      "web_url": "6317",
-      "cover_url": "https://thumbor.prod.vidiocdn.com/b5qTBmxcGi7k_4m-fERd-xmVAIE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4389993/153fc9.jpg",
-      "start_time": "2025-07-01T08:00:00.000Z"
-    },
-    "4391006": {
-      "title": "Bordeaux P2 Premier Padel 2025 - Day 3",
-      "web_url": "6317",
-      "cover_url": "https://thumbor.prod.vidiocdn.com/ai0DES7QJal51vWOkGNlO0LjpDU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4391006/dd017b.jpg",
-      "start_time": "2025-07-02T08:00:00.000Z"
-    },
-    "4391007": {
-      "title": "Bordeaux P2 Premier Padel 2025 - Day 3",
-      "web_url": "6317",
-      "cover_url": "https://thumbor.prod.vidiocdn.com/8yPb8FHupaEgXS6i7YZD8xSmxs8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4391007/ee3daf.jpg",
-      "start_time": "2025-07-02T15:00:00.000Z"
-    },
-    "4391008": {
-      "title": "Bordeaux P2 Premier Padel 2025 - Day 4",
-      "web_url": "6317",
-      "cover_url": "https://thumbor.prod.vidiocdn.com/UeTS7nYeujK1zlSE9FrX9lRq7e8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4391008/00dd2b.jpg",
-      "start_time": "2025-07-03T08:00:00.000Z"
-    },
-    "4392507": {
-      "title": "Jannik Sinner vs Luca Nardi - Gentlemen's Singles First Round | Wimbledon 2025",
-      "web_url": "17140",
-      "cover_url": "https://thumbor.prod.vidiocdn.com/euhx4WjQ9qbiDVxdVwRDUg-Nlb4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4392507/517b4e.jpg",
-      "start_time": "2025-07-01T12:00:00.000Z"
-    },
-    "4392510": {
-      "title": "Petra Kvitova vs Emma Navarro - Ladies' Singles First Round | Wimbledon 2025",
-      "web_url": "17140",
-      "cover_url": "https://thumbor.prod.vidiocdn.com/y2-m0xHqaXoOd5QNoly3_P4Qecw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4392510/54afaf.jpg",
-      "start_time": "2025-07-01T14:30:00.000Z"
-    },
-    "4392511": {
-      "title": "Jack Draper vs Sebastian Baez - Gentlemen's Singles First Round | Wimbledon 2025",
-      "web_url": "17140",
-      "cover_url": "https://thumbor.prod.vidiocdn.com/q6Q-2m0b5gFqMCWLzhBelknKMQs=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4392511/4b917e.jpg",
-      "start_time": "2025-07-01T17:00:00.000Z"
-    },
-    "4392548": {
-      "title": "Barbora Krejcikova vs Alexandra Eala - Ladies' Singles First Round | Wimbledon 2025",
-      "web_url": "17139",
-      "cover_url": "https://thumbor.prod.vidiocdn.com/Oc7nXtEOtVRh5QBOtwE5tk-x6nA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4392548/948368.jpg",
-      "start_time": "2025-07-01T12:30:00.000Z"
-    },
-    "4392549": {
-      "title": "Alexandre Muller vs  Novak Djokovic - Gentlemen's Singles First Round | Wimbledon 2025",
-      "web_url": "17139",
-      "cover_url": "https://thumbor.prod.vidiocdn.com/OM513iJSvII2Tl9lTJ6Zh94Wcr4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4392549/9cd328.jpg",
-      "start_time": "2025-07-01T15:00:00.000Z"
-    },
-    "4392550": {
-      "title": "Dayana Yastremska vs Coco Gauff - Ladies' Singles First Round | Wimbledon 2025",
-      "web_url": "17139",
-      "cover_url": "https://thumbor.prod.vidiocdn.com/E06VPdJkYmnjdsJNZ5Z9L2dw6r0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4392550/61124b.jpg",
-      "start_time": "2025-07-01T17:30:00.000Z"
-    }
-  },
+  "sections": {},
   "vidioliveothers": {
     "17884": {
       "title": "Formula 1",
       "web_url": "17884",
       "cover_url": "https://thumbor.prod.vidiocdn.com/Rc1pHYZnd8l_siMi118TkKusbPM=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17884/formula-1-5ee872.jpg",
       "start_time": "2025-04-02T13:25:00.000Z"
-    },
-    "17938": {
-      "title": "Lazio vs Parma - Serie A",
-      "web_url": "17938",
-      "cover_url": "https://thumbor.prod.vidiocdn.com/tJoOEHTHed9-fRQvnXoew2nr8hY=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17938/serie-a-973769.jpg",
-      "start_time": "2024-10-20T10:00:00.000Z"
-    },
-    "17939": {
-      "title": "Serie A",
-      "web_url": "17939",
-      "cover_url": "https://thumbor.prod.vidiocdn.com/X-RqLAcQNAoAqhhYdA6L240KI50=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17939/serie-a-4cc90b.jpg",
-      "start_time": "2024-10-20T12:45:00.000Z"
     },
     "19018": {
       "title": "Presiden Prabowo Pimpin Upacara Hari Bhayangkara ke-79 | LIVE",
@@ -600,7 +351,7 @@
     "19019": {
       "title": "Perayaan HUT ke-79 Bhayangkara 1 Juli 2025, Meriah Penuh Kejutan",
       "web_url": "19019",
-      "cover_url": "https://thumbor.prod.vidiocdn.com/9dZTYkMlKuAfryYuYTqFRwnjyrg=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/19019/live-now-00556e.jpg",
+      "cover_url": "https://thumbor.prod.vidiocdn.com/vLEtjzmX9Ya4TktR3ytTyFlF8Po=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/19019/live-now-51951c.jpg",
       "start_time": "2025-07-01T00:07:00.000Z"
     }
   }
