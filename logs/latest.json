@@ -1,5 +1,5 @@
 {
-  "time": "2025-07-01T23:30:08.768Z",
+  "time": "2025-07-01T23:40:12.034Z",
   "headers": {
     "x-api-platform": "web-desktop",
     "content-type": "application/vnd.api+json",
@@ -10,20 +10,20 @@
     "sec-ch-ua": "\"Not)A;Brand\";v=\"8\", \"Chromium\";v=\"138\", \"HeadlessChrome\";v=\"138\"",
     "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/rsQLvLqSc8Eu6H5PgObwB9asjVAVEPCBmQ1zTJo0qwRWe5hnvLzcTFeQCt5SclOt6Ag8B43KbtpxIqobsJZNPI=",
     "sec-ch-ua-mobile": "?0",
-    "luws": "57FF5CB9-E903-FDAE-7B48-7DEAB169B650_",
-    "x-signature": "c0c3ffa01128c79416d69a27f985276d6d3a277b08f987fe67941c5cc2fc832d",
+    "luws": "DF2B4AFB-3229-75BE-239F-60F04EB8C977_",
+    "x-signature": "94c9cf46f7a6e13eabc2759668d6ac0bfbc734b036c25f0910f1bb12dc7a867b",
     "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/138.0.7204.23 Safari/537.36",
     "x-secure-level": "2",
-    "x-client": "1751412606.434",
+    "x-client": "1751413209.59",
     "x-user-email": null,
-    "204-dash": null,
-    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751427007~acl=/stream/204/file/*~id=allUsers~hmac=f85f4cf2f324808cb114a53546e3f29036856b7150fa828142485b183fb099ef",
-    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751427007~acl=/stream/206/file/*~id=allUsers~hmac=17d07432b924a8b40cbad4e7f6119cc82d7d2eacecd3d45419440978d0185d4d",
-    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751427007~acl=/stream/206/file/*~id=allUsers~hmac=17d07432b924a8b40cbad4e7f6119cc82d7d2eacecd3d45419440978d0185d4d",
-    "205-dash": null,
-    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751427007~acl=/stream/205/file/*~id=allUsers~hmac=d3906a6d56368091ac74d5d460f13c24ec436f37033b841baac579eb5f5ac243",
+    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751427610~acl=/stream/206/file/*~id=allUsers~hmac=6cf75dd0189417e435024f3125e19b22f23594e7be2cdb7b0f72933c337e1b27",
+    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751427610~acl=/stream/206/file/*~id=allUsers~hmac=6cf75dd0189417e435024f3125e19b22f23594e7be2cdb7b0f72933c337e1b27",
     "18105-dash": null,
-    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751427007~acl=/stream/18105/file/*~id=allUsers~hmac=306927be675c2e48c91a3a9a645d9d790c9b9098909dc0435399d0fa7e44fe02",
+    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751427610~acl=/stream/18105/file/*~id=allUsers~hmac=72907281add9e3ec64b8fd3dbb2e025a4de5118fd3069ca55a99e880a2b6d8b0",
+    "205-dash": null,
+    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751427610~acl=/stream/205/file/*~id=allUsers~hmac=3c0765bdc69177ddb917f02cfde95edfba0848772a3a72cc5fcd67031e3478dd",
+    "204-dash": null,
+    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751427610~acl=/stream/204/file/*~id=allUsers~hmac=2b0178ba2bf9b9f8d622caac6b0a3a7a5ce458a819605be33e1a60039d630a02",
     "all-sections": "17139-17140-17884-18189-18249-18250-18252-18253-18994-6317",
     "all-vidiolivetv": [
       {
@@ -502,16 +502,16 @@
       "start_time": "2025-07-02T14:00:00.000Z"
     },
     "18252": {
-      "title": "Hu Ling Fang/Jheng Yu Chieh (TPE) vs Clara Azurmendi/Lucia Rodriguez (ESP) - Women's Doubles Round of 32 | Yonex Canada Open 2025",
+      "title": "Yonex Canada Open 2025 - Round of 32 (Court 3)",
       "web_url": "18252",
-      "cover_url": "https://thumbor.prod.vidiocdn.com/Ju-eVeSQ3p5ntoT3ANWwms1S3Xk=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18252/yonex-canada-open-2025-qualifiers-r32-court-3-417f21.jpg",
-      "start_time": "2025-07-01T13:00:00.000Z"
+      "cover_url": "https://thumbor.prod.vidiocdn.com/pFRY7vY8T1WY377q-FHfGeAeZEQ=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18252/yonex-canada-open-2025-round-of-32-court-3-eb833f.jpg",
+      "start_time": "2025-07-02T14:10:00.000Z"
     },
     "18253": {
-      "title": "Lauren Lam/Allison Lee (USA) vs Leona Michalski/Thuc Phuong Nguyen (GER) - Women's Doubles Round of 32 | Yonex Canada Open 2025",
+      "title": "Yonex Canada Open 2025 - Round of 32 (Court 4)",
       "web_url": "18253",
-      "cover_url": "https://thumbor.prod.vidiocdn.com/WsRlt70LgrRIvXxbleP35yDdKyA=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18253/yonex-canada-open-2025-qualifiers-r32-court-4-685805.jpg",
-      "start_time": "2025-07-01T13:00:00.000Z"
+      "cover_url": "https://thumbor.prod.vidiocdn.com/bTCaolxQqLBotJskB9hXyyV8DhM=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18253/yonex-canada-open-2025-round-of-32-court-4-ab7209.jpg",
+      "start_time": "2025-07-02T14:00:00.000Z"
     },
     "4388993": {
       "title": "Pakistan vs Indonesia - AFC Women's Asian Cup 2026 Qualifiers",
@@ -640,18 +640,6 @@
       "web_url": "17939",
       "cover_url": "https://thumbor.prod.vidiocdn.com/X-RqLAcQNAoAqhhYdA6L240KI50=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17939/serie-a-4cc90b.jpg",
       "start_time": "2024-10-20T12:45:00.000Z"
-    },
-    "18252": {
-      "title": "Hu Ling Fang/Jheng Yu Chieh (TPE) vs Clara Azurmendi/Lucia Rodriguez (ESP) - Women's Doubles Round of 32 | Yonex Canada Open 2025",
-      "web_url": "18252",
-      "cover_url": "https://thumbor.prod.vidiocdn.com/Ju-eVeSQ3p5ntoT3ANWwms1S3Xk=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18252/yonex-canada-open-2025-qualifiers-r32-court-3-417f21.jpg",
-      "start_time": "2025-07-01T13:00:00.000Z"
-    },
-    "18253": {
-      "title": "Lauren Lam/Allison Lee (USA) vs Leona Michalski/Thuc Phuong Nguyen (GER) - Women's Doubles Round of 32 | Yonex Canada Open 2025",
-      "web_url": "18253",
-      "cover_url": "https://thumbor.prod.vidiocdn.com/WsRlt70LgrRIvXxbleP35yDdKyA=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18253/yonex-canada-open-2025-qualifiers-r32-court-4-685805.jpg",
-      "start_time": "2025-07-01T13:00:00.000Z"
     }
   }
 }
