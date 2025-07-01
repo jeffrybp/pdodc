@@ -1,5 +1,5 @@
 {
-  "time": "2025-07-01T05:40:09.272Z",
+  "time": "2025-07-01T05:50:06.225Z",
   "headers": {
     "x-api-platform": "web-desktop",
     "content-type": "application/vnd.api+json",
@@ -8,22 +8,22 @@
     "referer": "https://www.vidio.com/",
     "accept-language": "undefined",
     "sec-ch-ua": "\"Not)A;Brand\";v=\"8\", \"Chromium\";v=\"138\", \"HeadlessChrome\";v=\"138\"",
-    "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/lqtqinp30tVLiTDFFKTqts00Imp3lRL9mif2lxxU1gnpZ8FjGxfgqHx0WD58+eQ2vXGDSFQyqJrDeF/pK1wnGk=",
+    "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/vVTvKX3yMZ6W6yBuqXhkLbDiTrisWPC/HI40qIrJYzlK7WT86WLSH5u+tnGdCX7HA3rS4DOI3L0x9UYmGgvXLY=",
     "sec-ch-ua-mobile": "?0",
-    "luws": "F456DD04-E98C-D71A-6CB1-0443DD806611_",
-    "x-signature": "92834843f2289e826c5e8bb373b320ed0ff20d6da5198f41546da847da25472d",
+    "luws": "364501DF-491E-826E-0FFB-B6785DB4BEB0_",
+    "x-signature": "70d3a38df03d348ae5808f039b389fbe85fccf2df4ae06c9af23d8294389b6b9",
     "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/138.0.7204.23 Safari/537.36",
     "x-secure-level": "2",
-    "x-client": "1751348406.352",
+    "x-client": "1751349003.688",
     "x-user-email": null,
     "204-dash": null,
-    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751362807~acl=/stream/204/file/*~id=allUsers~hmac=ec2c76fd0ced7ff7a17311ddced9613a5b1514413de0cbd147d0ab6f264170b7",
-    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751362807~acl=/stream/206/file/*~id=allUsers~hmac=066480f70c7539891c7d4d67de814a5de827172cd3e5d2a85c7292625f84183b",
-    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751362807~acl=/stream/206/file/*~id=allUsers~hmac=066480f70c7539891c7d4d67de814a5de827172cd3e5d2a85c7292625f84183b",
+    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751363404~acl=/stream/204/file/*~id=allUsers~hmac=280b28152a5b4448ab7695086fbbb72bd2ee95b7b6ff17866d73b2e035b4f5af",
     "205-dash": null,
-    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751362807~acl=/stream/205/file/*~id=allUsers~hmac=7f4d32b31258585c4111a2c5e871a2d38d82927d9b765835c2af07704734b817",
+    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751363404~acl=/stream/205/file/*~id=allUsers~hmac=ca85b3706eddd2e05052260a1f62ef3c25f4b322cb1761f0ea75fca01e8cf278",
+    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751363404~acl=/stream/206/file/*~id=allUsers~hmac=4c23861b35cc8cbc69984d46978363508d10ca8e89f6cd07e8174177062cbb72",
+    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751363404~acl=/stream/206/file/*~id=allUsers~hmac=4c23861b35cc8cbc69984d46978363508d10ca8e89f6cd07e8174177062cbb72",
     "18105-dash": null,
-    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751362807~acl=/stream/18105/file/*~id=allUsers~hmac=76c4c7f80d969e76759f70f1853c765c767bf137b0d7cc229bc461d160083d7a",
+    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751363404~acl=/stream/18105/file/*~id=allUsers~hmac=905571e0a450021581aff4cebec37dad26df1797ce2c4f098ac8ed59e3d2412e",
     "all-sections": "17139-17140-17884-18189-18249-18250-18252-18253-18994-6317",
     "all-vidiolivetv": [
       {
@@ -642,7 +642,7 @@
   },
   "vidioliveothers": {
     "17884": {
-      "title": "Austria : Formula 1 Highlights",
+      "title": "Formula 1",
       "web_url": "17884",
       "cover_url": "https://thumbor.prod.vidiocdn.com/Rc1pHYZnd8l_siMi118TkKusbPM=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17884/formula-1-5ee872.jpg",
       "start_time": "2025-04-02T13:25:00.000Z"
