@@ -1,5 +1,5 @@
 {
-  "time": "2025-07-01T04:20:06.600Z",
+  "time": "2025-07-01T04:30:14.056Z",
   "headers": {
     "x-api-platform": "web-desktop",
     "content-type": "application/vnd.api+json",
@@ -8,22 +8,22 @@
     "referer": "https://www.vidio.com/",
     "accept-language": "undefined",
     "sec-ch-ua": "\"Not)A;Brand\";v=\"8\", \"Chromium\";v=\"138\", \"HeadlessChrome\";v=\"138\"",
-    "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/r8a1eYRW+22iN6aVsy44cjHa9J+29EOA7KQ5HRJGxfYOYK3hOVigu1Fl44TCvKNHLphpkr1YkKGF3E0Mo6UMD4=",
+    "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/oOAclaYOvPYvhQT7w6hn3ovU1Wgf/1ArHzf2sR+P0mdm+iFEXKmzVgmRu1KGZ3ytT2mUhpzWaK4ubwLUQbuYB4=",
     "sec-ch-ua-mobile": "?0",
-    "luws": "9435F575-D7F5-48FC-E9DE-5FBD9E7B2F84_",
-    "x-signature": "ce4747c314e76d39613a897f7f6b8454747fb8f1b2ba8b687fe18ef4de178d4a",
+    "luws": "3F8C5A06-3868-E1AB-F3F3-E8D07745CDAD_",
+    "x-signature": "adfb5f34b43e0e93e86a00396234c8d08d28190596cfba9cbf6bb6601d862286",
     "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/138.0.7204.23 Safari/537.36",
     "x-secure-level": "2",
-    "x-client": "1751343603.69",
+    "x-client": "1751344210.771",
     "x-user-email": null,
-    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751358004~acl=/stream/206/file/*~id=allUsers~hmac=f80bc05c183ba43bde10073ca3dcfd5968eec215a111bfb0571cd59072637ce3",
-    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751358004~acl=/stream/206/file/*~id=allUsers~hmac=f80bc05c183ba43bde10073ca3dcfd5968eec215a111bfb0571cd59072637ce3",
     "204-dash": null,
-    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751358004~acl=/stream/204/file/*~id=allUsers~hmac=9ee2aae620fe612570af028b12d45e2b9700cdd8e86e0f486b046ed2263b33bd",
+    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751358611~acl=/stream/204/file/*~id=allUsers~hmac=1bd523336787df1974cd9fd23ed80b20b10d0885f5189a9e463ff488b2622212",
+    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751358611~acl=/stream/206/file/*~id=allUsers~hmac=b38dcf25006fe01f04741dc1d30804959d6c5c0a861d3e1d1927779b0560f608",
+    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751358611~acl=/stream/206/file/*~id=allUsers~hmac=b38dcf25006fe01f04741dc1d30804959d6c5c0a861d3e1d1927779b0560f608",
     "18105-dash": null,
-    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751358004~acl=/stream/18105/file/*~id=allUsers~hmac=fad8a29e167f0d895b81b9679223f3aaedf1cb1d152d9c02559630d5061ac92d",
+    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751358611~acl=/stream/18105/file/*~id=allUsers~hmac=a0d09eb5d99ce494002acc0e711dfb9fc5f7eb4f673babf49272ff0bc13b66b1",
     "205-dash": null,
-    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751358004~acl=/stream/205/file/*~id=allUsers~hmac=3db6967c5e7508a88b52425a2a1577d2addcff91f4a55ae501147d417d424383",
+    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751358611~acl=/stream/205/file/*~id=allUsers~hmac=c7980fa09c99dde107a75b3c1e746552313a36880e46b1d74c365ff028b359fc",
     "all-sections": "17139-17140-17884-18189-18249-18250-18252-18253-18994-6317",
     "all-vidiolivetv": [
       {
@@ -496,7 +496,7 @@
       "start_time": "2025-07-01T13:00:00.000Z"
     },
     "18250": {
-      "title": "Yonex Canada Open 2025 - Qualifiers + R32 (Court 2)",
+      "title": "Clarence Chau/Eyota Kwan (CAN) vs Calvin Devereux/Desiree Toepffer (GER) - Mixed Doubles Qualification | Yonex Canada Open 2025",
       "web_url": "18250",
       "cover_url": "https://thumbor.prod.vidiocdn.com/qbmsBBoTeUtSnDgNKoSP_OJFWxg=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18250/yonex-canada-open-2025-qualifiers-r32-court-2-1b2b12.jpg",
       "start_time": "2025-07-01T13:00:00.000Z"
@@ -642,7 +642,7 @@
   },
   "vidioliveothers": {
     "17884": {
-      "title": "Formula 1",
+      "title": "Austria : Formula 1 Highlights",
       "web_url": "17884",
       "cover_url": "https://thumbor.prod.vidiocdn.com/Rc1pHYZnd8l_siMi118TkKusbPM=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17884/formula-1-5ee872.jpg",
       "start_time": "2025-04-02T13:25:00.000Z"
