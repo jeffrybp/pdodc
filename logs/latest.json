@@ -1,5 +1,5 @@
 {
-  "time": "2025-07-01T04:40:09.225Z",
+  "time": "2025-07-01T04:50:06.245Z",
   "headers": {
     "x-api-platform": "web-desktop",
     "content-type": "application/vnd.api+json",
@@ -8,22 +8,22 @@
     "referer": "https://www.vidio.com/",
     "accept-language": "undefined",
     "sec-ch-ua": "\"Not)A;Brand\";v=\"8\", \"Chromium\";v=\"138\", \"HeadlessChrome\";v=\"138\"",
-    "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/ksOzpqRuYvBAOa9P2r8rvirau6aAL6SSZtHxfmBImRojElz1H6mcotRU6zDxVm3xFqRUpZT+xZ9p2uA1S8VC64=",
+    "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/tuLbnufPIzUmAgZqN9f8jTvZZ6YT6zzNnziel02n1zms1nHZQ+1L/ahwjsyxoO7R8AX2isTSkCBDT14V2BE0sw=",
     "sec-ch-ua-mobile": "?0",
-    "luws": "20304749-AF0D-5B28-C580-4C1445C8972C_",
-    "x-signature": "6025c3b1e7e9df5216ba237a030ede4000ed5d4d7ea68c0298473354df221797",
+    "luws": "C71008BE-91CF-0C9F-3FE9-4167163BC4D2_",
+    "x-signature": "116e020e86f5697d9c6c272563b49a44868aaded69cbb260914fbcb157f891a2",
     "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/138.0.7204.23 Safari/537.36",
     "x-secure-level": "2",
-    "x-client": "1751344806.405",
+    "x-client": "1751345403.491",
     "x-user-email": null,
     "205-dash": null,
-    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751359207~acl=/stream/205/file/*~id=allUsers~hmac=7b2fdd5bc5c785966a8d9e08a88d39ef154eed97ce5f0c47e30141b32b3421dd",
+    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751359804~acl=/stream/205/file/*~id=allUsers~hmac=47e1f6215491e37a4a683065245747f5ec2d5666595a8c13b72249573fc22f54",
     "204-dash": null,
-    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751359207~acl=/stream/204/file/*~id=allUsers~hmac=cf5f76f187be7d2716cf246c5db9126147d77d971561224048bc7bcdf4f4f034",
+    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751359804~acl=/stream/204/file/*~id=allUsers~hmac=370be51ca7f6e48ef32fc3a339f634b467a45980a7bdf4eea6efcd741c09a5ff",
+    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751359804~acl=/stream/206/file/*~id=allUsers~hmac=e1b5852c722e2f689ec89cbc366fa4d21dfbe0147d16b32eb19f565ce00bcee5",
+    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751359804~acl=/stream/206/file/*~id=allUsers~hmac=e1b5852c722e2f689ec89cbc366fa4d21dfbe0147d16b32eb19f565ce00bcee5",
     "18105-dash": null,
-    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751359207~acl=/stream/18105/file/*~id=allUsers~hmac=54c962bd53f342b09ada0579bf4ca7825a58e6d275d1e1f84ff906e338d1d158",
-    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751359207~acl=/stream/206/file/*~id=allUsers~hmac=48eae4021163c7e73bdce8624d7d3c8af59fdb32ac61368dfabc1546936e55ba",
-    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751359207~acl=/stream/206/file/*~id=allUsers~hmac=48eae4021163c7e73bdce8624d7d3c8af59fdb32ac61368dfabc1546936e55ba",
+    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751359804~acl=/stream/18105/file/*~id=allUsers~hmac=b7810fa6941588f6c1dbdd2a4b69e83f101f483c238158e74cbb50f1f8150fed",
     "all-sections": "17139-17140-17884-18189-18249-18250-18252-18253-18994-6317",
     "all-vidiolivetv": [
       {
@@ -674,6 +674,36 @@
       "web_url": "18253",
       "cover_url": "https://thumbor.prod.vidiocdn.com/WsRlt70LgrRIvXxbleP35yDdKyA=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18253/yonex-canada-open-2025-qualifiers-r32-court-4-685805.jpg",
       "start_time": "2025-07-01T18:00:00.000Z"
+    },
+    "4394399": {
+      "title": "Daniel Leung/Timothy Lock (CAN) vs Nathan Mills/Edward Zhang (CAN) - Men's Doubles Qualification | Yonex Canada Open 2025",
+      "web_url": "18253",
+      "cover_url": "https://thumbor.prod.vidiocdn.com/WsRlt70LgrRIvXxbleP35yDdKyA=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18253/yonex-canada-open-2025-qualifiers-r32-court-4-685805.jpg",
+      "start_time": "2025-07-01T15:30:00.000Z"
+    },
+    "4394400": {
+      "title": "Fang-Chih Lee/Fang-Jen Lee (TPE) vs Fabricio Farias/Davi Silva (BRA) - Men's Doubles Round of 32 | Yonex Canada Open 2025",
+      "web_url": "18253",
+      "cover_url": "https://thumbor.prod.vidiocdn.com/WsRlt70LgrRIvXxbleP35yDdKyA=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18253/yonex-canada-open-2025-qualifiers-r32-court-4-685805.jpg",
+      "start_time": "2025-07-01T18:50:00.000Z"
+    },
+    "4394401": {
+      "title": "Wei Chun Wei/Po Chih Yang (TPE) vs Chen Zhi Yi/Presley Smith (USA) - Men's Doubles Round of 32 | Yonex Canada Open 2025",
+      "web_url": "18253",
+      "cover_url": "https://thumbor.prod.vidiocdn.com/WsRlt70LgrRIvXxbleP35yDdKyA=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18253/yonex-canada-open-2025-qualifiers-r32-court-4-685805.jpg",
+      "start_time": "2025-07-01T19:40:00.000Z"
+    },
+    "4394402": {
+      "title": "Julien Maio/William Villeger (FRA) vs Izak Batalha/Matheus Voigt (BRA) - Men's Doubles Round of 32 | Yonex Canada Open 2025",
+      "web_url": "18253",
+      "cover_url": "https://thumbor.prod.vidiocdn.com/WsRlt70LgrRIvXxbleP35yDdKyA=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18253/yonex-canada-open-2025-qualifiers-r32-court-4-685805.jpg",
+      "start_time": "2025-07-01T21:20:00.000Z"
+    },
+    "4394403": {
+      "title": "Selin Hubsch/Amelie Lehmann (GER) vs Kaho Osawa/Mai Tanabe (JPN) - Women's Doubles Round of 32 | Yonex Canada Open 2025",
+      "web_url": "18253",
+      "cover_url": "https://thumbor.prod.vidiocdn.com/WsRlt70LgrRIvXxbleP35yDdKyA=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18253/yonex-canada-open-2025-qualifiers-r32-court-4-685805.jpg",
+      "start_time": "2025-07-01T20:30:00.000Z"
     }
   },
   "vidioliveothers": {
