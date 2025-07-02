@@ -1,5 +1,5 @@
 {
-  "time": "2025-07-02T14:00:08.478Z",
+  "time": "2025-07-02T14:10:08.360Z",
   "headers": {
     "x-api-platform": "web-desktop",
     "content-type": "application/vnd.api+json",
@@ -8,22 +8,22 @@
     "referer": "https://www.vidio.com/",
     "accept-language": "undefined",
     "sec-ch-ua": "\"Not)A;Brand\";v=\"8\", \"Chromium\";v=\"138\", \"HeadlessChrome\";v=\"138\"",
-    "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/lPUm+s3zdKKHW9lPCkhdJXD93CGnRKy5geyTvSUwzemtP7B/e1oegFHhTYyHGwN2Afgvv25+9oGO0EqA/CWGnE=",
+    "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/mIJh9Sy21kmrbmukST0uPMOVU1ur0YITN4m4pAM4I3Bdwt28SXsUmguSZNYDpvMgNN1pVKoxuwhRfHuyHZt6XY=",
     "sec-ch-ua-mobile": "?0",
-    "luws": "7916163B-FE71-7197-13BA-EBDD44574243_",
-    "x-signature": "0b8130c4523bc8641674a9f57d9200e575626ab095ae73fab6463ef0300014fc",
+    "luws": "940D7A8A-AA34-6B9B-E687-B463DD81922B_",
+    "x-signature": "645e8ccab83c8459fe0d243a84296d7c82e56f2a3f434528e91d7d2fde1efd4f",
     "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/138.0.7204.23 Safari/537.36",
     "x-secure-level": "2",
-    "x-client": "1751464806.057",
+    "x-client": "1751465405.841",
     "x-user-email": null,
+    "18105-dash": null,
+    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751479806~acl=/stream/18105/file/*~id=allUsers~hmac=772d7bfc06c6e360492fcc4471ca1f1659c74b28b6108432acdc04a78402f62b",
     "205-dash": null,
     "205-hls": null,
-    "18105-dash": null,
-    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751479206~acl=/stream/18105/file/*~id=allUsers~hmac=5efb857a0b89b0a3457ab71e330086e2cd40e91a25a832d353ad0f7714ac27a5",
-    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751479206~acl=/stream/206/file/*~id=allUsers~hmac=3c1f90d14ccf8814c21d5866f2e09fbea44ab6c27ef9d8599a8cba55adc21cdb",
-    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751479206~acl=/stream/206/file/*~id=allUsers~hmac=3c1f90d14ccf8814c21d5866f2e09fbea44ab6c27ef9d8599a8cba55adc21cdb",
+    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751479806~acl=/stream/206/file/*~id=allUsers~hmac=bd03580f62612b4d158e466a3b4b1d00bb297e46936097c5e16c6c9db2f982d9",
+    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751479806~acl=/stream/206/file/*~id=allUsers~hmac=bd03580f62612b4d158e466a3b4b1d00bb297e46936097c5e16c6c9db2f982d9",
     "204-dash": null,
-    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751479206~acl=/stream/204/file/*~id=allUsers~hmac=5d6211ce7cbe5ecf1b372f2eff8ed6d12b791b4d64c092f94d01ae41a01530eb",
+    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751479806~acl=/stream/204/file/*~id=allUsers~hmac=c2e55fabe3ac00f842a4e65e7d571d3c84aee537726ed891488c54b5110723cf",
     "all-sections": "17139-17140-17884-18189-18249-18250-18252-18253-18994-19030-6317",
     "all-vidiolivetv": [
       {
@@ -502,7 +502,7 @@
       "start_time": "2025-07-02T14:00:00.000Z"
     },
     "18252": {
-      "title": "Po Li-Wei/Chang Ching Hui (TPE) vs Ruttanapak Oupthong/Jhenicha Sudjaipraparat (THA) - Mixed Doubles Round of 32 | Yonex Canada Open 2025",
+      "title": "Gregoire Deschamp/Margot Lambert (FRA) vs Chang Ko-Chi (TPE) - Women's Doubles Round of 32 | Yonex Canada Open 2025",
       "web_url": "18252",
       "cover_url": "https://thumbor.prod.vidiocdn.com/pFRY7vY8T1WY377q-FHfGeAeZEQ=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18252/yonex-canada-open-2025-round-of-32-court-3-eb833f.jpg",
       "start_time": "2025-07-02T14:10:00.000Z"
@@ -670,6 +670,12 @@
       "web_url": "18250",
       "cover_url": "https://thumbor.prod.vidiocdn.com/gw0wKEOcR-aqHuyXi19ma4RFLxc=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18250/yonex-canada-open-2025-round-of-32-court-2-ed4468.jpg",
       "start_time": "2025-07-02T14:00:00.000Z"
+    },
+    "18252": {
+      "title": "Gregoire Deschamp/Margot Lambert (FRA) vs Chang Ko-Chi (TPE) - Women's Doubles Round of 32 | Yonex Canada Open 2025",
+      "web_url": "18252",
+      "cover_url": "https://thumbor.prod.vidiocdn.com/pFRY7vY8T1WY377q-FHfGeAeZEQ=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18252/yonex-canada-open-2025-round-of-32-court-3-eb833f.jpg",
+      "start_time": "2025-07-02T14:10:00.000Z"
     },
     "18253": {
       "title": "Lin Bing-Wei/Lee Chih Chen (TPE) vs Ondrej Kral/Tereza Svabikova (CZE) - Mixed Doubles Round of 32 | Yonex Canada Open 2025",
