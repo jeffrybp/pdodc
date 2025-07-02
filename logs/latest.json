@@ -1,5 +1,5 @@
 {
-  "time": "2025-07-02T19:20:10.285Z",
+  "time": "2025-07-02T19:30:10.680Z",
   "headers": {
     "x-api-platform": "web-desktop",
     "content-type": "application/vnd.api+json",
@@ -10,20 +10,20 @@
     "sec-ch-ua": "\"Not)A;Brand\";v=\"8\", \"Chromium\";v=\"138\", \"HeadlessChrome\";v=\"138\"",
     "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/sXhLav0LGyIcVdO886DKMLD+d3lu7XqBVyHgY4y7Zonrx5fZsh0aYGTRCpWig5q8li59icPpj4renOa2+eMWC4=",
     "sec-ch-ua-mobile": "?0",
-    "luws": "35291DF2-B782-F7DC-A00E-37F009B260DC_",
-    "x-signature": "9c1e6f5d09c44820a45a64a45f06216615db22a8659f562e89d2d36a04526bd5",
+    "luws": "ED97FD86-0D99-E2F9-C349-F046CE2F91CB_",
+    "x-signature": "ada53f980cae222b72fd5ba4a5b8747ed9e537f33d901a428766e69917854ae4",
     "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/138.0.7204.23 Safari/537.36",
     "x-secure-level": "2",
-    "x-client": "1751484006.041",
+    "x-client": "1751484608.083",
     "x-user-email": null,
+    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751499009~acl=/stream/206/file/*~id=allUsers~hmac=b335b7dfbcdc957f26ab1abe9249fa59a573d0a8c90cacb2e316bb2630c09a26",
+    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751499009~acl=/stream/206/file/*~id=allUsers~hmac=b335b7dfbcdc957f26ab1abe9249fa59a573d0a8c90cacb2e316bb2630c09a26",
     "205-dash": null,
-    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751498408~acl=/stream/205/file/*~id=allUsers~hmac=1ff8c6d163b0047cf9344ef9fd7d25654ba12be611205bf69ccefe996b7271d4",
-    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751498408~acl=/stream/206/file/*~id=allUsers~hmac=6313c40dc75b2be531d1616dc6c45f813ba81f9cc1d1ce5ff194d559ff27a472",
-    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751498408~acl=/stream/206/file/*~id=allUsers~hmac=6313c40dc75b2be531d1616dc6c45f813ba81f9cc1d1ce5ff194d559ff27a472",
+    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751499009~acl=/stream/205/file/*~id=allUsers~hmac=6c77a366a71a7973bd46df8114715b715fde0b61ff627880457e04ab878fd6da",
     "18105-dash": null,
-    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751498408~acl=/stream/18105/file/*~id=allUsers~hmac=082bc0d45e27d14b8776b7b51ce5b80cdd076ad4c9ff4b335ece2976c6131dc1",
+    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751499009~acl=/stream/18105/file/*~id=allUsers~hmac=a98fab8f5334afbc424bf3c1db06a90f68f41d25e5fd6ad01a6bed061a8e5028",
     "204-dash": null,
-    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751498408~acl=/stream/204/file/*~id=allUsers~hmac=5cc06c1c723e3b917dd7ef80ad56e4e61cdc1a4047baf32fcf7989e0a75a29f2",
+    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751499009~acl=/stream/204/file/*~id=allUsers~hmac=32332bbf65861fac024b9f09b314d05b01b76ddd2f9fc9a168945005ef9cab2f",
     "all-sections": "17139-17140-17884-18189-18249-18250-18252-18253-19030-6317",
     "all-vidiolivetv": [
       {
@@ -496,7 +496,7 @@
       "start_time": "2025-07-02T14:00:00.000Z"
     },
     "18250": {
-      "title": "Vivien Sandorhazi (HUN) vs Nguyen Thuy Linh (VIE) - Women's Singles Round of 32 | Yonex Canada Open 2025",
+      "title": "Gabriel Christopher Wintan Wijaya/Serena Kani (INA) vs Kristoffer Kolding/Mette Werge (DEN) - Mixed Doubles Round of 32 | Yonex Canada Open 2025",
       "web_url": "18250",
       "cover_url": "https://thumbor.prod.vidiocdn.com/gw0wKEOcR-aqHuyXi19ma4RFLxc=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18250/yonex-canada-open-2025-round-of-32-court-2-ed4468.jpg",
       "start_time": "2025-07-02T14:00:00.000Z"
@@ -654,7 +654,7 @@
       "start_time": "2025-07-02T14:00:00.000Z"
     },
     "18250": {
-      "title": "Vivien Sandorhazi (HUN) vs Nguyen Thuy Linh (VIE) - Women's Singles Round of 32 | Yonex Canada Open 2025",
+      "title": "Gabriel Christopher Wintan Wijaya/Serena Kani (INA) vs Kristoffer Kolding/Mette Werge (DEN) - Mixed Doubles Round of 32 | Yonex Canada Open 2025",
       "web_url": "18250",
       "cover_url": "https://thumbor.prod.vidiocdn.com/gw0wKEOcR-aqHuyXi19ma4RFLxc=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18250/yonex-canada-open-2025-round-of-32-court-2-ed4468.jpg",
       "start_time": "2025-07-02T14:00:00.000Z"
