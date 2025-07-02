@@ -1,5 +1,5 @@
 {
-  "time": "2025-07-02T06:20:08.993Z",
+  "time": "2025-07-02T06:30:20.386Z",
   "headers": {
     "x-api-platform": "web-desktop",
     "content-type": "application/vnd.api+json",
@@ -8,22 +8,22 @@
     "referer": "https://www.vidio.com/",
     "accept-language": "undefined",
     "sec-ch-ua": "\"Not)A;Brand\";v=\"8\", \"Chromium\";v=\"138\", \"HeadlessChrome\";v=\"138\"",
-    "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/twiLy68Rmbl4XuocTa8Vp7OM6b1JuPLep3lezQQ2G10lhhM+Te4RL9abXXXVwkqJlKhkKLHwdSnnCMY/x0Dh0Q=",
+    "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/lSQecXnnQrxkh0GZyroYjCDIDziBVBUObL3FivzsgewG4kS+ifOFaiZGt/6DtCzHS4tmZmP8deIyz+TTPIs378=",
     "sec-ch-ua-mobile": "?0",
-    "luws": "35D77F12-5568-3A26-B7DC-CDFEFA3A0C41_",
-    "x-signature": "4756d5303707c708316572f37a9a4886dc6602d7ce3e6841ae6a0e7c754654e9",
+    "luws": "E5938CE5-8C78-3FAD-97EF-0D47F7DDB216_",
+    "x-signature": "7fcc38f11194914aedf9b50f2f571ab1f2aa97ef37ae95169f855a84d7026b05",
     "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/138.0.7204.23 Safari/537.36",
     "x-secure-level": "2",
-    "x-client": "1751437202.777",
+    "x-client": "1751437816.905",
     "x-user-email": null,
     "204-dash": null,
-    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751451606~acl=/stream/204/file/*~id=allUsers~hmac=8375f9aeb43d53911eef69e8123ba6de62921894dc5a416dd8affd9c53625a5c",
+    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751452218~acl=/stream/204/file/*~id=allUsers~hmac=0a916588313cb1491f4e4cf8cfe643cf2a755eb538a7f6b1688d8166b1756da2",
+    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751452218~acl=/stream/206/file/*~id=allUsers~hmac=a14b9ec8e911020789aa99570d9a827e69d365c8df95bcc7c1f8bedc5267e139",
+    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751452218~acl=/stream/206/file/*~id=allUsers~hmac=a14b9ec8e911020789aa99570d9a827e69d365c8df95bcc7c1f8bedc5267e139",
     "205-dash": null,
-    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751451606~acl=/stream/205/file/*~id=allUsers~hmac=8456f9a3f7a04342eb40c2a1bb559bcbd6d2864d13470da44661befe3f7dbca3",
-    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751451606~acl=/stream/206/file/*~id=allUsers~hmac=3b441c776a708ee78a50735387ef06b59373e3c548b695664f243c00e8f0655b",
-    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751451606~acl=/stream/206/file/*~id=allUsers~hmac=3b441c776a708ee78a50735387ef06b59373e3c548b695664f243c00e8f0655b",
+    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751452218~acl=/stream/205/file/*~id=allUsers~hmac=44b9e027dd583cafac86607258ceb88521a07e4969e58787472344199db101c4",
     "18105-dash": null,
-    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751451606~acl=/stream/18105/file/*~id=allUsers~hmac=62b55d035b6a48509919247c4b44831b9e7a418650b6b0fe047dd7498675669b",
+    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751452218~acl=/stream/18105/file/*~id=allUsers~hmac=ee09a49ffac2b29adb736ae2a8a2ac1b05e0e57a4940a8a1f4c796207842cbfb",
     "all-sections": "17139-17140-17884-18189-18249-18250-18252-18253-18994-6317",
     "all-vidiolivetv": [
       {
@@ -496,7 +496,7 @@
       "start_time": "2025-07-02T14:00:00.000Z"
     },
     "18250": {
-      "title": "Yonex Canada Open 2025 - Round of 32 (Court 2)",
+      "title": "Priyanshu Rajawat (IND) vs Kidambi Srikanth (IND) - Men's Singles Round of 32 | Yonex Canada Open 2025",
       "web_url": "18250",
       "cover_url": "https://thumbor.prod.vidiocdn.com/gw0wKEOcR-aqHuyXi19ma4RFLxc=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18250/yonex-canada-open-2025-round-of-32-court-2-ed4468.jpg",
       "start_time": "2025-07-02T14:00:00.000Z"
@@ -658,12 +658,6 @@
       "web_url": "19025",
       "cover_url": "https://thumbor.prod.vidiocdn.com/GS7h0BHwDyWgm4VgbWD0-6nGFAs=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/19025/live-now-7100c3.jpg",
       "start_time": "2025-07-02T04:01:00.000Z"
-    },
-    "19027": {
-      "title": "Konpers Kejagung Soal Kasus Tipikor CPO | LIVE",
-      "web_url": "19027",
-      "cover_url": "https://thumbor.prod.vidiocdn.com/0RWyPiENKuzHG_ctqwmH5CCqKV4=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/19027/konpers-kejagung-soal-kasus-tipikor-cpo-live-06da4c.jpg",
-      "start_time": "2025-07-02T06:05:00.000Z"
     }
   }
 }
