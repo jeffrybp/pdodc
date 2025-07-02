@@ -1,5 +1,5 @@
 {
-  "time": "2025-07-02T12:20:05.925Z",
+  "time": "2025-07-02T12:30:11.830Z",
   "headers": {
     "x-api-platform": "web-desktop",
     "content-type": "application/vnd.api+json",
@@ -8,22 +8,22 @@
     "referer": "https://www.vidio.com/",
     "accept-language": "undefined",
     "sec-ch-ua": "\"Not)A;Brand\";v=\"8\", \"Chromium\";v=\"138\", \"HeadlessChrome\";v=\"138\"",
-    "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/r5hUB0SWk1qatgIGHojE40HxJR0FC8+g/XOccS1c2z2J0MNXmvFJHuXkVrASxnBy8TvCjHpYrmeaPHuql5uqLQ=",
+    "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/kGwB5vvoF7zHMZa7QE/9ikjoBCmPoUJNtUhCOj94tl/HUUpBJsu5Kafl3ctrzwv1yGqRnBowve+1UMHvRrFwbI=",
     "sec-ch-ua-mobile": "?0",
-    "luws": "D4D2D47C-15D7-55C8-8936-9A2C851EEE16_",
-    "x-signature": "33f0b9290bdc656648dfdddac67c461a999260863796ddcfaf5043485b0ae9e7",
+    "luws": "6FBE5907-F83A-6B56-318C-5E7F876E3800_",
+    "x-signature": "8868604cf5bcca815b5eb911339c0515a3a55a497a470d7270d8bbe6bd52e007",
     "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/138.0.7204.23 Safari/537.36",
     "x-secure-level": "2",
-    "x-client": "1751458803.214",
+    "x-client": "1751459407.985",
     "x-user-email": null,
     "204-dash": null,
-    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751473203~acl=/stream/204/file/*~id=allUsers~hmac=2b1843692d70731e3f2d15ab1241c3a5e2874cf5b56178492f444ef8e2b30c2c",
+    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751473809~acl=/stream/204/file/*~id=allUsers~hmac=07af73a965a62a9e6f19bdd4e957d4161977cb140e4e60fbab99fbab27e66f42",
+    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751473809~acl=/stream/206/file/*~id=allUsers~hmac=46ec67aaecec08a5fa7fb85cd42fb2b9dfce66f787e26cd280a5a7c45d51ec9c",
+    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751473809~acl=/stream/206/file/*~id=allUsers~hmac=46ec67aaecec08a5fa7fb85cd42fb2b9dfce66f787e26cd280a5a7c45d51ec9c",
     "18105-dash": null,
-    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751473203~acl=/stream/18105/file/*~id=allUsers~hmac=bcbb2df1b76c4d6faf34dc3f0502c9e51b960eb67348c6c8b15927a2373a0864",
+    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751473809~acl=/stream/18105/file/*~id=allUsers~hmac=2cd5694b440b5f0dc62c4c288df777cc6282ff90d4cceeddc3b4189646b9954b",
     "205-dash": null,
-    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751473203~acl=/stream/205/file/*~id=allUsers~hmac=a3a3c3b7b20a4478af9b6d2c436ed8e2cdbba40a4a459f928b8baf271ea939ff",
-    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751473203~acl=/stream/206/file/*~id=allUsers~hmac=c333be1346b3d2ca1df0632b7086f9e52f700a1b8a6177902a4b209c3ee31eac",
-    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751473203~acl=/stream/206/file/*~id=allUsers~hmac=c333be1346b3d2ca1df0632b7086f9e52f700a1b8a6177902a4b209c3ee31eac",
+    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751473809~acl=/stream/205/file/*~id=allUsers~hmac=7ebf306890b18d71b8fa92edae4afa86baa16e8a30cc95bab04f66928a01eaa7",
     "all-sections": "17139-17140-17884-18189-18249-18250-18252-18253-18994-19030-6317",
     "all-vidiolivetv": [
       {
@@ -525,12 +525,6 @@
       "cover_url": "https://thumbor.prod.vidiocdn.com/WNSCGz2H0Aimisrw85FJYcS8imM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4388993/2fcd78.jpg",
       "start_time": "2025-07-02T12:30:00.000Z"
     },
-    "4391006": {
-      "title": "Bordeaux P2 Premier Padel 2025 - Day 3",
-      "web_url": "6317",
-      "cover_url": "https://thumbor.prod.vidiocdn.com/ai0DES7QJal51vWOkGNlO0LjpDU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4391006/dd017b.jpg",
-      "start_time": "2025-07-02T08:00:00.000Z"
-    },
     "4394281": {
       "title": "John Deere Classic - Round 1",
       "web_url": "18189",
@@ -658,6 +652,12 @@
       "web_url": "17939",
       "cover_url": "https://thumbor.prod.vidiocdn.com/X-RqLAcQNAoAqhhYdA6L240KI50=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17939/serie-a-4cc90b.jpg",
       "start_time": "2024-10-20T12:45:00.000Z"
+    },
+    "18994": {
+      "title": "Pakistan vs Indonesia - AFC Women's Asian Cup 2026 Qualifiers",
+      "web_url": "18994",
+      "cover_url": "https://thumbor.prod.vidiocdn.com/WNSCGz2H0Aimisrw85FJYcS8imM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4388993/2fcd78.jpg",
+      "start_time": "2025-07-02T12:30:00.000Z"
     }
   }
 }
