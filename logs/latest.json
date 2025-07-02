@@ -1,5 +1,5 @@
 {
-  "time": "2025-07-02T16:00:07.491Z",
+  "time": "2025-07-02T16:10:08.386Z",
   "headers": {
     "x-api-platform": "web-desktop",
     "content-type": "application/vnd.api+json",
@@ -8,22 +8,22 @@
     "referer": "https://www.vidio.com/",
     "accept-language": "undefined",
     "sec-ch-ua": "\"Not)A;Brand\";v=\"8\", \"Chromium\";v=\"138\", \"HeadlessChrome\";v=\"138\"",
-    "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/tQ9pqGegY/KHURWgeCAXBBmLuxzCBu5w94yju+P1Z//Dh6TX9/wAG7NivDvcNo5t8GjL4gZRmJ3LZj72zvujhM=",
+    "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/nMSpCldGQelx6xUvGFyGCO8Nnf/Qj+Lnfqft3JN/rSQSadeerK80mnBhiXFPBReH2HQ/NjDqzYX/7k3KVr5tr8=",
     "sec-ch-ua-mobile": "?0",
-    "luws": "5C15F17F-143B-01D0-0FC9-3C116D93DA7C_",
-    "x-signature": "c72fa6455a73511de53e93260928d5f03cb7a273d5c6fdf3256a6b1f6f0bc6fc",
+    "luws": "A264FCDD-27F8-68A7-D6FA-30703DFDB900_",
+    "x-signature": "0827158d067e6a8e11db0bba2c346ddf030246aef9899c5b262cc3985beb4ddc",
     "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/138.0.7204.23 Safari/537.36",
     "x-secure-level": "2",
-    "x-client": "1751472004.492",
+    "x-client": "1751472605.896",
     "x-user-email": null,
-    "204-dash": null,
-    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751486405~acl=/stream/204/file/*~id=allUsers~hmac=e914734b0aab88c18a3c77642684d3b0d9c4e7a4807faf0394118ff247a0fed8",
     "205-dash": null,
-    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751486405~acl=/stream/205/file/*~id=allUsers~hmac=97293845a407e892c609884975d5d3d09f4a7d3630a03226a89d81736899cadd",
-    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751486405~acl=/stream/206/file/*~id=allUsers~hmac=73e319627f1c5bdd7e5046d7ea0511cdc4328796835573e267c0c9170bdf2a5a",
-    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751486405~acl=/stream/206/file/*~id=allUsers~hmac=73e319627f1c5bdd7e5046d7ea0511cdc4328796835573e267c0c9170bdf2a5a",
+    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751487006~acl=/stream/205/file/*~id=allUsers~hmac=1f2c9927e035c00555c29df03026168de72c40c75e7ec9e4f3a4c162dfbaa4e8",
     "18105-dash": null,
-    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751486405~acl=/stream/18105/file/*~id=allUsers~hmac=a9c065b269ccf7d73da8245460c74cbecfc177f52c339be5c855c6f67ef3d9f2",
+    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751487006~acl=/stream/18105/file/*~id=allUsers~hmac=4f4debbbf33915db60d1b48e89c008206640d545d01c8a37f4043735a1bf5630",
+    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751487006~acl=/stream/206/file/*~id=allUsers~hmac=c2e6ca32f77f3d9b20c266c19e3c849b7b3806d6eb2e0ab4988c58c1dbb869e6",
+    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751487006~acl=/stream/206/file/*~id=allUsers~hmac=c2e6ca32f77f3d9b20c266c19e3c849b7b3806d6eb2e0ab4988c58c1dbb869e6",
+    "204-dash": null,
+    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751487006~acl=/stream/204/file/*~id=allUsers~hmac=5197e4ccb25c538365703ede9f1c69feea845104129106ca116eda7d3fd080a1",
     "all-sections": "17139-17140-17884-18189-18249-18250-18252-18253-19030-6317",
     "all-vidiolivetv": [
       {
@@ -490,7 +490,7 @@
   },
   "sections": {
     "18249": {
-      "title": "Chen Zhi Yi/Francesca Corbett (USA) vs Clarence Chau/Eyota Kwan (CAN) - Mixed Doubles Round of 32 | Yonex Canada Open 2025",
+      "title": "Kevin Lee/Josephine Wu (CAN) vs Julien Maio/Lea Palermo (FRA) - Mixed Doubles Round of 32 | Yonex Canada Open 2025",
       "web_url": "18249",
       "cover_url": "https://thumbor.prod.vidiocdn.com/jPYa_8OKzav7Oyyyq_m3alvq5Zg=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18249/yonex-canada-open-2025-round-of-32-court-1-536f15.jpg",
       "start_time": "2025-07-02T14:00:00.000Z"
@@ -666,7 +666,7 @@
       "start_time": "2024-10-20T12:45:00.000Z"
     },
     "18249": {
-      "title": "Chen Zhi Yi/Francesca Corbett (USA) vs Clarence Chau/Eyota Kwan (CAN) - Mixed Doubles Round of 32 | Yonex Canada Open 2025",
+      "title": "Kevin Lee/Josephine Wu (CAN) vs Julien Maio/Lea Palermo (FRA) - Mixed Doubles Round of 32 | Yonex Canada Open 2025",
       "web_url": "18249",
       "cover_url": "https://thumbor.prod.vidiocdn.com/jPYa_8OKzav7Oyyyq_m3alvq5Zg=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18249/yonex-canada-open-2025-round-of-32-court-1-536f15.jpg",
       "start_time": "2025-07-02T14:00:00.000Z"
