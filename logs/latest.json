@@ -1,5 +1,5 @@
 {
-  "time": "2025-07-02T19:00:08.885Z",
+  "time": "2025-07-02T19:10:09.006Z",
   "headers": {
     "x-api-platform": "web-desktop",
     "content-type": "application/vnd.api+json",
@@ -8,22 +8,22 @@
     "referer": "https://www.vidio.com/",
     "accept-language": "undefined",
     "sec-ch-ua": "\"Not)A;Brand\";v=\"8\", \"Chromium\";v=\"138\", \"HeadlessChrome\";v=\"138\"",
-    "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/k5R+wmD0dcY6EM8thVGH0jLzf4oqyIbLCE0p705OIdsTM07P65Krfh0w2P7GKOAoV8WTuxWM0iyeavhU4TmWTY=",
+    "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/iJ+T8uWhgj0W6up35Z/mlWztDtzFSUhs3iOmQuEEPxU6VJ4l5jBDZVqv1wwBdk4B4vXaLK1IMGAQDNhF1YuR1A=",
     "sec-ch-ua-mobile": "?0",
-    "luws": "9DC397F4-119E-42D8-D03C-532EC86AA3EE_",
-    "x-signature": "d972e278ae104eb1b0fad295135c778f6e4e3c09ca32531223b913c3e029d47d",
+    "luws": "9448557A-9F66-97C8-F00E-1423D1F3C3D7_",
+    "x-signature": "07461019b81f652807aec036bf6783368bb0c0a71c599855c600a67fc9d007d8",
     "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/138.0.7204.23 Safari/537.36",
     "x-secure-level": "2",
-    "x-client": "1751482806.383",
+    "x-client": "1751483406.234",
     "x-user-email": null,
-    "204-dash": null,
-    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751497207~acl=/stream/204/file/*~id=allUsers~hmac=63a3c537f5737e13d4bac3b473beb1a8c42cbc30651a312ba42ffd8fbb98a1b9",
-    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751497207~acl=/stream/206/file/*~id=allUsers~hmac=a45527dd0c4fc9db9f09a3de399b1afd529257e017be06775f7b857adb11db2b",
-    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751497207~acl=/stream/206/file/*~id=allUsers~hmac=a45527dd0c4fc9db9f09a3de399b1afd529257e017be06775f7b857adb11db2b",
     "205-dash": null,
-    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751497207~acl=/stream/205/file/*~id=allUsers~hmac=5c79348c7f90a7726455c68ac2035ebbcd5afc2bf42382de4917dd8a21eeaf82",
+    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751497807~acl=/stream/205/file/*~id=allUsers~hmac=74f7958445362465f85cfe49e65c6daeabdf0f7ca497070df0c3eb133da4568f",
+    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751497807~acl=/stream/206/file/*~id=allUsers~hmac=b577d1f4ab4b56ee44eeac75e2aa9ff0ce39a5bf1b6d7496f90a180d0be30ab0",
+    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751497807~acl=/stream/206/file/*~id=allUsers~hmac=b577d1f4ab4b56ee44eeac75e2aa9ff0ce39a5bf1b6d7496f90a180d0be30ab0",
+    "204-dash": null,
+    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751497807~acl=/stream/204/file/*~id=allUsers~hmac=bd9446dd4f0389b10239aad07af514af35bf48852554e5c3b085ddb9ce759b94",
     "18105-dash": null,
-    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751497207~acl=/stream/18105/file/*~id=allUsers~hmac=1e97e844baf104cf562a22c9f7b827ad4dfad0aa7a3f3c4aa0a8e8c0fac16e23",
+    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751497807~acl=/stream/18105/file/*~id=allUsers~hmac=a59825941b6fa6dd55aeefefbe6afca3dc6eb751f8df45acbe9a21c64b1dc301",
     "all-sections": "17139-17140-17884-18189-18249-18250-18252-18253-19030-6317",
     "all-vidiolivetv": [
       {
@@ -490,7 +490,7 @@
   },
   "sections": {
     "18249": {
-      "title": "Wen Chi Hsu (TPE) vs Huang Yu-Hsun (TPE) - Women's Singles Round of 32 | Yonex Canada Open 2025",
+      "title": "Liao Jhuo-Fu (TPE) vs Kodai Naraoka (JPN) - Men's Singles Round of 32 | Yonex Canada Open 2025",
       "web_url": "18249",
       "cover_url": "https://thumbor.prod.vidiocdn.com/jPYa_8OKzav7Oyyyq_m3alvq5Zg=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18249/yonex-canada-open-2025-round-of-32-court-1-536f15.jpg",
       "start_time": "2025-07-02T14:00:00.000Z"
@@ -566,12 +566,6 @@
       "web_url": "17140",
       "cover_url": "https://thumbor.prod.vidiocdn.com/7T8EJ8su9MA08cNJetZBPlTGYhk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4396417/81264c.jpg",
       "start_time": "2025-07-02T17:42:00.000Z"
-    },
-    "4396421": {
-      "title": "Emma Raducanu vs Marketa Vondrousova - Ladies' Singles Second Round | Wimbledon 2025",
-      "web_url": "17139",
-      "cover_url": "https://thumbor.prod.vidiocdn.com/9rzPz7S-FnocA_7OoKCYD7DVZCo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4396421/234ffa.jpg",
-      "start_time": "2025-07-02T17:24:00.000Z"
     },
     "4396547": {
       "title": "Bordeaux P2 Premier Padel 2025 - Day 3",
@@ -654,7 +648,7 @@
       "start_time": "2024-10-20T12:45:00.000Z"
     },
     "18249": {
-      "title": "Wen Chi Hsu (TPE) vs Huang Yu-Hsun (TPE) - Women's Singles Round of 32 | Yonex Canada Open 2025",
+      "title": "Liao Jhuo-Fu (TPE) vs Kodai Naraoka (JPN) - Men's Singles Round of 32 | Yonex Canada Open 2025",
       "web_url": "18249",
       "cover_url": "https://thumbor.prod.vidiocdn.com/jPYa_8OKzav7Oyyyq_m3alvq5Zg=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18249/yonex-canada-open-2025-round-of-32-court-1-536f15.jpg",
       "start_time": "2025-07-02T14:00:00.000Z"
