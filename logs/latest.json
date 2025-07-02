@@ -1,5 +1,5 @@
 {
-  "time": "2025-07-02T18:00:08.680Z",
+  "time": "2025-07-02T18:10:10.175Z",
   "headers": {
     "x-api-platform": "web-desktop",
     "content-type": "application/vnd.api+json",
@@ -8,22 +8,22 @@
     "referer": "https://www.vidio.com/",
     "accept-language": "undefined",
     "sec-ch-ua": "\"Not)A;Brand\";v=\"8\", \"Chromium\";v=\"138\", \"HeadlessChrome\";v=\"138\"",
-    "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/jIkIp3eoiNXk44/ial1VXNZ2LXNIYm40HRW0rTK8lkOEkeG85weL04XlZYiRlcqupMa3tENZUGx/1leXFvc3D0=",
+    "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/iEYtrxiN+hIEBds9rGtxpV6j97+Z5de6wH/OFkEjTFtSpbs1vWcf05GMr3xjDQo8aSMNi/AVjLf7ZY4k9wdpDI=",
     "sec-ch-ua-mobile": "?0",
-    "luws": "74D9B7AB-4948-DD5E-2303-B04E8F888679_",
-    "x-signature": "691324330a03dc9eef01d2c9b65efa325b20d52be7a8e0759f553ad937d8779c",
+    "luws": "21CA334B-D79B-D90C-1F60-C5DA6C8EDF81_",
+    "x-signature": "1d93353a5bc3eae18e330ec2129f10b44d0b3a525429aaa1045dd07dd349da5e",
     "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/138.0.7204.23 Safari/537.36",
     "x-secure-level": "2",
-    "x-client": "1751479205.986",
+    "x-client": "1751479805.951",
     "x-user-email": null,
-    "204-dash": null,
-    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751493607~acl=/stream/204/file/*~id=allUsers~hmac=54f14f4fb7b9cce817a1021dcb2281fa5cf842b0bbec8acfd1694dc6c24c15cf",
     "205-dash": null,
-    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751493607~acl=/stream/205/file/*~id=allUsers~hmac=f4b2a527afa2aaac4cdf60de270311340fab22552fc5eb914da43c8ab7f375b4",
-    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751493607~acl=/stream/206/file/*~id=allUsers~hmac=733fb550a04c8626142d636e7c54d8231684051996d78a14c5026a2a573fb997",
-    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751493607~acl=/stream/206/file/*~id=allUsers~hmac=733fb550a04c8626142d636e7c54d8231684051996d78a14c5026a2a573fb997",
+    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751494208~acl=/stream/205/file/*~id=allUsers~hmac=7bf911ba87f5910cc65c7a39dd69fe2b1ecff5cdc5015eea7e53cf6637492990",
+    "204-dash": null,
+    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751494208~acl=/stream/204/file/*~id=allUsers~hmac=03a5f52385ed3ebf3b29c2bfb34b1b46f703a36df76fc2777ab7c3d1cd8133eb",
+    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751494208~acl=/stream/206/file/*~id=allUsers~hmac=611a812e9aa15e5d9cb40b4520e26f1879e8dfa672c0a9f41f509a0726dd601d",
+    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751494208~acl=/stream/206/file/*~id=allUsers~hmac=611a812e9aa15e5d9cb40b4520e26f1879e8dfa672c0a9f41f509a0726dd601d",
     "18105-dash": null,
-    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751493607~acl=/stream/18105/file/*~id=allUsers~hmac=e999db1247bf8ef1aaf1a56dd632d69efe1c9d91ea77a09c66ab62f1a4b8e2ad",
+    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751494208~acl=/stream/18105/file/*~id=allUsers~hmac=3495e34f40cdca63d48fbc3fbd09f50c3914334c763378f0ca008ec36359367a",
     "all-sections": "17139-17140-17884-18189-18249-18250-18252-18253-19030-6317",
     "all-vidiolivetv": [
       {
@@ -496,7 +496,7 @@
       "start_time": "2025-07-02T14:00:00.000Z"
     },
     "18250": {
-      "title": "Vivien Sandorhazi (HUN) vs Nguyen Thuy Linh (VIE) - Women's Singles Round of 32 | Yonex Canada Open 2025",
+      "title": "Zachariah Josiahno Sumanti (INA)/Catherine Choi (CAN) vs Fabricio Farias/Jaqueline Lima (BRA) - Mixed Doubles Round of 32 | Yonex Canada Open 2025",
       "web_url": "18250",
       "cover_url": "https://thumbor.prod.vidiocdn.com/gw0wKEOcR-aqHuyXi19ma4RFLxc=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18250/yonex-canada-open-2025-round-of-32-court-2-ed4468.jpg",
       "start_time": "2025-07-02T14:00:00.000Z"
@@ -660,7 +660,7 @@
       "start_time": "2025-07-02T14:00:00.000Z"
     },
     "18250": {
-      "title": "Vivien Sandorhazi (HUN) vs Nguyen Thuy Linh (VIE) - Women's Singles Round of 32 | Yonex Canada Open 2025",
+      "title": "Zachariah Josiahno Sumanti (INA)/Catherine Choi (CAN) vs Fabricio Farias/Jaqueline Lima (BRA) - Mixed Doubles Round of 32 | Yonex Canada Open 2025",
       "web_url": "18250",
       "cover_url": "https://thumbor.prod.vidiocdn.com/gw0wKEOcR-aqHuyXi19ma4RFLxc=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18250/yonex-canada-open-2025-round-of-32-court-2-ed4468.jpg",
       "start_time": "2025-07-02T14:00:00.000Z"
