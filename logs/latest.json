@@ -1,5 +1,5 @@
 {
-  "time": "2025-07-02T20:50:10.728Z",
+  "time": "2025-07-02T21:00:08.510Z",
   "headers": {
     "x-api-platform": "web-desktop",
     "content-type": "application/vnd.api+json",
@@ -8,22 +8,22 @@
     "referer": "https://www.vidio.com/",
     "accept-language": "undefined",
     "sec-ch-ua": "\"Not)A;Brand\";v=\"8\", \"Chromium\";v=\"138\", \"HeadlessChrome\";v=\"138\"",
-    "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/sK6Ivriz8EUalx0QbotzKxwB3OufH4PhW9kZ3XsmPGXnCEtP4eDSqWQ8+vgb/81syM2N00inLL8lL2e4d9SkEw=",
+    "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/naIQgoW8H2kHjSlch4OGqzB+t+feyu0WJfPZ3Rp8B2sD26OYELyLmd/SyqaB6++G8psQjMdE3u3savT/RshKpc=",
     "sec-ch-ua-mobile": "?0",
-    "luws": "9E2E1950-8430-97B5-5D0B-06623F6C48ED_",
-    "x-signature": "ebe5514628b3d6137262c7b20229b9fa85edfec5b052ad62cbcee7a697fb8f46",
+    "luws": "343803F5-6CDF-2EF2-CBDE-7A1AFE4F242F_",
+    "x-signature": "2e3addbe985d1ec65e9473d574494f45dff8a81d72dbfba206bc63128eceb105",
     "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/138.0.7204.23 Safari/537.36",
     "x-secure-level": "2",
-    "x-client": "1751489407.914",
+    "x-client": "1751490006.134",
     "x-user-email": null,
     "204-dash": null,
-    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751503809~acl=/stream/204/file/*~id=allUsers~hmac=5acc40ec1d5bfb2ea55fa754e3f7b0f2144856ecd89895475584bed391353f57",
+    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751504407~acl=/stream/204/file/*~id=allUsers~hmac=47f0b48988c8171145c7928f36ce311fdfe36d01e65b380eedb3a61faff13bb4",
     "205-dash": null,
-    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751503809~acl=/stream/205/file/*~id=allUsers~hmac=eb94f1a1a16602ef4a847de44eb89f8230df716e8acdc5073c7d4e95034e1a45",
-    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751503809~acl=/stream/206/file/*~id=allUsers~hmac=c02b9a377c36aed7c58bb00e955be9d2ffa85500ca89353105891d4f449cac70",
-    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751503809~acl=/stream/206/file/*~id=allUsers~hmac=c02b9a377c36aed7c58bb00e955be9d2ffa85500ca89353105891d4f449cac70",
+    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751504407~acl=/stream/205/file/*~id=allUsers~hmac=88858da37f051325bd2f6cfd13f314cd4dcdf16a5d6bebfdbfca85d8cf3d7935",
     "18105-dash": null,
-    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751503809~acl=/stream/18105/file/*~id=allUsers~hmac=0c3f6696a599056afedb884d7e0db717fb3adfb4414066539d47bf541f2d8d06",
+    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751504407~acl=/stream/18105/file/*~id=allUsers~hmac=51ad36a60a46c82830e69a9c3fe210d798425746f43d63a4eedfd6299b4d5644",
+    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751504407~acl=/stream/206/file/*~id=allUsers~hmac=21106a5731c4d0f20b10d99009b7cc00b06ef6919b27e364196aef0c9858eb3f",
+    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751504407~acl=/stream/206/file/*~id=allUsers~hmac=21106a5731c4d0f20b10d99009b7cc00b06ef6919b27e364196aef0c9858eb3f",
     "all-sections": "17139-17140-17884-18189-18249-18250-18252-18253-19030-6317",
     "all-vidiolivetv": [
       {
@@ -502,7 +502,7 @@
       "start_time": "2025-07-02T14:00:00.000Z"
     },
     "18252": {
-      "title": "Matthias Kicklitz (GER) vs Shogo Ogawa (JPN) - Men's Singles Round of 32 | Yonex Canada Open 2025",
+      "title": "Rasmus Espersen/Andreas Sondergaard (DEN) vs Chang Ko-Chi/Po Li-Wei (TPE) - Men's Doubles Round of 32 | Yonex Canada Open 2025",
       "web_url": "18252",
       "cover_url": "https://thumbor.prod.vidiocdn.com/pFRY7vY8T1WY377q-FHfGeAeZEQ=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18252/yonex-canada-open-2025-round-of-32-court-3-eb833f.jpg",
       "start_time": "2025-07-02T14:10:00.000Z"
@@ -630,7 +630,7 @@
       "start_time": "2025-04-02T13:25:00.000Z"
     },
     "17938": {
-      "title": "Serie A",
+      "title": "Venezia vs Juventus - Serie A",
       "web_url": "17938",
       "cover_url": "https://thumbor.prod.vidiocdn.com/tJoOEHTHed9-fRQvnXoew2nr8hY=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17938/serie-a-973769.jpg",
       "start_time": "2024-10-20T10:00:00.000Z"
@@ -654,7 +654,7 @@
       "start_time": "2025-07-02T14:00:00.000Z"
     },
     "18252": {
-      "title": "Matthias Kicklitz (GER) vs Shogo Ogawa (JPN) - Men's Singles Round of 32 | Yonex Canada Open 2025",
+      "title": "Rasmus Espersen/Andreas Sondergaard (DEN) vs Chang Ko-Chi/Po Li-Wei (TPE) - Men's Doubles Round of 32 | Yonex Canada Open 2025",
       "web_url": "18252",
       "cover_url": "https://thumbor.prod.vidiocdn.com/pFRY7vY8T1WY377q-FHfGeAeZEQ=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18252/yonex-canada-open-2025-round-of-32-court-3-eb833f.jpg",
       "start_time": "2025-07-02T14:10:00.000Z"
