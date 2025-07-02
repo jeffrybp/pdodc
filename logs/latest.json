@@ -1,5 +1,5 @@
 {
-  "time": "2025-07-02T07:00:17.340Z",
+  "time": "2025-07-02T07:10:08.310Z",
   "headers": {
     "x-api-platform": "web-desktop",
     "content-type": "application/vnd.api+json",
@@ -8,22 +8,22 @@
     "referer": "https://www.vidio.com/",
     "accept-language": "undefined",
     "sec-ch-ua": "\"Not)A;Brand\";v=\"8\", \"Chromium\";v=\"138\", \"HeadlessChrome\";v=\"138\"",
-    "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/rOj51QlXfTbzklQfL6vIoULaGcCydFw9dteBmXHGmc2JRdeRAVAbWqGFT9cha3/21RIeMtRkHSSJXN8A2LRpyg=",
+    "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/v/WOm+yEXM7XU9tk3QP4hpOmh08a/1tKHIxq4Iyu4l9+SXARPyhIFMITZbZKHQ9wtMYJKs5pNwJ0FRBWAhPhc0=",
     "sec-ch-ua-mobile": "?0",
-    "luws": "F948BD99-E1D1-2EE8-72D5-A269ABAB588D_",
-    "x-signature": "9108aeea5d7d9c120a6a40327eb9922159f157ac7049c95efb4897aacb7c801a",
+    "luws": "584E535F-20CB-C052-586E-9C1E5E3D2389_",
+    "x-signature": "6cad5950f6fdb21fd61530920d7975d09689f858a54d03d6d46862bfb96c2c46",
     "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/138.0.7204.23 Safari/537.36",
     "x-secure-level": "2",
-    "x-client": "1751439613.538",
+    "x-client": "1751440205.504",
     "x-user-email": null,
     "204-dash": null,
-    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751454015~acl=/stream/204/file/*~id=allUsers~hmac=7915dc4c27f4269bec6eebe6d35c344bb052cb54e63556697f5f4ff1fb0e0d93",
-    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751454015~acl=/stream/206/file/*~id=allUsers~hmac=f4314e4ec45eada9fcd62afd49f4e920f35b131e230a53cf6ac3604f9f5c0718",
-    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751454015~acl=/stream/206/file/*~id=allUsers~hmac=f4314e4ec45eada9fcd62afd49f4e920f35b131e230a53cf6ac3604f9f5c0718",
+    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751454606~acl=/stream/204/file/*~id=allUsers~hmac=712fb075228440fc7e857336c983f49ab5b5088ba1c88790121a36e93f5554bc",
     "18105-dash": null,
-    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751454015~acl=/stream/18105/file/*~id=allUsers~hmac=664bc04adf4d3e284a23a4f4b3d570a1e0e0d56f58ccd3d96923004b0079a23b",
+    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751454606~acl=/stream/18105/file/*~id=allUsers~hmac=ae88cb8d668661d8b7db8883362fb815b66d8ff44a4a0db4ef271189f8cfb4e2",
+    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751454606~acl=/stream/206/file/*~id=allUsers~hmac=1c384104213a118f85c88b6c931ee748525d3458e0942949caa29ecd76038fe9",
+    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751454606~acl=/stream/206/file/*~id=allUsers~hmac=1c384104213a118f85c88b6c931ee748525d3458e0942949caa29ecd76038fe9",
     "205-dash": null,
-    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751454015~acl=/stream/205/file/*~id=allUsers~hmac=d1df1968795cfef78a63db0d6fa4e58cccdd6b21c1f26da458e256f46a936fe1",
+    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751454606~acl=/stream/205/file/*~id=allUsers~hmac=3ea7ca2df71f56f9474a34a4b0c0bc0e4a82cf23c400a502b5bc2bf4c0c21c54",
     "all-sections": "17139-17140-17884-18189-18249-18250-18252-18253-18994-6317",
     "all-vidiolivetv": [
       {
@@ -647,11 +647,11 @@
       "cover_url": "https://thumbor.prod.vidiocdn.com/X-RqLAcQNAoAqhhYdA6L240KI50=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17939/serie-a-4cc90b.jpg",
       "start_time": "2024-10-20T12:45:00.000Z"
     },
-    "19028": {
+    "19029": {
       "title": "Kejutan Rapat Komisi XII Cecar Menteri ESDM Bahlil Lahadalia, Bahas Masalah Penting ini",
-      "web_url": "19028",
-      "cover_url": "https://thumbor.prod.vidiocdn.com/AWPjlfzJJOdUiwqFPaI--j4otTw=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/19028/live-now-de8ae0.jpg",
-      "start_time": "2025-07-02T07:00:00.000Z"
+      "web_url": "19029",
+      "cover_url": "https://thumbor.prod.vidiocdn.com/xkLMulj7ilz3DhZdELpFHLS0F0E=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/19029/live-now-1063d4.jpg",
+      "start_time": "2025-07-02T07:08:00.000Z"
     }
   }
 }
