@@ -1,5 +1,5 @@
 {
-  "time": "2025-07-02T21:10:10.847Z",
+  "time": "2025-07-02T21:20:10.324Z",
   "headers": {
     "x-api-platform": "web-desktop",
     "content-type": "application/vnd.api+json",
@@ -8,22 +8,22 @@
     "referer": "https://www.vidio.com/",
     "accept-language": "undefined",
     "sec-ch-ua": "\"Not)A;Brand\";v=\"8\", \"Chromium\";v=\"138\", \"HeadlessChrome\";v=\"138\"",
-    "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/lMB2RMZwl3qdyzIa4jgSs79YReLpPHG2hyk+2isUWuLb7dFE61gkTcyrXCj5wmrjFiRVltOGNXz9aV1qthV1Bo=",
+    "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/iZHe3wg5lXz/uM0L9EZMc/SE+wZihs5mRqrVQdHbq1eU5Ms5Vgq9BEvN2KSqxKXyX5qYHwtrJ+o0bHHtZbgCoQ=",
     "sec-ch-ua-mobile": "?0",
-    "luws": "ED977F33-CCD5-F402-C506-5A62B5013DCC_",
-    "x-signature": "98e3b6c7960e934c19c6242d31ca9129cf0544be905f8b68a722181c711de463",
+    "luws": "DD22C31F-C1FC-B4DA-9565-EED50EA76FD9_",
+    "x-signature": "f6054b181ba3702366db82dc2654ce0b6612aa325455daadb23e34708cd73168",
     "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/138.0.7204.23 Safari/537.36",
     "x-secure-level": "2",
-    "x-client": "1751490608.145",
+    "x-client": "1751491208.059",
     "x-user-email": null,
-    "18105-dash": null,
-    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751505009~acl=/stream/18105/file/*~id=allUsers~hmac=9b1adf82d03b50261feaa37fa04dafbf6e4a4fed131bb9c222f2f6c158064e4c",
+    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751505608~acl=/stream/206/file/*~id=allUsers~hmac=4f1cb1571dcc6de2a69bf8021f9b19aa7b4d230b0b446058d4591f9a4fc60ead",
+    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751505608~acl=/stream/206/file/*~id=allUsers~hmac=4f1cb1571dcc6de2a69bf8021f9b19aa7b4d230b0b446058d4591f9a4fc60ead",
     "205-dash": null,
-    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751505009~acl=/stream/205/file/*~id=allUsers~hmac=f24417638f58c80e78cf2fc42f3df6d9123447d42d869326955c86e819596d87",
-    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751505009~acl=/stream/206/file/*~id=allUsers~hmac=c486ef12263fb049e04ccf07fc911e139a56b16ec25fed9d23f80f0ab22e3c34",
-    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751505009~acl=/stream/206/file/*~id=allUsers~hmac=c486ef12263fb049e04ccf07fc911e139a56b16ec25fed9d23f80f0ab22e3c34",
+    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751505608~acl=/stream/205/file/*~id=allUsers~hmac=7183251fd0409fff437820a385fecaedb8a2543798763e6c3a4a1e62212e7f5b",
     "204-dash": null,
-    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751505009~acl=/stream/204/file/*~id=allUsers~hmac=1fc5baef499864238174a53e7349aa037dff2997356fe293c4df5a605c1d7257",
+    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751505608~acl=/stream/204/file/*~id=allUsers~hmac=8580a3e627cd5b902bdf269c6b8acbc695a49f8aef79f70be4f57254632727da",
+    "18105-dash": null,
+    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751505608~acl=/stream/18105/file/*~id=allUsers~hmac=409d54942d4af16a24f5c0eee757e0249007d57460e726ec2d1098df0e2ac397",
     "all-sections": "17139-17140-17884-18189-18249-18250-18252-18253-19030-6317",
     "all-vidiolivetv": [
       {
@@ -508,7 +508,7 @@
       "start_time": "2025-07-02T14:10:00.000Z"
     },
     "18253": {
-      "title": "Brian Wassink/Debora Jille (NED) vs Adrian King-Sun Mar/Chloe Ho (USA) - Mixed Doubles Round of 32 | Yonex Canada Open 2025",
+      "title": "Joamim Oldroff (FIN) vs Kuo Kuan Lin (TPE) - Men's Singles Round of 32 | Yonex Canada Open 2025",
       "web_url": "18253",
       "cover_url": "https://thumbor.prod.vidiocdn.com/bTCaolxQqLBotJskB9hXyyV8DhM=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18253/yonex-canada-open-2025-round-of-32-court-4-ab7209.jpg",
       "start_time": "2025-07-02T14:00:00.000Z"
@@ -660,7 +660,7 @@
       "start_time": "2025-07-02T14:10:00.000Z"
     },
     "18253": {
-      "title": "Brian Wassink/Debora Jille (NED) vs Adrian King-Sun Mar/Chloe Ho (USA) - Mixed Doubles Round of 32 | Yonex Canada Open 2025",
+      "title": "Joamim Oldroff (FIN) vs Kuo Kuan Lin (TPE) - Men's Singles Round of 32 | Yonex Canada Open 2025",
       "web_url": "18253",
       "cover_url": "https://thumbor.prod.vidiocdn.com/bTCaolxQqLBotJskB9hXyyV8DhM=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18253/yonex-canada-open-2025-round-of-32-court-4-ab7209.jpg",
       "start_time": "2025-07-02T14:00:00.000Z"
