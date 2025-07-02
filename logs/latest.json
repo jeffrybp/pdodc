@@ -1,5 +1,5 @@
 {
-  "time": "2025-07-02T18:30:08.615Z",
+  "time": "2025-07-02T18:40:08.430Z",
   "headers": {
     "x-api-platform": "web-desktop",
     "content-type": "application/vnd.api+json",
@@ -8,22 +8,22 @@
     "referer": "https://www.vidio.com/",
     "accept-language": "undefined",
     "sec-ch-ua": "\"Not)A;Brand\";v=\"8\", \"Chromium\";v=\"138\", \"HeadlessChrome\";v=\"138\"",
-    "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/p7MGSjLXNP4YKSf8WgPYjTY9wlrF7NjyyDiyg7lePwUMazTmtJ3/4npYY5efHQxtZAU7DFjaVpzyPMnED3p3dM=",
+    "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/s6fJl5OjCopaiIQ0+jzxYoMEm9EgeyJg5RFb7nMP9W+jbOHCo5hu0jpw2HIRVUkcuISo6eBXdZz/0MYf/r06W4=",
     "sec-ch-ua-mobile": "?0",
-    "luws": "B7EC1E72-2AD4-F24F-E5BD-648B57622401_",
-    "x-signature": "baf2f86d0136cb5509a1251fbffc15283d7a139164e7a26348df261cf2b85850",
+    "luws": "91DCDAC1-2073-1EA7-39F5-C78DB6960754_",
+    "x-signature": "8852d214f04f145612a32ef1a044d91a514c1066cd5f63ad3cf8f9bcf0fde33d",
     "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/138.0.7204.23 Safari/537.36",
     "x-secure-level": "2",
-    "x-client": "1751481006.09",
+    "x-client": "1751481606.233",
     "x-user-email": null,
     "204-dash": null,
-    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751495407~acl=/stream/204/file/*~id=allUsers~hmac=55967c0fa54f94fab43ae1600d2c68d481bd97da82d2b9a8db96a4e8d9967c76",
-    "205-dash": null,
-    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751495407~acl=/stream/205/file/*~id=allUsers~hmac=0d2af68f2c3fb4f4d0020d7c8f040988c52499abf5a7790b9a275c7e6ac411e0",
+    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751496006~acl=/stream/204/file/*~id=allUsers~hmac=a5f0635c2ae2075dd8242026606abaa938ff5dedae322e5992ce81c17b584a99",
     "18105-dash": null,
-    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751495407~acl=/stream/18105/file/*~id=allUsers~hmac=6f866de685023e24a46f220d6c88b8277e1d97fa6f235ba8ae74c6fe29d270d8",
-    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751495407~acl=/stream/206/file/*~id=allUsers~hmac=402f2ca7a36d443373d2e55955911d27ecfbc391baa1ec04be795a22c03e80ba",
-    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751495407~acl=/stream/206/file/*~id=allUsers~hmac=402f2ca7a36d443373d2e55955911d27ecfbc391baa1ec04be795a22c03e80ba",
+    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751496006~acl=/stream/18105/file/*~id=allUsers~hmac=1668da15b40d58c1b6d9b8d8b0e4264944cef5f3225d2e94ddf2e4e4172a3364",
+    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751496007~acl=/stream/206/file/*~id=allUsers~hmac=5627c12f19d3897313bb60d12af2d9d516b05e0a3804c02b1a7efab37158bd12",
+    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751496007~acl=/stream/206/file/*~id=allUsers~hmac=5627c12f19d3897313bb60d12af2d9d516b05e0a3804c02b1a7efab37158bd12",
+    "205-dash": null,
+    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751496007~acl=/stream/205/file/*~id=allUsers~hmac=823d5ab77a60f99e41b8c34f2a5e9f1b5e9047e2b5e7dff5981e66bf8a7c343a",
     "all-sections": "17139-17140-17884-18189-18249-18250-18252-18253-19030-6317",
     "all-vidiolivetv": [
       {
@@ -502,7 +502,7 @@
       "start_time": "2025-07-02T14:00:00.000Z"
     },
     "18252": {
-      "title": "Juliana Viana Vieira (BRA) vs Amalie Szhulz (DEN) - Women's Singles Round of 32 | Yonex Canada Open 2025",
+      "title": "Presley Smith/Jennie Gai (USA) vs Jan Colin Voelker/Stine Kuespert (GER) - Mixed Doubles Round of 32 | Yonex Canada Open 2025",
       "web_url": "18252",
       "cover_url": "https://thumbor.prod.vidiocdn.com/pFRY7vY8T1WY377q-FHfGeAeZEQ=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18252/yonex-canada-open-2025-round-of-32-court-3-eb833f.jpg",
       "start_time": "2025-07-02T14:10:00.000Z"
@@ -666,7 +666,7 @@
       "start_time": "2025-07-02T14:00:00.000Z"
     },
     "18252": {
-      "title": "Juliana Viana Vieira (BRA) vs Amalie Szhulz (DEN) - Women's Singles Round of 32 | Yonex Canada Open 2025",
+      "title": "Presley Smith/Jennie Gai (USA) vs Jan Colin Voelker/Stine Kuespert (GER) - Mixed Doubles Round of 32 | Yonex Canada Open 2025",
       "web_url": "18252",
       "cover_url": "https://thumbor.prod.vidiocdn.com/pFRY7vY8T1WY377q-FHfGeAeZEQ=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18252/yonex-canada-open-2025-round-of-32-court-3-eb833f.jpg",
       "start_time": "2025-07-02T14:10:00.000Z"
