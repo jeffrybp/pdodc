@@ -1,5 +1,5 @@
 {
-  "time": "2025-07-02T19:10:09.006Z",
+  "time": "2025-07-02T19:20:10.285Z",
   "headers": {
     "x-api-platform": "web-desktop",
     "content-type": "application/vnd.api+json",
@@ -8,22 +8,22 @@
     "referer": "https://www.vidio.com/",
     "accept-language": "undefined",
     "sec-ch-ua": "\"Not)A;Brand\";v=\"8\", \"Chromium\";v=\"138\", \"HeadlessChrome\";v=\"138\"",
-    "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/iJ+T8uWhgj0W6up35Z/mlWztDtzFSUhs3iOmQuEEPxU6VJ4l5jBDZVqv1wwBdk4B4vXaLK1IMGAQDNhF1YuR1A=",
+    "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/sXhLav0LGyIcVdO886DKMLD+d3lu7XqBVyHgY4y7Zonrx5fZsh0aYGTRCpWig5q8li59icPpj4renOa2+eMWC4=",
     "sec-ch-ua-mobile": "?0",
-    "luws": "9448557A-9F66-97C8-F00E-1423D1F3C3D7_",
-    "x-signature": "07461019b81f652807aec036bf6783368bb0c0a71c599855c600a67fc9d007d8",
+    "luws": "35291DF2-B782-F7DC-A00E-37F009B260DC_",
+    "x-signature": "9c1e6f5d09c44820a45a64a45f06216615db22a8659f562e89d2d36a04526bd5",
     "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/138.0.7204.23 Safari/537.36",
     "x-secure-level": "2",
-    "x-client": "1751483406.234",
+    "x-client": "1751484006.041",
     "x-user-email": null,
     "205-dash": null,
-    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751497807~acl=/stream/205/file/*~id=allUsers~hmac=74f7958445362465f85cfe49e65c6daeabdf0f7ca497070df0c3eb133da4568f",
-    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751497807~acl=/stream/206/file/*~id=allUsers~hmac=b577d1f4ab4b56ee44eeac75e2aa9ff0ce39a5bf1b6d7496f90a180d0be30ab0",
-    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751497807~acl=/stream/206/file/*~id=allUsers~hmac=b577d1f4ab4b56ee44eeac75e2aa9ff0ce39a5bf1b6d7496f90a180d0be30ab0",
-    "204-dash": null,
-    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751497807~acl=/stream/204/file/*~id=allUsers~hmac=bd9446dd4f0389b10239aad07af514af35bf48852554e5c3b085ddb9ce759b94",
+    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751498408~acl=/stream/205/file/*~id=allUsers~hmac=1ff8c6d163b0047cf9344ef9fd7d25654ba12be611205bf69ccefe996b7271d4",
+    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751498408~acl=/stream/206/file/*~id=allUsers~hmac=6313c40dc75b2be531d1616dc6c45f813ba81f9cc1d1ce5ff194d559ff27a472",
+    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751498408~acl=/stream/206/file/*~id=allUsers~hmac=6313c40dc75b2be531d1616dc6c45f813ba81f9cc1d1ce5ff194d559ff27a472",
     "18105-dash": null,
-    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751497807~acl=/stream/18105/file/*~id=allUsers~hmac=a59825941b6fa6dd55aeefefbe6afca3dc6eb751f8df45acbe9a21c64b1dc301",
+    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751498408~acl=/stream/18105/file/*~id=allUsers~hmac=082bc0d45e27d14b8776b7b51ce5b80cdd076ad4c9ff4b335ece2976c6131dc1",
+    "204-dash": null,
+    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751498408~acl=/stream/204/file/*~id=allUsers~hmac=5cc06c1c723e3b917dd7ef80ad56e4e61cdc1a4047baf32fcf7989e0a75a29f2",
     "all-sections": "17139-17140-17884-18189-18249-18250-18252-18253-19030-6317",
     "all-vidiolivetv": [
       {
@@ -508,7 +508,7 @@
       "start_time": "2025-07-02T14:10:00.000Z"
     },
     "18253": {
-      "title": "Audrey Chan/Jasmine Yeung (USA) vs Hung Yu-En/Lin Yen Yu (TPE) - Women's Doubles Round of 32 | Yonex Canada Open 2025",
+      "title": "Naomi Okuhara (JPN) vs Tereza Svabikova (CZE) - Women's Singles Round of 32 | Yonex Canada Open 2025",
       "web_url": "18253",
       "cover_url": "https://thumbor.prod.vidiocdn.com/bTCaolxQqLBotJskB9hXyyV8DhM=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18253/yonex-canada-open-2025-round-of-32-court-4-ab7209.jpg",
       "start_time": "2025-07-02T14:00:00.000Z"
@@ -666,7 +666,7 @@
       "start_time": "2025-07-02T14:10:00.000Z"
     },
     "18253": {
-      "title": "Audrey Chan/Jasmine Yeung (USA) vs Hung Yu-En/Lin Yen Yu (TPE) - Women's Doubles Round of 32 | Yonex Canada Open 2025",
+      "title": "Naomi Okuhara (JPN) vs Tereza Svabikova (CZE) - Women's Singles Round of 32 | Yonex Canada Open 2025",
       "web_url": "18253",
       "cover_url": "https://thumbor.prod.vidiocdn.com/bTCaolxQqLBotJskB9hXyyV8DhM=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18253/yonex-canada-open-2025-round-of-32-court-4-ab7209.jpg",
       "start_time": "2025-07-02T14:00:00.000Z"
