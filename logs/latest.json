@@ -1,5 +1,5 @@
 {
-  "time": "2025-07-02T15:30:08.921Z",
+  "time": "2025-07-02T15:40:49.845Z",
   "headers": {
     "x-api-platform": "web-desktop",
     "content-type": "application/vnd.api+json",
@@ -8,22 +8,22 @@
     "referer": "https://www.vidio.com/",
     "accept-language": "undefined",
     "sec-ch-ua": "\"Not)A;Brand\";v=\"8\", \"Chromium\";v=\"138\", \"HeadlessChrome\";v=\"138\"",
-    "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/p6sDrgF5K8iHHMR1fWlsLYTV7XT4ZqM9mAfaoxisFbweQorPq2l+ezzjew0B5Yfm/rTudpaXJrMsRTkfru5Bx8=",
+    "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/oCw9jsUazoFfgIcYTAlkPx4hbDfxUq/urf/2ByYddp5mh+3cBwowqohseATQIi/9vn4n61MnK6fa7phsPR+l64=",
     "sec-ch-ua-mobile": "?0",
-    "luws": "34BD745A-F32D-DC71-C1CC-10AE859BF355_",
-    "x-signature": "abc539c08c23847e362f788330a88483e085778d8320c7d52923f0cf86667721",
+    "luws": "750F0403-4A6F-0220-EDDA-5A73BF7B4BB0_",
+    "x-signature": "e3f05621abc3f31a689a121c344c00a95d58cb49ef56bc15e06769bd7d701394",
     "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/138.0.7204.23 Safari/537.36",
     "x-secure-level": "2",
-    "x-client": "1751470206.174",
+    "x-client": "1751470845.753",
     "x-user-email": null,
-    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751484607~acl=/stream/206/file/*~id=allUsers~hmac=ff81b14c6ccddfec1446fb63da8599fd133367cfe1b6410af6ced9e52363fa96",
-    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751484607~acl=/stream/206/file/*~id=allUsers~hmac=ff81b14c6ccddfec1446fb63da8599fd133367cfe1b6410af6ced9e52363fa96",
-    "18105-dash": null,
-    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751484606~acl=/stream/18105/file/*~id=allUsers~hmac=4ccc25c2617498456ebd1eb175a598c1d5b14557886652c768dbdbc61d115219",
     "205-dash": null,
-    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751484607~acl=/stream/205/file/*~id=allUsers~hmac=d2570313480e0026e0b3e35c08d921e844238e22c277add53b2cc4d531ccd5ee",
+    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751485248~acl=/stream/205/file/*~id=allUsers~hmac=f2810ffdfd8b322713d7d62d53f3187e2ecd0f2faed7ec39bc03d56de30db7dc",
     "204-dash": null,
-    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751484607~acl=/stream/204/file/*~id=allUsers~hmac=e17a4f2b21ae66dbdbbb77312a75c92911e4002d2a52305cc95fe5fff0a6567b",
+    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751485248~acl=/stream/204/file/*~id=allUsers~hmac=178d886b4deeb65eaaabf4079745eafe5bac9daa03bd0fedd443c4effa7e4b35",
+    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751485248~acl=/stream/206/file/*~id=allUsers~hmac=999c3affafc57584abe6440b1ee04e3752840c3e908d1fba12b1e435d785f198",
+    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751485248~acl=/stream/206/file/*~id=allUsers~hmac=999c3affafc57584abe6440b1ee04e3752840c3e908d1fba12b1e435d785f198",
+    "18105-dash": null,
+    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751485248~acl=/stream/18105/file/*~id=allUsers~hmac=dc3b184b31fb5277a864acdfe26a154ee17be135ab56df6da7b39648b9e2a92e",
     "all-sections": "17139-17140-17884-18189-18249-18250-18252-18253-19030-6317",
     "all-vidiolivetv": [
       {
@@ -496,7 +496,7 @@
       "start_time": "2025-07-02T14:00:00.000Z"
     },
     "18250": {
-      "title": "Wu Guan Xun/Lee Chia Hsin (TPE) vs Rasmus Espersen/Amalie Cecilie Kudsk (DEN) - Mixed Doubles Round of 32 | Yonex Canada Open 2025",
+      "title": "Ayush Shetty (IND) vs S.Sankar Muthusamy Subramanian (IND) - Men's Singles Round of 32 | Yonex Canada Open 2025",
       "web_url": "18250",
       "cover_url": "https://thumbor.prod.vidiocdn.com/gw0wKEOcR-aqHuyXi19ma4RFLxc=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18250/yonex-canada-open-2025-round-of-32-court-2-ed4468.jpg",
       "start_time": "2025-07-02T14:00:00.000Z"
@@ -672,7 +672,7 @@
       "start_time": "2025-07-02T14:00:00.000Z"
     },
     "18250": {
-      "title": "Wu Guan Xun/Lee Chia Hsin (TPE) vs Rasmus Espersen/Amalie Cecilie Kudsk (DEN) - Mixed Doubles Round of 32 | Yonex Canada Open 2025",
+      "title": "Ayush Shetty (IND) vs S.Sankar Muthusamy Subramanian (IND) - Men's Singles Round of 32 | Yonex Canada Open 2025",
       "web_url": "18250",
       "cover_url": "https://thumbor.prod.vidiocdn.com/gw0wKEOcR-aqHuyXi19ma4RFLxc=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18250/yonex-canada-open-2025-round-of-32-court-2-ed4468.jpg",
       "start_time": "2025-07-02T14:00:00.000Z"
