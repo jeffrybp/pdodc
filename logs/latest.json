@@ -1,5 +1,5 @@
 {
-  "time": "2025-07-02T06:30:20.386Z",
+  "time": "2025-07-02T06:40:16.872Z",
   "headers": {
     "x-api-platform": "web-desktop",
     "content-type": "application/vnd.api+json",
@@ -8,22 +8,22 @@
     "referer": "https://www.vidio.com/",
     "accept-language": "undefined",
     "sec-ch-ua": "\"Not)A;Brand\";v=\"8\", \"Chromium\";v=\"138\", \"HeadlessChrome\";v=\"138\"",
-    "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/lSQecXnnQrxkh0GZyroYjCDIDziBVBUObL3FivzsgewG4kS+ifOFaiZGt/6DtCzHS4tmZmP8deIyz+TTPIs378=",
+    "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/jmvc1UBr9X0dviOT6pHXDVWHCrib25gLePpPoDxaoI/1NwtQApVl33tJ6H75/9rkujRt0YMKwkFHtL/+wDsDqU=",
     "sec-ch-ua-mobile": "?0",
-    "luws": "E5938CE5-8C78-3FAD-97EF-0D47F7DDB216_",
-    "x-signature": "7fcc38f11194914aedf9b50f2f571ab1f2aa97ef37ae95169f855a84d7026b05",
+    "luws": "4A4978B1-07FF-79BC-63B4-8707BC2182B0_",
+    "x-signature": "f86cffd0d20f1ee79d8fc0af26c3bda45fb41e0e847d3cdd8886cdc0242e514b",
     "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/138.0.7204.23 Safari/537.36",
     "x-secure-level": "2",
-    "x-client": "1751437816.905",
+    "x-client": "1751438413.755",
     "x-user-email": null,
     "204-dash": null,
-    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751452218~acl=/stream/204/file/*~id=allUsers~hmac=0a916588313cb1491f4e4cf8cfe643cf2a755eb538a7f6b1688d8166b1756da2",
-    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751452218~acl=/stream/206/file/*~id=allUsers~hmac=a14b9ec8e911020789aa99570d9a827e69d365c8df95bcc7c1f8bedc5267e139",
-    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751452218~acl=/stream/206/file/*~id=allUsers~hmac=a14b9ec8e911020789aa99570d9a827e69d365c8df95bcc7c1f8bedc5267e139",
+    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751452815~acl=/stream/204/file/*~id=allUsers~hmac=435d829017657f772f65c1870e8a8ef4c44fbeeb23d1317a8bacf64dbb892a59",
     "205-dash": null,
-    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751452218~acl=/stream/205/file/*~id=allUsers~hmac=44b9e027dd583cafac86607258ceb88521a07e4969e58787472344199db101c4",
+    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751452815~acl=/stream/205/file/*~id=allUsers~hmac=9d79de3e292b4341c5658fee3ec408de3fe561ed14ab554c952b7519767e1123",
+    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751452815~acl=/stream/206/file/*~id=allUsers~hmac=49db1e44d44db6e332f7c29b766495eaf14de7f1b34f8e3f0b4a797e928ec83e",
+    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751452815~acl=/stream/206/file/*~id=allUsers~hmac=49db1e44d44db6e332f7c29b766495eaf14de7f1b34f8e3f0b4a797e928ec83e",
     "18105-dash": null,
-    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751452218~acl=/stream/18105/file/*~id=allUsers~hmac=ee09a49ffac2b29adb736ae2a8a2ac1b05e0e57a4940a8a1f4c796207842cbfb",
+    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751452815~acl=/stream/18105/file/*~id=allUsers~hmac=ce1fa93e4a105b69e3cfffa435cdd5043af55e9a2ceb762f58cf0f07d417d253",
     "all-sections": "17139-17140-17884-18189-18249-18250-18252-18253-18994-6317",
     "all-vidiolivetv": [
       {
@@ -646,12 +646,6 @@
       "web_url": "17939",
       "cover_url": "https://thumbor.prod.vidiocdn.com/X-RqLAcQNAoAqhhYdA6L240KI50=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17939/serie-a-4cc90b.jpg",
       "start_time": "2024-10-20T12:45:00.000Z"
-    },
-    "19024": {
-      "title": "DPR dan Mentan Amran Keras Soroti Marak Mafia Pangan",
-      "web_url": "19024",
-      "cover_url": "https://thumbor.prod.vidiocdn.com/QE1zMw4bHF5BguaJDh8FOxOMiUQ=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/19024/live-now-eb77e6.jpg",
-      "start_time": "2025-07-02T03:41:00.000Z"
     },
     "19025": {
       "title": "Kejutan Rapat DPR dengan Fadli Zon, Bahas Pemerkosaan Massal 1998?",
