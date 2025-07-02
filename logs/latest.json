@@ -1,5 +1,5 @@
 {
-  "time": "2025-07-02T23:10:11.717Z",
+  "time": "2025-07-02T23:20:10.736Z",
   "headers": {
     "x-api-platform": "web-desktop",
     "content-type": "application/vnd.api+json",
@@ -8,22 +8,22 @@
     "referer": "https://www.vidio.com/",
     "accept-language": "undefined",
     "sec-ch-ua": "\"Not)A;Brand\";v=\"8\", \"Chromium\";v=\"138\", \"HeadlessChrome\";v=\"138\"",
-    "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/sKkCC/+AX2scHOK0oWQG24DI1U+3M9bs1auyP2Yp2Z7HoqYbIFvtx6+hqS8Qt9DjZr4oE0Yr6/pxRI0thS6OVE=",
+    "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/sZdbpbC0TsLjVovv55wsDdEbL1y/XOTqVrvf1S4WImq4sRtjibOJ/AFxuK/AsOEddsV9f8XKZTom6Y1Lyop3+w=",
     "sec-ch-ua-mobile": "?0",
-    "luws": "05492DAD-14F1-45ED-24E3-976B969F8A80_",
-    "x-signature": "b0b6860b38a706fbdf2a6f94af3f7d0facc30c5a21bfa0dc8df88c20988c760f",
+    "luws": "2812EBD2-68F3-597D-AC23-F190B79C3362_",
+    "x-signature": "ad82e65bfa0cb59c046f2c572847bbee83d655c9f82044e9185deeb46af67850",
     "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/138.0.7204.23 Safari/537.36",
     "x-secure-level": "2",
-    "x-client": "1751497809.172",
+    "x-client": "1751498408.202",
     "x-user-email": null,
     "205-dash": null,
-    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751512209~acl=/stream/205/file/*~id=allUsers~hmac=cabbf6a490678380d6e08d2f87350f548ee4fb1053a97fdcd04ec4d6ac697f58",
+    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751512809~acl=/stream/205/file/*~id=allUsers~hmac=8f8c6bc99b56f2ffac1a7f7954ac1e52df5157f23c3c22415cff2951b7d7f1fa",
     "18105-dash": null,
-    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751512209~acl=/stream/18105/file/*~id=allUsers~hmac=804d2d357a58a9a28d4835f3bbd054a3f3bbe7ef6ba8666dd7433e8c80b76b19",
+    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751512809~acl=/stream/18105/file/*~id=allUsers~hmac=c872e77b92f9ef4c09791b157b305bf5d84e1c39fbe7badcc0b85f2abd8db4ef",
+    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751512809~acl=/stream/206/file/*~id=allUsers~hmac=fef480c9a7e1612fd0e2d199eee724dca4b546edc40bda9a85a39f7a99443afe",
+    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751512809~acl=/stream/206/file/*~id=allUsers~hmac=fef480c9a7e1612fd0e2d199eee724dca4b546edc40bda9a85a39f7a99443afe",
     "204-dash": null,
-    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751512209~acl=/stream/204/file/*~id=allUsers~hmac=c454e46a1f3a52aadf99a451dcfd1516969d80c68c523c6f34e8a26738504692",
-    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751512210~acl=/stream/206/file/*~id=allUsers~hmac=c27013386de7791716108c76b34414ad487d60439352f4327f8310717f75c4ad",
-    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751512210~acl=/stream/206/file/*~id=allUsers~hmac=c27013386de7791716108c76b34414ad487d60439352f4327f8310717f75c4ad",
+    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751512809~acl=/stream/204/file/*~id=allUsers~hmac=9a64deb20cb631f6bd14394150e55cc5b6ccee69bcb7b4178ba468ee20a27bf2",
     "all-sections": "17139-17140-17884-18189-18249-18250-18252-18253-19030-6317",
     "all-vidiolivetv": [
       {
@@ -508,7 +508,7 @@
       "start_time": "2025-07-02T14:10:00.000Z"
     },
     "18253": {
-      "title": "Koo Takahashi (JPN) vs Arnaud Merkle (FRA) - Men's Singles Round of 32 | Yonex Canada Open 2025",
+      "title": "Ines Lucia Castillo (PER) vs Wen Yu Zhang (CAN) - Women's Singles Round of 32 | Yonex Canada Open 2025",
       "web_url": "18253",
       "cover_url": "https://thumbor.prod.vidiocdn.com/bTCaolxQqLBotJskB9hXyyV8DhM=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18253/yonex-canada-open-2025-round-of-32-court-4-ab7209.jpg",
       "start_time": "2025-07-02T14:00:00.000Z"
@@ -654,7 +654,7 @@
       "start_time": "2025-07-02T14:10:00.000Z"
     },
     "18253": {
-      "title": "Koo Takahashi (JPN) vs Arnaud Merkle (FRA) - Men's Singles Round of 32 | Yonex Canada Open 2025",
+      "title": "Ines Lucia Castillo (PER) vs Wen Yu Zhang (CAN) - Women's Singles Round of 32 | Yonex Canada Open 2025",
       "web_url": "18253",
       "cover_url": "https://thumbor.prod.vidiocdn.com/bTCaolxQqLBotJskB9hXyyV8DhM=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18253/yonex-canada-open-2025-round-of-32-court-4-ab7209.jpg",
       "start_time": "2025-07-02T14:00:00.000Z"
