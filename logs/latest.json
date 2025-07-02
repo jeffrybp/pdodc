@@ -1,5 +1,5 @@
 {
-  "time": "2025-07-02T22:30:10.934Z",
+  "time": "2025-07-02T22:40:11.233Z",
   "headers": {
     "x-api-platform": "web-desktop",
     "content-type": "application/vnd.api+json",
@@ -8,22 +8,22 @@
     "referer": "https://www.vidio.com/",
     "accept-language": "undefined",
     "sec-ch-ua": "\"Not)A;Brand\";v=\"8\", \"Chromium\";v=\"138\", \"HeadlessChrome\";v=\"138\"",
-    "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/pvLupnMIwoJO6YX6Ca9fWh6vZuoHgi5M3nldVgPlCXUpAx9u6vTzcZ2Y2Re+dZvgfJvdmzgBRaiAAenYZImNuc=",
+    "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/szfQiSxYNP20aK0SbdRjCNMLSReewEMZViSxOo2kxz3Q2iMygbAZ4ETu9RSUfX8YaL1mZt4L8V7QJWbFZs2Z0w=",
     "sec-ch-ua-mobile": "?0",
-    "luws": "EAEB9909-DDA3-2610-19EC-09BA20910B46_",
-    "x-signature": "45b91ab4c687cbf4a1098d182312b006493c86b20d694923706df39a2d3f260c",
+    "luws": "88DD877C-E53D-68C4-D2FC-4D97A1C8F000_",
+    "x-signature": "1d1ad092d6b4cef4c732b2a711dc3eeb19a4665e6642127b9272702d0c1a05b5",
     "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/138.0.7204.23 Safari/537.36",
     "x-secure-level": "2",
-    "x-client": "1751495408.418",
+    "x-client": "1751496007.911",
     "x-user-email": null,
     "204-dash": null,
-    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751509809~acl=/stream/204/file/*~id=allUsers~hmac=748d4af84a82879b698eaa5d3791481edd41c03b1b62d81a67ec6baffd120e7b",
-    "18105-dash": null,
-    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751509809~acl=/stream/18105/file/*~id=allUsers~hmac=efef9895d44136af645ba5cffb0e47c6a8136e05ca6184e106de71b6b43ad85f",
+    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751510409~acl=/stream/204/file/*~id=allUsers~hmac=5073ee613696810ea87fdd346202f2195b40b4460d5bd4dc367c318038d75ca3",
     "205-dash": null,
-    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751509809~acl=/stream/205/file/*~id=allUsers~hmac=7c36712c817c5bf355f976b81a05e4a90aff721acb9155e146f0f18bd0bec188",
-    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751509809~acl=/stream/206/file/*~id=allUsers~hmac=ac821339e9884580c82c3899b827e8edef6e11e86a86b1dc883dd771538820d7",
-    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751509809~acl=/stream/206/file/*~id=allUsers~hmac=ac821339e9884580c82c3899b827e8edef6e11e86a86b1dc883dd771538820d7",
+    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751510409~acl=/stream/205/file/*~id=allUsers~hmac=af383267cfd93f507d6473e17914d9e1cec834ecf3ed81efdc69ffc951733674",
+    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751510409~acl=/stream/206/file/*~id=allUsers~hmac=edf851ba4a1fd84a078a25c564dbf120bf635bce60fa42fdeafd56823c5d5399",
+    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751510409~acl=/stream/206/file/*~id=allUsers~hmac=edf851ba4a1fd84a078a25c564dbf120bf635bce60fa42fdeafd56823c5d5399",
+    "18105-dash": null,
+    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751510409~acl=/stream/18105/file/*~id=allUsers~hmac=3a20c21f9a5377153e97b6a5b76c2c06a803773105da6e1793be11bd78e0f89e",
     "all-sections": "17139-17140-17884-18189-18249-18250-18252-18253-19030-6317",
     "all-vidiolivetv": [
       {
@@ -496,7 +496,7 @@
       "start_time": "2025-07-02T14:00:00.000Z"
     },
     "18250": {
-      "title": "Kenta Nishimoto (JPN) vs Mads Christophersen (DEN) - Men's Singles Round of 32 | Yonex Canada Open 2025",
+      "title": "Chou Tien Chen (TPE) vs Julien Carraggi (BEL) - Men's Singles Round of 32 | Yonex Canada Open 2025",
       "web_url": "18250",
       "cover_url": "https://thumbor.prod.vidiocdn.com/gw0wKEOcR-aqHuyXi19ma4RFLxc=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18250/yonex-canada-open-2025-round-of-32-court-2-ed4468.jpg",
       "start_time": "2025-07-02T14:00:00.000Z"
@@ -508,7 +508,7 @@
       "start_time": "2025-07-02T14:10:00.000Z"
     },
     "18253": {
-      "title": "Joamim Oldroff (FIN) vs Kuo Kuan Lin (TPE) - Men's Singles Round of 32 | Yonex Canada Open 2025",
+      "title": "Koo Takahashi (JPN) vs Arnaud Merkle (FRA) - Men's Singles Round of 32 | Yonex Canada Open 2025",
       "web_url": "18253",
       "cover_url": "https://thumbor.prod.vidiocdn.com/bTCaolxQqLBotJskB9hXyyV8DhM=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18253/yonex-canada-open-2025-round-of-32-court-4-ab7209.jpg",
       "start_time": "2025-07-02T14:00:00.000Z"
@@ -642,7 +642,7 @@
       "start_time": "2025-07-02T14:00:00.000Z"
     },
     "18250": {
-      "title": "Kenta Nishimoto (JPN) vs Mads Christophersen (DEN) - Men's Singles Round of 32 | Yonex Canada Open 2025",
+      "title": "Chou Tien Chen (TPE) vs Julien Carraggi (BEL) - Men's Singles Round of 32 | Yonex Canada Open 2025",
       "web_url": "18250",
       "cover_url": "https://thumbor.prod.vidiocdn.com/gw0wKEOcR-aqHuyXi19ma4RFLxc=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18250/yonex-canada-open-2025-round-of-32-court-2-ed4468.jpg",
       "start_time": "2025-07-02T14:00:00.000Z"
@@ -654,7 +654,7 @@
       "start_time": "2025-07-02T14:10:00.000Z"
     },
     "18253": {
-      "title": "Joamim Oldroff (FIN) vs Kuo Kuan Lin (TPE) - Men's Singles Round of 32 | Yonex Canada Open 2025",
+      "title": "Koo Takahashi (JPN) vs Arnaud Merkle (FRA) - Men's Singles Round of 32 | Yonex Canada Open 2025",
       "web_url": "18253",
       "cover_url": "https://thumbor.prod.vidiocdn.com/bTCaolxQqLBotJskB9hXyyV8DhM=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18253/yonex-canada-open-2025-round-of-32-court-4-ab7209.jpg",
       "start_time": "2025-07-02T14:00:00.000Z"
