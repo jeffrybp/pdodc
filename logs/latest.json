@@ -1,5 +1,5 @@
 {
-  "time": "2025-07-02T17:10:10.716Z",
+  "time": "2025-07-02T17:20:08.642Z",
   "headers": {
     "x-api-platform": "web-desktop",
     "content-type": "application/vnd.api+json",
@@ -8,22 +8,22 @@
     "referer": "https://www.vidio.com/",
     "accept-language": "undefined",
     "sec-ch-ua": "\"Not)A;Brand\";v=\"8\", \"Chromium\";v=\"138\", \"HeadlessChrome\";v=\"138\"",
-    "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/sqmEocbWdPm1VL6HoSinICa5vPRCProQhhvMdxfIM9Ap65jcPPOeIUB5Tb1XK/6RO0qjuk1KZUks/4ARq4xY74=",
+    "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/raIU6MunFr5UEoii7pBmK/K8J6WpzyJVD2uGlvqAIGhSbFB2k+7aNcYRb9BOuk3QTPiendW7LHSHTYL0tjSPpw=",
     "sec-ch-ua-mobile": "?0",
-    "luws": "DC478C71-6E44-CC84-5D3C-87BB4617C548_",
-    "x-signature": "fc2cdd9e28d255599472bbfeb904b355822f77b418c205e33c4f4c51623c3cac",
+    "luws": "D2F21AC1-2161-75B7-41B1-20F5A8760AA7_",
+    "x-signature": "2301cdbe4a2986573b64ed640a4590ced65f1be8dd043226ff1abdf5ba4286a4",
     "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/138.0.7204.23 Safari/537.36",
     "x-secure-level": "2",
-    "x-client": "1751476206.221",
+    "x-client": "1751476806.141",
     "x-user-email": null,
-    "205-dash": null,
-    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751490608~acl=/stream/205/file/*~id=allUsers~hmac=f1b66809cf352474225a6d74425d5e6db02ecc2f4baa8b97c5745c34662f5adb",
-    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751490608~acl=/stream/206/file/*~id=allUsers~hmac=b3ecd89b796bf9f2a3edd4a82518bd9a19e55c50673b93b3943541db5ecd3613",
-    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751490608~acl=/stream/206/file/*~id=allUsers~hmac=b3ecd89b796bf9f2a3edd4a82518bd9a19e55c50673b93b3943541db5ecd3613",
-    "18105-dash": null,
-    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751490608~acl=/stream/18105/file/*~id=allUsers~hmac=e2be5f5d7bd5e04b3a5437ff65ab450160629f48edfcbe890a1429554527d187",
+    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751491206~acl=/stream/206/file/*~id=allUsers~hmac=64ce271d9899fee85754efd0f785e98597754a77f71e240e443b29fc66374092",
+    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751491206~acl=/stream/206/file/*~id=allUsers~hmac=64ce271d9899fee85754efd0f785e98597754a77f71e240e443b29fc66374092",
     "204-dash": null,
-    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751490608~acl=/stream/204/file/*~id=allUsers~hmac=7ac3986dbfa01cdc78dcebdfc9f06f71f395ccef3e2536dcc2e8f5368f4eb88c",
+    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751491206~acl=/stream/204/file/*~id=allUsers~hmac=06e4506d91e2855696a7f849d3e3289383b333ea574a77831d2c9178231cf7dd",
+    "205-dash": null,
+    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751491206~acl=/stream/205/file/*~id=allUsers~hmac=2d34164cdefad57c0cc587c62f7c9f5ac3b8bbb7ed7a75d486c24097420f3c53",
+    "18105-dash": null,
+    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751491206~acl=/stream/18105/file/*~id=allUsers~hmac=ac11813ce255a04336bca421fec509d0609fc8d707c50eada953b977030d412b",
     "all-sections": "17139-17140-17884-18189-18249-18250-18252-18253-19030-6317",
     "all-vidiolivetv": [
       {
@@ -502,7 +502,7 @@
       "start_time": "2025-07-02T14:00:00.000Z"
     },
     "18252": {
-      "title": "Huang Yu Kai (TPE) vs Magnus Johannesen (DEN) - Men's Singles Round of 32 | Yonex Canada Open 2025",
+      "title": "Dhruv Kapil/Tanisha Craston (IND) vs Ruben Garcia/Lucia Rodriguez (ESP) - Mixed Doubles Round of 32 | Yonex Canada Open 2025",
       "web_url": "18252",
       "cover_url": "https://thumbor.prod.vidiocdn.com/pFRY7vY8T1WY377q-FHfGeAeZEQ=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18252/yonex-canada-open-2025-round-of-32-court-3-eb833f.jpg",
       "start_time": "2025-07-02T14:10:00.000Z"
@@ -678,7 +678,7 @@
       "start_time": "2025-07-02T14:00:00.000Z"
     },
     "18252": {
-      "title": "Huang Yu Kai (TPE) vs Magnus Johannesen (DEN) - Men's Singles Round of 32 | Yonex Canada Open 2025",
+      "title": "Dhruv Kapil/Tanisha Craston (IND) vs Ruben Garcia/Lucia Rodriguez (ESP) - Mixed Doubles Round of 32 | Yonex Canada Open 2025",
       "web_url": "18252",
       "cover_url": "https://thumbor.prod.vidiocdn.com/pFRY7vY8T1WY377q-FHfGeAeZEQ=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18252/yonex-canada-open-2025-round-of-32-court-3-eb833f.jpg",
       "start_time": "2025-07-02T14:10:00.000Z"
