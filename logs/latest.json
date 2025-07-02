@@ -1,5 +1,5 @@
 {
-  "time": "2025-07-02T21:20:10.324Z",
+  "time": "2025-07-02T21:30:08.406Z",
   "headers": {
     "x-api-platform": "web-desktop",
     "content-type": "application/vnd.api+json",
@@ -8,22 +8,22 @@
     "referer": "https://www.vidio.com/",
     "accept-language": "undefined",
     "sec-ch-ua": "\"Not)A;Brand\";v=\"8\", \"Chromium\";v=\"138\", \"HeadlessChrome\";v=\"138\"",
-    "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/iZHe3wg5lXz/uM0L9EZMc/SE+wZihs5mRqrVQdHbq1eU5Ms5Vgq9BEvN2KSqxKXyX5qYHwtrJ+o0bHHtZbgCoQ=",
+    "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/kF9ICQG7R7ZCWsm5B8cTOIIJSFc0bsHMSpHM7h9TqdFjUTLXWYwMntMfVQn/BWI0TSghmmsME6FP2upXwAGDX4=",
     "sec-ch-ua-mobile": "?0",
-    "luws": "DD22C31F-C1FC-B4DA-9565-EED50EA76FD9_",
-    "x-signature": "f6054b181ba3702366db82dc2654ce0b6612aa325455daadb23e34708cd73168",
+    "luws": "9E05A7CC-2968-FDF2-5C5D-54F25C845874_",
+    "x-signature": "12a528972b871e10eeb34d1a9258f71db90944eff1e47bdfbb1030eb7418ae24",
     "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/138.0.7204.23 Safari/537.36",
     "x-secure-level": "2",
-    "x-client": "1751491208.059",
+    "x-client": "1751491806.185",
     "x-user-email": null,
-    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751505608~acl=/stream/206/file/*~id=allUsers~hmac=4f1cb1571dcc6de2a69bf8021f9b19aa7b4d230b0b446058d4591f9a4fc60ead",
-    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751505608~acl=/stream/206/file/*~id=allUsers~hmac=4f1cb1571dcc6de2a69bf8021f9b19aa7b4d230b0b446058d4591f9a4fc60ead",
+    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751506207~acl=/stream/206/file/*~id=allUsers~hmac=70f56e979f513e0b7d9e371fdbeacedc4dd949b30e7313c81b061cdf0510181f",
+    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751506207~acl=/stream/206/file/*~id=allUsers~hmac=70f56e979f513e0b7d9e371fdbeacedc4dd949b30e7313c81b061cdf0510181f",
     "205-dash": null,
-    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751505608~acl=/stream/205/file/*~id=allUsers~hmac=7183251fd0409fff437820a385fecaedb8a2543798763e6c3a4a1e62212e7f5b",
-    "204-dash": null,
-    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751505608~acl=/stream/204/file/*~id=allUsers~hmac=8580a3e627cd5b902bdf269c6b8acbc695a49f8aef79f70be4f57254632727da",
+    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751506207~acl=/stream/205/file/*~id=allUsers~hmac=7421ac52c5cd3b4b5a37af16c01568cad425c5026136f5eb0286d5f98005fe19",
     "18105-dash": null,
-    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751505608~acl=/stream/18105/file/*~id=allUsers~hmac=409d54942d4af16a24f5c0eee757e0249007d57460e726ec2d1098df0e2ac397",
+    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751506207~acl=/stream/18105/file/*~id=allUsers~hmac=6cb487ddf7945d64facf5597897dcb0c8a7a62d5141c81b07a5e8b96f58ac18e",
+    "204-dash": null,
+    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751506207~acl=/stream/204/file/*~id=allUsers~hmac=baa574a920b4e655115ad096e36eb83a2b9cbdcfedcd71270ad1e1007ba23416",
     "all-sections": "17139-17140-17884-18189-18249-18250-18252-18253-19030-6317",
     "all-vidiolivetv": [
       {
@@ -560,12 +560,6 @@
       "web_url": "17884",
       "cover_url": "https://thumbor.prod.vidiocdn.com/L7jgr9niLjLlLCHlUnzo868VTGc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4394288/f5d259.jpg",
       "start_time": "2025-07-04T14:55:00.000Z"
-    },
-    "4396417": {
-      "title": "Taylor Fritz vs Gabriel Diallo - Gentlemen's Singles Second Round | Wimbledon 2025",
-      "web_url": "17140",
-      "cover_url": "https://thumbor.prod.vidiocdn.com/7T8EJ8su9MA08cNJetZBPlTGYhk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4396417/81264c.jpg",
-      "start_time": "2025-07-02T17:42:00.000Z"
     },
     "4396604": {
       "title": "Bordeaux P2 Premier Padel 2025 - Day 4",
