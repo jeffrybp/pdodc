@@ -1,5 +1,5 @@
 {
-  "time": "2025-07-02T22:50:09.802Z",
+  "time": "2025-07-02T23:00:10.926Z",
   "headers": {
     "x-api-platform": "web-desktop",
     "content-type": "application/vnd.api+json",
@@ -8,22 +8,22 @@
     "referer": "https://www.vidio.com/",
     "accept-language": "undefined",
     "sec-ch-ua": "\"Not)A;Brand\";v=\"8\", \"Chromium\";v=\"138\", \"HeadlessChrome\";v=\"138\"",
-    "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/szfQiSxYNP20aK0SbdRjCNMLSReewEMZViSxOo2kxz3Q2iMygbAZ4ETu9RSUfX8YaL1mZt4L8V7QJWbFZs2Z0w=",
+    "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/sKkCC/+AX2scHOK0oWQG24DI1U+3M9bs1auyP2Yp2Z7HoqYbIFvtx6+hqS8Qt9DjZr4oE0Yr6/pxRI0thS6OVE=",
     "sec-ch-ua-mobile": "?0",
-    "luws": "D2D7012F-DA13-9F08-D930-81395F371622_",
-    "x-signature": "28dc71be89db572a2f451108339dd55897fa1da4f2ec32b1f5a7eb2f22811b82",
+    "luws": "B75F28BF-F25E-C202-C7EE-C6D1D9118D67_",
+    "x-signature": "accefdfd0d3f4aae4c26136f72d7284ca1c431237ef6ca1b3d66e764fa492812",
     "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/138.0.7204.23 Safari/537.36",
     "x-secure-level": "2",
-    "x-client": "1751496607.799",
+    "x-client": "1751497208.011",
     "x-user-email": null,
-    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751511008~acl=/stream/206/file/*~id=allUsers~hmac=318a66b880bf988b9f0a3c4eb6fb0c46324fe7b8d16bf1f4952a0ce39b2a738f",
-    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751511008~acl=/stream/206/file/*~id=allUsers~hmac=318a66b880bf988b9f0a3c4eb6fb0c46324fe7b8d16bf1f4952a0ce39b2a738f",
     "205-dash": null,
-    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751511008~acl=/stream/205/file/*~id=allUsers~hmac=292f2e911492ebf3c8691fd3d2caa47d4a9412ebf9d185da554cc025b370966b",
-    "18105-dash": null,
-    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751511008~acl=/stream/18105/file/*~id=allUsers~hmac=ce49cdc0387b08ed69d494468fb5606e58b9daae5e68d03f1713459a1f345df9",
+    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751511609~acl=/stream/205/file/*~id=allUsers~hmac=291d23adf47d1dc1015facf2abd02b10eed99ce4847323c4fd7bc64d8edc86e6",
     "204-dash": null,
-    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751511008~acl=/stream/204/file/*~id=allUsers~hmac=41fcd2ed41e7d66b19ad821d7c0dd6cba1ab459e9a7bb8c3e29ebde593f18902",
+    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751511609~acl=/stream/204/file/*~id=allUsers~hmac=fc16df6dc59c4eda708f63d5e9cbe389c972a74494d9d7b0fd7ccdc030068c25",
+    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751511609~acl=/stream/206/file/*~id=allUsers~hmac=e4fe847256b607f3285a7beac20ad7fc246156308b5a650585c49bb02e953dde",
+    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751511609~acl=/stream/206/file/*~id=allUsers~hmac=e4fe847256b607f3285a7beac20ad7fc246156308b5a650585c49bb02e953dde",
+    "18105-dash": null,
+    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751511609~acl=/stream/18105/file/*~id=allUsers~hmac=de89074586e5f56ac2564335e34a2fd2d364810247d5832c8c4e830044c5ded3",
     "all-sections": "17139-17140-17884-18189-18249-18250-18252-18253-19030-6317",
     "all-vidiolivetv": [
       {
@@ -490,7 +490,7 @@
   },
   "sections": {
     "18249": {
-      "title": "Michelle Li (CAN) vs Pitchamon Opatniputh (THA) - Women's Singles Round of 32 | Yonex Canada Open 2025",
+      "title": "Michael Ji/Ferdinand Simmons Zhang (CAN) vs Jonathan Bing Tsan Lai/Nyl Yakura (CAN) - Men's Doubles Round of 32 | Yonex Canada Open 2025",
       "web_url": "18249",
       "cover_url": "https://thumbor.prod.vidiocdn.com/jPYa_8OKzav7Oyyyq_m3alvq5Zg=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18249/yonex-canada-open-2025-round-of-32-court-1-536f15.jpg",
       "start_time": "2025-07-02T14:00:00.000Z"
@@ -502,7 +502,7 @@
       "start_time": "2025-07-02T14:00:00.000Z"
     },
     "18252": {
-      "title": "Manami Suizu (JPN) vs Tung Ciou-Tong (TPE) - Women's Singles Round of 32 | Yonex Canada Open 2025",
+      "title": "Huang Ping-Hsien (TPE) vs Fabian Roth (GER) - Men's Singles Round of 32 | Yonex Canada Open 2025",
       "web_url": "18252",
       "cover_url": "https://thumbor.prod.vidiocdn.com/pFRY7vY8T1WY377q-FHfGeAeZEQ=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18252/yonex-canada-open-2025-round-of-32-court-3-eb833f.jpg",
       "start_time": "2025-07-02T14:10:00.000Z"
@@ -624,7 +624,7 @@
       "start_time": "2025-04-02T13:25:00.000Z"
     },
     "17938": {
-      "title": "Venezia vs Juventus - Serie A",
+      "title": "Udinese vs Fiorentina - Serie A",
       "web_url": "17938",
       "cover_url": "https://thumbor.prod.vidiocdn.com/tJoOEHTHed9-fRQvnXoew2nr8hY=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17938/serie-a-973769.jpg",
       "start_time": "2024-10-20T10:00:00.000Z"
@@ -636,7 +636,7 @@
       "start_time": "2024-10-20T12:45:00.000Z"
     },
     "18249": {
-      "title": "Michelle Li (CAN) vs Pitchamon Opatniputh (THA) - Women's Singles Round of 32 | Yonex Canada Open 2025",
+      "title": "Michael Ji/Ferdinand Simmons Zhang (CAN) vs Jonathan Bing Tsan Lai/Nyl Yakura (CAN) - Men's Doubles Round of 32 | Yonex Canada Open 2025",
       "web_url": "18249",
       "cover_url": "https://thumbor.prod.vidiocdn.com/jPYa_8OKzav7Oyyyq_m3alvq5Zg=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18249/yonex-canada-open-2025-round-of-32-court-1-536f15.jpg",
       "start_time": "2025-07-02T14:00:00.000Z"
@@ -648,7 +648,7 @@
       "start_time": "2025-07-02T14:00:00.000Z"
     },
     "18252": {
-      "title": "Manami Suizu (JPN) vs Tung Ciou-Tong (TPE) - Women's Singles Round of 32 | Yonex Canada Open 2025",
+      "title": "Huang Ping-Hsien (TPE) vs Fabian Roth (GER) - Men's Singles Round of 32 | Yonex Canada Open 2025",
       "web_url": "18252",
       "cover_url": "https://thumbor.prod.vidiocdn.com/pFRY7vY8T1WY377q-FHfGeAeZEQ=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18252/yonex-canada-open-2025-round-of-32-court-3-eb833f.jpg",
       "start_time": "2025-07-02T14:10:00.000Z"
