@@ -1,5 +1,5 @@
 {
-  "time": "2025-07-02T23:30:09.261Z",
+  "time": "2025-07-02T23:40:08.407Z",
   "headers": {
     "x-api-platform": "web-desktop",
     "content-type": "application/vnd.api+json",
@@ -8,22 +8,22 @@
     "referer": "https://www.vidio.com/",
     "accept-language": "undefined",
     "sec-ch-ua": "\"Not)A;Brand\";v=\"8\", \"Chromium\";v=\"138\", \"HeadlessChrome\";v=\"138\"",
-    "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/sZdbpbC0TsLjVovv55wsDdEbL1y/XOTqVrvf1S4WImq4sRtjibOJ/AFxuK/AsOEddsV9f8XKZTom6Y1Lyop3+w=",
+    "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/vl0abrrNW/+RuBs0AFXWSQSugoh3EZuHBUjsuubgkVGTDYJKxJjnLE8i3pPtt6WDvovPFQi7NX1ZQnh7G7l4fo=",
     "sec-ch-ua-mobile": "?0",
-    "luws": "07603E5C-B193-6D81-6BE2-4E753AA93A16_",
-    "x-signature": "ddd8e63a00bfb09946b22f3e6899b44479dc4545907a10a894bc7f916f701ad6",
+    "luws": "17AE3A16-40A4-F95C-3217-960BB59B485E_",
+    "x-signature": "a48b4e8a7fdc1ec3cceadf9fbb74bd70db54d6f1fc109637165aed8e366d6617",
     "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/138.0.7204.23 Safari/537.36",
     "x-secure-level": "2",
-    "x-client": "1751499006.577",
+    "x-client": "1751499606.196",
     "x-user-email": null,
-    "204-dash": null,
-    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751513407~acl=/stream/204/file/*~id=allUsers~hmac=4da8bc334df528c8639e73c8c6fec26795a513cadc3035349fbd8bb8a8f7c688",
-    "18105-dash": null,
-    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751513407~acl=/stream/18105/file/*~id=allUsers~hmac=949177ba9a21f7a5dfa3842bb90e38482aa7a7d7aa65fb1098e26c57e7f5c3c2",
     "205-dash": null,
-    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751513407~acl=/stream/205/file/*~id=allUsers~hmac=6f9451f195d0d209b17cb62d465c256c37b3942fa61b6fb890fbc92a39a55a50",
-    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751513407~acl=/stream/206/file/*~id=allUsers~hmac=b2e778b52f4e2f4dd28e19e8f10d7894e00387e54ca9e39b24008cbf06c43c24",
-    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751513407~acl=/stream/206/file/*~id=allUsers~hmac=b2e778b52f4e2f4dd28e19e8f10d7894e00387e54ca9e39b24008cbf06c43c24",
+    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751514006~acl=/stream/205/file/*~id=allUsers~hmac=be62014de24f9c3e038851618e569d5f4fa750a6921429e55ea8de490062cae2",
+    "204-dash": null,
+    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751514006~acl=/stream/204/file/*~id=allUsers~hmac=c82658159f0b47f2c750e25e861f515f6001882315d59d20bcb2f297a24c3f8a",
+    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751514006~acl=/stream/206/file/*~id=allUsers~hmac=c8fe68f1934f19dac68ae6de08af7f44f5aa865e03518a0f3b20e233987750cc",
+    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751514006~acl=/stream/206/file/*~id=allUsers~hmac=c8fe68f1934f19dac68ae6de08af7f44f5aa865e03518a0f3b20e233987750cc",
+    "18105-dash": null,
+    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751514006~acl=/stream/18105/file/*~id=allUsers~hmac=d78f0dbdd8ddd886edae7e3632484dc291334195a6294b1b9d7f93741bf35002",
     "all-sections": "17139-17140-17884-18189-18249-18250-18252-18253-19030-6317",
     "all-vidiolivetv": [
       {
@@ -496,7 +496,7 @@
       "start_time": "2025-07-02T14:00:00.000Z"
     },
     "18250": {
-      "title": "Chou Tien Chen (TPE) vs Julien Carraggi (BEL) - Men's Singles Round of 32 | Yonex Canada Open 2025",
+      "title": "Huang Ching Ping (TPE) vs Liang Ting Yu (TPE) - Women's Singles Round of 32 | Yonex Canada Open 2025",
       "web_url": "18250",
       "cover_url": "https://thumbor.prod.vidiocdn.com/gw0wKEOcR-aqHuyXi19ma4RFLxc=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18250/yonex-canada-open-2025-round-of-32-court-2-ed4468.jpg",
       "start_time": "2025-07-02T14:00:00.000Z"
@@ -642,7 +642,7 @@
       "start_time": "2025-07-02T14:00:00.000Z"
     },
     "18250": {
-      "title": "Chou Tien Chen (TPE) vs Julien Carraggi (BEL) - Men's Singles Round of 32 | Yonex Canada Open 2025",
+      "title": "Huang Ching Ping (TPE) vs Liang Ting Yu (TPE) - Women's Singles Round of 32 | Yonex Canada Open 2025",
       "web_url": "18250",
       "cover_url": "https://thumbor.prod.vidiocdn.com/gw0wKEOcR-aqHuyXi19ma4RFLxc=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18250/yonex-canada-open-2025-round-of-32-court-2-ed4468.jpg",
       "start_time": "2025-07-02T14:00:00.000Z"
