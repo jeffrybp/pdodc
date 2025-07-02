@@ -1,5 +1,5 @@
 {
-  "time": "2025-07-02T12:40:15.607Z",
+  "time": "2025-07-02T12:50:14.217Z",
   "headers": {
     "x-api-platform": "web-desktop",
     "content-type": "application/vnd.api+json",
@@ -8,22 +8,22 @@
     "referer": "https://www.vidio.com/",
     "accept-language": "undefined",
     "sec-ch-ua": "\"Not)A;Brand\";v=\"8\", \"Chromium\";v=\"138\", \"HeadlessChrome\";v=\"138\"",
-    "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/kfKdndUd/ELtshZg9AZzN+s9aq6vBbJCb1ZxYuMAYconH2I+SDZdanuTBQRhNm6LCoC9Hb4JAIMeGODBIOorBQ=",
+    "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/onW2y2mYJKsndFY9STbEZOppTgmhoWrcpsbM4cxnypMUOLLg3rl4h6aaWhpjau5msQ6EYyQBGLRD0YrhMCM1h8=",
     "sec-ch-ua-mobile": "?0",
-    "luws": "69651EF4-1B25-896A-221B-CD3F4942E7C6_",
-    "x-signature": "54994a3e0e046ccdc24c2bad1cd3be5d818e5512374fb7992faf1552619f85c7",
+    "luws": "86A13455-A9E1-073A-2527-41623FEC0830_",
+    "x-signature": "88547836e65a4d446359f6438694c1aa970872d055b758e9e8ea1250e3fc9a3e",
     "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/138.0.7204.23 Safari/537.36",
     "x-secure-level": "2",
-    "x-client": "1751460012.701",
+    "x-client": "1751460611.069",
     "x-user-email": null,
-    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751474413~acl=/stream/206/file/*~id=allUsers~hmac=f28a52becb40a3cdc7664b1484e778fed483eebd97af3b6b436c2010772fd88b",
-    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751474413~acl=/stream/206/file/*~id=allUsers~hmac=f28a52becb40a3cdc7664b1484e778fed483eebd97af3b6b436c2010772fd88b",
     "205-dash": null,
     "205-hls": null,
-    "204-dash": null,
-    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751474413~acl=/stream/204/file/*~id=allUsers~hmac=31ea345b4712ed0d982977408a0e11068a9da3a4560e97aeb165c5168c96ef7b",
     "18105-dash": null,
-    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751474413~acl=/stream/18105/file/*~id=allUsers~hmac=9331b7ab7bb7bc46b17132073c95728a126decdceaa23ecd54ea1b107d2a3445",
+    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751475011~acl=/stream/18105/file/*~id=allUsers~hmac=db70dc4bd9a3854c060005898b752a3051a623c184187bd6245353263b2672ea",
+    "204-dash": null,
+    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751475011~acl=/stream/204/file/*~id=allUsers~hmac=7222cf3078cbdfa2aaffa53419934d81446f3b9e1cc70e0b74ce98432e60401e",
+    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751475011~acl=/stream/206/file/*~id=allUsers~hmac=ee299620de5cd928e5adb88d91631a80818d788cd0a8fb42bbcc512715cfae1e",
+    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751475011~acl=/stream/206/file/*~id=allUsers~hmac=ee299620de5cd928e5adb88d91631a80818d788cd0a8fb42bbcc512715cfae1e",
     "all-sections": "17139-17140-17884-18189-18249-18250-18252-18253-18994-19030-6317",
     "all-vidiolivetv": [
       {
@@ -642,7 +642,7 @@
       "start_time": "2025-04-02T13:25:00.000Z"
     },
     "17938": {
-      "title": "Atlanta vs Parma - Serie A",
+      "title": "Serie A",
       "web_url": "17938",
       "cover_url": "https://thumbor.prod.vidiocdn.com/tJoOEHTHed9-fRQvnXoew2nr8hY=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17938/serie-a-973769.jpg",
       "start_time": "2024-10-20T10:00:00.000Z"
