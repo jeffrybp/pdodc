@@ -1,5 +1,5 @@
 {
-  "time": "2025-07-02T00:20:18.658Z",
+  "time": "2025-07-02T00:30:17.117Z",
   "headers": {
     "x-api-platform": "web-desktop",
     "content-type": "application/vnd.api+json",
@@ -10,20 +10,20 @@
     "sec-ch-ua": "\"Not)A;Brand\";v=\"8\", \"Chromium\";v=\"138\", \"HeadlessChrome\";v=\"138\"",
     "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/tg6/Rnk+SaMKl59Vi7QVoevQYRYuojcjJR3NoJW5UL188PtvtUEsrEwd+rL2K2E9KM9hqDf+4p2XWg4LcIUMSM=",
     "sec-ch-ua-mobile": "?0",
-    "luws": "D57DB2B8-8B55-4E4B-3AB4-E2587678D15D_",
-    "x-signature": "6a95d134a6e4be1179fd9c6eb09d6ab90f484386d7f9412791b8ab523f0d8b72",
+    "luws": "839C128A-8E6C-3A31-EAB0-158253758F3C_",
+    "x-signature": "324ba2a8b234805f010bd05795015a1b6c0edc7644d55922c10f79e768cd02bf",
     "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/138.0.7204.23 Safari/537.36",
     "x-secure-level": "2",
-    "x-client": "1751415615",
+    "x-client": "1751416214.433",
     "x-user-email": null,
-    "204-dash": null,
-    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751430016~acl=/stream/204/file/*~id=allUsers~hmac=eca790bf7e6181a17a65d45be9192406023c950ca429f8cc8ffb6fc7996c461c",
-    "18105-dash": null,
-    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751430016~acl=/stream/18105/file/*~id=allUsers~hmac=0c14ddf369bea0a8c606842d92df9103b778f4719b5a9d8084605d40b2e1a1f6",
     "205-dash": null,
-    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751430016~acl=/stream/205/file/*~id=allUsers~hmac=e184c3871db57efb8c55557f978074e847d66478a174966e59b998c199112d76",
-    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751430016~acl=/stream/206/file/*~id=allUsers~hmac=dcfc75aab83130ea00920de879f4925b1d8a036d0fbd909b368f745ba5502732",
-    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751430016~acl=/stream/206/file/*~id=allUsers~hmac=dcfc75aab83130ea00920de879f4925b1d8a036d0fbd909b368f745ba5502732",
+    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751430615~acl=/stream/205/file/*~id=allUsers~hmac=07b2331d9c5ed7b772152df4a4226d66bd1cdb8ae4c0d41133bee5ff7aaac11f",
+    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751430615~acl=/stream/206/file/*~id=allUsers~hmac=b89a05aff0b1c2553903cf86252e60307cb02f36baa82d8d2f85032ac33e8e46",
+    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751430615~acl=/stream/206/file/*~id=allUsers~hmac=b89a05aff0b1c2553903cf86252e60307cb02f36baa82d8d2f85032ac33e8e46",
+    "204-dash": null,
+    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751430615~acl=/stream/204/file/*~id=allUsers~hmac=7563a1910f97f46f514b74efed031ae85cb6d1cb38f181d8c6e8df8d075c770b",
+    "18105-dash": null,
+    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751430615~acl=/stream/18105/file/*~id=allUsers~hmac=c9b31a9dbfe2d6e17cb452f2cd4ff2402a577324fa265ec53905b44c1f0d58fd",
     "all-sections": "17139-17140-17884-18189-18249-18250-18252-18253-18994-6317",
     "all-vidiolivetv": [
       {
@@ -640,6 +640,12 @@
       "web_url": "17939",
       "cover_url": "https://thumbor.prod.vidiocdn.com/X-RqLAcQNAoAqhhYdA6L240KI50=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17939/serie-a-4cc90b.jpg",
       "start_time": "2024-10-20T12:45:00.000Z"
+    },
+    "19022": {
+      "title": "Kondisi Terkini RS Hermina Jatinegara Usai Kebakaran | BREAKING NEWS",
+      "web_url": "19022",
+      "cover_url": "https://thumbor.prod.vidiocdn.com/tmjUZALTDY79xWhTRLiJSXBDP78=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/19022/kondisi-terkini-rs-hermina-jatinegara-usai-kebakaran-breaking-news-848476.jpg",
+      "start_time": "2025-07-02T00:26:00.000Z"
     }
   }
 }
