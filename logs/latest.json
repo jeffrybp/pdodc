@@ -1,5 +1,5 @@
 {
-  "time": "2025-07-02T14:10:08.360Z",
+  "time": "2025-07-02T14:20:09.007Z",
   "headers": {
     "x-api-platform": "web-desktop",
     "content-type": "application/vnd.api+json",
@@ -8,22 +8,22 @@
     "referer": "https://www.vidio.com/",
     "accept-language": "undefined",
     "sec-ch-ua": "\"Not)A;Brand\";v=\"8\", \"Chromium\";v=\"138\", \"HeadlessChrome\";v=\"138\"",
-    "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/mIJh9Sy21kmrbmukST0uPMOVU1ur0YITN4m4pAM4I3Bdwt28SXsUmguSZNYDpvMgNN1pVKoxuwhRfHuyHZt6XY=",
+    "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/hN76U8Ms+VCwNi7/SeD4U3nfRT1sgLrgE8uyMQZ0Wk/Cw7kMm7onWrcnclXWkcywqtLodPWWLfNRmjqI+n/xOg=",
     "sec-ch-ua-mobile": "?0",
-    "luws": "940D7A8A-AA34-6B9B-E687-B463DD81922B_",
-    "x-signature": "645e8ccab83c8459fe0d243a84296d7c82e56f2a3f434528e91d7d2fde1efd4f",
+    "luws": "D3C3F503-118E-17D6-34C8-53704CA21359_",
+    "x-signature": "6ccfa5430cf8caf361d74d55e34023ade6dca8f6d55b62b0ba1f1cc880e4ccb9",
     "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/138.0.7204.23 Safari/537.36",
     "x-secure-level": "2",
-    "x-client": "1751465405.841",
+    "x-client": "1751466006.348",
     "x-user-email": null,
-    "18105-dash": null,
-    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751479806~acl=/stream/18105/file/*~id=allUsers~hmac=772d7bfc06c6e360492fcc4471ca1f1659c74b28b6108432acdc04a78402f62b",
+    "204-dash": null,
+    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751480406~acl=/stream/204/file/*~id=allUsers~hmac=e88af1060f34577acc90ca2b95eb71625b6d16b404ac13a12408b9cd39a18ed1",
     "205-dash": null,
     "205-hls": null,
-    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751479806~acl=/stream/206/file/*~id=allUsers~hmac=bd03580f62612b4d158e466a3b4b1d00bb297e46936097c5e16c6c9db2f982d9",
-    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751479806~acl=/stream/206/file/*~id=allUsers~hmac=bd03580f62612b4d158e466a3b4b1d00bb297e46936097c5e16c6c9db2f982d9",
-    "204-dash": null,
-    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751479806~acl=/stream/204/file/*~id=allUsers~hmac=c2e55fabe3ac00f842a4e65e7d571d3c84aee537726ed891488c54b5110723cf",
+    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751480406~acl=/stream/206/file/*~id=allUsers~hmac=9498ea72ec0334a6512f209ef757ef8ba3fcfb8dbba04b828ce5f07c3c376720",
+    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751480406~acl=/stream/206/file/*~id=allUsers~hmac=9498ea72ec0334a6512f209ef757ef8ba3fcfb8dbba04b828ce5f07c3c376720",
+    "18105-dash": null,
+    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751480406~acl=/stream/18105/file/*~id=allUsers~hmac=f55cc8fd23b21e59919797d569d1594bea6ef5d02ab66d71a08dd9dcd015368f",
     "all-sections": "17139-17140-17884-18189-18249-18250-18252-18253-18994-19030-6317",
     "all-vidiolivetv": [
       {
@@ -524,12 +524,6 @@
       "web_url": "18994",
       "cover_url": "https://thumbor.prod.vidiocdn.com/WNSCGz2H0Aimisrw85FJYcS8imM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4388993/2fcd78.jpg",
       "start_time": "2025-07-02T12:30:00.000Z"
-    },
-    "4391006": {
-      "title": "Bordeaux P2 Premier Padel 2025 - Day 3",
-      "web_url": "6317",
-      "cover_url": "https://thumbor.prod.vidiocdn.com/ai0DES7QJal51vWOkGNlO0LjpDU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4391006/dd017b.jpg",
-      "start_time": "2025-07-02T08:00:00.000Z"
     },
     "4394281": {
       "title": "John Deere Classic - Round 1",
