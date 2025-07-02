@@ -1,5 +1,5 @@
 {
-  "time": "2025-07-02T21:00:08.510Z",
+  "time": "2025-07-02T21:10:10.847Z",
   "headers": {
     "x-api-platform": "web-desktop",
     "content-type": "application/vnd.api+json",
@@ -8,22 +8,22 @@
     "referer": "https://www.vidio.com/",
     "accept-language": "undefined",
     "sec-ch-ua": "\"Not)A;Brand\";v=\"8\", \"Chromium\";v=\"138\", \"HeadlessChrome\";v=\"138\"",
-    "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/naIQgoW8H2kHjSlch4OGqzB+t+feyu0WJfPZ3Rp8B2sD26OYELyLmd/SyqaB6++G8psQjMdE3u3savT/RshKpc=",
+    "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/lMB2RMZwl3qdyzIa4jgSs79YReLpPHG2hyk+2isUWuLb7dFE61gkTcyrXCj5wmrjFiRVltOGNXz9aV1qthV1Bo=",
     "sec-ch-ua-mobile": "?0",
-    "luws": "343803F5-6CDF-2EF2-CBDE-7A1AFE4F242F_",
-    "x-signature": "2e3addbe985d1ec65e9473d574494f45dff8a81d72dbfba206bc63128eceb105",
+    "luws": "ED977F33-CCD5-F402-C506-5A62B5013DCC_",
+    "x-signature": "98e3b6c7960e934c19c6242d31ca9129cf0544be905f8b68a722181c711de463",
     "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/138.0.7204.23 Safari/537.36",
     "x-secure-level": "2",
-    "x-client": "1751490006.134",
+    "x-client": "1751490608.145",
     "x-user-email": null,
-    "204-dash": null,
-    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751504407~acl=/stream/204/file/*~id=allUsers~hmac=47f0b48988c8171145c7928f36ce311fdfe36d01e65b380eedb3a61faff13bb4",
-    "205-dash": null,
-    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751504407~acl=/stream/205/file/*~id=allUsers~hmac=88858da37f051325bd2f6cfd13f314cd4dcdf16a5d6bebfdbfca85d8cf3d7935",
     "18105-dash": null,
-    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751504407~acl=/stream/18105/file/*~id=allUsers~hmac=51ad36a60a46c82830e69a9c3fe210d798425746f43d63a4eedfd6299b4d5644",
-    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751504407~acl=/stream/206/file/*~id=allUsers~hmac=21106a5731c4d0f20b10d99009b7cc00b06ef6919b27e364196aef0c9858eb3f",
-    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751504407~acl=/stream/206/file/*~id=allUsers~hmac=21106a5731c4d0f20b10d99009b7cc00b06ef6919b27e364196aef0c9858eb3f",
+    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751505009~acl=/stream/18105/file/*~id=allUsers~hmac=9b1adf82d03b50261feaa37fa04dafbf6e4a4fed131bb9c222f2f6c158064e4c",
+    "205-dash": null,
+    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751505009~acl=/stream/205/file/*~id=allUsers~hmac=f24417638f58c80e78cf2fc42f3df6d9123447d42d869326955c86e819596d87",
+    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751505009~acl=/stream/206/file/*~id=allUsers~hmac=c486ef12263fb049e04ccf07fc911e139a56b16ec25fed9d23f80f0ab22e3c34",
+    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751505009~acl=/stream/206/file/*~id=allUsers~hmac=c486ef12263fb049e04ccf07fc911e139a56b16ec25fed9d23f80f0ab22e3c34",
+    "204-dash": null,
+    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751505009~acl=/stream/204/file/*~id=allUsers~hmac=1fc5baef499864238174a53e7349aa037dff2997356fe293c4df5a605c1d7257",
     "all-sections": "17139-17140-17884-18189-18249-18250-18252-18253-19030-6317",
     "all-vidiolivetv": [
       {
@@ -496,7 +496,7 @@
       "start_time": "2025-07-02T14:00:00.000Z"
     },
     "18250": {
-      "title": "Nguyen Hai Dang (VIE) vs Le Duc Phat (VIE) - Men's Singles Round of 32 | Yonex Canada Open 2025",
+      "title": "Kenta Nishimoto (JPN) vs Mads Christophersen (DEN) - Men's Singles Round of 32 | Yonex Canada Open 2025",
       "web_url": "18250",
       "cover_url": "https://thumbor.prod.vidiocdn.com/gw0wKEOcR-aqHuyXi19ma4RFLxc=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18250/yonex-canada-open-2025-round-of-32-court-2-ed4468.jpg",
       "start_time": "2025-07-02T14:00:00.000Z"
@@ -648,7 +648,7 @@
       "start_time": "2025-07-02T14:00:00.000Z"
     },
     "18250": {
-      "title": "Nguyen Hai Dang (VIE) vs Le Duc Phat (VIE) - Men's Singles Round of 32 | Yonex Canada Open 2025",
+      "title": "Kenta Nishimoto (JPN) vs Mads Christophersen (DEN) - Men's Singles Round of 32 | Yonex Canada Open 2025",
       "web_url": "18250",
       "cover_url": "https://thumbor.prod.vidiocdn.com/gw0wKEOcR-aqHuyXi19ma4RFLxc=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18250/yonex-canada-open-2025-round-of-32-court-2-ed4468.jpg",
       "start_time": "2025-07-02T14:00:00.000Z"
