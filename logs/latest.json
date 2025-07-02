@@ -1,5 +1,5 @@
 {
-  "time": "2025-07-02T06:00:12.091Z",
+  "time": "2025-07-02T06:10:16.604Z",
   "headers": {
     "x-api-platform": "web-desktop",
     "content-type": "application/vnd.api+json",
@@ -8,22 +8,22 @@
     "referer": "https://www.vidio.com/",
     "accept-language": "undefined",
     "sec-ch-ua": "\"Not)A;Brand\";v=\"8\", \"Chromium\";v=\"138\", \"HeadlessChrome\";v=\"138\"",
-    "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/p0h+ln09gyEfIBKHYaJvyCN2kmHuTogQv30kvJl1soHKU+1RGwaaHFzRhcE0QSKBEeDnC/nDWH3U0MEMXPdCcE=",
+    "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/pxwKrN2jFimwFRwG36LeT4YaXCR20D1q9P+/Q6oA4R9Gqz63fXNWvwZyURXKfQpe5N82oP1iWsOpKsi0r2xhA4=",
     "sec-ch-ua-mobile": "?0",
-    "luws": "B190ACF2-3215-06D7-4006-049DCD47C40F_",
-    "x-signature": "8cdad99cdebad27cba338571e6cba29b08907d208a84b55f5dda1bcf1506c10c",
+    "luws": "89F0A25E-2A30-E324-C802-AAE8E069069B_",
+    "x-signature": "670513c862d7ac99d04157f1945b80c184de98f964cf0a71a023841799021a0a",
     "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/138.0.7204.23 Safari/537.36",
     "x-secure-level": "2",
-    "x-client": "1751436007.88",
+    "x-client": "1751436613.417",
     "x-user-email": null,
-    "18105-dash": null,
-    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751450410~acl=/stream/18105/file/*~id=allUsers~hmac=40f53b0fe603ab03d6d3bbde7ad143b33adf9f1955542c9d57c0c077c7ba2671",
-    "205-dash": null,
-    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751450410~acl=/stream/205/file/*~id=allUsers~hmac=91cd740fec329ebe98ba61dea0bc4768d892d95ddc1301df87f47e190f7d0d0b",
-    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751450410~acl=/stream/206/file/*~id=allUsers~hmac=636a9117e57c2f2cf239d7d49aec8ac736a7f7fc18349e8f92e86843930696cf",
-    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751450410~acl=/stream/206/file/*~id=allUsers~hmac=636a9117e57c2f2cf239d7d49aec8ac736a7f7fc18349e8f92e86843930696cf",
     "204-dash": null,
-    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751450410~acl=/stream/204/file/*~id=allUsers~hmac=63afce63614dd54791c0bb9de73d80c2f9d23bbb1eb198f31904f312b3552670",
+    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751451014~acl=/stream/204/file/*~id=allUsers~hmac=ac4dc5691606872b65ac232853ca32ecbd2adb3a56ca3024a3468838fe6e2c90",
+    "18105-dash": null,
+    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751451014~acl=/stream/18105/file/*~id=allUsers~hmac=94d1e58cb0c957a563bbf63270fa1af571f1ae6ebd03410724077d977f56a8df",
+    "205-dash": null,
+    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751451014~acl=/stream/205/file/*~id=allUsers~hmac=a0dd970aa83213695455cabcb58b6791c443bf2ed49b5385bc728659051ef542",
+    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751451014~acl=/stream/206/file/*~id=allUsers~hmac=41f9ca0b752743240f78d897ace0f4c7d22e297e54ebec2325cc660de1fea383",
+    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751451014~acl=/stream/206/file/*~id=allUsers~hmac=41f9ca0b752743240f78d897ace0f4c7d22e297e54ebec2325cc660de1fea383",
     "all-sections": "17139-17140-17884-18189-18249-18250-18252-18253-18994-6317",
     "all-vidiolivetv": [
       {
@@ -630,7 +630,7 @@
   },
   "vidioliveothers": {
     "17884": {
-      "title": "Austrian Grand Prix : Formula 1 Racing",
+      "title": "Formula 1",
       "web_url": "17884",
       "cover_url": "https://thumbor.prod.vidiocdn.com/Rc1pHYZnd8l_siMi118TkKusbPM=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17884/formula-1-5ee872.jpg",
       "start_time": "2025-04-02T13:25:00.000Z"
@@ -663,7 +663,7 @@
       "title": "Konpers Kejagung Soal Kasus Tipikor CPO | LIVE",
       "web_url": "19027",
       "cover_url": "https://thumbor.prod.vidiocdn.com/0RWyPiENKuzHG_ctqwmH5CCqKV4=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/19027/konpers-kejagung-soal-kasus-tipikor-cpo-live-06da4c.jpg",
-      "start_time": "2025-07-02T06:30:00.000Z"
+      "start_time": "2025-07-02T06:05:00.000Z"
     }
   }
 }
