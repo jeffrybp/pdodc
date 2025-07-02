@@ -1,5 +1,5 @@
 {
-  "time": "2025-07-02T09:50:10.759Z",
+  "time": "2025-07-02T10:00:17.074Z",
   "headers": {
     "x-api-platform": "web-desktop",
     "content-type": "application/vnd.api+json",
@@ -8,22 +8,22 @@
     "referer": "https://www.vidio.com/",
     "accept-language": "undefined",
     "sec-ch-ua": "\"Not)A;Brand\";v=\"8\", \"Chromium\";v=\"138\", \"HeadlessChrome\";v=\"138\"",
-    "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/iDpzYQBqn61UocaxEU7iX+vug73ZYTofyrGZwCK9QDbMeMR43EsMOvzB7JNR6iFQTBDIT9RSEnwIsSxrvFr7sA=",
+    "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/uUKHYpvwjXpZP45AkJXyq7yvZ6iZu/51eWHNA5WQ3xyXnfDiw8uID/I41YnsOCluDHvkMDr0Ik1tBePLC9Peck=",
     "sec-ch-ua-mobile": "?0",
-    "luws": "2DEF17F6-3CAA-1A60-4BF8-B276C4CCC60B_",
-    "x-signature": "e3c5e4ee6dd50b6345e82dff8ba4a95f4bccc799b7bd3734a14defc8088afed9",
+    "luws": "1D02A7B5-6680-B981-2A84-388403AAF87B_",
+    "x-signature": "f5f015edc598f4fb8819c3e61f59e9d189c1e81adc96f04d93711fd9bb10e840",
     "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/138.0.7204.23 Safari/537.36",
     "x-secure-level": "2",
-    "x-client": "1751449808.221",
+    "x-client": "1751450414.04",
     "x-user-email": null,
-    "205-dash": null,
-    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751464208~acl=/stream/205/file/*~id=allUsers~hmac=850d6deb4aa68b74eafe9f532a742b8499b063605252b6c1210234337158f587",
+    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751464814~acl=/stream/206/file/*~id=allUsers~hmac=8325cf51eca3f8a74fc28ae2f092eef565e6c48ca865a67ee70ce21a4b0dd615",
+    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751464814~acl=/stream/206/file/*~id=allUsers~hmac=8325cf51eca3f8a74fc28ae2f092eef565e6c48ca865a67ee70ce21a4b0dd615",
     "18105-dash": null,
-    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751464208~acl=/stream/18105/file/*~id=allUsers~hmac=7c3f41a9f50a644da8855922c81bfb91ec17cbaaff4f77be44882d39d282c9a4",
-    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751464208~acl=/stream/206/file/*~id=allUsers~hmac=98c07cb7c61cb1cd81cc1f8af7d5ea33c6e2e3cf8d0e16ed7581390c3113e72d",
-    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751464208~acl=/stream/206/file/*~id=allUsers~hmac=98c07cb7c61cb1cd81cc1f8af7d5ea33c6e2e3cf8d0e16ed7581390c3113e72d",
+    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751464814~acl=/stream/18105/file/*~id=allUsers~hmac=83a052c68fcffc01a637e15f274df5fe9218ed01ce7546c099a30fde276e4d29",
+    "205-dash": null,
+    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751464814~acl=/stream/205/file/*~id=allUsers~hmac=e92ea753809fe96ca214aaf617c37d7adc96c42268c09656e4253f5c4629c4b5",
     "204-dash": null,
-    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751464208~acl=/stream/204/file/*~id=allUsers~hmac=2a032f7f431c0fde9ea69131f99605709fc56bb27ee86b3f5466bcb9fbc31c31",
+    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751464814~acl=/stream/204/file/*~id=allUsers~hmac=bd3e4a326f8ca8188087a06d881a3a6b5cfc1e1eef3734b30e145dbe882dc363",
     "all-sections": "17139-17140-17884-18189-18249-18250-18252-18253-18994-19030-6317",
     "all-vidiolivetv": [
       {
@@ -642,13 +642,13 @@
   },
   "vidioliveothers": {
     "17884": {
-      "title": "Austrian Grand Prix : Formula 1 Highlights",
+      "title": "Formula 1",
       "web_url": "17884",
       "cover_url": "https://thumbor.prod.vidiocdn.com/Rc1pHYZnd8l_siMi118TkKusbPM=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17884/formula-1-5ee872.jpg",
       "start_time": "2025-04-02T13:25:00.000Z"
     },
     "17938": {
-      "title": "Udinese vs Fiorentina -  Serie A",
+      "title": "Atlanta vs Parma - Serie A",
       "web_url": "17938",
       "cover_url": "https://thumbor.prod.vidiocdn.com/tJoOEHTHed9-fRQvnXoew2nr8hY=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17938/serie-a-973769.jpg",
       "start_time": "2024-10-20T10:00:00.000Z"
