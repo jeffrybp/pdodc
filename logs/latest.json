@@ -1,5 +1,5 @@
 {
-  "time": "2025-07-02T01:10:08.837Z",
+  "time": "2025-07-02T01:20:09.159Z",
   "headers": {
     "x-api-platform": "web-desktop",
     "content-type": "application/vnd.api+json",
@@ -10,20 +10,20 @@
     "sec-ch-ua": "\"Not)A;Brand\";v=\"8\", \"Chromium\";v=\"138\", \"HeadlessChrome\";v=\"138\"",
     "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/uBK9X92OZOih/7D8Uc2/DcqkCGijtWW6NLkjPbt6wede3lnxq+MCBOpvXjknnenp3IBACxma+A8Uyw97P5NzBo=",
     "sec-ch-ua-mobile": "?0",
-    "luws": "DDEABABB-B58B-C1BA-38F3-EA8CAE0DA031_",
-    "x-signature": "9fb6bc43ac7876d7f928f4e4505209e635577dac1e595757fa099f3e0fad359a",
+    "luws": "03AC8EB6-A21F-2D97-4039-9B149E47DBD7_",
+    "x-signature": "10db66ee75d5a8adfb8e0c194ff9e162cf942e692b90b62bb19add454c1dcdfe",
     "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/138.0.7204.23 Safari/537.36",
     "x-secure-level": "2",
-    "x-client": "1751418606.234",
+    "x-client": "1751419206.449",
     "x-user-email": null,
-    "205-dash": null,
-    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751433007~acl=/stream/205/file/*~id=allUsers~hmac=173e1737ee1d506875c40d5624ef030a12a727da17fe62e4836acbddae186896",
-    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751433007~acl=/stream/206/file/*~id=allUsers~hmac=8c55ab8b4e0f82b8931cf4b376faecc2cbf71b40219250e2cc8d999b5345e635",
-    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751433007~acl=/stream/206/file/*~id=allUsers~hmac=8c55ab8b4e0f82b8931cf4b376faecc2cbf71b40219250e2cc8d999b5345e635",
-    "18105-dash": null,
-    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751433007~acl=/stream/18105/file/*~id=allUsers~hmac=8fef90c2318fedf3950977c9d253bdc4500497cff2a42f1a8d717fb1ebcd3d06",
     "204-dash": null,
-    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751433007~acl=/stream/204/file/*~id=allUsers~hmac=3c3c9bb9388eda0f55fed8e5079f4a1144797e41f70d96c0ef363cdb22132a3d",
+    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751433607~acl=/stream/204/file/*~id=allUsers~hmac=726361d910824df4dc87d84c2b7879fcc66f16ef47aadf49952713b3d1588a66",
+    "18105-dash": null,
+    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751433607~acl=/stream/18105/file/*~id=allUsers~hmac=9c22abdec1759414d9db204b1ab2f7b1665db9a648f03fc3d80bdfc5e30d3a6e",
+    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751433607~acl=/stream/206/file/*~id=allUsers~hmac=1ef4d09e87d9c1563bf97ea6fe7e402ba8bb7b2dbcc0a9f396d0f3ddd3dade83",
+    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751433607~acl=/stream/206/file/*~id=allUsers~hmac=1ef4d09e87d9c1563bf97ea6fe7e402ba8bb7b2dbcc0a9f396d0f3ddd3dade83",
+    "205-dash": null,
+    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751433607~acl=/stream/205/file/*~id=allUsers~hmac=e92d705004529776d2e1a4fd7b35a4164d339ba101a715fd7e0d4c35e5b0f3ce",
     "all-sections": "17139-17140-17884-18189-18249-18250-18252-18253-18994-6317",
     "all-vidiolivetv": [
       {
@@ -630,7 +630,7 @@
       "start_time": "2025-04-02T13:25:00.000Z"
     },
     "17938": {
-      "title": "Inter vs Lazio - Serie A ",
+      "title": "Serie A",
       "web_url": "17938",
       "cover_url": "https://thumbor.prod.vidiocdn.com/tJoOEHTHed9-fRQvnXoew2nr8hY=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17938/serie-a-973769.jpg",
       "start_time": "2024-10-20T10:00:00.000Z"
