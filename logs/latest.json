@@ -1,5 +1,5 @@
 {
-  "time": "2025-07-02T20:20:10.091Z",
+  "time": "2025-07-02T20:30:12.411Z",
   "headers": {
     "x-api-platform": "web-desktop",
     "content-type": "application/vnd.api+json",
@@ -8,22 +8,22 @@
     "referer": "https://www.vidio.com/",
     "accept-language": "undefined",
     "sec-ch-ua": "\"Not)A;Brand\";v=\"8\", \"Chromium\";v=\"138\", \"HeadlessChrome\";v=\"138\"",
-    "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/jIAQ4gUh4uzRX6Ay8bJS/h57kQUSDu3ZSj6dsGUcU7YCerWKVvVGF4Dc4zMkaAf9B582K2Jdo4OdgzUH0FepE0=",
+    "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/uzqTzbssQ2V6ul0W65ZU6ZohkslSrD89mTNgKTFWZ4VIlMGV8t/8qGOXCdfOCF2W4DB1Zt+rFJV5zSJ3/7jBsc=",
     "sec-ch-ua-mobile": "?0",
-    "luws": "052D4F13-50C0-9772-FE80-2777D98F6347_",
-    "x-signature": "c468132ea601f52988c4ed452a620868108ad8355e650b67c2000f90cfecab72",
+    "luws": "4B409203-16C5-37FA-E4FE-A2E8B3A6CD5A_",
+    "x-signature": "3a25fcb84604b3f672b68c39626c4ec46da52ad108f392f1a5aaec4a5711d37b",
     "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/138.0.7204.23 Safari/537.36",
     "x-secure-level": "2",
-    "x-client": "1751487607.789",
+    "x-client": "1751488206.42",
     "x-user-email": null,
-    "205-dash": null,
-    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751502008~acl=/stream/205/file/*~id=allUsers~hmac=b45b6f7610e7d0886542e1c6cca5555a3cb75fb0ec8c5cd70f689fa4f6ac4d19",
-    "18105-dash": null,
-    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751502008~acl=/stream/18105/file/*~id=allUsers~hmac=0dfb461042f9ffdf23d173ee19d69a33a7ba3d87eb7325212d5c6ef649825835",
-    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751502008~acl=/stream/206/file/*~id=allUsers~hmac=e8d4ff9db52012b7bffd6344f9f1c6433e57ec1062ea3289b8907d3491a1dd50",
-    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751502008~acl=/stream/206/file/*~id=allUsers~hmac=e8d4ff9db52012b7bffd6344f9f1c6433e57ec1062ea3289b8907d3491a1dd50",
     "204-dash": null,
-    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751502008~acl=/stream/204/file/*~id=allUsers~hmac=939d83c6e707d9b164fe02f2645d728fbee1c7911175c839e1f725196fa80c88",
+    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751502611~acl=/stream/204/file/*~id=allUsers~hmac=6598fa2389798d95b182d527dea9c49dca308ab1c8196eea979a146600cb73dd",
+    "205-dash": null,
+    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751502611~acl=/stream/205/file/*~id=allUsers~hmac=0a8651ae3d1e44c940a15fdb0161aef01174bf83f63185baa9d74c2f66111a56",
+    "18105-dash": null,
+    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751502611~acl=/stream/18105/file/*~id=allUsers~hmac=69f0c1ea2cc1c2df5d62b925e729d71830f26ed5236750324af60a24df1268d8",
+    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751502611~acl=/stream/206/file/*~id=allUsers~hmac=4f056b3ab69f31175dfb344ab706ea034e648cdc7be72fb91f789bcb41e28d0e",
+    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751502611~acl=/stream/206/file/*~id=allUsers~hmac=4f056b3ab69f31175dfb344ab706ea034e648cdc7be72fb91f789bcb41e28d0e",
     "all-sections": "17139-17140-17884-18189-18249-18250-18252-18253-19030-6317",
     "all-vidiolivetv": [
       {
@@ -496,13 +496,13 @@
       "start_time": "2025-07-02T14:00:00.000Z"
     },
     "18250": {
-      "title": "Kaloyana Nalbantova (BGR) vs Ira Sharma (IND) - Women's Singles Round of 32 | Yonex Canada Open 2025",
+      "title": "Nguyen Hai Dang (VIE) vs Le Duc Phat (VIE) - Men's Singles Round of 32 | Yonex Canada Open 2025",
       "web_url": "18250",
       "cover_url": "https://thumbor.prod.vidiocdn.com/gw0wKEOcR-aqHuyXi19ma4RFLxc=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18250/yonex-canada-open-2025-round-of-32-court-2-ed4468.jpg",
       "start_time": "2025-07-02T14:00:00.000Z"
     },
     "18252": {
-      "title": "Kalle Koljonen (FIN) vs Su Li Yang (TPE) - Men's Singles Round of 32 | Yonex Canada Open 2025",
+      "title": "Matthias Kicklitz (GER) vs Shogo Ogawa (JPN) - Men's Singles Round of 32 | Yonex Canada Open 2025",
       "web_url": "18252",
       "cover_url": "https://thumbor.prod.vidiocdn.com/pFRY7vY8T1WY377q-FHfGeAeZEQ=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18252/yonex-canada-open-2025-round-of-32-court-3-eb833f.jpg",
       "start_time": "2025-07-02T14:10:00.000Z"
@@ -566,12 +566,6 @@
       "web_url": "17140",
       "cover_url": "https://thumbor.prod.vidiocdn.com/7T8EJ8su9MA08cNJetZBPlTGYhk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4396417/81264c.jpg",
       "start_time": "2025-07-02T17:42:00.000Z"
-    },
-    "4396547": {
-      "title": "Bordeaux P2 Premier Padel 2025 - Day 3",
-      "web_url": "6317",
-      "cover_url": "https://thumbor.prod.vidiocdn.com/92q64e61rDSCmRCgJXqG5inrs5U=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4396547/8061a4.jpg",
-      "start_time": "2025-07-02T15:00:00.000Z"
     },
     "4396604": {
       "title": "Bordeaux P2 Premier Padel 2025 - Day 4",
@@ -654,13 +648,13 @@
       "start_time": "2025-07-02T14:00:00.000Z"
     },
     "18250": {
-      "title": "Kaloyana Nalbantova (BGR) vs Ira Sharma (IND) - Women's Singles Round of 32 | Yonex Canada Open 2025",
+      "title": "Nguyen Hai Dang (VIE) vs Le Duc Phat (VIE) - Men's Singles Round of 32 | Yonex Canada Open 2025",
       "web_url": "18250",
       "cover_url": "https://thumbor.prod.vidiocdn.com/gw0wKEOcR-aqHuyXi19ma4RFLxc=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18250/yonex-canada-open-2025-round-of-32-court-2-ed4468.jpg",
       "start_time": "2025-07-02T14:00:00.000Z"
     },
     "18252": {
-      "title": "Kalle Koljonen (FIN) vs Su Li Yang (TPE) - Men's Singles Round of 32 | Yonex Canada Open 2025",
+      "title": "Matthias Kicklitz (GER) vs Shogo Ogawa (JPN) - Men's Singles Round of 32 | Yonex Canada Open 2025",
       "web_url": "18252",
       "cover_url": "https://thumbor.prod.vidiocdn.com/pFRY7vY8T1WY377q-FHfGeAeZEQ=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18252/yonex-canada-open-2025-round-of-32-court-3-eb833f.jpg",
       "start_time": "2025-07-02T14:10:00.000Z"
