@@ -1,5 +1,5 @@
 {
-  "time": "2025-07-02T21:30:08.406Z",
+  "time": "2025-07-02T21:40:08.549Z",
   "headers": {
     "x-api-platform": "web-desktop",
     "content-type": "application/vnd.api+json",
@@ -8,22 +8,22 @@
     "referer": "https://www.vidio.com/",
     "accept-language": "undefined",
     "sec-ch-ua": "\"Not)A;Brand\";v=\"8\", \"Chromium\";v=\"138\", \"HeadlessChrome\";v=\"138\"",
-    "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/kF9ICQG7R7ZCWsm5B8cTOIIJSFc0bsHMSpHM7h9TqdFjUTLXWYwMntMfVQn/BWI0TSghmmsME6FP2upXwAGDX4=",
+    "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/o9rg8eSw0EUrDvAVC93OwgDv8JcMgSm7Ps7CJVpvbx6lQ8pvyYuwJm1K+6GWbmngnA8AkTBpp5skp1D9o9RB8M=",
     "sec-ch-ua-mobile": "?0",
-    "luws": "9E05A7CC-2968-FDF2-5C5D-54F25C845874_",
-    "x-signature": "12a528972b871e10eeb34d1a9258f71db90944eff1e47bdfbb1030eb7418ae24",
+    "luws": "5AD81E8A-7A76-D6BB-ECC5-E42A90476A69_",
+    "x-signature": "65e60e75ef90aaf80fe6fcdfd5075139c649758ced5ebde0ae66dc03832a6d02",
     "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/138.0.7204.23 Safari/537.36",
     "x-secure-level": "2",
-    "x-client": "1751491806.185",
+    "x-client": "1751492406.159",
     "x-user-email": null,
-    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751506207~acl=/stream/206/file/*~id=allUsers~hmac=70f56e979f513e0b7d9e371fdbeacedc4dd949b30e7313c81b061cdf0510181f",
-    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751506207~acl=/stream/206/file/*~id=allUsers~hmac=70f56e979f513e0b7d9e371fdbeacedc4dd949b30e7313c81b061cdf0510181f",
     "205-dash": null,
-    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751506207~acl=/stream/205/file/*~id=allUsers~hmac=7421ac52c5cd3b4b5a37af16c01568cad425c5026136f5eb0286d5f98005fe19",
+    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751506807~acl=/stream/205/file/*~id=allUsers~hmac=719a483859f29e4af93f9b17d1051226789fbaedf86702cb9575227c86f0302a",
     "18105-dash": null,
-    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751506207~acl=/stream/18105/file/*~id=allUsers~hmac=6cb487ddf7945d64facf5597897dcb0c8a7a62d5141c81b07a5e8b96f58ac18e",
+    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751506807~acl=/stream/18105/file/*~id=allUsers~hmac=0e4781aa747769a5a00f30a12b189a30199e2db0f03aff2f5f1b72e20fc2c3a8",
+    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751506807~acl=/stream/206/file/*~id=allUsers~hmac=2c5f401807711b5f8a0af8c6a7df652172f01f1318f787e396b21fcddf5c11ee",
+    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751506807~acl=/stream/206/file/*~id=allUsers~hmac=2c5f401807711b5f8a0af8c6a7df652172f01f1318f787e396b21fcddf5c11ee",
     "204-dash": null,
-    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751506207~acl=/stream/204/file/*~id=allUsers~hmac=baa574a920b4e655115ad096e36eb83a2b9cbdcfedcd71270ad1e1007ba23416",
+    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751506807~acl=/stream/204/file/*~id=allUsers~hmac=116b1ec57677c95b61ab6be6b66e5c5aab51c3d9bcf8505ab518738462f3585c",
     "all-sections": "17139-17140-17884-18189-18249-18250-18252-18253-19030-6317",
     "all-vidiolivetv": [
       {
@@ -502,7 +502,7 @@
       "start_time": "2025-07-02T14:00:00.000Z"
     },
     "18252": {
-      "title": "Rasmus Espersen/Andreas Sondergaard (DEN) vs Chang Ko-Chi/Po Li-Wei (TPE) - Men's Doubles Round of 32 | Yonex Canada Open 2025",
+      "title": "Manami Suizu (JPN) vs Tung Ciou-Tong (TPE) - Women's Singles Round of 32 | Yonex Canada Open 2025",
       "web_url": "18252",
       "cover_url": "https://thumbor.prod.vidiocdn.com/pFRY7vY8T1WY377q-FHfGeAeZEQ=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18252/yonex-canada-open-2025-round-of-32-court-3-eb833f.jpg",
       "start_time": "2025-07-02T14:10:00.000Z"
@@ -648,7 +648,7 @@
       "start_time": "2025-07-02T14:00:00.000Z"
     },
     "18252": {
-      "title": "Rasmus Espersen/Andreas Sondergaard (DEN) vs Chang Ko-Chi/Po Li-Wei (TPE) - Men's Doubles Round of 32 | Yonex Canada Open 2025",
+      "title": "Manami Suizu (JPN) vs Tung Ciou-Tong (TPE) - Women's Singles Round of 32 | Yonex Canada Open 2025",
       "web_url": "18252",
       "cover_url": "https://thumbor.prod.vidiocdn.com/pFRY7vY8T1WY377q-FHfGeAeZEQ=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18252/yonex-canada-open-2025-round-of-32-court-3-eb833f.jpg",
       "start_time": "2025-07-02T14:10:00.000Z"
