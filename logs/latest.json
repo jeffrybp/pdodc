@@ -1,5 +1,5 @@
 {
-  "time": "2025-07-02T16:10:08.386Z",
+  "time": "2025-07-02T16:20:09.360Z",
   "headers": {
     "x-api-platform": "web-desktop",
     "content-type": "application/vnd.api+json",
@@ -10,20 +10,20 @@
     "sec-ch-ua": "\"Not)A;Brand\";v=\"8\", \"Chromium\";v=\"138\", \"HeadlessChrome\";v=\"138\"",
     "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/nMSpCldGQelx6xUvGFyGCO8Nnf/Qj+Lnfqft3JN/rSQSadeerK80mnBhiXFPBReH2HQ/NjDqzYX/7k3KVr5tr8=",
     "sec-ch-ua-mobile": "?0",
-    "luws": "A264FCDD-27F8-68A7-D6FA-30703DFDB900_",
-    "x-signature": "0827158d067e6a8e11db0bba2c346ddf030246aef9899c5b262cc3985beb4ddc",
+    "luws": "E0C9A169-1CF4-1A32-4E89-13BBF2C1310F_",
+    "x-signature": "07a8ac4b74006c94212d1513b4609a433e00bdf607314968bc9aabac3dac61ca",
     "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/138.0.7204.23 Safari/537.36",
     "x-secure-level": "2",
-    "x-client": "1751472605.896",
+    "x-client": "1751473205.918",
     "x-user-email": null,
-    "205-dash": null,
-    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751487006~acl=/stream/205/file/*~id=allUsers~hmac=1f2c9927e035c00555c29df03026168de72c40c75e7ec9e4f3a4c162dfbaa4e8",
     "18105-dash": null,
-    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751487006~acl=/stream/18105/file/*~id=allUsers~hmac=4f4debbbf33915db60d1b48e89c008206640d545d01c8a37f4043735a1bf5630",
-    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751487006~acl=/stream/206/file/*~id=allUsers~hmac=c2e6ca32f77f3d9b20c266c19e3c849b7b3806d6eb2e0ab4988c58c1dbb869e6",
-    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751487006~acl=/stream/206/file/*~id=allUsers~hmac=c2e6ca32f77f3d9b20c266c19e3c849b7b3806d6eb2e0ab4988c58c1dbb869e6",
+    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751487606~acl=/stream/18105/file/*~id=allUsers~hmac=a63eb8736f5462f0f990159f8e76883755902f07992cc39c5bb1f330e8b1c2b2",
+    "205-dash": null,
+    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751487606~acl=/stream/205/file/*~id=allUsers~hmac=da1458d282ccb2b2fff3e58c8fcd57e65a30e3e4d0dce9fdbba0771864633df8",
     "204-dash": null,
-    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751487006~acl=/stream/204/file/*~id=allUsers~hmac=5197e4ccb25c538365703ede9f1c69feea845104129106ca116eda7d3fd080a1",
+    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751487606~acl=/stream/204/file/*~id=allUsers~hmac=dbef130775c606575b1dfd50cfd3afb90ce9b4d5bf6b2421228301768c6e5e62",
+    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751487606~acl=/stream/206/file/*~id=allUsers~hmac=329926b9328ae5686969e5143756df1f71fd391d2da5e6280814a56fdbf1e936",
+    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751487606~acl=/stream/206/file/*~id=allUsers~hmac=329926b9328ae5686969e5143756df1f71fd391d2da5e6280814a56fdbf1e936",
     "all-sections": "17139-17140-17884-18189-18249-18250-18252-18253-19030-6317",
     "all-vidiolivetv": [
       {
@@ -502,13 +502,13 @@
       "start_time": "2025-07-02T14:00:00.000Z"
     },
     "18252": {
-      "title": "Chen Cheng Kuan/Hsu Yin-Hui (TPE) vs Zhi-Wei He/Yan Fei Chen (TPE) - Mixed Doubles Round of 32 | Yonex Canada Open 2025",
+      "title": "Huang Yu Kai (TPE) vs Magnus Johannesen (DEN) - Men's Singles Round of 32 | Yonex Canada Open 2025",
       "web_url": "18252",
       "cover_url": "https://thumbor.prod.vidiocdn.com/pFRY7vY8T1WY377q-FHfGeAeZEQ=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18252/yonex-canada-open-2025-round-of-32-court-3-eb833f.jpg",
       "start_time": "2025-07-02T14:10:00.000Z"
     },
     "18253": {
-      "title": "Shriyanshi Valishetty (IND) vs Polin Buhrova (UKR) - Women's Singles Round of 32 | Yonex Canada Open 2025",
+      "title": "Jonathan Bing Tsan Lai/Crystal Lai (CAN) vs Marvin Seidel/Thuc Phuong Nguyen (GER) - Mixed Doubles Round of 32 | Yonex Canada Open 2025",
       "web_url": "18253",
       "cover_url": "https://thumbor.prod.vidiocdn.com/bTCaolxQqLBotJskB9hXyyV8DhM=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18253/yonex-canada-open-2025-round-of-32-court-4-ab7209.jpg",
       "start_time": "2025-07-02T14:00:00.000Z"
@@ -678,13 +678,13 @@
       "start_time": "2025-07-02T14:00:00.000Z"
     },
     "18252": {
-      "title": "Chen Cheng Kuan/Hsu Yin-Hui (TPE) vs Zhi-Wei He/Yan Fei Chen (TPE) - Mixed Doubles Round of 32 | Yonex Canada Open 2025",
+      "title": "Huang Yu Kai (TPE) vs Magnus Johannesen (DEN) - Men's Singles Round of 32 | Yonex Canada Open 2025",
       "web_url": "18252",
       "cover_url": "https://thumbor.prod.vidiocdn.com/pFRY7vY8T1WY377q-FHfGeAeZEQ=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18252/yonex-canada-open-2025-round-of-32-court-3-eb833f.jpg",
       "start_time": "2025-07-02T14:10:00.000Z"
     },
     "18253": {
-      "title": "Shriyanshi Valishetty (IND) vs Polin Buhrova (UKR) - Women's Singles Round of 32 | Yonex Canada Open 2025",
+      "title": "Jonathan Bing Tsan Lai/Crystal Lai (CAN) vs Marvin Seidel/Thuc Phuong Nguyen (GER) - Mixed Doubles Round of 32 | Yonex Canada Open 2025",
       "web_url": "18253",
       "cover_url": "https://thumbor.prod.vidiocdn.com/bTCaolxQqLBotJskB9hXyyV8DhM=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18253/yonex-canada-open-2025-round-of-32-court-4-ab7209.jpg",
       "start_time": "2025-07-02T14:00:00.000Z"
