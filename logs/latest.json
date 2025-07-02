@@ -1,5 +1,5 @@
 {
-  "time": "2025-07-02T07:50:09.511Z",
+  "time": "2025-07-02T08:00:18.650Z",
   "headers": {
     "x-api-platform": "web-desktop",
     "content-type": "application/vnd.api+json",
@@ -8,22 +8,22 @@
     "referer": "https://www.vidio.com/",
     "accept-language": "undefined",
     "sec-ch-ua": "\"Not)A;Brand\";v=\"8\", \"Chromium\";v=\"138\", \"HeadlessChrome\";v=\"138\"",
-    "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/iJKlZA+Mb3eIBcYU+Arvn9EV/dAkdjha4bBCC1epuLj6HtiW2mRIgAgvHk6cZCzLmSKlDtaHDAVKXGPDbvtvuE=",
+    "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/k4VvFBPqJlNWI/YbFVqjLE6i8pMf5WIm0zsX+xL/8ZJAf9sQC0dDisbd9xiL3s8fZTLqIWBsMEhMFBEjCiGws4=",
     "sec-ch-ua-mobile": "?0",
-    "luws": "4E3D50CF-1C58-9A69-2ED4-9A282E7B82D0_",
-    "x-signature": "1cb764cd44cf6c80ba5b7eabc4578c9e4151df38dde8d71cdc0a45a700f756aa",
+    "luws": "59519012-A9D8-AA10-54A5-E02E4A3D8E9C_",
+    "x-signature": "e9a4dcc724942c8eed0605026c3f5208a1920963940f2d62eb00f743f12d2237",
     "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/138.0.7204.23 Safari/537.36",
     "x-secure-level": "2",
-    "x-client": "1751442605.782",
+    "x-client": "1751443214.915",
     "x-user-email": null,
     "18105-dash": null,
-    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751457007~acl=/stream/18105/file/*~id=allUsers~hmac=877d40477c270bf6210c3b2d32a7fc1e205bb49ebcca8e0dbf10d0ba0c61d0bc",
-    "205-dash": null,
-    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751457007~acl=/stream/205/file/*~id=allUsers~hmac=ab8b238a82274a01d44f6ffd8571eea633ce214fe0391c4aa02ffb4c5cfae6a1",
+    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751457616~acl=/stream/18105/file/*~id=allUsers~hmac=79d1b7a39324066c0dd657b18d8585ce1d11e9651e54b54e834cb2a9cb9207e1",
     "204-dash": null,
-    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751457007~acl=/stream/204/file/*~id=allUsers~hmac=53fb9eec83474e56c6be6421a30f0966bac8c92367287c4d1311eb2249580f16",
-    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751457007~acl=/stream/206/file/*~id=allUsers~hmac=5303c2b407b0c9709997717986477ee7c5ff70751c2cd69f0ad38eb09420c88e",
-    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751457007~acl=/stream/206/file/*~id=allUsers~hmac=5303c2b407b0c9709997717986477ee7c5ff70751c2cd69f0ad38eb09420c88e",
+    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751457616~acl=/stream/204/file/*~id=allUsers~hmac=d8c41f312f5bd4fa3cfee56225cf3884d8eebbbe36428a9200220ddd70957ca5",
+    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751457616~acl=/stream/206/file/*~id=allUsers~hmac=bd88e7afb0e9c4708f746f83fb489c28740295e73759c381fd14e7741955b5db",
+    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751457616~acl=/stream/206/file/*~id=allUsers~hmac=bd88e7afb0e9c4708f746f83fb489c28740295e73759c381fd14e7741955b5db",
+    "205-dash": null,
+    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751457616~acl=/stream/205/file/*~id=allUsers~hmac=cc217890dedafb3f60efd8f12a63cdcd4170e19e92c7dcda9e57ec0f43ba9522",
     "all-sections": "17139-17140-17884-18189-18249-18250-18252-18253-18994-6317",
     "all-vidiolivetv": [
       {
@@ -636,7 +636,7 @@
       "start_time": "2025-04-02T13:25:00.000Z"
     },
     "17938": {
-      "title": "Venezia vs Juventus - Serie A",
+      "title": "Udinese vs Fiorentina -  Serie A",
       "web_url": "17938",
       "cover_url": "https://thumbor.prod.vidiocdn.com/tJoOEHTHed9-fRQvnXoew2nr8hY=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17938/serie-a-973769.jpg",
       "start_time": "2024-10-20T10:00:00.000Z"
@@ -646,12 +646,6 @@
       "web_url": "17939",
       "cover_url": "https://thumbor.prod.vidiocdn.com/X-RqLAcQNAoAqhhYdA6L240KI50=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17939/serie-a-4cc90b.jpg",
       "start_time": "2024-10-20T12:45:00.000Z"
-    },
-    "19029": {
-      "title": "Kejutan Rapat Komisi XII Cecar Menteri ESDM Bahlil Lahadalia, Bahas Masalah Penting ini",
-      "web_url": "19029",
-      "cover_url": "https://thumbor.prod.vidiocdn.com/xkLMulj7ilz3DhZdELpFHLS0F0E=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/19029/live-now-1063d4.jpg",
-      "start_time": "2025-07-02T07:08:00.000Z"
     }
   }
 }
