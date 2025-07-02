@@ -1,5 +1,5 @@
 {
-  "time": "2025-07-02T15:10:08.829Z",
+  "time": "2025-07-02T15:20:08.820Z",
   "headers": {
     "x-api-platform": "web-desktop",
     "content-type": "application/vnd.api+json",
@@ -8,23 +8,23 @@
     "referer": "https://www.vidio.com/",
     "accept-language": "undefined",
     "sec-ch-ua": "\"Not)A;Brand\";v=\"8\", \"Chromium\";v=\"138\", \"HeadlessChrome\";v=\"138\"",
-    "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/nffT5iDXUqAGtUafzckgzO6OQj44Z7D4T0KXscGIMhgkadWRbIQv6va6vHMRMGYnuWt65kbYShynC/BZExAeGo=",
+    "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/o6xJUOaG64sykFAnqg6fzgaXiuioWBrecmWILjvH6TKA3/PdLzQLWf29hQW0sgHTmeaBAVTTJ3zvpYwD/WfG+o=",
     "sec-ch-ua-mobile": "?0",
-    "luws": "D1720AD6-F2E0-C2F9-AC26-CE270F093E1B_",
-    "x-signature": "9050c9c6d1f9c31cc9252a1e8668080c4827c8175e59f8e1cc095f904937e93f",
+    "luws": "3BBB22E3-C2AD-D753-BF1A-9CD4CCD6AE5C_",
+    "x-signature": "93addadfc2b744bc315cff01bee262e1bc74235d98f0d6814b43ae825c8b163a",
     "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/138.0.7204.23 Safari/537.36",
     "x-secure-level": "2",
-    "x-client": "1751469006.247",
+    "x-client": "1751469606.106",
     "x-user-email": null,
-    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751483406~acl=/stream/206/file/*~id=allUsers~hmac=d361c6be294015a022dd893c4d80f03e969e3a8c08911e609826e876a87e64cc",
-    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751483406~acl=/stream/206/file/*~id=allUsers~hmac=d361c6be294015a022dd893c4d80f03e969e3a8c08911e609826e876a87e64cc",
     "18105-dash": null,
-    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751483406~acl=/stream/18105/file/*~id=allUsers~hmac=cd6b3d6a59ab77f21c0aca6457234dc48b9a50e9b5c36dd9ac1496cef29c1af4",
-    "205-dash": null,
-    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751483406~acl=/stream/205/file/*~id=allUsers~hmac=8f2432e3921dbf982f61d80fca7f5dd5c1178bce10eaf711066d1c79df4c5126",
+    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751484006~acl=/stream/18105/file/*~id=allUsers~hmac=6a9408ebabff8481236c3e0bb260e73d3917ba376f552fb222c5fd4e0c285b68",
+    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751484006~acl=/stream/206/file/*~id=allUsers~hmac=1948e436e15ff35283d765e295dbe52a1b104cdbfa7e30c47bce1226b45d014e",
+    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751484006~acl=/stream/206/file/*~id=allUsers~hmac=1948e436e15ff35283d765e295dbe52a1b104cdbfa7e30c47bce1226b45d014e",
     "204-dash": null,
-    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751483406~acl=/stream/204/file/*~id=allUsers~hmac=fa559a3f445f5dfc0dd0778be7da7db19a60a7bf42068bb1b09309805b23faa9",
-    "all-sections": "17139-17140-17884-18189-18249-18250-18252-18253-18994-19030-6317",
+    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751484006~acl=/stream/204/file/*~id=allUsers~hmac=c8fbbe3d281b06c712e2c43e4a5ce2f957ab0e234100c70feea7286dfe455df5",
+    "205-dash": null,
+    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751484006~acl=/stream/205/file/*~id=allUsers~hmac=e4cd6e8e726f1c02397237cde79f2209b9e5f08f3affc735b1fb867e24abdcab",
+    "all-sections": "17139-17140-17884-18189-18249-18250-18252-18253-19030-6317",
     "all-vidiolivetv": [
       {
         "content_id": "204",
@@ -519,12 +519,6 @@
       "cover_url": "https://thumbor.prod.vidiocdn.com/6gYqMHIHdxo2dImqPD7pXSSyg4M=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/19030/press-conference-piala-presiden-2025-728c5d.jpg",
       "start_time": "2025-07-04T09:00:00.000Z"
     },
-    "4388993": {
-      "title": "Pakistan vs Indonesia - AFC Women's Asian Cup 2026 Qualifiers",
-      "web_url": "18994",
-      "cover_url": "https://thumbor.prod.vidiocdn.com/WNSCGz2H0Aimisrw85FJYcS8imM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4388993/2fcd78.jpg",
-      "start_time": "2025-07-02T12:30:00.000Z"
-    },
     "4394281": {
       "title": "John Deere Classic - Round 1",
       "web_url": "18189",
@@ -571,13 +565,7 @@
       "title": "Kattie Boulter vs Solana Sierra - Ladies' Singles Second Round | Wimbledon 2025",
       "web_url": "17140",
       "cover_url": "https://thumbor.prod.vidiocdn.com/KeweGCDA3H007tDynLtXj_eDx6M=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4396415/582287.jpg",
-      "start_time": "2025-07-02T15:30:00.000Z"
-    },
-    "4396416": {
-      "title": "Cameron Norrie vs Frances Tiafoe - Gentlemen's Singles Second Round | Wimbledon 2025",
-      "web_url": "17140",
-      "cover_url": "https://thumbor.prod.vidiocdn.com/BD3CmkMQuipHBrD9Nzvx3bQrNmk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4396416/7748e0.jpg",
-      "start_time": "2025-07-02T11:55:00.000Z"
+      "start_time": "2025-07-02T15:18:00.000Z"
     },
     "4396417": {
       "title": "Taylor Fritz vs Gabriel Diallo - Gentlemen's Singles Second Round | Wimbledon 2025",
@@ -620,12 +608,6 @@
       "web_url": "6317",
       "cover_url": "https://thumbor.prod.vidiocdn.com/KiYW1gwN4Vyb49OJ5MrguLp7GwI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4396607/852eb9.jpg",
       "start_time": "2025-07-04T08:00:00.000Z"
-    },
-    "4396747": {
-      "title": "Chinese Taipei vs Indonesia - AFC Women's Asian Cup 2026 Qualifiers",
-      "web_url": "18994",
-      "cover_url": "https://thumbor.prod.vidiocdn.com/W6Il6wCRjiJUVjbBOquA7mvEap8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4396747/433dfc.jpg",
-      "start_time": "2025-07-05T13:00:00.000Z"
     }
   },
   "vidioliveothers": {
@@ -670,12 +652,6 @@
       "web_url": "18253",
       "cover_url": "https://thumbor.prod.vidiocdn.com/bTCaolxQqLBotJskB9hXyyV8DhM=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18253/yonex-canada-open-2025-round-of-32-court-4-ab7209.jpg",
       "start_time": "2025-07-02T14:00:00.000Z"
-    },
-    "18994": {
-      "title": "Pakistan vs Indonesia - AFC Women's Asian Cup 2026 Qualifiers",
-      "web_url": "18994",
-      "cover_url": "https://thumbor.prod.vidiocdn.com/WNSCGz2H0Aimisrw85FJYcS8imM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4388993/2fcd78.jpg",
-      "start_time": "2025-07-02T12:30:00.000Z"
     }
   }
 }
