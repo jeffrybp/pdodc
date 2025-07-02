@@ -1,5 +1,5 @@
 {
-  "time": "2025-07-02T05:00:14.453Z",
+  "time": "2025-07-02T05:10:09.466Z",
   "headers": {
     "x-api-platform": "web-desktop",
     "content-type": "application/vnd.api+json",
@@ -8,22 +8,22 @@
     "referer": "https://www.vidio.com/",
     "accept-language": "undefined",
     "sec-ch-ua": "\"Not)A;Brand\";v=\"8\", \"Chromium\";v=\"138\", \"HeadlessChrome\";v=\"138\"",
-    "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/pdmRwjy1OFZH0bIuQgiDOPnv9Wjn6p+6J5ocrzrdZQhva91uR3fgIkb8AaHH4OjKX9SmFM430ZVIEadvjkw/hs=",
+    "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/pmK9VMPvvw2M6oIy2NsjvcPp8ISOxXL3QhDyaLbpf4GdyGkVkubBea7nSWu5mT6wC3782sgN/qX200CVeKXw+g=",
     "sec-ch-ua-mobile": "?0",
-    "luws": "3677DB99-7FC1-20B4-9E6A-94D14F0EFF95_",
-    "x-signature": "6d8a3c3b1d9b99edb0cb1996d82c3d4ce8f8b70734957232c2c48ab773c368b7",
+    "luws": "D6F244AE-C905-6DD8-DCEB-C742629A1BDF_",
+    "x-signature": "96601611ef3ec95c417ee9cf8cb4c895c02cdef2ed67021f4e0abc5483dd8f05",
     "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/138.0.7204.23 Safari/537.36",
     "x-secure-level": "2",
-    "x-client": "1751432410.586",
+    "x-client": "1751433006.351",
     "x-user-email": null,
     "204-dash": null,
-    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751446811~acl=/stream/204/file/*~id=allUsers~hmac=8cf6272487281af1b7016a70da6c090657df87c155afee079d70e0813a893ae2",
+    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751447407~acl=/stream/204/file/*~id=allUsers~hmac=586d26e9a30dbf5e75897b4acc110b1dec27ef6ee7c5c91db1d9e57474c94f86",
     "205-dash": null,
-    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751446811~acl=/stream/205/file/*~id=allUsers~hmac=040080c8def8b3028130411dc982c7618d4eb6ec9d1cce6d9868988786be28ec",
-    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751446811~acl=/stream/206/file/*~id=allUsers~hmac=04f21d0e05a0e49412cf4acc54ba82a2ed80cd8aa1ac0a669acc28f75d57c48b",
-    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751446811~acl=/stream/206/file/*~id=allUsers~hmac=04f21d0e05a0e49412cf4acc54ba82a2ed80cd8aa1ac0a669acc28f75d57c48b",
+    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751447407~acl=/stream/205/file/*~id=allUsers~hmac=7510a0259e8a336da14ee9f67df48cdd622714002adf5cb4dd34ebdc3cbafa0a",
     "18105-dash": null,
-    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751446812~acl=/stream/18105/file/*~id=allUsers~hmac=ab39521352f198d25ab27727a2cdcbc6f3b9df34c15d4cffb9658d635528f8ec",
+    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751447407~acl=/stream/18105/file/*~id=allUsers~hmac=377ec5320502673321e1fc708f43a9f7b5f94d98250236c6d76702bdb49a927f",
+    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751447407~acl=/stream/206/file/*~id=allUsers~hmac=74157611c6d9dfa53c659166f11e15c03b14d4b6670888ae34c90fda4869cfdd",
+    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751447407~acl=/stream/206/file/*~id=allUsers~hmac=74157611c6d9dfa53c659166f11e15c03b14d4b6670888ae34c90fda4869cfdd",
     "all-sections": "17139-17140-17884-18189-18249-18250-18252-18253-18994-6317",
     "all-vidiolivetv": [
       {
@@ -658,6 +658,12 @@
       "web_url": "19025",
       "cover_url": "https://thumbor.prod.vidiocdn.com/GS7h0BHwDyWgm4VgbWD0-6nGFAs=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/19025/live-now-7100c3.jpg",
       "start_time": "2025-07-02T04:01:00.000Z"
+    },
+    "19027": {
+      "title": "Konpers Kejagung Soal Kasus Tipikor CPO | LIVE",
+      "web_url": "19027",
+      "cover_url": "https://thumbor.prod.vidiocdn.com/0RWyPiENKuzHG_ctqwmH5CCqKV4=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/19027/konpers-kejagung-soal-kasus-tipikor-cpo-live-06da4c.jpg",
+      "start_time": "2025-07-02T06:30:00.000Z"
     }
   }
 }
