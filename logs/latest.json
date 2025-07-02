@@ -1,5 +1,5 @@
 {
-  "time": "2025-07-02T10:00:17.074Z",
+  "time": "2025-07-02T10:10:16.777Z",
   "headers": {
     "x-api-platform": "web-desktop",
     "content-type": "application/vnd.api+json",
@@ -8,22 +8,22 @@
     "referer": "https://www.vidio.com/",
     "accept-language": "undefined",
     "sec-ch-ua": "\"Not)A;Brand\";v=\"8\", \"Chromium\";v=\"138\", \"HeadlessChrome\";v=\"138\"",
-    "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/uUKHYpvwjXpZP45AkJXyq7yvZ6iZu/51eWHNA5WQ3xyXnfDiw8uID/I41YnsOCluDHvkMDr0Ik1tBePLC9Peck=",
+    "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/geIM854QGMv5cj1uBXIG07uvaV42rMLWv7de2H072i6f8P6u96BnF1np3acrc8pR1l/0KVDoWBFTD8S6ZYPPFg=",
     "sec-ch-ua-mobile": "?0",
-    "luws": "1D02A7B5-6680-B981-2A84-388403AAF87B_",
-    "x-signature": "f5f015edc598f4fb8819c3e61f59e9d189c1e81adc96f04d93711fd9bb10e840",
+    "luws": "D81FFB6E-BD9C-BC5F-0E41-558EDB09E0C2_",
+    "x-signature": "24b4cc030a47e2737d54944c4c2de8a0559ee82d29e20b4a19534d2dfaee040b",
     "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/138.0.7204.23 Safari/537.36",
     "x-secure-level": "2",
-    "x-client": "1751450414.04",
+    "x-client": "1751451013.934",
     "x-user-email": null,
-    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751464814~acl=/stream/206/file/*~id=allUsers~hmac=8325cf51eca3f8a74fc28ae2f092eef565e6c48ca865a67ee70ce21a4b0dd615",
-    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751464814~acl=/stream/206/file/*~id=allUsers~hmac=8325cf51eca3f8a74fc28ae2f092eef565e6c48ca865a67ee70ce21a4b0dd615",
+    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751465414~acl=/stream/206/file/*~id=allUsers~hmac=f88336e5e596e749bb45018233ecbca71a69b828bf0b32864a41aa4776978ae0",
+    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751465414~acl=/stream/206/file/*~id=allUsers~hmac=f88336e5e596e749bb45018233ecbca71a69b828bf0b32864a41aa4776978ae0",
     "18105-dash": null,
-    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751464814~acl=/stream/18105/file/*~id=allUsers~hmac=83a052c68fcffc01a637e15f274df5fe9218ed01ce7546c099a30fde276e4d29",
-    "205-dash": null,
-    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751464814~acl=/stream/205/file/*~id=allUsers~hmac=e92ea753809fe96ca214aaf617c37d7adc96c42268c09656e4253f5c4629c4b5",
+    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751465415~acl=/stream/18105/file/*~id=allUsers~hmac=bfea2d82438f57878dfb42c87a541ec4a7b859a356a6e1f5221d346b9a592d62",
     "204-dash": null,
-    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751464814~acl=/stream/204/file/*~id=allUsers~hmac=bd3e4a326f8ca8188087a06d881a3a6b5cfc1e1eef3734b30e145dbe882dc363",
+    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751465415~acl=/stream/204/file/*~id=allUsers~hmac=975a0c2f8dcb86250eb15e713e2b221d429303972c3fe445f1a96a4d33153e9d",
+    "205-dash": null,
+    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751465415~acl=/stream/205/file/*~id=allUsers~hmac=76c131826dce72c998598c77d816ede6d76854c74bfdc293a4b0ae06ad89c0cf",
     "all-sections": "17139-17140-17884-18189-18249-18250-18252-18253-18994-19030-6317",
     "all-vidiolivetv": [
       {
@@ -648,7 +648,7 @@
       "start_time": "2025-04-02T13:25:00.000Z"
     },
     "17938": {
-      "title": "Atlanta vs Parma - Serie A",
+      "title": "Udinese vs Fiorentina -  Serie A",
       "web_url": "17938",
       "cover_url": "https://thumbor.prod.vidiocdn.com/tJoOEHTHed9-fRQvnXoew2nr8hY=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17938/serie-a-973769.jpg",
       "start_time": "2024-10-20T10:00:00.000Z"
