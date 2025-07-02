@@ -1,5 +1,5 @@
 {
-  "time": "2025-07-02T02:30:09.210Z",
+  "time": "2025-07-02T02:40:09.013Z",
   "headers": {
     "x-api-platform": "web-desktop",
     "content-type": "application/vnd.api+json",
@@ -10,20 +10,20 @@
     "sec-ch-ua": "\"Not)A;Brand\";v=\"8\", \"Chromium\";v=\"138\", \"HeadlessChrome\";v=\"138\"",
     "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/jfrnUf+JWG387418S1gO6idotTY4SKS6P5ZJiVxVwz/73e5tqTIXPAhh7oEyND2sn0GuBgmCfhC3FWa1ZqrNUc=",
     "sec-ch-ua-mobile": "?0",
-    "luws": "2B608C70-EB4B-D69E-4CD1-771411DBC976_",
-    "x-signature": "32ed3ecee9954f1f91314ca0a32dfd7a470f233f5f21b65ee3ee84b8bb269503",
+    "luws": "5BBBD224-3C0D-0B51-554E-B0FE4AD208F8_",
+    "x-signature": "dbde12c9cbe295377c1ee38ccdb9bd2bf2d5440d1af2281ed3b8c1360e8a2f71",
     "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/138.0.7204.23 Safari/537.36",
     "x-secure-level": "2",
-    "x-client": "1751423406.399",
+    "x-client": "1751424006.403",
     "x-user-email": null,
-    "204-dash": null,
-    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751437807~acl=/stream/204/file/*~id=allUsers~hmac=1432e54109b2d67ec6036155c1a5b67bd8b8c387c5909b243fa94ffb16e21dc0",
-    "205-dash": null,
-    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751437807~acl=/stream/205/file/*~id=allUsers~hmac=5077250bfedd6cd1e1dd0371e348622538cfa22a782039e9b57bbc814f842dfc",
     "18105-dash": null,
-    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751437807~acl=/stream/18105/file/*~id=allUsers~hmac=73b4864e156446324991a8cd03d289f06e5bcc41d01a8b2079469e608f016013",
-    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751437807~acl=/stream/206/file/*~id=allUsers~hmac=3c4be149a159e1e690ee0bb05e8fbb7d82764a5aebe9e7dcb9db31f40c81f68a",
-    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751437807~acl=/stream/206/file/*~id=allUsers~hmac=3c4be149a159e1e690ee0bb05e8fbb7d82764a5aebe9e7dcb9db31f40c81f68a",
+    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751438407~acl=/stream/18105/file/*~id=allUsers~hmac=105a116d45d99d2c0ee76a1dd1523a307a7b970595ba21df4c2fa400cdd9ff41",
+    "205-dash": null,
+    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751438407~acl=/stream/205/file/*~id=allUsers~hmac=a5e84d96dfb1d575023bf66ec90dbf1dbcc80023306d1181cd7b855363dedad6",
+    "204-dash": null,
+    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751438407~acl=/stream/204/file/*~id=allUsers~hmac=613b26127f4ea44e38283993fd68fc4af4e946bba86a7220e912d098c41d5267",
+    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751438407~acl=/stream/206/file/*~id=allUsers~hmac=16b64ca4cf9ed9b8f5d4ab862eb41891d06dbbbcecc5739888a569f24043cacb",
+    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751438407~acl=/stream/206/file/*~id=allUsers~hmac=16b64ca4cf9ed9b8f5d4ab862eb41891d06dbbbcecc5739888a569f24043cacb",
     "all-sections": "17139-17140-17884-18189-18249-18250-18252-18253-18994-6317",
     "all-vidiolivetv": [
       {
@@ -525,24 +525,6 @@
       "cover_url": "https://thumbor.prod.vidiocdn.com/ai0DES7QJal51vWOkGNlO0LjpDU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4391006/dd017b.jpg",
       "start_time": "2025-07-02T08:00:00.000Z"
     },
-    "4391007": {
-      "title": "Bordeaux P2 Premier Padel 2025 - Day 3",
-      "web_url": "6317",
-      "cover_url": "https://thumbor.prod.vidiocdn.com/8yPb8FHupaEgXS6i7YZD8xSmxs8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4391007/ee3daf.jpg",
-      "start_time": "2025-07-02T15:00:00.000Z"
-    },
-    "4391008": {
-      "title": "Bordeaux P2 Premier Padel 2025 - Day 4",
-      "web_url": "6317",
-      "cover_url": "https://thumbor.prod.vidiocdn.com/UeTS7nYeujK1zlSE9FrX9lRq7e8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4391008/00dd2b.jpg",
-      "start_time": "2025-07-03T08:00:00.000Z"
-    },
-    "4394222": {
-      "title": "Bordeaux P2 Premier Padel 2025 - Day 4",
-      "web_url": "6317",
-      "cover_url": "https://thumbor.prod.vidiocdn.com/g4hXtvrwkWNhnoOkAZilGFUTyR0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4394222/692d18.jpg",
-      "start_time": "2025-07-03T15:00:00.000Z"
-    },
     "4394281": {
       "title": "John Deere Classic - Round 1",
       "web_url": "18189",
@@ -620,6 +602,12 @@
       "web_url": "17139",
       "cover_url": "https://thumbor.prod.vidiocdn.com/9rzPz7S-FnocA_7OoKCYD7DVZCo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4396421/234ffa.jpg",
       "start_time": "2025-07-02T18:30:00.000Z"
+    },
+    "4396547": {
+      "title": "Bordeaux P2 Premier Padel 2025 - Day 3",
+      "web_url": "6317",
+      "cover_url": "https://thumbor.prod.vidiocdn.com/92q64e61rDSCmRCgJXqG5inrs5U=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4396547/8061a4.jpg",
+      "start_time": "2025-07-02T15:00:00.000Z"
     }
   },
   "vidioliveothers": {
