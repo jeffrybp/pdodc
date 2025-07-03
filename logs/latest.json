@@ -1,5 +1,5 @@
 {
-  "time": "2025-07-03T02:00:12.855Z",
+  "time": "2025-07-03T02:10:11.122Z",
   "headers": {
     "x-api-platform": "web-desktop",
     "content-type": "application/vnd.api+json",
@@ -8,22 +8,22 @@
     "referer": "https://www.vidio.com/",
     "accept-language": "undefined",
     "sec-ch-ua": "\"Not)A;Brand\";v=\"8\", \"Chromium\";v=\"138\", \"HeadlessChrome\";v=\"138\"",
-    "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/oMGAmpEl3RPkxqozxO1nCw7SCJCOoaOI8aWEBjxJKyfocFI+NL07X6LQ6QpXDSPkqMgRJU9juHOI6/rymbFHas=",
+    "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/vEuoF3g5pHy0HqQWJpqVNU1vf+T0kILB+NIMu3FEwYap7umQNg6EUUAfTEE1PBzsal1RfbIP0J5w4ef4NTBf6s=",
     "sec-ch-ua-mobile": "?0",
-    "luws": "7767348A-DA23-F6F8-37E2-74F624315A4B_",
-    "x-signature": "a49b630759de14d4e248ccb46a19cbb509fb26a1f86ed8050fd9a1b2aac87bf5",
+    "luws": "4310211B-0B54-BBF2-0CC2-FAD5FF3205DF_",
+    "x-signature": "8e1e45b86e631d3c04d84bea9aec4b7d4f615892df21ce97eef3f68bbb2ad6b8",
     "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/138.0.7204.23 Safari/537.36",
     "x-secure-level": "2",
-    "x-client": "1751508006.676",
+    "x-client": "1751508608.655",
     "x-user-email": null,
-    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751522411~acl=/stream/206/file/*~id=allUsers~hmac=9e72521e2f7cc7f29a2c088b6389d0d313abe3eced4a00cfb560bc5b56dc0154",
-    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751522411~acl=/stream/206/file/*~id=allUsers~hmac=9e72521e2f7cc7f29a2c088b6389d0d313abe3eced4a00cfb560bc5b56dc0154",
-    "18105-dash": null,
-    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751522411~acl=/stream/18105/file/*~id=allUsers~hmac=389282c48a5ea91c091afc2b7937b7e1c4cd4820a17f9222ef08bc36ef4a4315",
-    "204-dash": null,
-    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751522411~acl=/stream/204/file/*~id=allUsers~hmac=0a6587db3582053596153952723cbf44fc7cbdaf64e674bfa95387513e3ed7d0",
+    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751523009~acl=/stream/206/file/*~id=allUsers~hmac=010cdfb8d0dca258d6e59e5164f187741e40aced52d600326c173e8c5e03c2ee",
+    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751523009~acl=/stream/206/file/*~id=allUsers~hmac=010cdfb8d0dca258d6e59e5164f187741e40aced52d600326c173e8c5e03c2ee",
     "205-dash": null,
-    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751522411~acl=/stream/205/file/*~id=allUsers~hmac=a60b60b229dbdcb73e5e5ab59577665dc9d50b2c984b939c660138a8680e25d7",
+    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751523009~acl=/stream/205/file/*~id=allUsers~hmac=05cfcca30b4538eac1c05977000feef92ff2878a02731bdb90f8bba039c2b058",
+    "18105-dash": null,
+    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751523009~acl=/stream/18105/file/*~id=allUsers~hmac=f56f002b01e742d37d910a9a487bd65f3b5f5fca0def1dd8db24f8a0c0a60ed0",
+    "204-dash": null,
+    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751523009~acl=/stream/204/file/*~id=allUsers~hmac=52ef6aaaf4ed1efcd9020726e3d80d13ccfd37498262bf7e84a40c2463166d43",
     "all-sections": "17139-17140-17884-18189-18249-18250-18252-18253-19030-6317",
     "all-vidiolivetv": [
       {
@@ -502,10 +502,10 @@
       "start_time": "2025-07-02T14:00:00.000Z"
     },
     "18252": {
-      "title": "Yonex Canada Open 2025 - Round of 32 (Court 3)",
+      "title": "Yonex Canada Open 2025 - Round of 16 (Court 3)",
       "web_url": "18252",
       "cover_url": "https://thumbor.prod.vidiocdn.com/pFRY7vY8T1WY377q-FHfGeAeZEQ=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18252/yonex-canada-open-2025-round-of-32-court-3-eb833f.jpg",
-      "start_time": "2025-07-02T14:10:00.000Z"
+      "start_time": "2025-07-03T15:00:00.000Z"
     },
     "18253": {
       "title": "Yonex Canada Open 2025 - Round of 16 (Court 4)",
@@ -640,12 +640,6 @@
       "web_url": "18250",
       "cover_url": "https://thumbor.prod.vidiocdn.com/gw0wKEOcR-aqHuyXi19ma4RFLxc=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18250/yonex-canada-open-2025-round-of-32-court-2-ed4468.jpg",
       "start_time": "2025-07-02T14:00:00.000Z"
-    },
-    "18252": {
-      "title": "Yonex Canada Open 2025 - Round of 32 (Court 3)",
-      "web_url": "18252",
-      "cover_url": "https://thumbor.prod.vidiocdn.com/pFRY7vY8T1WY377q-FHfGeAeZEQ=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18252/yonex-canada-open-2025-round-of-32-court-3-eb833f.jpg",
-      "start_time": "2025-07-02T14:10:00.000Z"
     }
   }
 }
