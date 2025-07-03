@@ -1,5 +1,5 @@
 {
-  "time": "2025-07-03T05:40:08.240Z",
+  "time": "2025-07-03T05:50:09.347Z",
   "headers": {
     "x-api-platform": "web-desktop",
     "content-type": "application/vnd.api+json",
@@ -8,22 +8,22 @@
     "referer": "https://www.vidio.com/",
     "accept-language": "undefined",
     "sec-ch-ua": "\"Not)A;Brand\";v=\"8\", \"Chromium\";v=\"138\", \"HeadlessChrome\";v=\"138\"",
-    "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/mbSrKWJkQ2DBJcp+AmVnpfHVNVRs53SA/n0cikDMOTph0yu/p5nJl1hJsNFIxVEZ0ori6Agap4OBfD6CucMRTE=",
+    "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/prwqP9QsXEvN9PTOrT8nUfpFbI+BaXWyUerjLv/ymi0hPf5/SE2q3Cjz9jjE/J59LS/FD7B7KhsU3Hl414BQk8=",
     "sec-ch-ua-mobile": "?0",
-    "luws": "4A43D01F-BBA3-399C-874E-9BCE716140F2_",
-    "x-signature": "d0d9ce949fe934f41bfd27d01c02f3258a934ce2c45e53c4de355828bb698072",
+    "luws": "65DE17D7-22FC-DBB4-A853-286A0C23D8DA_",
+    "x-signature": "a205bb449ce7b9dfdfecc188e89adb4c22f16437ca58897ac806bce7559c242d",
     "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/138.0.7204.23 Safari/537.36",
     "x-secure-level": "2",
-    "x-client": "1751521205.644",
+    "x-client": "1751521805.997",
     "x-user-email": null,
+    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751536206~acl=/stream/206/file/*~id=allUsers~hmac=a63f7ea6e1c90739b03e7b2e50a326ae9523e3293b5637ef93515dff120b61e5",
+    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751536206~acl=/stream/206/file/*~id=allUsers~hmac=a63f7ea6e1c90739b03e7b2e50a326ae9523e3293b5637ef93515dff120b61e5",
     "205-dash": null,
-    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751535606~acl=/stream/205/file/*~id=allUsers~hmac=1700ab56b4789b12e34f9bf135bfd994789395db9ed95275c4af22cb46108aae",
+    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751536206~acl=/stream/205/file/*~id=allUsers~hmac=e5edf78ca062083a1eb5641c51795c80382cacf60af523558b98cca7a2c6d84d",
     "18105-dash": null,
-    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751535606~acl=/stream/18105/file/*~id=allUsers~hmac=869df777a48186670836c9eb6c367a538b6197601f5be7dd9da9faf9f896abd2",
+    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751536206~acl=/stream/18105/file/*~id=allUsers~hmac=20a9d6ac0aa621bfed4e248f5e820c9918907e5a46022fce5046467bc66fb53a",
     "204-dash": null,
-    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751535606~acl=/stream/204/file/*~id=allUsers~hmac=9d8d52928831306876dc5e4aa8a3d523f707c67a3e3efd558778acbda9558e2a",
-    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751535606~acl=/stream/206/file/*~id=allUsers~hmac=2fd5afbaf8e616825a4135a1b322977a3dc7641f8f08a7733cbcf6e5e8bfa269",
-    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751535606~acl=/stream/206/file/*~id=allUsers~hmac=2fd5afbaf8e616825a4135a1b322977a3dc7641f8f08a7733cbcf6e5e8bfa269",
+    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751536206~acl=/stream/204/file/*~id=allUsers~hmac=18e955c96f9a3d3442171d7bdb79317088e95dd2b11a99e58dfacc248737728f",
     "all-sections": "16890-17139-17140-17884-18189-18249-18250-18252-18253-19030-6317",
     "all-vidiolivetv": [
       {
@@ -682,6 +682,12 @@
       "web_url": "17939",
       "cover_url": "https://thumbor.prod.vidiocdn.com/X-RqLAcQNAoAqhhYdA6L240KI50=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17939/serie-a-4cc90b.jpg",
       "start_time": "2024-10-20T12:45:00.000Z"
+    },
+    "19034": {
+      "title": "Sidang Tuntutan Sekjen PDI-P Hasto Kristiyanto | LIVE",
+      "web_url": "19034",
+      "cover_url": "https://thumbor.prod.vidiocdn.com/hImkDYJXF6crKOlLo2QimHZI284=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/19034/sidang-tuntutan-sekjen-pdi-p-hasto-kristiyanto-live-ab6b6a.jpg",
+      "start_time": "2025-07-03T05:43:00.000Z"
     }
   }
 }
