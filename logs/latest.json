@@ -1,5 +1,5 @@
 {
-  "time": "2025-07-03T00:30:15.371Z",
+  "time": "2025-07-03T00:40:16.336Z",
   "headers": {
     "x-api-platform": "web-desktop",
     "content-type": "application/vnd.api+json",
@@ -8,22 +8,22 @@
     "referer": "https://www.vidio.com/",
     "accept-language": "undefined",
     "sec-ch-ua": "\"Not)A;Brand\";v=\"8\", \"Chromium\";v=\"138\", \"HeadlessChrome\";v=\"138\"",
-    "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/sMWTXESQuKQDV2VK3WBep1vSHCDF/ePtO0v/2KyaFS3XDdQbXWl1ZofFUT+teVAs3Zd5J1S04QzUF9z2fx06NQ=",
+    "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/pU4mWx34ftYeVGoJh8nEX8H2aB6/2CM/rq6DPZ6junAoU893S1ZZCndRHn6entkjZfcUC1JF//6rK+z2S8/9to=",
     "sec-ch-ua-mobile": "?0",
-    "luws": "57387331-32E9-B6E0-4623-3F79F0DF4683_",
-    "x-signature": "436140be641ba69240733a5112ffc31389ddd7874fbf3f1153c90113106bb7ee",
+    "luws": "F8B9D6FE-3C63-A434-CCD4-E4854792BDFC_",
+    "x-signature": "2601f5dcaf8d55fc97b9d05f649d4f12549364645efe07b5a349ff9ce112c47d",
     "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/138.0.7204.23 Safari/537.36",
     "x-secure-level": "2",
-    "x-client": "1751502612.503",
+    "x-client": "1751503213.25",
     "x-user-email": null,
-    "18105-dash": null,
-    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751517013~acl=/stream/18105/file/*~id=allUsers~hmac=34b1e1f000638d1ea82740c2cc872b174f7ba5b2abeee1dc42037c88af5ad775",
     "204-dash": null,
-    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751517013~acl=/stream/204/file/*~id=allUsers~hmac=e992fb4cc070797d91c6bf69d04efcfed9c9ffe90a6194279814136391d08198",
+    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751517614~acl=/stream/204/file/*~id=allUsers~hmac=905cc97b626d132865812016845ba42a30ef82014e7930b2b680b869f52a6762",
     "205-dash": null,
-    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751517013~acl=/stream/205/file/*~id=allUsers~hmac=72e1713c938d9986dc5bba9f85075ae79b06ddd9dabf04833219bdadf8555c18",
-    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751517013~acl=/stream/206/file/*~id=allUsers~hmac=0a2f8645115d026dab2da826df7d12d803306fc0d5dead2b6eec7743477b0706",
-    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751517013~acl=/stream/206/file/*~id=allUsers~hmac=0a2f8645115d026dab2da826df7d12d803306fc0d5dead2b6eec7743477b0706",
+    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751517614~acl=/stream/205/file/*~id=allUsers~hmac=e5bcc800058a963f14c333776d4d3314b47ebd22800f510f51c9b7fd20cf37c6",
+    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751517614~acl=/stream/206/file/*~id=allUsers~hmac=b603d3fb6a3b3b163283a7947f0a5d3ea15d19b3fb12b4926755167ee18a24c7",
+    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751517614~acl=/stream/206/file/*~id=allUsers~hmac=b603d3fb6a3b3b163283a7947f0a5d3ea15d19b3fb12b4926755167ee18a24c7",
+    "18105-dash": null,
+    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751517614~acl=/stream/18105/file/*~id=allUsers~hmac=974d4a63fe3e98d298db6cf7b62936cc192182c2b6002dbbc53e83912b5e3ac8",
     "all-sections": "17139-17140-17884-18189-18249-18250-18252-18253-19030-6317",
     "all-vidiolivetv": [
       {
@@ -508,7 +508,7 @@
       "start_time": "2025-07-02T14:10:00.000Z"
     },
     "18253": {
-      "title": "Kevin Lee/Ty Alexander Lindeman (CAN) vs Lai Po Yu/Tsai Fu Cheng (TPE) - Men's Doubles Round of 32 | Yonex Canada Open 2025",
+      "title": "Benyapa Aimsaard/Nuntakam Aimsaard (THA) vs Chen Su Yu/Yi En Hsieh (TPE) - Women's Doubles Round of 32 | Yonex Canada Open 2025",
       "web_url": "18253",
       "cover_url": "https://thumbor.prod.vidiocdn.com/bTCaolxQqLBotJskB9hXyyV8DhM=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18253/yonex-canada-open-2025-round-of-32-court-4-ab7209.jpg",
       "start_time": "2025-07-02T14:00:00.000Z"
@@ -654,10 +654,16 @@
       "start_time": "2025-07-02T14:10:00.000Z"
     },
     "18253": {
-      "title": "Kevin Lee/Ty Alexander Lindeman (CAN) vs Lai Po Yu/Tsai Fu Cheng (TPE) - Men's Doubles Round of 32 | Yonex Canada Open 2025",
+      "title": "Benyapa Aimsaard/Nuntakam Aimsaard (THA) vs Chen Su Yu/Yi En Hsieh (TPE) - Women's Doubles Round of 32 | Yonex Canada Open 2025",
       "web_url": "18253",
       "cover_url": "https://thumbor.prod.vidiocdn.com/bTCaolxQqLBotJskB9hXyyV8DhM=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18253/yonex-canada-open-2025-round-of-32-court-4-ab7209.jpg",
       "start_time": "2025-07-02T14:00:00.000Z"
+    },
+    "19031": {
+      "title": "Kapal Feri Bawa 53 Penumpang dan 12 Kru Tenggelam di Selat Bali",
+      "web_url": "19031",
+      "cover_url": "https://thumbor.prod.vidiocdn.com/FF1aFzPuDYJyP_L3xs-RXXcKek4=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/19031/kapal-feri-bawa-53-penumpang-dan-12-kru-tenggelam-di-selat-bali-c003d5.jpg",
+      "start_time": "2025-07-03T00:40:00.000Z"
     }
   }
 }
