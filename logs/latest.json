@@ -1,5 +1,5 @@
 {
-  "time": "2025-07-03T02:20:09.185Z",
+  "time": "2025-07-03T02:30:08.202Z",
   "headers": {
     "x-api-platform": "web-desktop",
     "content-type": "application/vnd.api+json",
@@ -8,22 +8,22 @@
     "referer": "https://www.vidio.com/",
     "accept-language": "undefined",
     "sec-ch-ua": "\"Not)A;Brand\";v=\"8\", \"Chromium\";v=\"138\", \"HeadlessChrome\";v=\"138\"",
-    "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/pk/7NfapRZWasCAh89vjXfqFUnsgWfkP4IDlQJetmT0WKm8BaBD6ChKSDEjarr946RegKb1v8uCKTOtfaYkrM8=",
+    "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/lyPA1i2N6n89GXUaCldehHtQelvBEiXWV5001kujoQb/Vlg6yM0l6tBk/MpzU5dN2Zc5ySAJB2wewbNqk2ZNIM=",
     "sec-ch-ua-mobile": "?0",
-    "luws": "C00B8E0B-628A-0DC6-633E-D398CECA8666_",
-    "x-signature": "8049886246373ab3da079fac1e8109361f37db15ad12303770609e1ec1ed69ca",
+    "luws": "3CDC8FB6-3499-8412-0E0F-3B69AD721F34_",
+    "x-signature": "db1dadd7e50c40e5bc533038ea049718aa1191a05a89642e74fd02754a114c9d",
     "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/138.0.7204.23 Safari/537.36",
     "x-secure-level": "2",
-    "x-client": "1751509206.261",
+    "x-client": "1751509805.709",
     "x-user-email": null,
     "205-dash": null,
-    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751523607~acl=/stream/205/file/*~id=allUsers~hmac=ea3f863ed41f904754c1d4706d469ad4d414131541b7e228317fdedadb0b73cb",
+    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751524206~acl=/stream/205/file/*~id=allUsers~hmac=9c57462922edc2f89c3c592124392d81e86fe0edb0716a9f4f4b6c07b424cef0",
+    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751524206~acl=/stream/206/file/*~id=allUsers~hmac=52c735ec5589563017d8ba21ee34a8ca24afd847abe008e44685c7e691a02d16",
+    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751524206~acl=/stream/206/file/*~id=allUsers~hmac=52c735ec5589563017d8ba21ee34a8ca24afd847abe008e44685c7e691a02d16",
     "204-dash": null,
-    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751523607~acl=/stream/204/file/*~id=allUsers~hmac=bbcdb5b750c688235268231e9ff2fdca6b3f189e92fc75aeba3b9c839aae3e73",
+    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751524206~acl=/stream/204/file/*~id=allUsers~hmac=c058c13f4f0ecaa9fefd9d10ee3429ac06ba762938ac4ba6d4f6fdbdf1f11ec9",
     "18105-dash": null,
-    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751523607~acl=/stream/18105/file/*~id=allUsers~hmac=3b1d33211052920cc6a88854e175f5bbe12067a2dbd18a7626a03ca3cfba946a",
-    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751523607~acl=/stream/206/file/*~id=allUsers~hmac=85ea95ae3639139fa31d0770d4b025c853d2a788b487dd913bea08defc42a29a",
-    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751523607~acl=/stream/206/file/*~id=allUsers~hmac=85ea95ae3639139fa31d0770d4b025c853d2a788b487dd913bea08defc42a29a",
+    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751524206~acl=/stream/18105/file/*~id=allUsers~hmac=cfe8ba89d25e6514003f56cd58e2905ee60d381a82c4788f937b8fbed8e276be",
     "all-sections": "17139-17140-17884-18189-18249-18250-18252-18253-19030-6317",
     "all-vidiolivetv": [
       {
@@ -496,10 +496,10 @@
       "start_time": "2025-07-03T15:00:00.000Z"
     },
     "18250": {
-      "title": "Hsu Ya Ching/Sung Yu-Hsuan (TPE) vs Yan Fei Chen/Liang Ching Sun (TPE) - Women's Doubles Round of 32 | Yonex Canada Open 2025",
+      "title": "Yonex Canada Open 2025 - Round of 16 (Court 2)",
       "web_url": "18250",
-      "cover_url": "https://thumbor.prod.vidiocdn.com/gw0wKEOcR-aqHuyXi19ma4RFLxc=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18250/yonex-canada-open-2025-round-of-32-court-2-ed4468.jpg",
-      "start_time": "2025-07-02T14:00:00.000Z"
+      "cover_url": "https://thumbor.prod.vidiocdn.com/XnAOO_3z2sHANPEg218kUmx7hpI=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18250/yonex-canada-open-2025-round-of-16-court-2-9badc2.jpg",
+      "start_time": "2025-07-03T15:00:00.000Z"
     },
     "18252": {
       "title": "Yonex Canada Open 2025 - Round of 16 (Court 3)",
@@ -635,11 +635,11 @@
       "cover_url": "https://thumbor.prod.vidiocdn.com/X-RqLAcQNAoAqhhYdA6L240KI50=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17939/serie-a-4cc90b.jpg",
       "start_time": "2024-10-20T12:45:00.000Z"
     },
-    "18250": {
-      "title": "Hsu Ya Ching/Sung Yu-Hsuan (TPE) vs Yan Fei Chen/Liang Ching Sun (TPE) - Women's Doubles Round of 32 | Yonex Canada Open 2025",
-      "web_url": "18250",
-      "cover_url": "https://thumbor.prod.vidiocdn.com/gw0wKEOcR-aqHuyXi19ma4RFLxc=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18250/yonex-canada-open-2025-round-of-32-court-2-ed4468.jpg",
-      "start_time": "2025-07-02T14:00:00.000Z"
+    "19032": {
+      "title": "Sidang Tuntutan Sekjen PDI-P Hasto Kristiyanto | LIVE",
+      "web_url": "19032",
+      "cover_url": "https://thumbor.prod.vidiocdn.com/cBnIIS9UhtDPrTUGme6kfjeT530=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/19032/sidang-tuntutan-sekjen-pdi-p-hasto-kristiyanto-live-f5f9bb.jpg",
+      "start_time": "2025-07-03T03:10:00.000Z"
     }
   }
 }
