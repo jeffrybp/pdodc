@@ -1,5 +1,5 @@
 {
-  "time": "2025-07-03T01:10:10.887Z",
+  "time": "2025-07-03T01:20:11.092Z",
   "headers": {
     "x-api-platform": "web-desktop",
     "content-type": "application/vnd.api+json",
@@ -8,22 +8,22 @@
     "referer": "https://www.vidio.com/",
     "accept-language": "undefined",
     "sec-ch-ua": "\"Not)A;Brand\";v=\"8\", \"Chromium\";v=\"138\", \"HeadlessChrome\";v=\"138\"",
-    "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/rkZ06fmijyhhlWPYgrfhl6ZiUfHv6kAz3Zhak+J4figMov3Nglu8/ESdCX8pablqvTDKQ128wCNkVOLteOafwE=",
+    "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/ja7q5pFLr/LwE+l8U/YvvYA8V+u6/cG5lgEFJQ6lqLX9iPBlsBQivKNI78MHGGsEeaS4dkGYVPX47+Gy6K9FEQ=",
     "sec-ch-ua-mobile": "?0",
-    "luws": "5FD1FD3A-BA5F-7C92-B280-ADBFD8CAE945_",
-    "x-signature": "7382049de87c0ffdc31f994e7f8212f9168eaf1bcb55fefc9e9c600551b0d1a1",
+    "luws": "AC69638D-306E-8F85-EF02-A03C6F166DDB_",
+    "x-signature": "dce4aef0063244aeb249d7a70b3a85c2a83a3d157c2b72cfacd81915dddd1152",
     "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/138.0.7204.23 Safari/537.36",
     "x-secure-level": "2",
-    "x-client": "1751505008.186",
+    "x-client": "1751505608.51",
     "x-user-email": null,
-    "205-dash": null,
-    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751519409~acl=/stream/205/file/*~id=allUsers~hmac=96f24e6607a9d11302ccb448e77dbd326224a29d8e698267e25d968538bbdfba",
+    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751520009~acl=/stream/206/file/*~id=allUsers~hmac=85835306758d46fa5e9a254911cbd7dc58aa9d0237cad5eb52f26c85fb51bc7f",
+    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751520009~acl=/stream/206/file/*~id=allUsers~hmac=85835306758d46fa5e9a254911cbd7dc58aa9d0237cad5eb52f26c85fb51bc7f",
     "204-dash": null,
-    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751519409~acl=/stream/204/file/*~id=allUsers~hmac=da64b7853ae80545ee7dfe8699c1f4c54f1a7b2480c5190ba4ebed27a0205788",
+    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751520009~acl=/stream/204/file/*~id=allUsers~hmac=b30f13a644747b419f7c162c7a5aa7ec8a7da0665cce7b142ca548b42bf4e066",
     "18105-dash": null,
-    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751519409~acl=/stream/18105/file/*~id=allUsers~hmac=0fd2006cf7ba06372742d6382d8a2b24e6684808a156f8dc26f6ee71fae8cea2",
-    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751519409~acl=/stream/206/file/*~id=allUsers~hmac=0cb33f3363e7929b3bb5f4c34d4a0a35f6301111ba4efb854d0358998700fefa",
-    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751519409~acl=/stream/206/file/*~id=allUsers~hmac=0cb33f3363e7929b3bb5f4c34d4a0a35f6301111ba4efb854d0358998700fefa",
+    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751520009~acl=/stream/18105/file/*~id=allUsers~hmac=18d6cc5e76655fb5a94483a85190e477ecda3d3c12a987ebed44cb1386788445",
+    "205-dash": null,
+    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751520009~acl=/stream/205/file/*~id=allUsers~hmac=645cd926c0c4f382cff47f300a2294d9dc26f5ad12d266e28955733846579545",
     "all-sections": "17139-17140-17884-18189-18249-18250-18252-18253-19030-6317",
     "all-vidiolivetv": [
       {
@@ -508,10 +508,10 @@
       "start_time": "2025-07-02T14:10:00.000Z"
     },
     "18253": {
-      "title": "Benyapa Aimsaard/Nuntakam Aimsaard (THA) vs Chen Su Yu/Yi En Hsieh (TPE) - Women's Doubles Round of 32 | Yonex Canada Open 2025",
+      "title": "Yonex Canada Open 2025 - Round of 16 (Court 4)",
       "web_url": "18253",
-      "cover_url": "https://thumbor.prod.vidiocdn.com/bTCaolxQqLBotJskB9hXyyV8DhM=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18253/yonex-canada-open-2025-round-of-32-court-4-ab7209.jpg",
-      "start_time": "2025-07-02T14:00:00.000Z"
+      "cover_url": "https://thumbor.prod.vidiocdn.com/o9r80zSDrwT8j72ja6cLc6vMoS8=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18253/yonex-canada-open-2025-round-of-32-court-4-6ac05a.jpg",
+      "start_time": "2025-07-03T15:00:00.000Z"
     },
     "19030": {
       "title": "Press Conference Piala Presiden 2025",
@@ -652,12 +652,6 @@
       "web_url": "18252",
       "cover_url": "https://thumbor.prod.vidiocdn.com/pFRY7vY8T1WY377q-FHfGeAeZEQ=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18252/yonex-canada-open-2025-round-of-32-court-3-eb833f.jpg",
       "start_time": "2025-07-02T14:10:00.000Z"
-    },
-    "18253": {
-      "title": "Benyapa Aimsaard/Nuntakam Aimsaard (THA) vs Chen Su Yu/Yi En Hsieh (TPE) - Women's Doubles Round of 32 | Yonex Canada Open 2025",
-      "web_url": "18253",
-      "cover_url": "https://thumbor.prod.vidiocdn.com/bTCaolxQqLBotJskB9hXyyV8DhM=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18253/yonex-canada-open-2025-round-of-32-court-4-ab7209.jpg",
-      "start_time": "2025-07-02T14:00:00.000Z"
     }
   }
 }
