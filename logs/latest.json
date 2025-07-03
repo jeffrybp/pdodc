@@ -1,5 +1,5 @@
 {
-  "time": "2025-07-03T07:00:22.722Z",
+  "time": "2025-07-03T07:10:25.241Z",
   "headers": {
     "x-api-platform": "web-desktop",
     "content-type": "application/vnd.api+json",
@@ -8,22 +8,22 @@
     "referer": "https://www.vidio.com/",
     "accept-language": "undefined",
     "sec-ch-ua": "\"Not)A;Brand\";v=\"8\", \"Chromium\";v=\"138\", \"HeadlessChrome\";v=\"138\"",
-    "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/sWNrxIARAI4JhmAqs9w5Q++nRijysCqFzQVoAengLsonhzS0Zjvn9cJSgqI40Vsop5DLYrLqWYh2CpcJjAYqr0=",
+    "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/kAxB97CvQKkYNFpH51f56IOnQJTIPFBgGiiIgwDDwC5odfu/elWvM/V4lGCnS/ZmEsIF3G6yXTPnN54V9bfdlM=",
     "sec-ch-ua-mobile": "?0",
-    "luws": "CF0CACA3-7D36-C1C9-8874-D2363E64805B_",
-    "x-signature": "c3b6a30614e95befbc955c5fdc879f9aa96c75efa3d9deeb5f2b8e9a844121cb",
+    "luws": "E38BA4F1-0885-8D58-F72C-CD2E84587015_",
+    "x-signature": "11513330674c0149fe05a9355669d0f3c9a486076477a533dbe597b7881488ba",
     "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/138.0.7204.23 Safari/537.36",
     "x-secure-level": "2",
-    "x-client": "1751526018.067",
+    "x-client": "1751526621.756",
     "x-user-email": null,
     "204-dash": null,
-    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751540420~acl=/stream/204/file/*~id=allUsers~hmac=3eafb3eecc32df9ce393054a423f6f86421bb1c00650a3abd7e7c153a46625f1",
+    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751541023~acl=/stream/204/file/*~id=allUsers~hmac=e8c5efc8eb0ee6d571950e2094edf929643de83876bdf303dd44084e06cd4480",
     "205-dash": null,
-    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751540420~acl=/stream/205/file/*~id=allUsers~hmac=8f83ce35cff8eecea6fa739c5d9f5152970a9aed9c9a2a359be7303fa73f28cd",
-    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751540420~acl=/stream/206/file/*~id=allUsers~hmac=879d7deddb611d659b5293d167950313dc6313bb8eef975f0b28122e5544524d",
-    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751540420~acl=/stream/206/file/*~id=allUsers~hmac=879d7deddb611d659b5293d167950313dc6313bb8eef975f0b28122e5544524d",
+    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751541023~acl=/stream/205/file/*~id=allUsers~hmac=74a7026535c8bdb912e942137e8a5b93c9fbcde6f793abda9b012ca780cfa844",
     "18105-dash": null,
-    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751540420~acl=/stream/18105/file/*~id=allUsers~hmac=4de540a9cd9df41eead3facf25081181e8fa7d08de0730400262392653e25f6f",
+    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751541023~acl=/stream/18105/file/*~id=allUsers~hmac=7fb5e29f2386adf94781f99ace1278e122190baef9a5d166f4ba25ba372b41dd",
+    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751541023~acl=/stream/206/file/*~id=allUsers~hmac=21c354df37251292dedf1fe0ca48f3a78f8ac7b83d2bafcfae9eb45a5928fb30",
+    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751541023~acl=/stream/206/file/*~id=allUsers~hmac=21c354df37251292dedf1fe0ca48f3a78f8ac7b83d2bafcfae9eb45a5928fb30",
     "all-sections": "16890-17139-17140-17884-18189-18249-18250-18252-18253-18994-19030-19035-6317",
     "all-vidiolivetv": [
       {
@@ -668,120 +668,6 @@
       "web_url": "6317",
       "cover_url": "https://thumbor.prod.vidiocdn.com/zvHuEst1LKlx8J6fHdd0kDREVCE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4398427/7afbba.jpg",
       "start_time": "2025-07-05T15:00:00.000Z"
-    },
-    "4398466": {
-      "title": "Jonathan Bing Tsan Lai/Nyl Yakura (CAN) vs William Kryger Boe/Christian Faust Kjaer (DEN) - Men's Doubles Round of 16 | Yonex Canada Open 2025",
-      "web_url": "18252",
-      "cover_url": "https://thumbor.prod.vidiocdn.com/1bSm5VK3b4qW0PcZI6tFTYye0ig=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18252/yonex-canada-open-2025-round-of-16-court-3-b01720.jpg",
-      "start_time": "2025-07-03T15:50:00.000Z"
-    },
-    "4398467": {
-      "title": "Chang Ko-Chi/Lin Jhih Yun (TPE) vs Ruttanapak Oupthong/Jhenicha Sudjaipraparat (THA) - Mixed Doubles Round of 16 | Yonex Canada Open 2025",
-      "web_url": "18252",
-      "cover_url": "https://thumbor.prod.vidiocdn.com/1bSm5VK3b4qW0PcZI6tFTYye0ig=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18252/yonex-canada-open-2025-round-of-16-court-3-b01720.jpg",
-      "start_time": "2025-07-03T15:00:00.000Z"
-    },
-    "4398521": {
-      "title": "Chen Zhi Yi/Francesca Corbett (USA) vs Marvin Seidel/Thuc Phuong Nguyen (GER) - Mixed Doubles Round of 16 | Yonex Canada Open 2025",
-      "web_url": "18252",
-      "cover_url": "https://thumbor.prod.vidiocdn.com/1bSm5VK3b4qW0PcZI6tFTYye0ig=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18252/yonex-canada-open-2025-round-of-16-court-3-b01720.jpg",
-      "start_time": "2025-07-03T16:40:00.000Z"
-    },
-    "4398522": {
-      "title": "Margot Lambert/Camille Pognante (FRA) vs Kaho Osawa/Mai Tanabe (JPN) - Women's Doubles Round of 16 | Yonex Canada Open 2025",
-      "web_url": "18252",
-      "cover_url": "https://thumbor.prod.vidiocdn.com/1bSm5VK3b4qW0PcZI6tFTYye0ig=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18252/yonex-canada-open-2025-round-of-16-court-3-b01720.jpg",
-      "start_time": "2025-07-03T17:30:00.000Z"
-    },
-    "4398523": {
-      "title": "Clara Azurmendi (ESP) vs Wong Ling Ching (MAS) - Women's Singles Round of 16 | Yonex Canada Open 2025",
-      "web_url": "18252",
-      "cover_url": "https://thumbor.prod.vidiocdn.com/1bSm5VK3b4qW0PcZI6tFTYye0ig=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18252/yonex-canada-open-2025-round-of-16-court-3-b01720.jpg",
-      "start_time": "2025-07-03T18:20:00.000Z"
-    },
-    "4398524": {
-      "title": "Nozomi Okuhara (JPN) vs Kaloyana Nalbantova (BGR) - Women's Singles Round of 16 | Yonex Canada Open 2025",
-      "web_url": "18252",
-      "cover_url": "https://thumbor.prod.vidiocdn.com/1bSm5VK3b4qW0PcZI6tFTYye0ig=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18252/yonex-canada-open-2025-round-of-16-court-3-b01720.jpg",
-      "start_time": "2025-07-03T21:30:00.000Z"
-    },
-    "4398525": {
-      "title": "Lauren Lam/Allison Lee (USA) vs Polina Buhrova/Yevheniia Kantemyr (UKR) - Women's Doubles Round of 16 | Yonex Canada Open 2025",
-      "web_url": "18252",
-      "cover_url": "https://thumbor.prod.vidiocdn.com/1bSm5VK3b4qW0PcZI6tFTYye0ig=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18252/yonex-canada-open-2025-round-of-16-court-3-b01720.jpg",
-      "start_time": "2025-07-03T22:20:00.000Z"
-    },
-    "4398526": {
-      "title": "Fang-Chih Lee/Fang-Jen Lee (TPE) vs Rory Easton/Alex Green (ENG) - Men's Doubles Round of 16 | Yonex Canada Open 2025",
-      "web_url": "18252",
-      "cover_url": "https://thumbor.prod.vidiocdn.com/1bSm5VK3b4qW0PcZI6tFTYye0ig=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18252/yonex-canada-open-2025-round-of-16-court-3-b01720.jpg",
-      "start_time": "2025-07-03T23:10:00.000Z"
-    },
-    "4398528": {
-      "title": "Hsu Yin-Hui/Lin Jhih Yun (TPE) vs Gronya Somerville/Angela Yu (AUS) - Women's Doubles Round of 16 | Yonex Canada Open 2025",
-      "web_url": "18252",
-      "cover_url": "https://thumbor.prod.vidiocdn.com/1bSm5VK3b4qW0PcZI6tFTYye0ig=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18252/yonex-canada-open-2025-round-of-16-court-3-b01720.jpg",
-      "start_time": "2025-07-04T00:00:00.000Z"
-    },
-    "4398529": {
-      "title": "Hu Ling Fang/Jheng Yu Chieh (TPE) vs Hung Yu-En/Lin Yen Yu (TPE) - Women's Doubles Round of 16 | Yonex Canada Open 2025",
-      "web_url": "18252",
-      "cover_url": "https://thumbor.prod.vidiocdn.com/1bSm5VK3b4qW0PcZI6tFTYye0ig=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18252/yonex-canada-open-2025-round-of-16-court-3-b01720.jpg",
-      "start_time": "2025-07-04T00:50:00.000Z"
-    },
-    "4398532": {
-      "title": "Chen Cheng Kuan/Hsu Yin-Hui (TPE) vs Lin Bing-Wei/ Lee Chih Chen (TPE) - Mixed Doubles Round of 16 | Yonex Canada Open 2025",
-      "web_url": "18253",
-      "cover_url": "https://thumbor.prod.vidiocdn.com/o9r80zSDrwT8j72ja6cLc6vMoS8=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18253/yonex-canada-open-2025-round-of-32-court-4-6ac05a.jpg",
-      "start_time": "2025-07-03T15:00:00.000Z"
-    },
-    "4398533": {
-      "title": "Chen Su Yu (TPE) vs Nguyen Thuy Linh (VIE) - Women's Singles Round of 16 | Yonex Canada Open 2025",
-      "web_url": "18253",
-      "cover_url": "https://thumbor.prod.vidiocdn.com/o9r80zSDrwT8j72ja6cLc6vMoS8=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18253/yonex-canada-open-2025-round-of-32-court-4-6ac05a.jpg",
-      "start_time": "2025-07-03T16:40:00.000Z"
-    },
-    "4398534": {
-      "title": "Tori Aizawa/Daisuke Sano (JPN) vs Wei Chun Wei/Po Chih Yang (TPE) - Men's Doubles Round of 16 | Yonex Canada Open 2025",
-      "web_url": "18253",
-      "cover_url": "https://thumbor.prod.vidiocdn.com/o9r80zSDrwT8j72ja6cLc6vMoS8=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18253/yonex-canada-open-2025-round-of-32-court-4-6ac05a.jpg",
-      "start_time": "2025-07-03T15:50:00.000Z"
-    },
-    "4398535": {
-      "title": "Ruben Garcia/Lucia Rodriguez (ESP) vs Kristoffer Kolding/Mette Werge (DEN) - Mixed Doubles Round of 16 | Yonex Canada Open 2025",
-      "web_url": "18253",
-      "cover_url": "https://thumbor.prod.vidiocdn.com/o9r80zSDrwT8j72ja6cLc6vMoS8=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18253/yonex-canada-open-2025-round-of-32-court-4-6ac05a.jpg",
-      "start_time": "2025-07-03T17:30:00.000Z"
-    },
-    "4398536": {
-      "title": "Manami Suizu (JPN) vs Wen Yu Zhang (CAN) - Women's Singles Round of 16 | Yonex Canada Open 2025",
-      "web_url": "18253",
-      "cover_url": "https://thumbor.prod.vidiocdn.com/o9r80zSDrwT8j72ja6cLc6vMoS8=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18253/yonex-canada-open-2025-round-of-32-court-4-6ac05a.jpg",
-      "start_time": "2025-07-03T18:20:00.000Z"
-    },
-    "4398537": {
-      "title": "S.Sankar Muthusamy Subramanian (IND) vs Huang Yu Kai (TPE) - Men's Singles Round of 16 | Yonex Canada Open 2025",
-      "web_url": "18253",
-      "cover_url": "https://thumbor.prod.vidiocdn.com/o9r80zSDrwT8j72ja6cLc6vMoS8=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18253/yonex-canada-open-2025-round-of-32-court-4-6ac05a.jpg",
-      "start_time": "2025-07-03T21:30:00.000Z"
-    },
-    "4398538": {
-      "title": "Benyapa Aimsaard/Nuntakarn Aimsaard (THA) vs Francesca Corbett/Jennie Gai (USA) - Women's Doubles Round of 16 | Yonex Canada Open 2025",
-      "web_url": "18253",
-      "cover_url": "https://thumbor.prod.vidiocdn.com/o9r80zSDrwT8j72ja6cLc6vMoS8=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18253/yonex-canada-open-2025-round-of-32-court-4-6ac05a.jpg",
-      "start_time": "2025-07-03T22:20:00.000Z"
-    },
-    "4398539": {
-      "title": "Arnaud Merkle (FRA) vs Victor Lai (CAN) - Men's Singles Round of 16 | Yonex Canada Open 2025",
-      "web_url": "18253",
-      "cover_url": "https://thumbor.prod.vidiocdn.com/o9r80zSDrwT8j72ja6cLc6vMoS8=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18253/yonex-canada-open-2025-round-of-32-court-4-6ac05a.jpg",
-      "start_time": "2025-07-03T23:10:00.000Z"
-    },
-    "4398540": {
-      "title": "Chiang Chien-Wei/Wu Hsuan-Yi (TPE) vs Mael Cattoen/Lucas Renoir (FRA) - Men's Doubles Round of 16 | Yonex Canada Open 2025",
-      "web_url": "18253",
-      "cover_url": "https://thumbor.prod.vidiocdn.com/o9r80zSDrwT8j72ja6cLc6vMoS8=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18253/yonex-canada-open-2025-round-of-32-court-4-6ac05a.jpg",
-      "start_time": "2025-07-04T00:00:00.000Z"
     },
     "4398542": {
       "title": "Persib Bandung vs Port FC - Piala Presiden",
