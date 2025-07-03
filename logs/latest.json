@@ -1,5 +1,5 @@
 {
-  "time": "2025-07-03T12:20:08.869Z",
+  "time": "2025-07-03T12:30:10.045Z",
   "headers": {
     "x-api-platform": "web-desktop",
     "content-type": "application/vnd.api+json",
@@ -8,22 +8,22 @@
     "referer": "https://www.vidio.com/",
     "accept-language": "undefined",
     "sec-ch-ua": "\"Not)A;Brand\";v=\"8\", \"Chromium\";v=\"138\", \"HeadlessChrome\";v=\"138\"",
-    "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/uZ2QGMRvLjV+pNT8py95IytZys+C3ZFVv1CWLveGBw8nZN0pOOImRQOwodPz46puqkOkdm5VREBpMYEr7FNtUY=",
+    "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/vf9m0bEMNlVJBm6FL44VheKvxr5ylV4pG78sKJsgC2lAcOH9kJrDj1TmTYMwBnPRLgzS3M8ZcXuuyDi+9vfygs=",
     "sec-ch-ua-mobile": "?0",
-    "luws": "60C3ECF9-7F75-E40A-50DE-7059A0239674_",
-    "x-signature": "36ae27dab9d3f2b161f2e45f378589e8da0dc58b1f6d93f307ba6ba619e0c12f",
+    "luws": "A64FAF09-B313-9622-DBA4-20889F7E80D9_",
+    "x-signature": "ab66f352d46cd4b64154d021ab0b137edc14ea881cbd30d9ba5cbe806d3bcf0d",
     "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/138.0.7204.23 Safari/537.36",
     "x-secure-level": "2",
-    "x-client": "1751545206.482",
+    "x-client": "1751545806.364",
     "x-user-email": null,
-    "18105-dash": null,
-    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751559607~acl=/stream/18105/file/*~id=allUsers~hmac=44c98bc852d9ccef2b071925ce6569cb8fedee100e45cf2c046d8f38ac68237e",
+    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751560207~acl=/stream/206/file/*~id=allUsers~hmac=22858d3930f07d311aba5102d112ce6764dcb5102d661c2f6c188032c054bd01",
+    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751560207~acl=/stream/206/file/*~id=allUsers~hmac=22858d3930f07d311aba5102d112ce6764dcb5102d661c2f6c188032c054bd01",
     "205-dash": null,
-    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751559607~acl=/stream/205/file/*~id=allUsers~hmac=82efaad8ca18ebd8e01e247703ef62e1b80182219d5506ba6f22664b5b8f731d",
+    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751560207~acl=/stream/205/file/*~id=allUsers~hmac=55268739c3497949ef5fa4ff0fdf73b9346db0412b33205fe80db95c51d89522",
     "204-dash": null,
-    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751559607~acl=/stream/204/file/*~id=allUsers~hmac=0b59b550e5f3a61d165d712e9a260fd4077d87aad6797ebf198cfaee268dfbaa",
-    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751559607~acl=/stream/206/file/*~id=allUsers~hmac=e7e2c1ab6c921c4e65311f93f48998537b0e436c0d8268cc73273446efe0c935",
-    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751559607~acl=/stream/206/file/*~id=allUsers~hmac=e7e2c1ab6c921c4e65311f93f48998537b0e436c0d8268cc73273446efe0c935",
+    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751560207~acl=/stream/204/file/*~id=allUsers~hmac=76e32e9ffe8ecaaa3db6bcfecfa259e8e0164ce15ff141f8c40900ccb7eadd4a",
+    "18105-dash": null,
+    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751560207~acl=/stream/18105/file/*~id=allUsers~hmac=f9f30434b768cf5a14d3a96810497cc2ccf567a321a6504f8a6371e5b362e1e3",
     "all-sections": "16890-17139-17140-17884-18189-18249-18250-18252-18253-18994-19030-19035-6317",
     "all-vidiolivetv": [
       {
@@ -560,12 +560,6 @@
       "web_url": "17884",
       "cover_url": "https://thumbor.prod.vidiocdn.com/L7jgr9niLjLlLCHlUnzo868VTGc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4394288/f5d259.jpg",
       "start_time": "2025-07-04T14:55:00.000Z"
-    },
-    "4396604": {
-      "title": "Bordeaux P2 Premier Padel 2025 - Day 4",
-      "web_url": "6317",
-      "cover_url": "https://thumbor.prod.vidiocdn.com/UR5-UjbuPzpJ6HzY-bcmz9J7hUw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4396604/eac124.jpg",
-      "start_time": "2025-07-03T08:00:00.000Z"
     },
     "4396606": {
       "title": "Bordeaux P2 Premier Padel 2025 - Day 4",
