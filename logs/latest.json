@@ -1,5 +1,5 @@
 {
-  "time": "2025-07-03T20:50:08.017Z",
+  "time": "2025-07-03T21:00:13.586Z",
   "headers": {
     "x-api-platform": "web-desktop",
     "content-type": "application/vnd.api+json",
@@ -8,22 +8,22 @@
     "referer": "https://www.vidio.com/",
     "accept-language": "undefined",
     "sec-ch-ua": "\"Not)A;Brand\";v=\"8\", \"Chromium\";v=\"138\", \"HeadlessChrome\";v=\"138\"",
-    "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/mVDATGf66OIRaM0gItDX/b35FtXvDY3VSgBw67DYtI49IVcQTN/ViX2+9PWZPunARkQ5C0QH1zIoTOc9IPAcIc=",
+    "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/sjf28oF/Lry+h8SoJPQW4kNruF3avNROAuzA4sRxwxs4v+r0fXcqOL5N/fURFGfAqqdV+xoci5yREEf7VVBcLk=",
     "sec-ch-ua-mobile": "?0",
-    "luws": "297B03E3-A932-3058-A113-1207EFF9F3C8_",
-    "x-signature": "ae9226073c7a47e6a178eb68a6cce57e13cb3336de744128f5a1b32da5155b54",
+    "luws": "DF26FF23-298E-4C17-96AF-AC56FA0D24CF_",
+    "x-signature": "a3e3468b6a726480a5869b83ed81a9a58baa11dd9443cdefffc949b7a818ba68",
     "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/138.0.7204.23 Safari/537.36",
     "x-secure-level": "2",
-    "x-client": "1751575805.713",
+    "x-client": "1751576411.257",
     "x-user-email": null,
-    "18105-dash": null,
-    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751590206~acl=/stream/18105/file/*~id=allUsers~hmac=48795b413c81564de45faf91c86720477546128b986c64456de22bed35b31580",
-    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751590206~acl=/stream/206/file/*~id=allUsers~hmac=39b8fed68a85a73a018aa3c922d8645973aa77e7318ef1dfc498bc1fe4560bf2",
-    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751590206~acl=/stream/206/file/*~id=allUsers~hmac=39b8fed68a85a73a018aa3c922d8645973aa77e7318ef1dfc498bc1fe4560bf2",
     "205-dash": null,
-    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751590206~acl=/stream/205/file/*~id=allUsers~hmac=11e37c9446168c7966c7620c1e8c72a0a543d52f23c04e1aad86995c3275e326",
+    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751590812~acl=/stream/205/file/*~id=allUsers~hmac=36617ec1d4fddbb385f549f17ac4e60c54dbdfdf8c7970bd7999497158a242da",
     "204-dash": null,
-    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751590206~acl=/stream/204/file/*~id=allUsers~hmac=d39c2c103696a02d1c0cbbed17fc848855f86bfbdef8a39c114153fd0fea3c87",
+    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751590812~acl=/stream/204/file/*~id=allUsers~hmac=a46cf987ec0a488558c415fd4414b5e525b0512483a2cd01bcc3152175926218",
+    "18105-dash": null,
+    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751590812~acl=/stream/18105/file/*~id=allUsers~hmac=3d7e02cd9e4235a4ddd2d5cab90b1c46e434df94d4dc4307df61cd0957694cb4",
+    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751590812~acl=/stream/206/file/*~id=allUsers~hmac=551d2fb66495a2535e7c59c932baec4da13c6b2a0aedfe9e335cde4df217c88c",
+    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751590812~acl=/stream/206/file/*~id=allUsers~hmac=551d2fb66495a2535e7c59c932baec4da13c6b2a0aedfe9e335cde4df217c88c",
     "all-sections": "16890-17139-17140-17884-18189-18249-18250-18252-18253-18762-18994-19030-19035-6317",
     "all-vidiolivetv": [
       {
@@ -672,7 +672,7 @@
       "start_time": "2025-04-02T13:25:00.000Z"
     },
     "17938": {
-      "title": "Serie A",
+      "title": "Atalanta vs Parma - Serie A",
       "web_url": "17938",
       "cover_url": "https://thumbor.prod.vidiocdn.com/tJoOEHTHed9-fRQvnXoew2nr8hY=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17938/serie-a-973769.jpg",
       "start_time": "2024-10-20T10:00:00.000Z"
