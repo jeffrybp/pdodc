@@ -1,5 +1,5 @@
 {
-  "time": "2025-07-03T22:50:13.161Z",
+  "time": "2025-07-03T23:00:14.510Z",
   "headers": {
     "x-api-platform": "web-desktop",
     "content-type": "application/vnd.api+json",
@@ -10,20 +10,20 @@
     "sec-ch-ua": "\"Not)A;Brand\";v=\"8\", \"Chromium\";v=\"138\", \"HeadlessChrome\";v=\"138\"",
     "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/qzJBWknGT1ZAzGrHDXOl1lCKWgUvSbfnEfCzQQFV0S6ie/vghxxlIMyogkDJt88EgI7VOOmascHkjefEnWxqtY=",
     "sec-ch-ua-mobile": "?0",
-    "luws": "87A7A785-A6F2-7D80-1404-6A1AB8860B07_",
-    "x-signature": "c6174664ccc28cd2056d13c7b436ef3c2e72aeff11b90da3c9e0030fc3b813eb",
+    "luws": "3AED0591-1059-F446-8485-521E271CB314_",
+    "x-signature": "ee0431ad874fc9d367dd42cf3d631216e7e755c3a1611ed0b52a0a53f4219a0f",
     "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/138.0.7204.23 Safari/537.36",
     "x-secure-level": "2",
-    "x-client": "1751583010.949",
+    "x-client": "1751583611.677",
     "x-user-email": null,
-    "18105-dash": null,
-    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751597411~acl=/stream/18105/file/*~id=allUsers~hmac=d764960113021834013e5d00b09750d33a60835d4c05d9b58aae3610e6a8729c",
     "204-dash": null,
-    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751597411~acl=/stream/204/file/*~id=allUsers~hmac=42e92b5e1cf971519f216a3d5f4eb1888e9f21b54c41b0d91e38cb8c36d4647f",
+    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751598012~acl=/stream/204/file/*~id=allUsers~hmac=63d9caee9bd38a128584e521beb7ba349d8aa1d55fe67f4aa0b9c1ec5c37f51c",
+    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751598012~acl=/stream/206/file/*~id=allUsers~hmac=95a5d65f1b48bca9fc75c1a5b67aa7eaa84f39260e79d411ae60bc758be29d84",
+    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751598012~acl=/stream/206/file/*~id=allUsers~hmac=95a5d65f1b48bca9fc75c1a5b67aa7eaa84f39260e79d411ae60bc758be29d84",
+    "18105-dash": null,
+    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751598012~acl=/stream/18105/file/*~id=allUsers~hmac=3d68cf93a58763407f1b01371df63533c61c066afddcab57d2bb82634dabd96c",
     "205-dash": null,
-    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751597411~acl=/stream/205/file/*~id=allUsers~hmac=70b0cfd2beff3c520baa438c3d53a9e21e9e1c2f80bd513f7214658830983b9d",
-    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751597411~acl=/stream/206/file/*~id=allUsers~hmac=2f9d6ddd423a834afcf293c4199cb40a08488d45dbf5b45edd755fad7a734a2d",
-    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751597411~acl=/stream/206/file/*~id=allUsers~hmac=2f9d6ddd423a834afcf293c4199cb40a08488d45dbf5b45edd755fad7a734a2d",
+    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751598012~acl=/stream/205/file/*~id=allUsers~hmac=118c133ec0dec8e5b5e9385cf861a5dbb7d412d73a69a0cd3302754b74702654",
     "all-sections": "16890-17139-17140-17884-18189-18249-18250-18252-18253-18762-18994-19030-19035-6317",
     "all-vidiolivetv": [
       {
@@ -496,7 +496,7 @@
       "start_time": "2025-07-03T21:30:00.000Z"
     },
     "18250": {
-      "title": "Abbygael Harris/Lizzie Tolman (ENG) vs Chang Ching Hui/Yang Ching Tun (TPE) - Women's Doubles Round of 16 | Yonex Canada Open 2025",
+      "title": "Kenta Nishimoto (JPN) vs Joakim Oldorff (FIN) - Men's Singles Round of 16 | Yonex Canada Open 2025",
       "web_url": "18250",
       "cover_url": "https://thumbor.prod.vidiocdn.com/XnAOO_3z2sHANPEg218kUmx7hpI=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18250/yonex-canada-open-2025-round-of-16-court-2-9badc2.jpg",
       "start_time": "2025-07-03T21:30:00.000Z"
@@ -518,12 +518,6 @@
       "web_url": "19030",
       "cover_url": "https://thumbor.prod.vidiocdn.com/6gYqMHIHdxo2dImqPD7pXSSyg4M=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/19030/press-conference-piala-presiden-2025-728c5d.jpg",
       "start_time": "2025-07-04T09:00:00.000Z"
-    },
-    "4394281": {
-      "title": "John Deere Classic - Round 1",
-      "web_url": "18189",
-      "cover_url": "https://thumbor.prod.vidiocdn.com/mAuUevDodbw10KkLy_t3wtWZe6o=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4394281/c14ece.jpg",
-      "start_time": "2025-07-03T20:00:00.000Z"
     },
     "4394283": {
       "title": "FIA Formula 3 Championship Great Britain Grand Prix 2025 - Practice",
@@ -672,7 +666,7 @@
       "start_time": "2025-04-02T13:25:00.000Z"
     },
     "17938": {
-      "title": "Atalanta vs Parma - Serie A",
+      "title": "Serie A",
       "web_url": "17938",
       "cover_url": "https://thumbor.prod.vidiocdn.com/tJoOEHTHed9-fRQvnXoew2nr8hY=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17938/serie-a-973769.jpg",
       "start_time": "2024-10-20T10:00:00.000Z"
@@ -690,7 +684,7 @@
       "start_time": "2025-07-03T21:30:00.000Z"
     },
     "18250": {
-      "title": "Abbygael Harris/Lizzie Tolman (ENG) vs Chang Ching Hui/Yang Ching Tun (TPE) - Women's Doubles Round of 16 | Yonex Canada Open 2025",
+      "title": "Kenta Nishimoto (JPN) vs Joakim Oldorff (FIN) - Men's Singles Round of 16 | Yonex Canada Open 2025",
       "web_url": "18250",
       "cover_url": "https://thumbor.prod.vidiocdn.com/XnAOO_3z2sHANPEg218kUmx7hpI=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18250/yonex-canada-open-2025-round-of-16-court-2-9badc2.jpg",
       "start_time": "2025-07-03T21:30:00.000Z"
