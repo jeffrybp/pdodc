@@ -1,5 +1,5 @@
 {
-  "time": "2025-07-03T00:50:11.305Z",
+  "time": "2025-07-03T01:00:12.999Z",
   "headers": {
     "x-api-platform": "web-desktop",
     "content-type": "application/vnd.api+json",
@@ -8,22 +8,22 @@
     "referer": "https://www.vidio.com/",
     "accept-language": "undefined",
     "sec-ch-ua": "\"Not)A;Brand\";v=\"8\", \"Chromium\";v=\"138\", \"HeadlessChrome\";v=\"138\"",
-    "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/oH6rpVLcXI/0H/btrgMRCWmcyu325mT5ZW1vN/kYCdAw9Jb49dAJ4hnkKNlCDagRvCjJzjnSHRTDvPe8Ftoxk8=",
+    "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/vg8yR+R2DnRHeDxFia4nFvBGCCH6M882l4VJJidQ0668fQDgj9ZckzBChtFY/LA0owESJf343uYOsDnLIzAirA=",
     "sec-ch-ua-mobile": "?0",
-    "luws": "0F860F77-FCFA-BA44-AF63-AF51C5ED3A30_",
-    "x-signature": "99d44f763ee1ee89c114601f36ea7d653ee45f565a7a34593ebfcfcee163e8b5",
+    "luws": "D3F55D79-630B-BF02-58E8-E502642AD622_",
+    "x-signature": "4b81c881aab728524d95549121d1475281515325257100fe6eb095f90e083a18",
     "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/138.0.7204.23 Safari/537.36",
     "x-secure-level": "2",
-    "x-client": "1751503808.67",
+    "x-client": "1751504410.145",
     "x-user-email": null,
-    "204-dash": null,
-    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751518209~acl=/stream/204/file/*~id=allUsers~hmac=8f79bb5f86fc5b51392ceb8764b4ca9055fd4a697ee5bf2f3966a74429a1886f",
-    "205-dash": null,
-    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751518209~acl=/stream/205/file/*~id=allUsers~hmac=59d3717155a3f1f9784ca381e2b533718fe41c32b00b91af1161ace3d15ad2fa",
-    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751518209~acl=/stream/206/file/*~id=allUsers~hmac=a95631fafb93c7b267f37df8580442ea52a58a0bc7d56f527bc562eb4b914633",
-    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751518209~acl=/stream/206/file/*~id=allUsers~hmac=a95631fafb93c7b267f37df8580442ea52a58a0bc7d56f527bc562eb4b914633",
+    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751518810~acl=/stream/206/file/*~id=allUsers~hmac=876781249c112033f42759812c44bcb2db0e6b053b591b1dc1f8c70dfc68122e",
+    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751518810~acl=/stream/206/file/*~id=allUsers~hmac=876781249c112033f42759812c44bcb2db0e6b053b591b1dc1f8c70dfc68122e",
     "18105-dash": null,
-    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751518209~acl=/stream/18105/file/*~id=allUsers~hmac=69f71e56ef6d04633a07a8f41918f429a9a96d3fa744270089ec56de7bc69c8d",
+    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751518810~acl=/stream/18105/file/*~id=allUsers~hmac=795a50be90ff3d2af00250fb67c44974365a37d4aa9ff092c960fb5c81a33640",
+    "204-dash": null,
+    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751518810~acl=/stream/204/file/*~id=allUsers~hmac=a46ace8b048ed6cfce737ec2896af4b04f3801c21b8a82532e912ada9e807e60",
+    "205-dash": null,
+    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751518810~acl=/stream/205/file/*~id=allUsers~hmac=8155fe1785a276643afbe5e0e6338923c814e962754cdeb715162ef8dbcaaf4a",
     "all-sections": "17139-17140-17884-18189-18249-18250-18252-18253-19030-6317",
     "all-vidiolivetv": [
       {
@@ -490,7 +490,7 @@
   },
   "sections": {
     "18249": {
-      "title": "Victor Lai (CAN) vs Brian Yang (CAN) - Men's Singles Round of 32 | Yonex Canada Open 2025",
+      "title": "Abbygael Harris/Lizzie Tolman (ENG) vs Eyota Kwan/Johnna Rymes (CAN) - Women's Doubles Round of 32 | Yonex Canada Open 2025",
       "web_url": "18249",
       "cover_url": "https://thumbor.prod.vidiocdn.com/jPYa_8OKzav7Oyyyq_m3alvq5Zg=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18249/yonex-canada-open-2025-round-of-32-court-1-536f15.jpg",
       "start_time": "2025-07-02T14:00:00.000Z"
@@ -502,7 +502,7 @@
       "start_time": "2025-07-02T14:00:00.000Z"
     },
     "18252": {
-      "title": "Natasja P. Anthonisen/Amalie Cecilie Kudsk (DEN) vs Francesca Corbett/Jennie Gai (USA) - Women's Doubles Round of 32 | Yonex Canada Open 2025",
+      "title": "Hsu Ya Ching/Sung Yu-Hsuan (TPE) vs Yan Fei Chen/Liang Ching Sun (TPE) - Women's Doubles Round of 32 | Yonex Canada Open 2025",
       "web_url": "18252",
       "cover_url": "https://thumbor.prod.vidiocdn.com/pFRY7vY8T1WY377q-FHfGeAeZEQ=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18252/yonex-canada-open-2025-round-of-32-court-3-eb833f.jpg",
       "start_time": "2025-07-02T14:10:00.000Z"
@@ -624,7 +624,7 @@
       "start_time": "2025-04-02T13:25:00.000Z"
     },
     "17938": {
-      "title": "Udinese vs Fiorentina - Serie A",
+      "title": "Serie A",
       "web_url": "17938",
       "cover_url": "https://thumbor.prod.vidiocdn.com/tJoOEHTHed9-fRQvnXoew2nr8hY=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17938/serie-a-973769.jpg",
       "start_time": "2024-10-20T10:00:00.000Z"
@@ -636,7 +636,7 @@
       "start_time": "2024-10-20T12:45:00.000Z"
     },
     "18249": {
-      "title": "Victor Lai (CAN) vs Brian Yang (CAN) - Men's Singles Round of 32 | Yonex Canada Open 2025",
+      "title": "Abbygael Harris/Lizzie Tolman (ENG) vs Eyota Kwan/Johnna Rymes (CAN) - Women's Doubles Round of 32 | Yonex Canada Open 2025",
       "web_url": "18249",
       "cover_url": "https://thumbor.prod.vidiocdn.com/jPYa_8OKzav7Oyyyq_m3alvq5Zg=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18249/yonex-canada-open-2025-round-of-32-court-1-536f15.jpg",
       "start_time": "2025-07-02T14:00:00.000Z"
@@ -648,7 +648,7 @@
       "start_time": "2025-07-02T14:00:00.000Z"
     },
     "18252": {
-      "title": "Natasja P. Anthonisen/Amalie Cecilie Kudsk (DEN) vs Francesca Corbett/Jennie Gai (USA) - Women's Doubles Round of 32 | Yonex Canada Open 2025",
+      "title": "Hsu Ya Ching/Sung Yu-Hsuan (TPE) vs Yan Fei Chen/Liang Ching Sun (TPE) - Women's Doubles Round of 32 | Yonex Canada Open 2025",
       "web_url": "18252",
       "cover_url": "https://thumbor.prod.vidiocdn.com/pFRY7vY8T1WY377q-FHfGeAeZEQ=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18252/yonex-canada-open-2025-round-of-32-court-3-eb833f.jpg",
       "start_time": "2025-07-02T14:10:00.000Z"
