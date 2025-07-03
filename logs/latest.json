@@ -1,5 +1,5 @@
 {
-  "time": "2025-07-03T00:40:16.336Z",
+  "time": "2025-07-03T00:50:11.305Z",
   "headers": {
     "x-api-platform": "web-desktop",
     "content-type": "application/vnd.api+json",
@@ -8,22 +8,22 @@
     "referer": "https://www.vidio.com/",
     "accept-language": "undefined",
     "sec-ch-ua": "\"Not)A;Brand\";v=\"8\", \"Chromium\";v=\"138\", \"HeadlessChrome\";v=\"138\"",
-    "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/pU4mWx34ftYeVGoJh8nEX8H2aB6/2CM/rq6DPZ6junAoU893S1ZZCndRHn6entkjZfcUC1JF//6rK+z2S8/9to=",
+    "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/oH6rpVLcXI/0H/btrgMRCWmcyu325mT5ZW1vN/kYCdAw9Jb49dAJ4hnkKNlCDagRvCjJzjnSHRTDvPe8Ftoxk8=",
     "sec-ch-ua-mobile": "?0",
-    "luws": "F8B9D6FE-3C63-A434-CCD4-E4854792BDFC_",
-    "x-signature": "2601f5dcaf8d55fc97b9d05f649d4f12549364645efe07b5a349ff9ce112c47d",
+    "luws": "0F860F77-FCFA-BA44-AF63-AF51C5ED3A30_",
+    "x-signature": "99d44f763ee1ee89c114601f36ea7d653ee45f565a7a34593ebfcfcee163e8b5",
     "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/138.0.7204.23 Safari/537.36",
     "x-secure-level": "2",
-    "x-client": "1751503213.25",
+    "x-client": "1751503808.67",
     "x-user-email": null,
     "204-dash": null,
-    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751517614~acl=/stream/204/file/*~id=allUsers~hmac=905cc97b626d132865812016845ba42a30ef82014e7930b2b680b869f52a6762",
+    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751518209~acl=/stream/204/file/*~id=allUsers~hmac=8f79bb5f86fc5b51392ceb8764b4ca9055fd4a697ee5bf2f3966a74429a1886f",
     "205-dash": null,
-    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751517614~acl=/stream/205/file/*~id=allUsers~hmac=e5bcc800058a963f14c333776d4d3314b47ebd22800f510f51c9b7fd20cf37c6",
-    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751517614~acl=/stream/206/file/*~id=allUsers~hmac=b603d3fb6a3b3b163283a7947f0a5d3ea15d19b3fb12b4926755167ee18a24c7",
-    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751517614~acl=/stream/206/file/*~id=allUsers~hmac=b603d3fb6a3b3b163283a7947f0a5d3ea15d19b3fb12b4926755167ee18a24c7",
+    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751518209~acl=/stream/205/file/*~id=allUsers~hmac=59d3717155a3f1f9784ca381e2b533718fe41c32b00b91af1161ace3d15ad2fa",
+    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751518209~acl=/stream/206/file/*~id=allUsers~hmac=a95631fafb93c7b267f37df8580442ea52a58a0bc7d56f527bc562eb4b914633",
+    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751518209~acl=/stream/206/file/*~id=allUsers~hmac=a95631fafb93c7b267f37df8580442ea52a58a0bc7d56f527bc562eb4b914633",
     "18105-dash": null,
-    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751517614~acl=/stream/18105/file/*~id=allUsers~hmac=974d4a63fe3e98d298db6cf7b62936cc192182c2b6002dbbc53e83912b5e3ac8",
+    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751518209~acl=/stream/18105/file/*~id=allUsers~hmac=69f71e56ef6d04633a07a8f41918f429a9a96d3fa744270089ec56de7bc69c8d",
     "all-sections": "17139-17140-17884-18189-18249-18250-18252-18253-19030-6317",
     "all-vidiolivetv": [
       {
@@ -502,7 +502,7 @@
       "start_time": "2025-07-02T14:00:00.000Z"
     },
     "18252": {
-      "title": "Jaqueline Lima/Samia Lima (BRA) vs Kathrine Vang/Mette Werge (DEN) - Women's Doubles Round of 32 | Yonex Canada Open 2025",
+      "title": "Natasja P. Anthonisen/Amalie Cecilie Kudsk (DEN) vs Francesca Corbett/Jennie Gai (USA) - Women's Doubles Round of 32 | Yonex Canada Open 2025",
       "web_url": "18252",
       "cover_url": "https://thumbor.prod.vidiocdn.com/pFRY7vY8T1WY377q-FHfGeAeZEQ=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18252/yonex-canada-open-2025-round-of-32-court-3-eb833f.jpg",
       "start_time": "2025-07-02T14:10:00.000Z"
@@ -648,7 +648,7 @@
       "start_time": "2025-07-02T14:00:00.000Z"
     },
     "18252": {
-      "title": "Jaqueline Lima/Samia Lima (BRA) vs Kathrine Vang/Mette Werge (DEN) - Women's Doubles Round of 32 | Yonex Canada Open 2025",
+      "title": "Natasja P. Anthonisen/Amalie Cecilie Kudsk (DEN) vs Francesca Corbett/Jennie Gai (USA) - Women's Doubles Round of 32 | Yonex Canada Open 2025",
       "web_url": "18252",
       "cover_url": "https://thumbor.prod.vidiocdn.com/pFRY7vY8T1WY377q-FHfGeAeZEQ=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18252/yonex-canada-open-2025-round-of-32-court-3-eb833f.jpg",
       "start_time": "2025-07-02T14:10:00.000Z"
