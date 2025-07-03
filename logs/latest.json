@@ -1,5 +1,5 @@
 {
-  "time": "2025-07-03T19:20:14.021Z",
+  "time": "2025-07-03T19:30:10.232Z",
   "headers": {
     "x-api-platform": "web-desktop",
     "content-type": "application/vnd.api+json",
@@ -8,22 +8,22 @@
     "referer": "https://www.vidio.com/",
     "accept-language": "undefined",
     "sec-ch-ua": "\"Not)A;Brand\";v=\"8\", \"Chromium\";v=\"138\", \"HeadlessChrome\";v=\"138\"",
-    "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/tj0ARowgsji2nPWfy92Y9P1OCjcMq7e8o7siUUgTNngTSKiol4HKK+YXWNO0ovDDK2BFxB3EZyuYRzZdcrb++I=",
+    "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/n8mVRZlOXrHypYxVdXCs6UKMF9TkyChB/G35CPom4ZozwZnCOBRN1y8c8tlMl+yFopc2NYKDzwGGBk3JZh5QAQ=",
     "sec-ch-ua-mobile": "?0",
-    "luws": "1EA2B3E3-A941-330F-0C57-EFEA4459C351_",
-    "x-signature": "d5c344954441da9064ccc63a9341bd1269390a0cfdf9463fb385ed264189a2e4",
+    "luws": "408E85F8-D203-1BE3-EA7C-8029DF760116_",
+    "x-signature": "332bc655a380a6b2fc46106511d3ac17a2c97359ba92d991e0c66e8884fbb4d2",
     "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/138.0.7204.23 Safari/537.36",
     "x-secure-level": "2",
-    "x-client": "1751570411.838",
+    "x-client": "1751571006.501",
     "x-user-email": null,
-    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751584812~acl=/stream/206/file/*~id=allUsers~hmac=c3abac9051af17cf88274df7fb009eb9810bc2a61d053e280c8e3bf52b4cd2a5",
-    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751584812~acl=/stream/206/file/*~id=allUsers~hmac=c3abac9051af17cf88274df7fb009eb9810bc2a61d053e280c8e3bf52b4cd2a5",
-    "205-dash": null,
-    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751584812~acl=/stream/205/file/*~id=allUsers~hmac=9a4083f0e56b30df4d49fe8ce33798613d250d4d5c1fff6f56e1368d7d4dbb71",
-    "18105-dash": null,
-    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751584812~acl=/stream/18105/file/*~id=allUsers~hmac=6c210a298f4c1936b13669a1b4bc27b520ce32bf49fe9fd5f517db4c6bc78542",
     "204-dash": null,
-    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751584812~acl=/stream/204/file/*~id=allUsers~hmac=adae77b3bf51660f97298cc0d52d0c1c06cffe404c97f069b0166dca674517e6",
+    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751585407~acl=/stream/204/file/*~id=allUsers~hmac=6d0672664320de78f83393b3111d803e14cfdf3d73e6161cb868069edf6800e4",
+    "205-dash": null,
+    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751585407~acl=/stream/205/file/*~id=allUsers~hmac=21eb6161aa516ab1e7da53bdc06d9faa780d473f76f884e7eeca0cd9e8f4d675",
+    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751585407~acl=/stream/206/file/*~id=allUsers~hmac=7e84607dff7cc07bd092365beb333c1fc0ed2f1fde17f2e2c762332f699abd04",
+    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751585407~acl=/stream/206/file/*~id=allUsers~hmac=7e84607dff7cc07bd092365beb333c1fc0ed2f1fde17f2e2c762332f699abd04",
+    "18105-dash": null,
+    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751585407~acl=/stream/18105/file/*~id=allUsers~hmac=2402a85df6261c087c29fccac846fd33964f9515c86f14a94d190ece8f772b7a",
     "all-sections": "16890-17139-17140-17884-18189-18249-18250-18252-18253-18762-18994-19030-19035-6317",
     "all-vidiolivetv": [
       {
@@ -496,10 +496,10 @@
       "start_time": "2025-07-03T21:30:00.000Z"
     },
     "18250": {
-      "title": "Yonex Canada Open 2025 - Round of 16 (Court 2)",
+      "title": "Christopher Grimley/Matthew Grimley (SCO) vs Julien Maio/William Villeger (FRA) - Men's Doubles Round of 16 | Yonex Canada Open 2025",
       "web_url": "18250",
       "cover_url": "https://thumbor.prod.vidiocdn.com/XnAOO_3z2sHANPEg218kUmx7hpI=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18250/yonex-canada-open-2025-round-of-16-court-2-9badc2.jpg",
-      "start_time": "2025-07-03T15:00:00.000Z"
+      "start_time": "2025-07-03T21:30:00.000Z"
     },
     "18252": {
       "title": "Nozomi Okuhara (JPN) vs Kaloyana Nalbantova (BGR) - Women's Singles Round of 16 | Yonex Canada Open 2025",
@@ -508,10 +508,10 @@
       "start_time": "2025-07-03T21:30:00.000Z"
     },
     "18253": {
-      "title": "Yonex Canada Open 2025 - Round of 16 (Court 4)",
+      "title": "S.Sankar Muthusamy Subramanian (IND) vs Huang Yu Kai (TPE) - Men's Singles Round of 16 | Yonex Canada Open 2025",
       "web_url": "18253",
       "cover_url": "https://thumbor.prod.vidiocdn.com/o9r80zSDrwT8j72ja6cLc6vMoS8=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18253/yonex-canada-open-2025-round-of-32-court-4-6ac05a.jpg",
-      "start_time": "2025-07-03T15:00:00.000Z"
+      "start_time": "2025-07-03T21:30:00.000Z"
     },
     "19030": {
       "title": "Press Conference Piala Presiden 2025",
@@ -560,12 +560,6 @@
       "web_url": "17884",
       "cover_url": "https://thumbor.prod.vidiocdn.com/L7jgr9niLjLlLCHlUnzo868VTGc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4394288/f5d259.jpg",
       "start_time": "2025-07-04T14:55:00.000Z"
-    },
-    "4396606": {
-      "title": "Bordeaux P2 Premier Padel 2025 - Day 4",
-      "web_url": "6317",
-      "cover_url": "https://thumbor.prod.vidiocdn.com/4ynEz6MzEMBIKPNexrs4zW7QAMo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4396606/ec55d9.jpg",
-      "start_time": "2025-07-03T15:00:00.000Z"
     },
     "4396607": {
       "title": "Bordeaux P2 Premier Padel 2025 - Quarter Final",
@@ -694,18 +688,6 @@
       "web_url": "17939",
       "cover_url": "https://thumbor.prod.vidiocdn.com/X-RqLAcQNAoAqhhYdA6L240KI50=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17939/serie-a-4cc90b.jpg",
       "start_time": "2024-10-20T12:45:00.000Z"
-    },
-    "18250": {
-      "title": "Yonex Canada Open 2025 - Round of 16 (Court 2)",
-      "web_url": "18250",
-      "cover_url": "https://thumbor.prod.vidiocdn.com/XnAOO_3z2sHANPEg218kUmx7hpI=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18250/yonex-canada-open-2025-round-of-16-court-2-9badc2.jpg",
-      "start_time": "2025-07-03T15:00:00.000Z"
-    },
-    "18253": {
-      "title": "Yonex Canada Open 2025 - Round of 16 (Court 4)",
-      "web_url": "18253",
-      "cover_url": "https://thumbor.prod.vidiocdn.com/o9r80zSDrwT8j72ja6cLc6vMoS8=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18253/yonex-canada-open-2025-round-of-32-court-4-6ac05a.jpg",
-      "start_time": "2025-07-03T15:00:00.000Z"
     }
   }
 }
