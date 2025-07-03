@@ -1,5 +1,5 @@
 {
-  "time": "2025-07-03T19:00:08.644Z",
+  "time": "2025-07-03T19:10:16.507Z",
   "headers": {
     "x-api-platform": "web-desktop",
     "content-type": "application/vnd.api+json",
@@ -8,22 +8,22 @@
     "referer": "https://www.vidio.com/",
     "accept-language": "undefined",
     "sec-ch-ua": "\"Not)A;Brand\";v=\"8\", \"Chromium\";v=\"138\", \"HeadlessChrome\";v=\"138\"",
-    "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/soZ7edr4RsfP+p/Lcy1V7LcgPNCyFB/7QfPq85Te4xkVEncsKOGTOJ+i4KRdj4fN4Ut4ljteG5gTqd5DqiC9EA=",
+    "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/tj0ARowgsji2nPWfy92Y9P1OCjcMq7e8o7siUUgTNngTSKiol4HKK+YXWNO0ovDDK2BFxB3EZyuYRzZdcrb++I=",
     "sec-ch-ua-mobile": "?0",
-    "luws": "99EADBE2-F047-2724-A69B-AA8FFF177F79_",
-    "x-signature": "19f0965bc27d9f2371edd188b46611518424a4605138007a56b0e7e12d3edf66",
+    "luws": "B8D29F75-A94E-6D11-7696-9C103B2FD7E8_",
+    "x-signature": "9cf93e30129ed0f80fab01d2547dc957de0934f70041c46416b34ac8f591abea",
     "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/138.0.7204.23 Safari/537.36",
     "x-secure-level": "2",
-    "x-client": "1751569206.416",
+    "x-client": "1751569814.113",
     "x-user-email": null,
-    "18105-dash": null,
-    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751583607~acl=/stream/18105/file/*~id=allUsers~hmac=7830cd426b77a5465e8c5d26da22b2bd1d13d943d533bd706b5b0fb9ab068b23",
     "205-dash": null,
-    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751583607~acl=/stream/205/file/*~id=allUsers~hmac=651b56ca8c92b548b5cdad6d997da83323684fb82dab6b2014db82107725e86a",
+    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751584215~acl=/stream/205/file/*~id=allUsers~hmac=cb7f1d8a0fb42f75a673369cda854a115465e2bdac41150b008d26fe4fdf5919",
+    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751584215~acl=/stream/206/file/*~id=allUsers~hmac=cedf49326361a5e03c90f997e81ee467c93730e545870624f9978aef79e20f6e",
+    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751584215~acl=/stream/206/file/*~id=allUsers~hmac=cedf49326361a5e03c90f997e81ee467c93730e545870624f9978aef79e20f6e",
+    "18105-dash": null,
+    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751584215~acl=/stream/18105/file/*~id=allUsers~hmac=17e673378bebb0faccd0b43a54a8fdbbf70da6934431affd4aa672bf35d1ee72",
     "204-dash": null,
-    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751583607~acl=/stream/204/file/*~id=allUsers~hmac=4feb363c7dc54672066942d57882dbae5598b45fbf0b428347dbbaae21e4c246",
-    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751583607~acl=/stream/206/file/*~id=allUsers~hmac=5dcfa827dc02f81412f8038bd924c118cbb2f660daeb6385d812642393f424d9",
-    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751583607~acl=/stream/206/file/*~id=allUsers~hmac=5dcfa827dc02f81412f8038bd924c118cbb2f660daeb6385d812642393f424d9",
+    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751584215~acl=/stream/204/file/*~id=allUsers~hmac=52b0c687ac26aa8b64c17c43ec11e7b09ba34d1cd8a5f8b88b7b4d64f21ab26f",
     "all-sections": "16890-17139-17140-17884-18189-18249-18250-18252-18253-18762-18994-19030-19035-6317",
     "all-vidiolivetv": [
       {
@@ -672,7 +672,7 @@
     "4400596": {
       "title": "Diane Parry vs Sonay Kartal - Ladies' Singles Third Round | Wuimbledon 2025",
       "web_url": "17140",
-      "cover_url": "https://thumbor.prod.vidiocdn.com/hFJvgK8aSQDqHuBAfF0ZnD7vlq0=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17140/spotv-2-98d406.jpg",
+      "cover_url": "https://thumbor.prod.vidiocdn.com/OlyTco2iCaZrNUGutFCwvJtp7WA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4400596/ac6ff3.jpg",
       "start_time": "2025-07-04T12:00:00.000Z"
     }
   },
