@@ -1,5 +1,5 @@
 {
-  "time": "2025-07-03T21:20:09.504Z",
+  "time": "2025-07-03T21:30:07.832Z",
   "headers": {
     "x-api-platform": "web-desktop",
     "content-type": "application/vnd.api+json",
@@ -8,22 +8,22 @@
     "referer": "https://www.vidio.com/",
     "accept-language": "undefined",
     "sec-ch-ua": "\"Not)A;Brand\";v=\"8\", \"Chromium\";v=\"138\", \"HeadlessChrome\";v=\"138\"",
-    "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/hRXVVSXnUH+31s8bO5g7wPqZ4iT1YOM/lFSBOq8J9WRw0cSAMDrjbtb+K/8rpE6UGPj2tflus82ruU+hgLgI68=",
+    "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/rEXhyxj0GJp5LGU39E5Yjn874W779lExRKNRR+rSI5BUH8SCl7vkBJqV0EA5Jq3TeMioacA7igEhMmDqdVjTWM=",
     "sec-ch-ua-mobile": "?0",
-    "luws": "44A0B89E-FAD4-CEF3-EE00-9BC2B5E08701_",
-    "x-signature": "cd6ccbdea2cc5ab111a07a5020e50071bd542fee3e5490894c8ce4f1a5a9fe75",
+    "luws": "F5042FF5-4D51-ADCC-8508-135F277BA2E1_",
+    "x-signature": "cfe60944a90cf238b84128bd597cd94e9bb2943b3c97257bb1268296e107ca50",
     "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/138.0.7204.23 Safari/537.36",
     "x-secure-level": "2",
-    "x-client": "1751577605.667",
+    "x-client": "1751578205.658",
     "x-user-email": null,
-    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751592008~acl=/stream/206/file/*~id=allUsers~hmac=dce483e110fc05f9b033617a33eca9efbfd796f9b0ba35667f116093f7491a04",
-    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751592008~acl=/stream/206/file/*~id=allUsers~hmac=dce483e110fc05f9b033617a33eca9efbfd796f9b0ba35667f116093f7491a04",
-    "204-dash": null,
-    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751592008~acl=/stream/204/file/*~id=allUsers~hmac=a9fb881ed65b6444f2796a115d68068efb2f93731c083beeba95eec4279a16b3",
+    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751592606~acl=/stream/206/file/*~id=allUsers~hmac=176f6ae5485998dd79e28e22714a11edd1f8afba19ecf32049d257569c547d6d",
+    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751592606~acl=/stream/206/file/*~id=allUsers~hmac=176f6ae5485998dd79e28e22714a11edd1f8afba19ecf32049d257569c547d6d",
     "18105-dash": null,
-    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751592008~acl=/stream/18105/file/*~id=allUsers~hmac=48cdd42afd911ed63099370a729abd9b93508a367b828ab7ea94377ec95d22dc",
+    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751592606~acl=/stream/18105/file/*~id=allUsers~hmac=803e5daa6c202ea8b05671ccf48c9e8845b85f4fb58e1d06b0dc68338bb4732d",
     "205-dash": null,
-    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751592008~acl=/stream/205/file/*~id=allUsers~hmac=6b055d39ee33e6d067f3f60b38c9b107e87600e26214b71b9ae3686d42e66f88",
+    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751592606~acl=/stream/205/file/*~id=allUsers~hmac=4d4c530f05618074359deeb6be1b00a06fbd0401ba2f012ea488f49b7ff7e7cf",
+    "204-dash": null,
+    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751592606~acl=/stream/204/file/*~id=allUsers~hmac=d9ad733943e3d7c81464b3d9c62ba733ec0b8781d3d9560796e748abe6d12aa9",
     "all-sections": "16890-17139-17140-17884-18189-18249-18250-18252-18253-18762-18994-19030-19035-6317",
     "all-vidiolivetv": [
       {
@@ -682,6 +682,30 @@
       "web_url": "17939",
       "cover_url": "https://thumbor.prod.vidiocdn.com/X-RqLAcQNAoAqhhYdA6L240KI50=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17939/serie-a-4cc90b.jpg",
       "start_time": "2024-10-20T12:45:00.000Z"
+    },
+    "18249": {
+      "title": "Michelle Li (CAN) vs Liang Ting Yu (TPE) - Women's Singles Round of 16 | Yonex Canada Open 2025",
+      "web_url": "18249",
+      "cover_url": "https://thumbor.prod.vidiocdn.com/AiInhHjyzZYlIIL7Kl6iYuTd02o=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18249/yonex-canada-open-2025-round-of-16-court-1-a0ae77.jpg",
+      "start_time": "2025-07-03T21:30:00.000Z"
+    },
+    "18250": {
+      "title": "Christopher Grimley/Matthew Grimley (SCO) vs Julien Maio/William Villeger (FRA) - Men's Doubles Round of 16 | Yonex Canada Open 2025",
+      "web_url": "18250",
+      "cover_url": "https://thumbor.prod.vidiocdn.com/XnAOO_3z2sHANPEg218kUmx7hpI=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18250/yonex-canada-open-2025-round-of-16-court-2-9badc2.jpg",
+      "start_time": "2025-07-03T21:30:00.000Z"
+    },
+    "18252": {
+      "title": "Nozomi Okuhara (JPN) vs Kaloyana Nalbantova (BGR) - Women's Singles Round of 16 | Yonex Canada Open 2025",
+      "web_url": "18252",
+      "cover_url": "https://thumbor.prod.vidiocdn.com/1bSm5VK3b4qW0PcZI6tFTYye0ig=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18252/yonex-canada-open-2025-round-of-16-court-3-b01720.jpg",
+      "start_time": "2025-07-03T21:30:00.000Z"
+    },
+    "18253": {
+      "title": "S.Sankar Muthusamy Subramanian (IND) vs Huang Yu Kai (TPE) - Men's Singles Round of 16 | Yonex Canada Open 2025",
+      "web_url": "18253",
+      "cover_url": "https://thumbor.prod.vidiocdn.com/o9r80zSDrwT8j72ja6cLc6vMoS8=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18253/yonex-canada-open-2025-round-of-32-court-4-6ac05a.jpg",
+      "start_time": "2025-07-03T21:30:00.000Z"
     }
   }
 }
