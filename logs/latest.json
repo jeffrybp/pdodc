@@ -1,5 +1,5 @@
 {
-  "time": "2025-07-03T06:00:09.538Z",
+  "time": "2025-07-03T06:10:11.123Z",
   "headers": {
     "x-api-platform": "web-desktop",
     "content-type": "application/vnd.api+json",
@@ -8,22 +8,22 @@
     "referer": "https://www.vidio.com/",
     "accept-language": "undefined",
     "sec-ch-ua": "\"Not)A;Brand\";v=\"8\", \"Chromium\";v=\"138\", \"HeadlessChrome\";v=\"138\"",
-    "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/vwNqxWbdzS1rPMPRwRcTtgs+HLZK/zBX2jtlZBwOOCSS3LuD3dTWfCn2XJn2j1WXGi2/b7C0vetmPJHhh/67nU=",
+    "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/vDHHvmr/hQRoMzXiqPhBUhZhs4RGvDWSzuo4ZVKj10ATXFbOqw46UkC+gux5Qo188vt3Y3YaoKZKy1iGjEzE+I=",
     "sec-ch-ua-mobile": "?0",
-    "luws": "3A95D9F9-940A-8AFD-CADE-75F31C6AE4E7_",
-    "x-signature": "c2a78045a431cdd785f298d72cd70719ce1c201fc4ca7ccbfa85c234d5b66d16",
+    "luws": "762FF448-59E1-0E5E-6686-1BE4F7DCBB7E_",
+    "x-signature": "f6ff3c45ba767c3e2f61815c1b3bc300c8b6012b526dbbdcb184f276bca9faac",
     "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/138.0.7204.23 Safari/537.36",
     "x-secure-level": "2",
-    "x-client": "1751522406.529",
+    "x-client": "1751523008.116",
     "x-user-email": null,
-    "204-dash": null,
-    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751536807~acl=/stream/204/file/*~id=allUsers~hmac=50b9a1ab34da527cf22b7c0560f65147d510354c4a2477c9d2b4d87a487590a4",
-    "18105-dash": null,
-    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751536807~acl=/stream/18105/file/*~id=allUsers~hmac=5dfb63a79367dcbbf105528de656bcaab5852aa25c1011952040c2dff0ef572b",
     "205-dash": null,
-    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751536807~acl=/stream/205/file/*~id=allUsers~hmac=cf4d90ef717149464b9287c3aa7492367f4ea3efa89c181af75b7bdca11fd522",
-    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751536807~acl=/stream/206/file/*~id=allUsers~hmac=1273b33d5de6eddf4881c98585bb4f6f0d741cc3d118c5bb4f3e68a744db2391",
-    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751536807~acl=/stream/206/file/*~id=allUsers~hmac=1273b33d5de6eddf4881c98585bb4f6f0d741cc3d118c5bb4f3e68a744db2391",
+    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751537409~acl=/stream/205/file/*~id=allUsers~hmac=15401ca014783a5f08bd3b08fa0d4b770f38b125e2f63ded5e44b9df05f03965",
+    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751537409~acl=/stream/206/file/*~id=allUsers~hmac=e8fc0abe0f8541021a447e9f05c6e1081e8a6277163b43ff8abf18ec848ba4e1",
+    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751537409~acl=/stream/206/file/*~id=allUsers~hmac=e8fc0abe0f8541021a447e9f05c6e1081e8a6277163b43ff8abf18ec848ba4e1",
+    "204-dash": null,
+    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751537409~acl=/stream/204/file/*~id=allUsers~hmac=371625767bb250068a156ac1331706dd7c4990b0b487ca7271b7a393621c5d9e",
+    "18105-dash": null,
+    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751537409~acl=/stream/18105/file/*~id=allUsers~hmac=e03591b36002cb8a559683ddea832ea6bdb442cc9d790edaadf3e101448e5463",
     "all-sections": "16890-17139-17140-17884-18189-18249-18250-18252-18253-19030-6317",
     "all-vidiolivetv": [
       {
@@ -504,11 +504,11 @@
     "18252": {
       "title": "Chang Ko-Chi/Lin Jhih Yun (TPE) vs Ruttanapak Oupthong/Jhenicha Sudjaipraparat (THA) - Mixed Doubles Round of 16 | Yonex Canada Open 2025",
       "web_url": "18252",
-      "cover_url": "https://thumbor.prod.vidiocdn.com/pFRY7vY8T1WY377q-FHfGeAeZEQ=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18252/yonex-canada-open-2025-round-of-32-court-3-eb833f.jpg",
+      "cover_url": "https://thumbor.prod.vidiocdn.com/1bSm5VK3b4qW0PcZI6tFTYye0ig=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18252/yonex-canada-open-2025-round-of-16-court-3-b01720.jpg",
       "start_time": "2025-07-03T15:00:00.000Z"
     },
     "18253": {
-      "title": "Yonex Canada Open 2025 - Round of 16 (Court 4)",
+      "title": "Chen Cheng Kuan/Hsu Yin-Hui (TPE) vs Lin Bing-Wei/ Lee Chih Chen (TPE) - Mixed Doubles Round of 16 | Yonex Canada Open 2025",
       "web_url": "18253",
       "cover_url": "https://thumbor.prod.vidiocdn.com/o9r80zSDrwT8j72ja6cLc6vMoS8=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18253/yonex-canada-open-2025-round-of-32-court-4-6ac05a.jpg",
       "start_time": "2025-07-03T15:00:00.000Z"
@@ -666,32 +666,68 @@
     "4398466": {
       "title": "Jonathan Bing Tsan Lai/Nyl Yakura (CAN) vs William Kryger Boe/Christian Faust Kjaer (DEN) - Men's Doubles Round of 16 | Yonex Canada Open 2025",
       "web_url": "18252",
-      "cover_url": "https://thumbor.prod.vidiocdn.com/pFRY7vY8T1WY377q-FHfGeAeZEQ=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18252/yonex-canada-open-2025-round-of-32-court-3-eb833f.jpg",
+      "cover_url": "https://thumbor.prod.vidiocdn.com/1bSm5VK3b4qW0PcZI6tFTYye0ig=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18252/yonex-canada-open-2025-round-of-16-court-3-b01720.jpg",
       "start_time": "2025-07-03T15:50:00.000Z"
     },
     "4398467": {
       "title": "Chang Ko-Chi/Lin Jhih Yun (TPE) vs Ruttanapak Oupthong/Jhenicha Sudjaipraparat (THA) - Mixed Doubles Round of 16 | Yonex Canada Open 2025",
       "web_url": "18252",
-      "cover_url": "https://thumbor.prod.vidiocdn.com/pFRY7vY8T1WY377q-FHfGeAeZEQ=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18252/yonex-canada-open-2025-round-of-32-court-3-eb833f.jpg",
+      "cover_url": "https://thumbor.prod.vidiocdn.com/1bSm5VK3b4qW0PcZI6tFTYye0ig=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18252/yonex-canada-open-2025-round-of-16-court-3-b01720.jpg",
       "start_time": "2025-07-03T15:00:00.000Z"
     },
     "4398521": {
       "title": "Chen Zhi Yi/Francesca Corbett (USA) vs Marvin Seidel/Thuc Phuong Nguyen (GER) - Mixed Doubles Round of 16 | Yonex Canada Open 2025",
       "web_url": "18252",
-      "cover_url": "https://thumbor.prod.vidiocdn.com/pFRY7vY8T1WY377q-FHfGeAeZEQ=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18252/yonex-canada-open-2025-round-of-32-court-3-eb833f.jpg",
+      "cover_url": "https://thumbor.prod.vidiocdn.com/1bSm5VK3b4qW0PcZI6tFTYye0ig=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18252/yonex-canada-open-2025-round-of-16-court-3-b01720.jpg",
       "start_time": "2025-07-03T16:40:00.000Z"
     },
     "4398522": {
       "title": "Margot Lambert/Camille Pognante (FRA) vs Kaho Osawa/Mai Tanabe (JPN) - Women's Doubles Round of 16 | Yonex Canada Open 2025",
       "web_url": "18252",
-      "cover_url": "https://thumbor.prod.vidiocdn.com/pFRY7vY8T1WY377q-FHfGeAeZEQ=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18252/yonex-canada-open-2025-round-of-32-court-3-eb833f.jpg",
+      "cover_url": "https://thumbor.prod.vidiocdn.com/1bSm5VK3b4qW0PcZI6tFTYye0ig=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18252/yonex-canada-open-2025-round-of-16-court-3-b01720.jpg",
       "start_time": "2025-07-03T17:30:00.000Z"
     },
     "4398523": {
       "title": "Clara Azurmendi (ESP) vs Wong Ling Ching (MAS) - Women's Singles Round of 16 | Yonex Canada Open 2025",
       "web_url": "18252",
-      "cover_url": "https://thumbor.prod.vidiocdn.com/pFRY7vY8T1WY377q-FHfGeAeZEQ=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18252/yonex-canada-open-2025-round-of-32-court-3-eb833f.jpg",
+      "cover_url": "https://thumbor.prod.vidiocdn.com/1bSm5VK3b4qW0PcZI6tFTYye0ig=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18252/yonex-canada-open-2025-round-of-16-court-3-b01720.jpg",
       "start_time": "2025-07-03T18:20:00.000Z"
+    },
+    "4398524": {
+      "title": "Nozomi Okuhara (JPN) vs Kaloyana Nalbantova (BGR) - Women's Singles Round of 16 | Yonex Canada Open 2025",
+      "web_url": "18252",
+      "cover_url": "https://thumbor.prod.vidiocdn.com/1bSm5VK3b4qW0PcZI6tFTYye0ig=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18252/yonex-canada-open-2025-round-of-16-court-3-b01720.jpg",
+      "start_time": "2025-07-03T21:30:00.000Z"
+    },
+    "4398525": {
+      "title": "Lauren Lam/Allison Lee (USA) vs Polina Buhrova/Yevheniia Kantemyr (UKR) - Women's Doubles Round of 16 | Yonex Canada Open 2025",
+      "web_url": "18252",
+      "cover_url": "https://thumbor.prod.vidiocdn.com/1bSm5VK3b4qW0PcZI6tFTYye0ig=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18252/yonex-canada-open-2025-round-of-16-court-3-b01720.jpg",
+      "start_time": "2025-07-03T22:20:00.000Z"
+    },
+    "4398526": {
+      "title": "Fang-Chih Lee/Fang-Jen Lee (TPE) vs Rory Easton/Alex Green (ENG) - Men's Doubles Round of 16 | Yonex Canada Open 2025",
+      "web_url": "18252",
+      "cover_url": "https://thumbor.prod.vidiocdn.com/1bSm5VK3b4qW0PcZI6tFTYye0ig=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18252/yonex-canada-open-2025-round-of-16-court-3-b01720.jpg",
+      "start_time": "2025-07-03T23:10:00.000Z"
+    },
+    "4398528": {
+      "title": "Hsu Yin-Hui/Lin Jhih Yun (TPE) vs Gronya Somerville/Angela Yu (AUS) - Women's Doubles Round of 16 | Yonex Canada Open 2025",
+      "web_url": "18252",
+      "cover_url": "https://thumbor.prod.vidiocdn.com/1bSm5VK3b4qW0PcZI6tFTYye0ig=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18252/yonex-canada-open-2025-round-of-16-court-3-b01720.jpg",
+      "start_time": "2025-07-04T00:00:00.000Z"
+    },
+    "4398529": {
+      "title": "Hu Ling Fang/Jheng Yu Chieh (TPE) vs Hung Yu-En/Lin Yen Yu (TPE) - Women's Doubles Round of 16 | Yonex Canada Open 2025",
+      "web_url": "18252",
+      "cover_url": "https://thumbor.prod.vidiocdn.com/1bSm5VK3b4qW0PcZI6tFTYye0ig=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18252/yonex-canada-open-2025-round-of-16-court-3-b01720.jpg",
+      "start_time": "2025-07-04T00:50:00.000Z"
+    },
+    "4398532": {
+      "title": "Chen Cheng Kuan/Hsu Yin-Hui (TPE) vs Lin Bing-Wei/ Lee Chih Chen (TPE) - Mixed Doubles Round of 16 | Yonex Canada Open 2025",
+      "web_url": "18253",
+      "cover_url": "https://thumbor.prod.vidiocdn.com/o9r80zSDrwT8j72ja6cLc6vMoS8=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18253/yonex-canada-open-2025-round-of-32-court-4-6ac05a.jpg",
+      "start_time": "2025-07-03T15:00:00.000Z"
     }
   },
   "vidioliveothers": {
