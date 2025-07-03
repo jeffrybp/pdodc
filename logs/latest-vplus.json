@@ -1,7 +1,7 @@
 {
-  "time": "2025-07-02T13:28:36.630Z",
+  "time": "2025-07-03T08:48:24.169Z",
   "headers": {
-    "time": "2025-07-02T13:28:36.358Z",
+    "time": "2025-07-03T08:48:23.530Z",
     "source": "xhr",
     "url": "https://www.visionplus.id/iris/unifiedPolling?target=WEB",
     "request": {
@@ -15,7 +15,7 @@
         "iris-device-status": "ACTIVE",
         "iris-module-id": "izZQB12n",
         "iris-app-mode": "Normal",
-        "authorization": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1aWQiOjM0MTY2NjAsInR5IjoiVVNFUiIsInBjaSI6Ijk1MjM3IiwiaHdJZCI6ImVhOWQ4MWNkLTc1YWEtNDkyYi1hMzZiLTU2M2QwM2VlNzMwYSIsImV4cCI6MTc1MTM5MDQ3NywicG4iOiJNTkMiLCJjaWQiOjMyOTM3MTksImFwIjoiMTAwNjc3NSJ9.xqr7zM6ounWxriDoySZPSdgu4c24uP8R0vcma23ZvXY",
+        "authorization": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1aWQiOjM0MTY2NjAsInR5IjoiVVNFUiIsInBjaSI6Ijk1MjM3IiwiaHdJZCI6ImVhOWQ4MWNkLTc1YWEtNDkyYi1hMzZiLTU2M2QwM2VlNzMwYSIsImV4cCI6MTc1MTQ4MDAxNiwicG4iOiJNTkMiLCJjaWQiOjMyOTM3MTksImFwIjoiMTAwNjc3NSJ9.ysz_6BeEEGIDdFXUfn-vLNml7AaubAFj7tUGQP-OYtI",
         "iris-profile-id": "1006775",
         "iris-endpoints-version": "VklSVFVBTF9DSEFOTkVMUz0xNjk1NjIyNzE1NTI2LE5PVElGSUNBVElPTl9TVUJTQ1JJUFRJT05TPTE3NTA5MDM3NDIwOTEsUEVSU09OQUxfQ0hBTk5FTF9MSVNUUz0xNzUxMjQ4NTM2MDYzLFNVQlNDUklCRVJfU0VUVElOR1M9MTc1MTI0ODUzNjA2MyxQVVJDSEFTRV9MSVNUPTE3NTEyNDg1MzYwNjMsVUlfREFUQT0xNzA3MTA1NTkwOTE5LFdJU0hfTElTVD0xNzA3MTA1NTkwOTE5LFVTRVJfREFUQT0xNzUxMjQ4NTM2MDYzLFJFQ09SRElOR19MSVNUPTE3MDcxMDU1OTA5MTksWU9VX1dBVENIRUQ9MTcyNjEzODg3NDU0MixVU0VSX1BST0ZJTEU9MTcwNzEwNTczODEwNixTRUdNRU5UQVRJT049MTc1MTIxNjcyNDE3NCxQRVJTT05BTF9BQ1RJVkVfQ0hBTk5FTFM9MTc1MDY1MDk1NDI5MixERVZJQ0VfU0VUVElOR1M9MTc1MTI0ODUzNjA2MyxGQVZfQ0hBTk5FTF9MSVNUPTE3NTEyNDg1MzYwNjMsQUNUSVZFX0NIQU5ORUxTPTE3NTEyNDg1MzYwNjM=",
         "content-type": "application/json"
@@ -32,13 +32,13 @@
         "cache-control": "max-age=0",
         "content-encoding": "br",
         "content-type": "application/json",
-        "date": "Wed, 02 Jul 2025 13:28:36 GMT",
+        "date": "Thu, 03 Jul 2025 08:48:23 GMT",
         "iris-disconnection-timeout": "604800",
         "server": "ATS/7.1.0 Ingress/1.0.0-alpha9",
         "vary": "Accept-Encoding",
-        "via": "http/1.1 trafficserver-7876f7c99b-whnnp (ATS/7.1.0 Ingress/1.0.0-alpha9), 1.1 f4bb30589808079d1ffdfad78076130e.cloudfront.net (CloudFront)",
-        "x-amz-cf-id": "TKu9ouy36ee6CE5P-SCV_abz_4V5g_iZZxZY8Roo8GDX3NAnohgdeg==",
-        "x-amz-cf-pop": "HKG62-C2",
+        "via": "http/1.1 trafficserver-7876f7c99b-l45k2 (ATS/7.1.0 Ingress/1.0.0-alpha9), 1.1 d4cace4cc5e331ffcb566a47ffd57416.cloudfront.net (CloudFront)",
+        "x-amz-cf-id": "ejCavT5b0vIv8W5pezkbGBqL0EkDo2DTptRFG7YGUKiZ2j06zIyeYg==",
+        "x-amz-cf-pop": "SIN2-P2",
         "x-cache": "Error from cloudfront",
         "x-cache-status": "miss (0)"
       }
