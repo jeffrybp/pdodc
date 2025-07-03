@@ -1,5 +1,5 @@
 {
-  "time": "2025-07-03T15:20:08.434Z",
+  "time": "2025-07-03T15:40:08.878Z",
   "headers": {
     "x-api-platform": "web-desktop",
     "content-type": "application/vnd.api+json",
@@ -8,22 +8,22 @@
     "referer": "https://www.vidio.com/",
     "accept-language": "undefined",
     "sec-ch-ua": "\"Not)A;Brand\";v=\"8\", \"Chromium\";v=\"138\", \"HeadlessChrome\";v=\"138\"",
-    "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/i2hWtEeoWAsgZSZeiP8TKp09Vi2WACO+2Vw1W/+QajMICBYrBNlo423hY9qToxfnbYIar76apMAp0PPznYSV5U=",
+    "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/mKixgZ4JgxcU6ihcOHGkR4Pu1cZjFi9QGiy7ce5p64PbARG6UgLwKAGijLDKjNAS9iYykuVVEc9Flzb73eqQu0=",
     "sec-ch-ua-mobile": "?0",
-    "luws": "5830A56C-5007-FA0C-CC5B-DFE9839A9034_",
-    "x-signature": "44ab005f0d10490452004403cebf63db5fcadc9fb60fd9ff2ae0e913ee7a6cf5",
+    "luws": "24B843C4-55FE-7CE1-4B67-E1C70DC3ACCA_",
+    "x-signature": "6d9d8c0f2d6b0eed57173b8099363be9c431b589b1f7829da3f3d651f9f0c9fe",
     "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/138.0.7204.23 Safari/537.36",
     "x-secure-level": "2",
-    "x-client": "1751556006.299",
+    "x-client": "1751557206.444",
     "x-user-email": null,
-    "18105-dash": null,
-    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751570406~acl=/stream/18105/file/*~id=allUsers~hmac=7f709b6bc9dd3191e114f3bbaec7dd3e8e2108405dbdebce5732ab9243d22e5c",
     "205-dash": null,
-    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751570406~acl=/stream/205/file/*~id=allUsers~hmac=821d4004c35ea984b76ee301e69c38e80b5f70c0f48b9ed1227148f32f9b0866",
-    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751570406~acl=/stream/206/file/*~id=allUsers~hmac=541c9ef0889accb703da2fe299e919e9e87cfa5b939bf9a12dcdc18645c436af",
-    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751570406~acl=/stream/206/file/*~id=allUsers~hmac=541c9ef0889accb703da2fe299e919e9e87cfa5b939bf9a12dcdc18645c436af",
+    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751571607~acl=/stream/205/file/*~id=allUsers~hmac=a0ead3c6d6a88c893455b81707b446ec7319715b835e992d4da97b220073140f",
+    "18105-dash": null,
+    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751571607~acl=/stream/18105/file/*~id=allUsers~hmac=b53728b075888e3f6f27dc722c3a92cc03fb0115f4352e03b0c61b41291c2000",
     "204-dash": null,
-    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751570406~acl=/stream/204/file/*~id=allUsers~hmac=370145e564d0439c3900b38b368c3e67f00ed43a47979942cfef0f3e588a6443",
+    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751571607~acl=/stream/204/file/*~id=allUsers~hmac=097445557608a46e08b102d092382db675eb5a06dd460ef6f162a93473acc744",
+    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751571607~acl=/stream/206/file/*~id=allUsers~hmac=2c96b3091d1f533e75c9d9ec9d68728678fbb5a4f6957dcff030e0e1fd334755",
+    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751571607~acl=/stream/206/file/*~id=allUsers~hmac=2c96b3091d1f533e75c9d9ec9d68728678fbb5a4f6957dcff030e0e1fd334755",
     "all-sections": "16890-17139-17140-17884-18189-18249-18250-18252-18253-18762-18994-19030-19035-6317",
     "all-vidiolivetv": [
       {
@@ -490,7 +490,7 @@
   },
   "sections": {
     "18249": {
-      "title": "Timothy Lock/Chloe Huang (CAN) vs Wu Guan Xun/Lee Chia Hsin (TPE) - Mixed Doubles Round of 16 | Yonex Canada Open 2025",
+      "title": "Riku Hatano (JPN) vs Su Li Yang (TPE) - Men's Singles Round of 16 | Yonex Canada Open 2025",
       "web_url": "18249",
       "cover_url": "https://thumbor.prod.vidiocdn.com/AiInhHjyzZYlIIL7Kl6iYuTd02o=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18249/yonex-canada-open-2025-round-of-16-court-1-a0ae77.jpg",
       "start_time": "2025-07-03T15:00:00.000Z"
@@ -684,7 +684,7 @@
       "start_time": "2024-10-20T12:45:00.000Z"
     },
     "18249": {
-      "title": "Timothy Lock/Chloe Huang (CAN) vs Wu Guan Xun/Lee Chia Hsin (TPE) - Mixed Doubles Round of 16 | Yonex Canada Open 2025",
+      "title": "Riku Hatano (JPN) vs Su Li Yang (TPE) - Men's Singles Round of 16 | Yonex Canada Open 2025",
       "web_url": "18249",
       "cover_url": "https://thumbor.prod.vidiocdn.com/AiInhHjyzZYlIIL7Kl6iYuTd02o=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18249/yonex-canada-open-2025-round-of-16-court-1-a0ae77.jpg",
       "start_time": "2025-07-03T15:00:00.000Z"
