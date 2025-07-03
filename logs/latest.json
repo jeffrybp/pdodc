@@ -1,5 +1,5 @@
 {
-  "time": "2025-07-03T01:00:12.999Z",
+  "time": "2025-07-03T01:10:10.887Z",
   "headers": {
     "x-api-platform": "web-desktop",
     "content-type": "application/vnd.api+json",
@@ -8,22 +8,22 @@
     "referer": "https://www.vidio.com/",
     "accept-language": "undefined",
     "sec-ch-ua": "\"Not)A;Brand\";v=\"8\", \"Chromium\";v=\"138\", \"HeadlessChrome\";v=\"138\"",
-    "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/vg8yR+R2DnRHeDxFia4nFvBGCCH6M882l4VJJidQ0668fQDgj9ZckzBChtFY/LA0owESJf343uYOsDnLIzAirA=",
+    "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/rkZ06fmijyhhlWPYgrfhl6ZiUfHv6kAz3Zhak+J4figMov3Nglu8/ESdCX8pablqvTDKQ128wCNkVOLteOafwE=",
     "sec-ch-ua-mobile": "?0",
-    "luws": "D3F55D79-630B-BF02-58E8-E502642AD622_",
-    "x-signature": "4b81c881aab728524d95549121d1475281515325257100fe6eb095f90e083a18",
+    "luws": "5FD1FD3A-BA5F-7C92-B280-ADBFD8CAE945_",
+    "x-signature": "7382049de87c0ffdc31f994e7f8212f9168eaf1bcb55fefc9e9c600551b0d1a1",
     "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/138.0.7204.23 Safari/537.36",
     "x-secure-level": "2",
-    "x-client": "1751504410.145",
+    "x-client": "1751505008.186",
     "x-user-email": null,
-    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751518810~acl=/stream/206/file/*~id=allUsers~hmac=876781249c112033f42759812c44bcb2db0e6b053b591b1dc1f8c70dfc68122e",
-    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751518810~acl=/stream/206/file/*~id=allUsers~hmac=876781249c112033f42759812c44bcb2db0e6b053b591b1dc1f8c70dfc68122e",
-    "18105-dash": null,
-    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751518810~acl=/stream/18105/file/*~id=allUsers~hmac=795a50be90ff3d2af00250fb67c44974365a37d4aa9ff092c960fb5c81a33640",
-    "204-dash": null,
-    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751518810~acl=/stream/204/file/*~id=allUsers~hmac=a46ace8b048ed6cfce737ec2896af4b04f3801c21b8a82532e912ada9e807e60",
     "205-dash": null,
-    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751518810~acl=/stream/205/file/*~id=allUsers~hmac=8155fe1785a276643afbe5e0e6338923c814e962754cdeb715162ef8dbcaaf4a",
+    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751519409~acl=/stream/205/file/*~id=allUsers~hmac=96f24e6607a9d11302ccb448e77dbd326224a29d8e698267e25d968538bbdfba",
+    "204-dash": null,
+    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751519409~acl=/stream/204/file/*~id=allUsers~hmac=da64b7853ae80545ee7dfe8699c1f4c54f1a7b2480c5190ba4ebed27a0205788",
+    "18105-dash": null,
+    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751519409~acl=/stream/18105/file/*~id=allUsers~hmac=0fd2006cf7ba06372742d6382d8a2b24e6684808a156f8dc26f6ee71fae8cea2",
+    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751519409~acl=/stream/206/file/*~id=allUsers~hmac=0cb33f3363e7929b3bb5f4c34d4a0a35f6301111ba4efb854d0358998700fefa",
+    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751519409~acl=/stream/206/file/*~id=allUsers~hmac=0cb33f3363e7929b3bb5f4c34d4a0a35f6301111ba4efb854d0358998700fefa",
     "all-sections": "17139-17140-17884-18189-18249-18250-18252-18253-19030-6317",
     "all-vidiolivetv": [
       {
@@ -496,7 +496,7 @@
       "start_time": "2025-07-02T14:00:00.000Z"
     },
     "18250": {
-      "title": "Wong Ling Ching (MAS) vs Line Christophersen (DEN) - Women's Singles Round of 32 | Yonex Canada Open 2025",
+      "title": "Chen Zhi Ray/Lin Yu Chieh (TPE) vs Rian Agung Saputro/Gabriel Christopher Wintan Wijaya (INA) - Men's Doubles Round of 32 | Yonex Canada Open 2025",
       "web_url": "18250",
       "cover_url": "https://thumbor.prod.vidiocdn.com/gw0wKEOcR-aqHuyXi19ma4RFLxc=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18250/yonex-canada-open-2025-round-of-32-court-2-ed4468.jpg",
       "start_time": "2025-07-02T14:00:00.000Z"
@@ -642,7 +642,7 @@
       "start_time": "2025-07-02T14:00:00.000Z"
     },
     "18250": {
-      "title": "Wong Ling Ching (MAS) vs Line Christophersen (DEN) - Women's Singles Round of 32 | Yonex Canada Open 2025",
+      "title": "Chen Zhi Ray/Lin Yu Chieh (TPE) vs Rian Agung Saputro/Gabriel Christopher Wintan Wijaya (INA) - Men's Doubles Round of 32 | Yonex Canada Open 2025",
       "web_url": "18250",
       "cover_url": "https://thumbor.prod.vidiocdn.com/gw0wKEOcR-aqHuyXi19ma4RFLxc=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18250/yonex-canada-open-2025-round-of-32-court-2-ed4468.jpg",
       "start_time": "2025-07-02T14:00:00.000Z"
@@ -658,12 +658,6 @@
       "web_url": "18253",
       "cover_url": "https://thumbor.prod.vidiocdn.com/bTCaolxQqLBotJskB9hXyyV8DhM=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18253/yonex-canada-open-2025-round-of-32-court-4-ab7209.jpg",
       "start_time": "2025-07-02T14:00:00.000Z"
-    },
-    "19031": {
-      "title": "Kapal Feri Bawa 53 Penumpang dan 12 Kru Tenggelam di Selat Bali",
-      "web_url": "19031",
-      "cover_url": "https://thumbor.prod.vidiocdn.com/FF1aFzPuDYJyP_L3xs-RXXcKek4=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/19031/kapal-feri-bawa-53-penumpang-dan-12-kru-tenggelam-di-selat-bali-c003d5.jpg",
-      "start_time": "2025-07-03T00:40:00.000Z"
     }
   }
 }
