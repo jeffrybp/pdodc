@@ -1,5 +1,5 @@
 {
-  "time": "2025-07-03T15:40:08.878Z",
+  "time": "2025-07-03T15:50:08.838Z",
   "headers": {
     "x-api-platform": "web-desktop",
     "content-type": "application/vnd.api+json",
@@ -8,22 +8,22 @@
     "referer": "https://www.vidio.com/",
     "accept-language": "undefined",
     "sec-ch-ua": "\"Not)A;Brand\";v=\"8\", \"Chromium\";v=\"138\", \"HeadlessChrome\";v=\"138\"",
-    "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/mKixgZ4JgxcU6ihcOHGkR4Pu1cZjFi9QGiy7ce5p64PbARG6UgLwKAGijLDKjNAS9iYykuVVEc9Flzb73eqQu0=",
+    "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/mmuuX4sCB1mb+qvQq/4ze99w/X3LZBMj0UCtXk9UQ2rsQUyl4bYYOUYGr9e/df0xrLWMk0yz/CqDbkotFTYkXs=",
     "sec-ch-ua-mobile": "?0",
-    "luws": "24B843C4-55FE-7CE1-4B67-E1C70DC3ACCA_",
-    "x-signature": "6d9d8c0f2d6b0eed57173b8099363be9c431b589b1f7829da3f3d651f9f0c9fe",
+    "luws": "BD0DD3AD-E839-8AD6-C379-28F4D626B1B9_",
+    "x-signature": "b59bd46d7e65fc29862b9386a6c0d1bda9e1f5abc8da62a9d7b88c0e0f530680",
     "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/138.0.7204.23 Safari/537.36",
     "x-secure-level": "2",
-    "x-client": "1751557206.444",
+    "x-client": "1751557806.478",
     "x-user-email": null,
-    "205-dash": null,
-    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751571607~acl=/stream/205/file/*~id=allUsers~hmac=a0ead3c6d6a88c893455b81707b446ec7319715b835e992d4da97b220073140f",
-    "18105-dash": null,
-    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751571607~acl=/stream/18105/file/*~id=allUsers~hmac=b53728b075888e3f6f27dc722c3a92cc03fb0115f4352e03b0c61b41291c2000",
     "204-dash": null,
-    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751571607~acl=/stream/204/file/*~id=allUsers~hmac=097445557608a46e08b102d092382db675eb5a06dd460ef6f162a93473acc744",
-    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751571607~acl=/stream/206/file/*~id=allUsers~hmac=2c96b3091d1f533e75c9d9ec9d68728678fbb5a4f6957dcff030e0e1fd334755",
-    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751571607~acl=/stream/206/file/*~id=allUsers~hmac=2c96b3091d1f533e75c9d9ec9d68728678fbb5a4f6957dcff030e0e1fd334755",
+    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751572207~acl=/stream/204/file/*~id=allUsers~hmac=3a7a92b45c4bb490a35521e508419834846914d55088cf2445bad2694c7b1a1b",
+    "18105-dash": null,
+    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751572207~acl=/stream/18105/file/*~id=allUsers~hmac=1cede9a090bdf97da043b7b1242808307416b1d243379be30d329584fafccdca",
+    "205-dash": null,
+    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751572207~acl=/stream/205/file/*~id=allUsers~hmac=6b78b72822def602a14016262e194fbd6a09f298e67e2be7e5d5217baf98610f",
+    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751572207~acl=/stream/206/file/*~id=allUsers~hmac=60ea320b4aa0f33866340b51b6ed3f3d17c2d9e040804b8fa3251c1fb15512e5",
+    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751572207~acl=/stream/206/file/*~id=allUsers~hmac=60ea320b4aa0f33866340b51b6ed3f3d17c2d9e040804b8fa3251c1fb15512e5",
     "all-sections": "16890-17139-17140-17884-18189-18249-18250-18252-18253-18762-18994-19030-19035-6317",
     "all-vidiolivetv": [
       {
@@ -496,19 +496,19 @@
       "start_time": "2025-07-03T15:00:00.000Z"
     },
     "18250": {
-      "title": "Kidambi Srikanth (IND) vs Wang Po-Wei (TPE) - Men's Singles Round of 16 | Yonex Canada Open 2025",
+      "title": "Nguyen Hai Dang (VIE) vs Kodai Naraoka (JPN) - Men's Singles Round of 16 | Yonex Canada Open 2025",
       "web_url": "18250",
       "cover_url": "https://thumbor.prod.vidiocdn.com/XnAOO_3z2sHANPEg218kUmx7hpI=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18250/yonex-canada-open-2025-round-of-16-court-2-9badc2.jpg",
       "start_time": "2025-07-03T15:00:00.000Z"
     },
     "18252": {
-      "title": "Chang Ko-Chi/Lin Jhih Yun (TPE) vs Ruttanapak Oupthong/Jhenicha Sudjaipraparat (THA) - Mixed Doubles Round of 16 | Yonex Canada Open 2025",
+      "title": "Jonathan Bing Tsan Lai/Nyl Yakura (CAN) vs William Kryger Boe/Christian Faust Kjaer (DEN) - Men's Doubles Round of 16 | Yonex Canada Open 2025",
       "web_url": "18252",
       "cover_url": "https://thumbor.prod.vidiocdn.com/1bSm5VK3b4qW0PcZI6tFTYye0ig=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18252/yonex-canada-open-2025-round-of-16-court-3-b01720.jpg",
       "start_time": "2025-07-03T15:00:00.000Z"
     },
     "18253": {
-      "title": "Chen Cheng Kuan/Hsu Yin-Hui (TPE) vs Lin Bing-Wei/ Lee Chih Chen (TPE) - Mixed Doubles Round of 16 | Yonex Canada Open 2025",
+      "title": "Tori Aizawa/Daisuke Sano (JPN) vs Wei Chun Wei/Po Chih Yang (TPE) - Men's Doubles Round of 16 | Yonex Canada Open 2025",
       "web_url": "18253",
       "cover_url": "https://thumbor.prod.vidiocdn.com/o9r80zSDrwT8j72ja6cLc6vMoS8=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18253/yonex-canada-open-2025-round-of-32-court-4-6ac05a.jpg",
       "start_time": "2025-07-03T15:00:00.000Z"
@@ -690,19 +690,19 @@
       "start_time": "2025-07-03T15:00:00.000Z"
     },
     "18250": {
-      "title": "Kidambi Srikanth (IND) vs Wang Po-Wei (TPE) - Men's Singles Round of 16 | Yonex Canada Open 2025",
+      "title": "Nguyen Hai Dang (VIE) vs Kodai Naraoka (JPN) - Men's Singles Round of 16 | Yonex Canada Open 2025",
       "web_url": "18250",
       "cover_url": "https://thumbor.prod.vidiocdn.com/XnAOO_3z2sHANPEg218kUmx7hpI=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18250/yonex-canada-open-2025-round-of-16-court-2-9badc2.jpg",
       "start_time": "2025-07-03T15:00:00.000Z"
     },
     "18252": {
-      "title": "Chang Ko-Chi/Lin Jhih Yun (TPE) vs Ruttanapak Oupthong/Jhenicha Sudjaipraparat (THA) - Mixed Doubles Round of 16 | Yonex Canada Open 2025",
+      "title": "Jonathan Bing Tsan Lai/Nyl Yakura (CAN) vs William Kryger Boe/Christian Faust Kjaer (DEN) - Men's Doubles Round of 16 | Yonex Canada Open 2025",
       "web_url": "18252",
       "cover_url": "https://thumbor.prod.vidiocdn.com/1bSm5VK3b4qW0PcZI6tFTYye0ig=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18252/yonex-canada-open-2025-round-of-16-court-3-b01720.jpg",
       "start_time": "2025-07-03T15:00:00.000Z"
     },
     "18253": {
-      "title": "Chen Cheng Kuan/Hsu Yin-Hui (TPE) vs Lin Bing-Wei/ Lee Chih Chen (TPE) - Mixed Doubles Round of 16 | Yonex Canada Open 2025",
+      "title": "Tori Aizawa/Daisuke Sano (JPN) vs Wei Chun Wei/Po Chih Yang (TPE) - Men's Doubles Round of 16 | Yonex Canada Open 2025",
       "web_url": "18253",
       "cover_url": "https://thumbor.prod.vidiocdn.com/o9r80zSDrwT8j72ja6cLc6vMoS8=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18253/yonex-canada-open-2025-round-of-32-court-4-6ac05a.jpg",
       "start_time": "2025-07-03T15:00:00.000Z"
