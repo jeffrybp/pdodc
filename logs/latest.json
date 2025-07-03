@@ -1,5 +1,5 @@
 {
-  "time": "2025-07-03T05:30:09.993Z",
+  "time": "2025-07-03T05:40:08.240Z",
   "headers": {
     "x-api-platform": "web-desktop",
     "content-type": "application/vnd.api+json",
@@ -10,20 +10,20 @@
     "sec-ch-ua": "\"Not)A;Brand\";v=\"8\", \"Chromium\";v=\"138\", \"HeadlessChrome\";v=\"138\"",
     "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/mbSrKWJkQ2DBJcp+AmVnpfHVNVRs53SA/n0cikDMOTph0yu/p5nJl1hJsNFIxVEZ0ori6Agap4OBfD6CucMRTE=",
     "sec-ch-ua-mobile": "?0",
-    "luws": "4FBEC4BA-35C0-A8B1-6F6B-1F81C34FF9FB_",
-    "x-signature": "0cfd12fbe2c70175add85b0221cce4466f25b7acd7b9b853dd030242140a76b8",
+    "luws": "4A43D01F-BBA3-399C-874E-9BCE716140F2_",
+    "x-signature": "d0d9ce949fe934f41bfd27d01c02f3258a934ce2c45e53c4de355828bb698072",
     "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/138.0.7204.23 Safari/537.36",
     "x-secure-level": "2",
-    "x-client": "1751520607.587",
+    "x-client": "1751521205.644",
     "x-user-email": null,
-    "204-dash": null,
-    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751535008~acl=/stream/204/file/*~id=allUsers~hmac=3a365f6e710407ba6b22209797899bcd5682b4de2bd7e8d5beb1085146244b81",
-    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751535008~acl=/stream/206/file/*~id=allUsers~hmac=76f0d76cf8bbb5300f081a760e59e806341e6cf394e7fc8f5ecde945f40f0af6",
-    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751535008~acl=/stream/206/file/*~id=allUsers~hmac=76f0d76cf8bbb5300f081a760e59e806341e6cf394e7fc8f5ecde945f40f0af6",
     "205-dash": null,
-    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751535008~acl=/stream/205/file/*~id=allUsers~hmac=4ad62bc98fc53f316e0c37425f4ee1255feb55f864b2d5925456fe04b51c3e17",
+    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751535606~acl=/stream/205/file/*~id=allUsers~hmac=1700ab56b4789b12e34f9bf135bfd994789395db9ed95275c4af22cb46108aae",
     "18105-dash": null,
-    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751535008~acl=/stream/18105/file/*~id=allUsers~hmac=f7c9a29b7dceeeb6611a9a795ca269eb5d59b1b8498b663b383fd01f3308812b",
+    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751535606~acl=/stream/18105/file/*~id=allUsers~hmac=869df777a48186670836c9eb6c367a538b6197601f5be7dd9da9faf9f896abd2",
+    "204-dash": null,
+    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751535606~acl=/stream/204/file/*~id=allUsers~hmac=9d8d52928831306876dc5e4aa8a3d523f707c67a3e3efd558778acbda9558e2a",
+    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751535606~acl=/stream/206/file/*~id=allUsers~hmac=2fd5afbaf8e616825a4135a1b322977a3dc7641f8f08a7733cbcf6e5e8bfa269",
+    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751535606~acl=/stream/206/file/*~id=allUsers~hmac=2fd5afbaf8e616825a4135a1b322977a3dc7641f8f08a7733cbcf6e5e8bfa269",
     "all-sections": "16890-17139-17140-17884-18189-18249-18250-18252-18253-19030-6317",
     "all-vidiolivetv": [
       {
@@ -682,12 +682,6 @@
       "web_url": "17939",
       "cover_url": "https://thumbor.prod.vidiocdn.com/X-RqLAcQNAoAqhhYdA6L240KI50=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17939/serie-a-4cc90b.jpg",
       "start_time": "2024-10-20T12:45:00.000Z"
-    },
-    "19032": {
-      "title": "Sidang Tuntutan Sekjen PDI-P Hasto Kristiyanto | LIVE",
-      "web_url": "19032",
-      "cover_url": "https://thumbor.prod.vidiocdn.com/9x5SxlwpelkPzl4VshsEIA75zgc=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/19032/sidang-tuntutan-sekjen-pdi-p-hasto-kristiyanto-live-d27629.jpg",
-      "start_time": "2025-07-03T02:36:00.000Z"
     }
   }
 }
