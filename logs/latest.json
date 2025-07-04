@@ -1,5 +1,5 @@
 {
-  "time": "2025-07-04T22:40:08.173Z",
+  "time": "2025-07-04T22:50:08.390Z",
   "headers": {
     "x-api-platform": "web-desktop",
     "content-type": "application/vnd.api+json",
@@ -10,20 +10,20 @@
     "sec-ch-ua": "\"Not)A;Brand\";v=\"8\", \"Chromium\";v=\"138\", \"HeadlessChrome\";v=\"138\"",
     "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/kMDLIIsI3da/kr2vOFIEjQ7Cfu8A0dJ8/n/O7KXFhNlkYXsjbVDlz5O6gVemLpKd95XZ5J3Urih7keELOGa7TI=",
     "sec-ch-ua-mobile": "?0",
-    "luws": "762D4432-4FF2-F7FE-22F9-C55EB2A92497_",
-    "x-signature": "1cc420d2d87fd5b389eed40a7d9795469f41237acb86dfd12ba5a8b31b63e76c",
+    "luws": "4E5736CE-387B-D03A-AA55-51E2E6C765D2_",
+    "x-signature": "06da9172dfb0753d1b37a40c2ace151034a779862200327e2055afa8c8c6155c",
     "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/138.0.7204.23 Safari/537.36",
     "x-secure-level": "2",
-    "x-client": "1751668805.737",
+    "x-client": "1751669405.771",
     "x-user-email": null,
-    "204-dash": null,
-    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751683206~acl=/stream/204/file/*~id=allUsers~hmac=4dec669cc0d160990ce425565fb8ca3d55075081e50d6839cba07b4add97373a",
     "205-dash": null,
-    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751683206~acl=/stream/205/file/*~id=allUsers~hmac=a0e829a105f0b143bf1850b540bddfbbd811c89c58dfeae4e5f8a9acc2c94b76",
+    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751683806~acl=/stream/205/file/*~id=allUsers~hmac=4bc4bef9f9fff3272ad7a602539b1664e61748f388fab0c389029df0c6f50301",
+    "204-dash": null,
+    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751683806~acl=/stream/204/file/*~id=allUsers~hmac=3e011546a7988013c02ff7f096430c56b1ffab18b63057c3b38f72a3ed2a7104",
     "18105-dash": null,
-    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751683206~acl=/stream/18105/file/*~id=allUsers~hmac=6c419c239789a933f8686422c42045c2aa985cfa0848bb1ec530e2bb7ee6e6de",
-    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751683206~acl=/stream/206/file/*~id=allUsers~hmac=44e6ff31c9a8cf99bb08672ba15ea7bcd3b5cc470960730a4354e34bb2dbc096",
-    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751683206~acl=/stream/206/file/*~id=allUsers~hmac=44e6ff31c9a8cf99bb08672ba15ea7bcd3b5cc470960730a4354e34bb2dbc096",
+    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751683806~acl=/stream/18105/file/*~id=allUsers~hmac=efa875fff807a41a76334d4429ca33bf5cfa68637e6e8d7a329f39799aa1880f",
+    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751683806~acl=/stream/206/file/*~id=allUsers~hmac=0aff31b032db9f01eaf2db4fb02e8d9ca13f665f9ecb12a5aa0037d86d25bf96",
+    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751683806~acl=/stream/206/file/*~id=allUsers~hmac=0aff31b032db9f01eaf2db4fb02e8d9ca13f665f9ecb12a5aa0037d86d25bf96",
     "all-sections": "17884-18189-18249-18250-18762-18994-19035-6299-6317-6717",
     "all-vidiolivetv": [
       {
@@ -496,7 +496,7 @@
       "start_time": "2025-07-04T21:30:00.000Z"
     },
     "18250": {
-      "title": "Kaho Osawa/Mai Tanabe (JPN) vs Lauren Lam/Allison Lee (USA) - Women's Doubles Quarterfinals | Yonex Canada Open 2025",
+      "title": "Kenta Nishimoto (JPN) vs S.Sankar Muthusamy Subramanian (IND) - Men's Singles Quarterfinals | Yonex Canada Open 2025",
       "web_url": "18250",
       "cover_url": "https://thumbor.prod.vidiocdn.com/NwiLJ_UI09mig7xEAszjeF04Glg=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18250/yonex-canada-open-2025-round-of-16-court-2-8d40ca.jpg",
       "start_time": "2025-07-04T21:30:00.000Z"
@@ -618,7 +618,7 @@
       "start_time": "2025-07-04T21:30:00.000Z"
     },
     "18250": {
-      "title": "Kaho Osawa/Mai Tanabe (JPN) vs Lauren Lam/Allison Lee (USA) - Women's Doubles Quarterfinals | Yonex Canada Open 2025",
+      "title": "Kenta Nishimoto (JPN) vs S.Sankar Muthusamy Subramanian (IND) - Men's Singles Quarterfinals | Yonex Canada Open 2025",
       "web_url": "18250",
       "cover_url": "https://thumbor.prod.vidiocdn.com/NwiLJ_UI09mig7xEAszjeF04Glg=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18250/yonex-canada-open-2025-round-of-16-court-2-8d40ca.jpg",
       "start_time": "2025-07-04T21:30:00.000Z"
