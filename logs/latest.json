@@ -1,5 +1,5 @@
 {
-  "time": "2025-07-04T11:20:09.500Z",
+  "time": "2025-07-04T11:30:12.909Z",
   "headers": {
     "x-api-platform": "web-desktop",
     "content-type": "application/vnd.api+json",
@@ -8,22 +8,22 @@
     "referer": "https://www.vidio.com/",
     "accept-language": "undefined",
     "sec-ch-ua": "\"Not)A;Brand\";v=\"8\", \"Chromium\";v=\"138\", \"HeadlessChrome\";v=\"138\"",
-    "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/mVW+2HLu695vVnfeLopa/YyfyN/vDE5bfxOPICQTPtEaxECaXIabXsUr0bN2bms5EzQnTPsLBCOgVJxyvXRzV4=",
+    "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/us4+JoepS/ZJpSawIs6Tw4U3rBKkPUy1QZ+vJj1b42ChP+MKkb0dG22s1Us8CIIQTNfuMF5srhQTWpYGQzZvbI=",
     "sec-ch-ua-mobile": "?0",
-    "luws": "F825BA79-FE5C-1F57-A505-69BFE4D94CC5_",
-    "x-signature": "a28b291e83b00ae8775eb6de93f7e3cff9c46ab2ab0f9c9e8e674939f862452a",
+    "luws": "34025ABD-0876-F3B0-2F42-615C23ACBBB5_",
+    "x-signature": "61c01c1faecd0074f74d48326efd46513646f2ac0fdaaac17cbc203d10df4af1",
     "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/138.0.7204.23 Safari/537.36",
     "x-secure-level": "2",
-    "x-client": "1751628006.464",
+    "x-client": "1751628609.97",
     "x-user-email": null,
-    "18105-dash": null,
-    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751642407~acl=/stream/18105/file/*~id=allUsers~hmac=a0d82a8f2a8821226339c3ccab123da89fe3bf6f48c56187552219cd3d068c25",
     "205-dash": null,
-    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751642407~acl=/stream/205/file/*~id=allUsers~hmac=4e508bd1e0a0f5f2e3645a56e0c9b552e3a58f9f0efe6048330edda1e391dd92",
-    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751642407~acl=/stream/206/file/*~id=allUsers~hmac=64ef6f57616087aa8528126d6d0338a991ee5353ec2c6595c767b40539d5a2d3",
-    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751642407~acl=/stream/206/file/*~id=allUsers~hmac=64ef6f57616087aa8528126d6d0338a991ee5353ec2c6595c767b40539d5a2d3",
+    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751643010~acl=/stream/205/file/*~id=allUsers~hmac=5aed4484f9bb524de0dc0c5cf08058b3a95c4f6f110d839966c675b57dc36758",
     "204-dash": null,
-    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751642407~acl=/stream/204/file/*~id=allUsers~hmac=fef2764875f8020b70324e6bf54a3129888a7465127a85c6685dcc052769a309",
+    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751643010~acl=/stream/204/file/*~id=allUsers~hmac=91007584a78fa2f3aca70230291bea8c854412131cf1bc60d10968e24fdd9058",
+    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751643010~acl=/stream/206/file/*~id=allUsers~hmac=c1591d32a7809de4b828beb512be3b9059139636541317652795d6bf917aad73",
+    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751643010~acl=/stream/206/file/*~id=allUsers~hmac=c1591d32a7809de4b828beb512be3b9059139636541317652795d6bf917aad73",
+    "18105-dash": null,
+    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751643010~acl=/stream/18105/file/*~id=allUsers~hmac=47b6c4a1be333ffce87a65587450138caf25991878a018e16fbaf16b658a6858",
     "all-sections": "16890-17139-17140-17884-18189-18249-18250-18762-18994-19035-6299-6317-6717",
     "all-vidiolivetv": [
       {
@@ -672,9 +672,9 @@
   },
   "vidioliveothers": {
     "17884": {
-      "title": "Formula 1",
+      "title": "Formula 1 Qatar Airways British Grand Prix 2025 - Practice 1",
       "web_url": "17884",
-      "cover_url": "https://thumbor.prod.vidiocdn.com/Rc1pHYZnd8l_siMi118TkKusbPM=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17884/formula-1-5ee872.jpg",
+      "cover_url": "https://thumbor.prod.vidiocdn.com/4xB-c8QnyX80-T3HcfPGTJ_WzSg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4394285/863296.jpg",
       "start_time": "2025-04-02T13:25:00.000Z"
     },
     "17938": {
