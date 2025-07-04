@@ -1,5 +1,5 @@
 {
-  "time": "2025-07-04T00:50:14.121Z",
+  "time": "2025-07-04T01:00:08.799Z",
   "headers": {
     "x-api-platform": "web-desktop",
     "content-type": "application/vnd.api+json",
@@ -10,20 +10,20 @@
     "sec-ch-ua": "\"Not)A;Brand\";v=\"8\", \"Chromium\";v=\"138\", \"HeadlessChrome\";v=\"138\"",
     "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/uydkDkS/H7GBcmd3LKfpUv3cKyLZRTlbyrHBieD5DGClKjuibn6IINzPKpw2ckUGk5OoEgciwXfODVzc01t1mE=",
     "sec-ch-ua-mobile": "?0",
-    "luws": "B9F27418-A477-1453-4A92-456D1296FC37_",
-    "x-signature": "7aada758d7bb8daf094987c03db742ccab014824b5b5524e2266cbc83718675a",
+    "luws": "5B05F091-66AD-5449-A9D6-70C7DABD8B00_",
+    "x-signature": "5791d66f0593d1fab0ec93657622821c28fce21ad16e83c85397e9ffdc365658",
     "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/138.0.7204.23 Safari/537.36",
     "x-secure-level": "2",
-    "x-client": "1751590211.542",
+    "x-client": "1751590805.918",
     "x-user-email": null,
-    "204-dash": null,
-    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751604612~acl=/stream/204/file/*~id=allUsers~hmac=caff84b9bfe836df6efd10dc956ef9c530685183c1c14df5a481d880a537c00a",
     "205-dash": null,
-    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751604612~acl=/stream/205/file/*~id=allUsers~hmac=8cc7aedd05b99d50f261bddc3ba4eac3a3254ef427dc4be9ae8f356cc6b6c379",
+    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751605206~acl=/stream/205/file/*~id=allUsers~hmac=949b4a828023bb53f876e943646e3cea2853692c71cfa667a6a05a0da5e4e706",
+    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751605206~acl=/stream/206/file/*~id=allUsers~hmac=631f7618a0b5b1251f89ea20ded18e154020edabd20cb0363d3bbb580e9c2c06",
+    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751605206~acl=/stream/206/file/*~id=allUsers~hmac=631f7618a0b5b1251f89ea20ded18e154020edabd20cb0363d3bbb580e9c2c06",
     "18105-dash": null,
-    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751604612~acl=/stream/18105/file/*~id=allUsers~hmac=6e0181523b3b750ac1a58bbd4867461554613f59223793e91930d369e1c28a9a",
-    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751604612~acl=/stream/206/file/*~id=allUsers~hmac=9b7d7c49a9b84e20d903f3bdc7e985e1dc6f2b0524f937d80c2effcf5121130c",
-    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751604612~acl=/stream/206/file/*~id=allUsers~hmac=9b7d7c49a9b84e20d903f3bdc7e985e1dc6f2b0524f937d80c2effcf5121130c",
+    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751605206~acl=/stream/18105/file/*~id=allUsers~hmac=56463850ddd30ec2f3012b383e30edad395d445047cdefe5fcb5ecce60df6f15",
+    "204-dash": null,
+    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751605206~acl=/stream/204/file/*~id=allUsers~hmac=04e8b14b3aeb6fb60bc2ca332b77e66fac48bf146e3b34d1a9def110123973c1",
     "all-sections": "16890-17139-17140-17884-18189-18249-18250-18252-18253-18762-18994-19030-19035-6317",
     "all-vidiolivetv": [
       {
@@ -502,7 +502,7 @@
       "start_time": "2025-07-03T21:30:00.000Z"
     },
     "18252": {
-      "title": "Hsu Yin-Hui/Lin Jhih Yun (TPE) vs Gronya Somerville/Angela Yu (AUS) - Women's Doubles Round of 16 | Yonex Canada Open 2025",
+      "title": "Hu Ling Fang/Jheng Yu Chieh (TPE) vs Hung Yu-En/Lin Yen Yu (TPE) - Women's Doubles Round of 16 | Yonex Canada Open 2025",
       "web_url": "18252",
       "cover_url": "https://thumbor.prod.vidiocdn.com/1bSm5VK3b4qW0PcZI6tFTYye0ig=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18252/yonex-canada-open-2025-round-of-16-court-3-b01720.jpg",
       "start_time": "2025-07-03T21:30:00.000Z"
@@ -702,7 +702,7 @@
       "start_time": "2025-07-03T21:30:00.000Z"
     },
     "18252": {
-      "title": "Hsu Yin-Hui/Lin Jhih Yun (TPE) vs Gronya Somerville/Angela Yu (AUS) - Women's Doubles Round of 16 | Yonex Canada Open 2025",
+      "title": "Hu Ling Fang/Jheng Yu Chieh (TPE) vs Hung Yu-En/Lin Yen Yu (TPE) - Women's Doubles Round of 16 | Yonex Canada Open 2025",
       "web_url": "18252",
       "cover_url": "https://thumbor.prod.vidiocdn.com/1bSm5VK3b4qW0PcZI6tFTYye0ig=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18252/yonex-canada-open-2025-round-of-16-court-3-b01720.jpg",
       "start_time": "2025-07-03T21:30:00.000Z"
