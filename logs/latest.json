@@ -1,5 +1,5 @@
 {
-  "time": "2025-07-04T12:20:09.934Z",
+  "time": "2025-07-04T12:30:15.447Z",
   "headers": {
     "x-api-platform": "web-desktop",
     "content-type": "application/vnd.api+json",
@@ -8,22 +8,22 @@
     "referer": "https://www.vidio.com/",
     "accept-language": "undefined",
     "sec-ch-ua": "\"Not)A;Brand\";v=\"8\", \"Chromium\";v=\"138\", \"HeadlessChrome\";v=\"138\"",
-    "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/kbYEOURn5j3M7/r40Ac0c+9RMwbAK6m4Z6KyMMKBrZwF+BE+GKhHGurez7Cfe48jzRbKAriPb1t2c337vtJPDA=",
+    "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/kWRttOSX8X0mXCHPigMBcaZGkGSxsv4t79xzvC+56SEhOt/s5inEsboQZV2kA8+2ItWtVfG/zgUX8OE6+WEzBk=",
     "sec-ch-ua-mobile": "?0",
-    "luws": "2E1C50C6-8851-EAA6-49E6-0711B239BC4B_",
-    "x-signature": "452617541eb2414d5c8ac465d8e3778e778772ed71c999043acb0b8b5b070717",
+    "luws": "25EF0430-CC5C-3A9B-6630-5498EBD918C8_",
+    "x-signature": "acdf67a37bcba1a8fd44847b552bf1429aa8206123310732aa566cb7e985b7a7",
     "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/138.0.7204.23 Safari/537.36",
     "x-secure-level": "2",
-    "x-client": "1751631606.486",
+    "x-client": "1751632212.223",
     "x-user-email": null,
+    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751646613~acl=/stream/206/file/*~id=allUsers~hmac=8f15f346c1dbaca53135cf71ab33e182133e241c1bb59c8c8f78ce7da08d919c",
+    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751646613~acl=/stream/206/file/*~id=allUsers~hmac=8f15f346c1dbaca53135cf71ab33e182133e241c1bb59c8c8f78ce7da08d919c",
     "18105-dash": null,
-    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751646007~acl=/stream/18105/file/*~id=allUsers~hmac=c585c3e184791cd87781bc8e9316707d059facf0e85f28253c5a94416719dd6e",
-    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751646007~acl=/stream/206/file/*~id=allUsers~hmac=7dfe8855c8fa2db8fbb6f761222e1fe6e4c536a2f4a0c8fcad9d5086afb25084",
-    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751646007~acl=/stream/206/file/*~id=allUsers~hmac=7dfe8855c8fa2db8fbb6f761222e1fe6e4c536a2f4a0c8fcad9d5086afb25084",
-    "204-dash": null,
-    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751646007~acl=/stream/204/file/*~id=allUsers~hmac=16b9a29fc8f6af84e874ee70fe47619e92e744a86a9567d4621bf3317ae6f6ea",
+    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751646613~acl=/stream/18105/file/*~id=allUsers~hmac=1c7b846dc14ade1486d9b8fd85605887f80f3e3ec12dbf09f2f7bdae933530ca",
     "205-dash": null,
-    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751646007~acl=/stream/205/file/*~id=allUsers~hmac=d2b99a59b38427ec67472f92a40f071fefadfafae2f107cb5421b9e70552dfff",
+    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751646613~acl=/stream/205/file/*~id=allUsers~hmac=8465c54f6226150f6307c01f53bb8331c8d2b950ea527a4eefe2a54505dbb799",
+    "204-dash": null,
+    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751646613~acl=/stream/204/file/*~id=allUsers~hmac=6a88aca0ae65fdb1fc16872b9002ec229020167a6b1abb3ad2e0441d7c80507c",
     "all-sections": "16890-17139-17140-17884-18189-18249-18250-18762-18994-19035-6299-6317-6717",
     "all-vidiolivetv": [
       {
@@ -501,12 +501,6 @@
       "cover_url": "https://thumbor.prod.vidiocdn.com/NwiLJ_UI09mig7xEAszjeF04Glg=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18250/yonex-canada-open-2025-round-of-16-court-2-8d40ca.jpg",
       "start_time": "2025-07-04T15:00:00.000Z"
     },
-    "4394285": {
-      "title": "Formula 1 Qatar Airways British Grand Prix 2025 - Practice 1",
-      "web_url": "17884",
-      "cover_url": "https://thumbor.prod.vidiocdn.com/4xB-c8QnyX80-T3HcfPGTJ_WzSg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4394285/863296.jpg",
-      "start_time": "2025-07-04T11:25:00.000Z"
-    },
     "4394286": {
       "title": "FIA Formula 3 Championship Great Britain Grand Prix 2025 - Qualifying",
       "web_url": "17884",
@@ -524,12 +518,6 @@
       "web_url": "17884",
       "cover_url": "https://thumbor.prod.vidiocdn.com/L7jgr9niLjLlLCHlUnzo868VTGc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4394288/f5d259.jpg",
       "start_time": "2025-07-04T14:55:00.000Z"
-    },
-    "4396607": {
-      "title": "Bordeaux P2 Premier Padel 2025 - Quarter Final",
-      "web_url": "6317",
-      "cover_url": "https://thumbor.prod.vidiocdn.com/KiYW1gwN4Vyb49OJ5MrguLp7GwI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4396607/852eb9.jpg",
-      "start_time": "2025-07-04T08:00:00.000Z"
     },
     "4396747": {
       "title": "Chinese Taipei vs Indonesia - AFC Women's Asian Cup 2026 Qualifiers",
@@ -671,10 +659,16 @@
     }
   },
   "vidioliveothers": {
+    "16890": {
+      "title": "ONE Friday Fights 115",
+      "web_url": "16890",
+      "cover_url": "https://thumbor.prod.vidiocdn.com/Y43i4P40zSxY_U1j10kkrPgXnHY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4398420/dde59c.jpg",
+      "start_time": "2025-07-04T12:30:00.000Z"
+    },
     "17884": {
-      "title": "Formula 1 Qatar Airways British Grand Prix 2025 - Practice 1",
+      "title": "Formula 1",
       "web_url": "17884",
-      "cover_url": "https://thumbor.prod.vidiocdn.com/4xB-c8QnyX80-T3HcfPGTJ_WzSg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4394285/863296.jpg",
+      "cover_url": "https://thumbor.prod.vidiocdn.com/Rc1pHYZnd8l_siMi118TkKusbPM=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17884/formula-1-5ee872.jpg",
       "start_time": "2025-04-02T13:25:00.000Z"
     },
     "17938": {
