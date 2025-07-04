@@ -1,5 +1,5 @@
 {
-  "time": "2025-07-04T08:30:17.715Z",
+  "time": "2025-07-04T08:40:14.857Z",
   "headers": {
     "x-api-platform": "web-desktop",
     "content-type": "application/vnd.api+json",
@@ -8,22 +8,22 @@
     "referer": "https://www.vidio.com/",
     "accept-language": "undefined",
     "sec-ch-ua": "\"Not)A;Brand\";v=\"8\", \"Chromium\";v=\"138\", \"HeadlessChrome\";v=\"138\"",
-    "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/qyF/UK5KTOaVq0ZwwKkarZG9jsdEM7b2nXITwfaaKrWvjztpJajAhWA5JpJ6fWse2owPiKUBLRRqvzqMet+wCM=",
+    "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/sH9MZ366DMXZSELjQCKxB9gKoZLsR/g9Tj24IyYt0e+BS+nbliJigRZSGgIOSpO8LxXCo5Zaia7QccAMZvYVV4=",
     "sec-ch-ua-mobile": "?0",
-    "luws": "5E76E6B7-BC36-6B50-40F2-F864BD75BB69_",
-    "x-signature": "e6dcda3a0ee2fcbf3259c9ac406245a477b7eabc8be05158959725d953641c54",
+    "luws": "64A8964C-0766-4786-D3D4-30CE66E385A5_",
+    "x-signature": "b6fa46b65de255fb5a262999bd76be807a937c82ee650293d4c9ddf399c35e2f",
     "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/138.0.7204.23 Safari/537.36",
     "x-secure-level": "2",
-    "x-client": "1751617810.542",
+    "x-client": "1751618411.32",
     "x-user-email": null,
-    "204-dash": null,
-    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751632211~acl=/stream/204/file/*~id=allUsers~hmac=3458253f7c3a4f8a5235de74dc0726797160079fd7f386f7ca9235437bbbdca5",
-    "205-dash": null,
-    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751632211~acl=/stream/205/file/*~id=allUsers~hmac=e3fe355dc849dc4c4b32130f92fdbfffc2fcc694574779949cef16a17c21ded9",
-    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751632211~acl=/stream/206/file/*~id=allUsers~hmac=996b37016e09b3c9b960442c7527f35c7fc467cc33afb4edf53772e0d8fa6e64",
-    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751632211~acl=/stream/206/file/*~id=allUsers~hmac=996b37016e09b3c9b960442c7527f35c7fc467cc33afb4edf53772e0d8fa6e64",
     "18105-dash": null,
-    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751632211~acl=/stream/18105/file/*~id=allUsers~hmac=5b0200c7ffc720d36e3f22f96832f22e28774b3b7d71768ad5855cbe168bcb37",
+    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751632812~acl=/stream/18105/file/*~id=allUsers~hmac=49d977b9a15754d340b3c001dfb31774ed4c3ae40bdeb6578b61255a4f198f78",
+    "204-dash": null,
+    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751632812~acl=/stream/204/file/*~id=allUsers~hmac=ecc82388d4b08d06101c40e3c6af76fc28dfb445e8ace0605616c2532fcf759b",
+    "205-dash": null,
+    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751632812~acl=/stream/205/file/*~id=allUsers~hmac=d8a6dc19957f3fafb9fd17f33caa18ccf55fdf336d965a3b2eb6976e2e143114",
+    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751632812~acl=/stream/206/file/*~id=allUsers~hmac=f4f1b9ae6a5c9b7590dcb46e00dca56a8b0483c4fb86665eb439bb7603efa9dc",
+    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751632812~acl=/stream/206/file/*~id=allUsers~hmac=f4f1b9ae6a5c9b7590dcb46e00dca56a8b0483c4fb86665eb439bb7603efa9dc",
     "all-sections": "16890-17139-17140-17884-18189-18249-18250-18762-18994-19030-19035-6299-6317-6717",
     "all-vidiolivetv": [
       {
@@ -507,12 +507,6 @@
       "cover_url": "https://thumbor.prod.vidiocdn.com/6gYqMHIHdxo2dImqPD7pXSSyg4M=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/19030/press-conference-piala-presiden-2025-728c5d.jpg",
       "start_time": "2025-07-04T09:00:00.000Z"
     },
-    "4394283": {
-      "title": "FIA Formula 3 Championship Great Britain Grand Prix 2025 - Practice",
-      "web_url": "17884",
-      "cover_url": "https://thumbor.prod.vidiocdn.com/S1Q0v7KOXMYmIUpla_DVT3a_QBA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4394283/83a3e8.jpg",
-      "start_time": "2025-07-04T07:45:00.000Z"
-    },
     "4394284": {
       "title": "FIA Formula 2 Championship Great Britain Grand Prix 2025 - Practice",
       "web_url": "17884",
@@ -690,9 +684,9 @@
   },
   "vidioliveothers": {
     "17884": {
-      "title": "FIA Formula 3 Championship Great Britain Grand Prix 2025 - Practice",
+      "title": "Formula 1",
       "web_url": "17884",
-      "cover_url": "https://thumbor.prod.vidiocdn.com/S1Q0v7KOXMYmIUpla_DVT3a_QBA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4394283/83a3e8.jpg",
+      "cover_url": "https://thumbor.prod.vidiocdn.com/Rc1pHYZnd8l_siMi118TkKusbPM=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17884/formula-1-5ee872.jpg",
       "start_time": "2025-04-02T13:25:00.000Z"
     },
     "17938": {
