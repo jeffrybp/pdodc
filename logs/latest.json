@@ -1,5 +1,5 @@
 {
-  "time": "2025-07-04T02:20:09.322Z",
+  "time": "2025-07-04T02:30:09.488Z",
   "headers": {
     "x-api-platform": "web-desktop",
     "content-type": "application/vnd.api+json",
@@ -8,23 +8,23 @@
     "referer": "https://www.vidio.com/",
     "accept-language": "undefined",
     "sec-ch-ua": "\"Not)A;Brand\";v=\"8\", \"Chromium\";v=\"138\", \"HeadlessChrome\";v=\"138\"",
-    "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/ocaZyu2DD7ee7FYlr/LtiPgO1lfSpzowR98D1m2hgVsM27R44yfE7Ptzv/anVTntmUpO8wDw3BOU1YztH+5/3s=",
+    "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/iZdVopkaMCbOmecz0KwQGxhu1ULar2yPJNl6YvloBvXi3TxQZqqhoza+HX1CfGb254yn850o6bNEJyyZbNLrQ4=",
     "sec-ch-ua-mobile": "?0",
-    "luws": "9A58875D-F97D-78F8-03DF-F1F2E55249FC_",
-    "x-signature": "27208bf2dad7eb3908516aa1b136db0e63effd3957e3209276138c160ce449e5",
+    "luws": "0F7784F7-E188-3426-8452-3214E97BC37B_",
+    "x-signature": "1f855450195982881690e2b0bc7ee925bf99818b7d6c9f8fb7a3a76cbd5a277c",
     "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/138.0.7204.23 Safari/537.36",
     "x-secure-level": "2",
-    "x-client": "1751595606.254",
+    "x-client": "1751596206.332",
     "x-user-email": null,
     "18105-dash": null,
-    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751610007~acl=/stream/18105/file/*~id=allUsers~hmac=eafc90e54de62075a03bca13e07fb8121f7483651d5fba85d16b81cb9f45bfb8",
-    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751610007~acl=/stream/206/file/*~id=allUsers~hmac=a5417116b71b31ea14600cddcbbcce6e7ead884fe0090cfa6554cc07f3c44db4",
-    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751610007~acl=/stream/206/file/*~id=allUsers~hmac=a5417116b71b31ea14600cddcbbcce6e7ead884fe0090cfa6554cc07f3c44db4",
-    "204-dash": null,
-    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751610007~acl=/stream/204/file/*~id=allUsers~hmac=97bb2cd7423bf1486d38bc43436a0c7dd2c300d917a68fcbccfc83e4c29526ee",
+    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751610607~acl=/stream/18105/file/*~id=allUsers~hmac=4def15f819dd713c2f6b73cbfba11ec1e6aeb120a2c3f641f4ccdd9128b5c461",
     "205-dash": null,
-    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751610007~acl=/stream/205/file/*~id=allUsers~hmac=89fd52be44e9ec0f17e2bd73ec6dd87b9ca56613eccab4f265b1beae19920f59",
-    "all-sections": "16890-17139-17140-17884-18189-18249-18762-18994-19030-19035-6317",
+    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751610607~acl=/stream/205/file/*~id=allUsers~hmac=aea316002bec18f5f80f4527439eb5927880154e892da38f99a5bc23ff6bdcc1",
+    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751610607~acl=/stream/206/file/*~id=allUsers~hmac=cddf112f3787a1c65e958db7b33e8482e7849f308047c66d7884344c75e0fecf",
+    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751610607~acl=/stream/206/file/*~id=allUsers~hmac=cddf112f3787a1c65e958db7b33e8482e7849f308047c66d7884344c75e0fecf",
+    "204-dash": null,
+    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751610607~acl=/stream/204/file/*~id=allUsers~hmac=161af83622441d6dac46d12bc172f0152e44e7d0124441a6932e7e603ca8434f",
+    "all-sections": "16890-17139-17140-17884-18189-18762-18994-19030-19035-6317",
     "all-vidiolivetv": [
       {
         "content_id": "204",
@@ -489,12 +489,6 @@
     ]
   },
   "sections": {
-    "18249": {
-      "title": "Kathrine Vang/Mette Werge (DEN) vs Jackie Dent/Crystal Lai (CAN) - Women's Doubles Round of 16 | Yonex Canada Open 2025",
-      "web_url": "18249",
-      "cover_url": "https://thumbor.prod.vidiocdn.com/AiInhHjyzZYlIIL7Kl6iYuTd02o=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18249/yonex-canada-open-2025-round-of-16-court-1-a0ae77.jpg",
-      "start_time": "2025-07-03T21:30:00.000Z"
-    },
     "19030": {
       "title": "Press Conference Piala Presiden 2025",
       "web_url": "19030",
@@ -670,12 +664,6 @@
       "web_url": "17939",
       "cover_url": "https://thumbor.prod.vidiocdn.com/X-RqLAcQNAoAqhhYdA6L240KI50=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17939/serie-a-4cc90b.jpg",
       "start_time": "2024-10-20T12:45:00.000Z"
-    },
-    "18249": {
-      "title": "Kathrine Vang/Mette Werge (DEN) vs Jackie Dent/Crystal Lai (CAN) - Women's Doubles Round of 16 | Yonex Canada Open 2025",
-      "web_url": "18249",
-      "cover_url": "https://thumbor.prod.vidiocdn.com/AiInhHjyzZYlIIL7Kl6iYuTd02o=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18249/yonex-canada-open-2025-round-of-16-court-1-a0ae77.jpg",
-      "start_time": "2025-07-03T21:30:00.000Z"
     }
   }
 }
