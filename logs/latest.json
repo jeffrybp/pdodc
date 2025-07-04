@@ -1,5 +1,5 @@
 {
-  "time": "2025-07-04T08:50:16.119Z",
+  "time": "2025-07-04T09:00:16.474Z",
   "headers": {
     "x-api-platform": "web-desktop",
     "content-type": "application/vnd.api+json",
@@ -8,22 +8,22 @@
     "referer": "https://www.vidio.com/",
     "accept-language": "undefined",
     "sec-ch-ua": "\"Not)A;Brand\";v=\"8\", \"Chromium\";v=\"138\", \"HeadlessChrome\";v=\"138\"",
-    "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/kk3YRdRQWF6Kby51remjAqnBCEF6YBN4R/BjC8AViJ9f2g8edf9hH3sErJ3uoVd+Xij6PKaoq4GbGvW88pVFx0=",
+    "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/nRSnMqsNfuc1vYYKOBzek+s/XGmV3v5vaXBWpD5dTWFDOUULg0hdoirpVcCbSu4JGkD1Y+XKuZNEua2vLSjTd4=",
     "sec-ch-ua-mobile": "?0",
-    "luws": "B5B70C03-D098-C440-37FB-4D34AA1FFEFF_",
-    "x-signature": "be5cc4cec1da6fbdbec21661483a73193cb19cc750340253855e9b6f1b0410a5",
+    "luws": "0F4149FB-7775-D016-3842-F67834D7BB53_",
+    "x-signature": "356585a57c37487f9550dbe57b090df8932f1935e235d5930520900040fb0093",
     "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/138.0.7204.23 Safari/537.36",
     "x-secure-level": "2",
-    "x-client": "1751619012.49",
+    "x-client": "1751619612.485",
     "x-user-email": null,
-    "204-dash": null,
-    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751633413~acl=/stream/204/file/*~id=allUsers~hmac=d932e02c2de6e90c13b51872134d92e536296a3b22e4565ee7506fca844b5d71",
+    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751634013~acl=/stream/206/file/*~id=allUsers~hmac=ea84170e7a454d61c3a785e7de8375c42977e4fc9fa9acb39ba0a67318d8d65b",
+    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751634013~acl=/stream/206/file/*~id=allUsers~hmac=ea84170e7a454d61c3a785e7de8375c42977e4fc9fa9acb39ba0a67318d8d65b",
     "18105-dash": null,
-    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751633413~acl=/stream/18105/file/*~id=allUsers~hmac=5870e1577ce591622ebe719d56c981f71f08d29af774fcad3db7375fda24eb0e",
-    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751633413~acl=/stream/206/file/*~id=allUsers~hmac=66e9bd1f36326ef1c26ac24f6ef7e43a2d893c3d92663495a11e117c9d954085",
-    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751633413~acl=/stream/206/file/*~id=allUsers~hmac=66e9bd1f36326ef1c26ac24f6ef7e43a2d893c3d92663495a11e117c9d954085",
+    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751634013~acl=/stream/18105/file/*~id=allUsers~hmac=f9c3e5d69f28c28051ebf84a0271701add87ca724445651c2999d41e05045523",
     "205-dash": null,
-    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751633413~acl=/stream/205/file/*~id=allUsers~hmac=5f017e4c14ff0e34a4edc73b7aef56cd79c25762dbe913843e1974bd03f34c49",
+    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751634013~acl=/stream/205/file/*~id=allUsers~hmac=009f645f213d2ad118238d93163f36a1c5019f78ebe10167133c66d870ef1c1f",
+    "204-dash": null,
+    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751634013~acl=/stream/204/file/*~id=allUsers~hmac=9b8ff53ba5a626241c9ffecd6f56ab71ec44668924942cf6b6b8bc6c59cdb0e4",
     "all-sections": "16890-17139-17140-17884-18189-18249-18250-18762-18994-19030-19035-6299-6317-6717",
     "all-vidiolivetv": [
       {
@@ -504,7 +504,7 @@
     "19030": {
       "title": "Press Conference Piala Presiden 2025",
       "web_url": "19030",
-      "cover_url": "https://thumbor.prod.vidiocdn.com/6gYqMHIHdxo2dImqPD7pXSSyg4M=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/19030/press-conference-piala-presiden-2025-728c5d.jpg",
+      "cover_url": "https://thumbor.prod.vidiocdn.com/pfg5KKisKr4jDKk6dn6CwSxpOvY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4396746/04a5d3.jpg",
       "start_time": "2025-07-04T09:00:00.000Z"
     },
     "4394284": {
@@ -684,9 +684,9 @@
   },
   "vidioliveothers": {
     "17884": {
-      "title": "Formula 1",
+      "title": "FIA Formula 2 Championship Great Britain Grand Prix 2025 - Practice",
       "web_url": "17884",
-      "cover_url": "https://thumbor.prod.vidiocdn.com/Rc1pHYZnd8l_siMi118TkKusbPM=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17884/formula-1-5ee872.jpg",
+      "cover_url": "https://thumbor.prod.vidiocdn.com/s8C2mKENxtwbZ9UvAN0YHMk4Dj8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4394284/f8ef9f.jpg",
       "start_time": "2025-04-02T13:25:00.000Z"
     },
     "17938": {
@@ -701,11 +701,23 @@
       "cover_url": "https://thumbor.prod.vidiocdn.com/X-RqLAcQNAoAqhhYdA6L240KI50=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17939/serie-a-4cc90b.jpg",
       "start_time": "2024-10-20T12:45:00.000Z"
     },
+    "19030": {
+      "title": "Press Conference Piala Presiden 2025",
+      "web_url": "19030",
+      "cover_url": "https://thumbor.prod.vidiocdn.com/pfg5KKisKr4jDKk6dn6CwSxpOvY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4396746/04a5d3.jpg",
+      "start_time": "2025-07-04T09:00:00.000Z"
+    },
     "19038": {
       "title": "Tom Lembong Jalani Sidang Tuntutan Kasus Korupsi Impor Gula | LIVE",
       "web_url": "19038",
       "cover_url": "https://thumbor.prod.vidiocdn.com/xU-_nl8xarTJH1HWyUiiS91WVzk=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/19038/tom-lembong-hadapi-sidang-tuntutan-kasus-impor-gula-live-c310ab.jpg",
       "start_time": "2025-07-04T07:05:00.000Z"
+    },
+    "19041": {
+      "title": "Menteri UMKM Maman Abdurahman Datangi KPK, Terkait Viral Istri Keliling Eropa? | LIVE",
+      "web_url": "19041",
+      "cover_url": "https://thumbor.prod.vidiocdn.com/03pXJ5SQnG9jzQufzMHYTNX3knM=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/19041/menteri-umkm-maman-abdurahman-datangi-kpk-terkait-viral-istri-keliling-eropa-live-7493d7.jpg",
+      "start_time": "2025-07-04T08:52:00.000Z"
     }
   }
 }
