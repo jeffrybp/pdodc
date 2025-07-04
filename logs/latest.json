@@ -1,5 +1,5 @@
 {
-  "time": "2025-07-04T16:40:15.588Z",
+  "time": "2025-07-04T16:50:14.332Z",
   "headers": {
     "x-api-platform": "web-desktop",
     "content-type": "application/vnd.api+json",
@@ -8,22 +8,22 @@
     "referer": "https://www.vidio.com/",
     "accept-language": "undefined",
     "sec-ch-ua": "\"Not)A;Brand\";v=\"8\", \"Chromium\";v=\"138\", \"HeadlessChrome\";v=\"138\"",
-    "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/h02H0iBnMsolwjTFuhunif2zprN8qcUMcGPBwnlpoQJf+lOlnpoKiDa7e/uFEHcISrWL40UlJjWB5klAskZhew=",
+    "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/tjScDS+5OWlz/hCcf+eyDgXTxq1JHpt7MxrCH4j1jeT4IEF0OGygnwHu64cUK/NwyocKSy/E7C6K8quz/2/l8s=",
     "sec-ch-ua-mobile": "?0",
-    "luws": "C070BE05-A938-27EE-9A37-18E2E9DF8853_",
-    "x-signature": "691037802bcc1ce174ce602cbccda12d5535210e8a3a507bca0d6ce0fd33846d",
+    "luws": "5349187A-E23E-E161-90CF-52FAED0BBFC6_",
+    "x-signature": "0e674f9258fb28a1cac14c3ac3ba5acf010dd4fbe7be9b6a17faa8a8d326b08d",
     "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/138.0.7204.23 Safari/537.36",
     "x-secure-level": "2",
-    "x-client": "1751647212.957",
+    "x-client": "1751647811.602",
     "x-user-email": null,
-    "18105-dash": null,
-    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751661613~acl=/stream/18105/file/*~id=allUsers~hmac=c33280e8e8afadb9a7cbe054ec89443daad0c4df9d818d1a45dcec810939b087",
-    "204-dash": null,
-    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751661613~acl=/stream/204/file/*~id=allUsers~hmac=cd2db4c75daa08d786fe7b73ea483c3cc380b7568e9e9fd3afee4bc60b8bfc85",
     "205-dash": null,
-    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751661613~acl=/stream/205/file/*~id=allUsers~hmac=94c4ae99e904968165aabf3d365c08629207017f48434382bd687ad9da1c64cf",
-    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751661613~acl=/stream/206/file/*~id=allUsers~hmac=b50152376a9410e681580e7a6e0b9b02174541ac892eb08297901434b93f8cbb",
-    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751661613~acl=/stream/206/file/*~id=allUsers~hmac=b50152376a9410e681580e7a6e0b9b02174541ac892eb08297901434b93f8cbb",
+    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751662212~acl=/stream/205/file/*~id=allUsers~hmac=6ab64d5bbd454ad915405bf63474a89eaf6f59cd7b9715ca69f12b3b081931a2",
+    "18105-dash": null,
+    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751662212~acl=/stream/18105/file/*~id=allUsers~hmac=b89515e964bffdb77a1c80c830acde34054b5c02d59a9b454cd7b2dcfa03f7ca",
+    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751662212~acl=/stream/206/file/*~id=allUsers~hmac=7d9e9474c5a9b3e0c7d1931b96fe28ad8b57afa306ddcca5792fbbea9456f12e",
+    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751662212~acl=/stream/206/file/*~id=allUsers~hmac=7d9e9474c5a9b3e0c7d1931b96fe28ad8b57afa306ddcca5792fbbea9456f12e",
+    "204-dash": null,
+    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751662212~acl=/stream/204/file/*~id=allUsers~hmac=35be4d3ae4a724f99b9a4ec76ef5b498d7d159ed7026a95704429e59685deaab",
     "all-sections": "17139-17140-17884-18189-18249-18250-18762-18994-19035-6299-6317-6717",
     "all-vidiolivetv": [
       {
@@ -496,7 +496,7 @@
       "start_time": "2025-07-04T15:00:00.000Z"
     },
     "18250": {
-      "title": "Ruben Garcia/Lucia Rodriguez (ESP) vs Presley Smith/Jennie Gai (USA) - Mixed Doubles Quarterfinals | Yonex Canada Open 2025",
+      "title": "William Kryger Boe/Christian Faust Kjaer (DEN) vs Wei Chun Wei/Po Chih Yang (TPE) - Men's Doubles Quarterfinals | Yonex Canada Open 2025",
       "web_url": "18250",
       "cover_url": "https://thumbor.prod.vidiocdn.com/NwiLJ_UI09mig7xEAszjeF04Glg=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18250/yonex-canada-open-2025-round-of-16-court-2-8d40ca.jpg",
       "start_time": "2025-07-04T15:00:00.000Z"
@@ -648,7 +648,7 @@
       "start_time": "2025-07-04T15:00:00.000Z"
     },
     "18250": {
-      "title": "Ruben Garcia/Lucia Rodriguez (ESP) vs Presley Smith/Jennie Gai (USA) - Mixed Doubles Quarterfinals | Yonex Canada Open 2025",
+      "title": "William Kryger Boe/Christian Faust Kjaer (DEN) vs Wei Chun Wei/Po Chih Yang (TPE) - Men's Doubles Quarterfinals | Yonex Canada Open 2025",
       "web_url": "18250",
       "cover_url": "https://thumbor.prod.vidiocdn.com/NwiLJ_UI09mig7xEAszjeF04Glg=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18250/yonex-canada-open-2025-round-of-16-court-2-8d40ca.jpg",
       "start_time": "2025-07-04T15:00:00.000Z"
