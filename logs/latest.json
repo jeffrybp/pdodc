@@ -1,5 +1,5 @@
 {
-  "time": "2025-07-04T03:50:16.839Z",
+  "time": "2025-07-04T04:00:08.557Z",
   "headers": {
     "x-api-platform": "web-desktop",
     "content-type": "application/vnd.api+json",
@@ -8,22 +8,22 @@
     "referer": "https://www.vidio.com/",
     "accept-language": "undefined",
     "sec-ch-ua": "\"Not)A;Brand\";v=\"8\", \"Chromium\";v=\"138\", \"HeadlessChrome\";v=\"138\"",
-    "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/iTXmWPEXTskLyUrS2q6maD0miuyDdDOFaq1gijzIE1J+w56h3egfndbGXmTtsWhlxga0KH9o5I0+1DPkh6aIrY=",
+    "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/l1m10R3MJoMeU+tlK8vv1ryHmQWm5TK1+Bgj7b2zKQOYETTD2iL+eHn+VCYs94g5MpOjkXKAH6BeIR/jpEM9m4=",
     "sec-ch-ua-mobile": "?0",
-    "luws": "32ED5182-2522-41E5-0066-9E5337FA8D33_",
-    "x-signature": "869afe5b42b2c6974bc8542a34c0e6dbe31d1a90a0939e8e36607da73b691257",
+    "luws": "C45A2069-B933-5E05-AB17-6CA75976E9F2_",
+    "x-signature": "6e408da453527bf8a4db19a76f67a5d80715e8b590f34423b7493721d5c313e7",
     "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/138.0.7204.23 Safari/537.36",
     "x-secure-level": "2",
-    "x-client": "1751601014.067",
+    "x-client": "1751601606.037",
     "x-user-email": null,
     "205-dash": null,
-    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751615415~acl=/stream/205/file/*~id=allUsers~hmac=247120e2c01c771f5e81a81ad435689de7462f467180e0de927fd7ccec94f7b4",
+    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751616006~acl=/stream/205/file/*~id=allUsers~hmac=707ab91bdedebd4f91f460d1d113031cc68d07292a02eb87edf6c658c85e94b6",
+    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751616006~acl=/stream/206/file/*~id=allUsers~hmac=164543621fce23475e12e636a8e95508faba4254c32c9166a4d8d649bd68bde1",
+    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751616006~acl=/stream/206/file/*~id=allUsers~hmac=164543621fce23475e12e636a8e95508faba4254c32c9166a4d8d649bd68bde1",
     "18105-dash": null,
-    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751615415~acl=/stream/18105/file/*~id=allUsers~hmac=ca6588dd74b808c17bb33fa2e9b9968551c2a07c3b9e9822fc5fe3834092b035",
-    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751615415~acl=/stream/206/file/*~id=allUsers~hmac=b25f90d435e70ec39a9db82df3109db3caa0d2a270c02773fae084fc5bbc73bc",
-    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751615415~acl=/stream/206/file/*~id=allUsers~hmac=b25f90d435e70ec39a9db82df3109db3caa0d2a270c02773fae084fc5bbc73bc",
+    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751616006~acl=/stream/18105/file/*~id=allUsers~hmac=7d5dad189ec0d2f5bb72fbcd9f5826bfea2aec4626b406a60a95f697dacb304a",
     "204-dash": null,
-    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751615415~acl=/stream/204/file/*~id=allUsers~hmac=7c650da4933a5ac2ba2aaf1c1858e5ded23cf35cfc77fc059c352fe49c0af632",
+    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751616006~acl=/stream/204/file/*~id=allUsers~hmac=80a3b8a67cbcc7273e301e6cd2c497b5069122cf5d474daf7325a21d653147d2",
     "all-sections": "16890-17139-17140-17884-18189-18249-18250-18762-18994-19030-19035-6299-6317-6717",
     "all-vidiolivetv": [
       {
@@ -688,7 +688,7 @@
       "title": "Misa Jumat Pertama EMTEK Group",
       "web_url": "7466",
       "cover_url": "https://thumbor.prod.vidiocdn.com/HIioRlVwOZR4g2qsYWB9n-hIenU=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7466/misa-jumat-pertama-emtek-group-c02634.jpg",
-      "start_time": "2025-07-04T04:30:00.000Z"
+      "start_time": "2025-07-04T04:50:00.000Z"
     },
     "17884": {
       "title": "Formula 1",
