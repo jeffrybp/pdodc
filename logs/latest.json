@@ -1,5 +1,5 @@
 {
-  "time": "2025-07-04T19:40:12.940Z",
+  "time": "2025-07-04T19:50:08.885Z",
   "headers": {
     "x-api-platform": "web-desktop",
     "content-type": "application/vnd.api+json",
@@ -8,22 +8,22 @@
     "referer": "https://www.vidio.com/",
     "accept-language": "undefined",
     "sec-ch-ua": "\"Not)A;Brand\";v=\"8\", \"Chromium\";v=\"138\", \"HeadlessChrome\";v=\"138\"",
-    "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/vtjXDUys94RVdcOlECxHcvTPwXHpkUp7wiLXr5NaKY5uzLZ7knXcvO/1/jZR4OdbtdSUqajMfq/CIK10PgzRGg=",
+    "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/oMnfxTHRiqx4s/R1kgeRwcPwOecIYv2Tmwr7r96lLEPzy/lbur4M2lfD4gp8XCJvtMPUG8bICjrQpjIrgPEayg=",
     "sec-ch-ua-mobile": "?0",
-    "luws": "BF2564AA-7BDC-31CD-EE80-43586CD5D1C4_",
-    "x-signature": "04f8679e74c499408fa9bda0c06af574b6f8b92ac7b2dfca51298d56a084555f",
+    "luws": "D3E97162-4AC1-3A68-E5A1-0F9214A7DEC5_",
+    "x-signature": "9c7c7599efa234802a58b37bed4219157b91332c077c03c9108cb09999c904eb",
     "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/138.0.7204.23 Safari/537.36",
     "x-secure-level": "2",
-    "x-client": "1751658011.089",
+    "x-client": "1751658606.495",
     "x-user-email": null,
-    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751672411~acl=/stream/206/file/*~id=allUsers~hmac=2356b53661e596ebd194d27ce3d2b6bdb5e609448592ae0f704fffc3f4419b6a",
-    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751672411~acl=/stream/206/file/*~id=allUsers~hmac=2356b53661e596ebd194d27ce3d2b6bdb5e609448592ae0f704fffc3f4419b6a",
-    "204-dash": null,
-    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751672411~acl=/stream/204/file/*~id=allUsers~hmac=750d5603bc9964880f2a8d61739233fe371ecbe27609ef3df344e1c848872799",
-    "18105-dash": null,
-    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751672411~acl=/stream/18105/file/*~id=allUsers~hmac=9d48abd23f803e77f289264c8096d86b5dfbb2fe5751b8ab9f1cf55f7e3708d4",
     "205-dash": null,
-    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751672411~acl=/stream/205/file/*~id=allUsers~hmac=0d53aa6156dcf71f9b3ab76673fda61d7a681e36439e5f2c02894f7e2e1337a1",
+    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751673007~acl=/stream/205/file/*~id=allUsers~hmac=03483aab5c53c61f422b8e44cd2612b776e35e64dcb88762c97fd81f34f18011",
+    "204-dash": null,
+    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751673007~acl=/stream/204/file/*~id=allUsers~hmac=06d7a41e5e9e1d9ec2ed2a5615accabe16377a79488b46734e39082f6b9463fb",
+    "18105-dash": null,
+    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751673007~acl=/stream/18105/file/*~id=allUsers~hmac=94f310d0bd4473875224b8fbd90cb64f50880340c0e35d0f388051d4d552a078",
+    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751673007~acl=/stream/206/file/*~id=allUsers~hmac=5fdaf3d110ec7b51cc155300377c49b4521bc9c0f36ecd4c0ba5f91b7180b690",
+    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751673007~acl=/stream/206/file/*~id=allUsers~hmac=5fdaf3d110ec7b51cc155300377c49b4521bc9c0f36ecd4c0ba5f91b7180b690",
     "all-sections": "17139-17884-18189-18249-18250-18762-18994-19035-6299-6317-6717",
     "all-vidiolivetv": [
       {
@@ -490,10 +490,10 @@
   },
   "sections": {
     "18249": {
-      "title": "Kevin Lee/Josephine Wu (CAN) vs Callum Hemming/Estelle Van Leeuwen (ENG) - Mixed Doubles Quarterfinals | Yonex Canada Open 2025",
+      "title": "Chou Tien Chen (TPE) vs Kidambi Srikanth (IND) - Men's Singles Quarterfinals | Yonex Canada Open 2025",
       "web_url": "18249",
       "cover_url": "https://thumbor.prod.vidiocdn.com/gfJ0t4Q14rQL3K6EF-_xpMcKVX8=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18249/yonex-canada-open-2025-round-of-16-court-1-4a838c.jpg",
-      "start_time": "2025-07-04T15:00:00.000Z"
+      "start_time": "2025-07-04T21:30:00.000Z"
     },
     "18250": {
       "title": "Kaho Osawa/Mai Tanabe (JPN) vs Lauren Lam/Allison Lee (USA) - Women's Doubles Quarterfinals | Yonex Canada Open 2025",
@@ -616,12 +616,6 @@
       "web_url": "17939",
       "cover_url": "https://thumbor.prod.vidiocdn.com/X-RqLAcQNAoAqhhYdA6L240KI50=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17939/serie-a-4cc90b.jpg",
       "start_time": "2024-10-20T12:45:00.000Z"
-    },
-    "18249": {
-      "title": "Kevin Lee/Josephine Wu (CAN) vs Callum Hemming/Estelle Van Leeuwen (ENG) - Mixed Doubles Quarterfinals | Yonex Canada Open 2025",
-      "web_url": "18249",
-      "cover_url": "https://thumbor.prod.vidiocdn.com/gfJ0t4Q14rQL3K6EF-_xpMcKVX8=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18249/yonex-canada-open-2025-round-of-16-court-1-4a838c.jpg",
-      "start_time": "2025-07-04T15:00:00.000Z"
     }
   }
 }
