@@ -1,5 +1,5 @@
 {
-  "time": "2025-07-04T08:10:16.159Z",
+  "time": "2025-07-04T08:20:08.493Z",
   "headers": {
     "x-api-platform": "web-desktop",
     "content-type": "application/vnd.api+json",
@@ -8,22 +8,22 @@
     "referer": "https://www.vidio.com/",
     "accept-language": "undefined",
     "sec-ch-ua": "\"Not)A;Brand\";v=\"8\", \"Chromium\";v=\"138\", \"HeadlessChrome\";v=\"138\"",
-    "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/pMKn5Y3DT4tsONChhY1Ef+pXR1NsNzfFfoeiaHagbZlksYWdy0giaw892tH1AnuI3fGYkv7cHFBlVwedqIQdL8=",
+    "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/hl9C4qLd4+KSOmoa+MWgPR0a1Xp7C6jSrGe0Nyurtfku8px4OjYHa2KIOmqiT0atvQD9uESEdrMp7XKGp97BWc=",
     "sec-ch-ua-mobile": "?0",
-    "luws": "D3D36150-8D8C-F493-8117-5C3829EFA3E4_",
-    "x-signature": "42ef373361fa300314869d2fcf515da700eea5c6169073ae049aa9de35096e08",
+    "luws": "65C6AE3F-7D7C-987B-3FDB-F8B1929EAA2F_",
+    "x-signature": "e621dc0922a15c53f085036c780ff08fa79ed82d54a2d4bebc6632879ddb2156",
     "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/138.0.7204.23 Safari/537.36",
     "x-secure-level": "2",
-    "x-client": "1751616612.477",
+    "x-client": "1751617206.196",
     "x-user-email": null,
-    "18105-dash": null,
-    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751631013~acl=/stream/18105/file/*~id=allUsers~hmac=b565b1428a4f3e809cd3f6dd8e58ba0b8366fc52028e273d73f3d6d5de69afaf",
     "205-dash": null,
-    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751631013~acl=/stream/205/file/*~id=allUsers~hmac=89e10a34216aedd51047e5d3f6f86a78a14138d7fc84c0c7c0c060c987535273",
+    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751631606~acl=/stream/205/file/*~id=allUsers~hmac=48850e6d767d0acce4270c705053564bfb354f18b5a3bb2f405b12cda65e0b20",
+    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751631606~acl=/stream/206/file/*~id=allUsers~hmac=0421342e452a5dc96490abf1f94a7a90bf3bfd791b2bbce88df5dae43a3bfaae",
+    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751631606~acl=/stream/206/file/*~id=allUsers~hmac=0421342e452a5dc96490abf1f94a7a90bf3bfd791b2bbce88df5dae43a3bfaae",
     "204-dash": null,
-    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751631013~acl=/stream/204/file/*~id=allUsers~hmac=ef68913d5d82643e4d9c05e987e77fa05e60a93a3177973a9e797899b019b5f2",
-    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751631013~acl=/stream/206/file/*~id=allUsers~hmac=173e127e835b6770f4f8b45abe9cb9f2774f8acdc18f680f2665bc06369fc806",
-    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751631013~acl=/stream/206/file/*~id=allUsers~hmac=173e127e835b6770f4f8b45abe9cb9f2774f8acdc18f680f2665bc06369fc806",
+    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751631606~acl=/stream/204/file/*~id=allUsers~hmac=a57997ed77c2df06505d40717b7b4fe1558280274d08577cc89509e294e28f5e",
+    "18105-dash": null,
+    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751631607~acl=/stream/18105/file/*~id=allUsers~hmac=d176c8471ae0d4f58b5c2c033acd34d741cac4b467d736a3fc54bfbd6a398688",
     "all-sections": "16890-17139-17140-17884-18189-18249-18250-18762-18994-19030-19035-6299-6317-6717",
     "all-vidiolivetv": [
       {
@@ -702,23 +702,11 @@
       "cover_url": "https://thumbor.prod.vidiocdn.com/X-RqLAcQNAoAqhhYdA6L240KI50=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17939/serie-a-4cc90b.jpg",
       "start_time": "2024-10-20T12:45:00.000Z"
     },
-    "19037": {
-      "title": "Kejutan Rapat Komisi III Bahas Putusan MK Soal Pemisahan Pemilu, Panggil Menkumham SBY",
-      "web_url": "19037",
-      "cover_url": "https://thumbor.prod.vidiocdn.com/4cDzc-MQkSPCmygE4WkKuib9_OM=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/19037/merdeka-com-1b2712.jpg",
-      "start_time": "2025-07-04T06:35:00.000Z"
-    },
     "19038": {
       "title": "Tom Lembong Jalani Sidang Tuntutan Kasus Korupsi Impor Gula | LIVE",
       "web_url": "19038",
       "cover_url": "https://thumbor.prod.vidiocdn.com/xU-_nl8xarTJH1HWyUiiS91WVzk=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/19038/tom-lembong-hadapi-sidang-tuntutan-kasus-impor-gula-live-c310ab.jpg",
       "start_time": "2025-07-04T07:05:00.000Z"
-    },
-    "19039": {
-      "title": "Bahas Pemilu Dipisah, DPR Panggil Sejumlah Pakar | LIVE",
-      "web_url": "19039",
-      "cover_url": "https://thumbor.prod.vidiocdn.com/-FAtX8aia1Ocpn6ncrmqRNQU3m4=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/19039/bahas-pemilu-dipisah-dpr-panggil-sejumlah-pakar-live-9c252c.jpg",
-      "start_time": "2025-07-04T06:40:00.000Z"
     }
   }
 }
