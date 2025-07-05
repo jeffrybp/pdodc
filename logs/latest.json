@@ -1,5 +1,5 @@
 {
-  "time": "2025-07-05T17:20:12.445Z",
+  "time": "2025-07-05T17:30:08.877Z",
   "headers": {
     "x-api-platform": "web-desktop",
     "content-type": "application/vnd.api+json",
@@ -8,22 +8,22 @@
     "referer": "https://www.vidio.com/",
     "accept-language": "undefined",
     "sec-ch-ua": "\"Not)A;Brand\";v=\"8\", \"Chromium\";v=\"138\", \"HeadlessChrome\";v=\"138\"",
-    "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/vSsJTSL+gNygGtiNFhPfYEBDdY8cYWrOlHK8CQO9BIAzi5B9tIEuFmEwGwsS7M4Fgn1M1sKpWkw/8TiFZpA6CE=",
+    "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/hUFr+EqCuhxqPWJGaPZjST01HBLP4cZsxdy2vI6ABnwUvqUxLqo6AFGmcMbnQkGRM1kYZ1tTXIg/ZXywQipYH8=",
     "sec-ch-ua-mobile": "?0",
-    "luws": "8B38C385-7978-2C95-0EC4-F4298A77EBA9_",
-    "x-signature": "2a86ef1f61e0476225bed6eb9cd94ad2604b2125e0331d752e79f97f8ff4514e",
+    "luws": "EC041262-B2E6-DCC7-1C57-8240CE7BB5CE_",
+    "x-signature": "ceaf48d2f81a84812e01e738c318c8b0d245bf4435331e053c2316a8e91c83ca",
     "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/138.0.7204.23 Safari/537.36",
     "x-secure-level": "2",
-    "x-client": "1751736009.383",
+    "x-client": "1751736606.196",
     "x-user-email": null,
-    "205-dash": null,
-    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751750410~acl=/stream/205/file/*~id=allUsers~hmac=fe07dae309a2bd2e3e232f55a59716436960427ac54f00ab086c40c9a3323cca",
     "18105-dash": null,
-    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751750410~acl=/stream/18105/file/*~id=allUsers~hmac=de0f75c2321db9873a5bd5dd2d3f2206c058448bad79c334c96b96ccfb2cf885",
+    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751751007~acl=/stream/18105/file/*~id=allUsers~hmac=f9862f49be261149df97bd4e73802b748d5f771a3b38f17dfc9556642843d2f9",
     "204-dash": null,
-    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751750410~acl=/stream/204/file/*~id=allUsers~hmac=865179f8c2305624fd72d6fc8435fb88190105ae0e82898a9a77e590f83367ec",
-    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751750410~acl=/stream/206/file/*~id=allUsers~hmac=55c238c26b9066690793e166067a8a1eae4626445d8bad16a4a7b17338c08daf",
-    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751750410~acl=/stream/206/file/*~id=allUsers~hmac=55c238c26b9066690793e166067a8a1eae4626445d8bad16a4a7b17338c08daf",
+    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751751007~acl=/stream/204/file/*~id=allUsers~hmac=71f82e10a35da6b42a2bf701710cd909e240ee07fa7bd1bc300a953d7fdfa636",
+    "205-dash": null,
+    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751751007~acl=/stream/205/file/*~id=allUsers~hmac=d7a85e399d0941c658a627f71c928986bf9d4dcd6c33e08771152bf0c8c1fea3",
+    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751751007~acl=/stream/206/file/*~id=allUsers~hmac=fdde2178b67eaa7dc7bba6b83d8ff779cca5ca6966ded75cde9b462865bc1ba1",
+    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751751007~acl=/stream/206/file/*~id=allUsers~hmac=fdde2178b67eaa7dc7bba6b83d8ff779cca5ca6966ded75cde9b462865bc1ba1",
     "all-sections": "17139-17140-17141-17884-18189-18249-18250-18762-19035-6317-6717",
     "all-vidiolivetv": [
       {
@@ -490,7 +490,7 @@
   },
   "sections": {
     "18249": {
-      "title": "Kidambi Srikanth (IND) vs Kenta Nishimoto (JPN) - Men's Singles Semifinals | Yonex Canada Open 2025",
+      "title": "P Smith/J Gai (USA) vs M Seidel/T Nguyen (GER) - Mixed Doubles Semifinal | Yonex Canada Open 2025",
       "web_url": "18249",
       "cover_url": "https://thumbor.prod.vidiocdn.com/IbGwrum4y9WjVrHYAhV_Xq1qD_4=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18249/yonex-canada-open-2025-semifinals-court-1-8e489c.jpg",
       "start_time": "2025-07-05T15:00:00.000Z"
@@ -648,7 +648,7 @@
       "start_time": "2024-10-20T12:45:00.000Z"
     },
     "18249": {
-      "title": "Kidambi Srikanth (IND) vs Kenta Nishimoto (JPN) - Men's Singles Semifinals | Yonex Canada Open 2025",
+      "title": "P Smith/J Gai (USA) vs M Seidel/T Nguyen (GER) - Mixed Doubles Semifinal | Yonex Canada Open 2025",
       "web_url": "18249",
       "cover_url": "https://thumbor.prod.vidiocdn.com/IbGwrum4y9WjVrHYAhV_Xq1qD_4=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18249/yonex-canada-open-2025-semifinals-court-1-8e489c.jpg",
       "start_time": "2025-07-05T15:00:00.000Z"
