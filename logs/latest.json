@@ -1,5 +1,5 @@
 {
-  "time": "2025-07-05T21:10:12.960Z",
+  "time": "2025-07-05T21:20:11.921Z",
   "headers": {
     "x-api-platform": "web-desktop",
     "content-type": "application/vnd.api+json",
@@ -8,22 +8,22 @@
     "referer": "https://www.vidio.com/",
     "accept-language": "undefined",
     "sec-ch-ua": "\"Not)A;Brand\";v=\"8\", \"Chromium\";v=\"138\", \"HeadlessChrome\";v=\"138\"",
-    "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/qoRyDTuzJE6ZHX5NAGAmdXHYGKhohnWjn9fTuslVDnVvnPI59LN7ln7wUq3XVM1VhJdKeif7sHF1tqsAcCE/RU=",
+    "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/iwG4PUKy8e9/Y/WT9jYBIeXbg2JECpzbT45+ENFNCk0yrsMEfjDmNd0sIJoULoguAdAFVbDlj8UfRGIFMr/YYs=",
     "sec-ch-ua-mobile": "?0",
-    "luws": "63CB2D04-359B-D597-59C4-DBD9B63D8CAD_",
-    "x-signature": "70f270a19b5fe4bc27e195ebaacef2f2e14a4632af51aa6fba1b87dbf2196729",
+    "luws": "3824B1C7-CA6F-9793-FBC7-E148BED9F9C4_",
+    "x-signature": "3f0efd4929b91a6b161e2a0706fc501d305769bce8695c4fda504502218cc252",
     "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/138.0.7204.23 Safari/537.36",
     "x-secure-level": "2",
-    "x-client": "1751749810.424",
+    "x-client": "1751750410.014",
     "x-user-email": null,
-    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751764211~acl=/stream/206/file/*~id=allUsers~hmac=cd409ce073afcae0eee93b6ee3efc8931a3ecd1a7009ed76a2714caae3592751",
-    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751764211~acl=/stream/206/file/*~id=allUsers~hmac=cd409ce073afcae0eee93b6ee3efc8931a3ecd1a7009ed76a2714caae3592751",
-    "204-dash": null,
-    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751764211~acl=/stream/204/file/*~id=allUsers~hmac=68635e60ea6e3047b869b8b67e6f61ed99043265cc0ab8aa414972af2f0b66e7",
+    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751764810~acl=/stream/206/file/*~id=allUsers~hmac=c29054d61c38d237f5bf2d3e1c46cec7ee44ddc231f0209008d8701bab74b84d",
+    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751764810~acl=/stream/206/file/*~id=allUsers~hmac=c29054d61c38d237f5bf2d3e1c46cec7ee44ddc231f0209008d8701bab74b84d",
     "205-dash": null,
-    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751764211~acl=/stream/205/file/*~id=allUsers~hmac=cb393bb1cd5db9afc842f370eb76b39619d80af18d0fcf50fc449e37527b10c7",
+    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751764810~acl=/stream/205/file/*~id=allUsers~hmac=835e175abef907379464d9c323eebc0b6b19755850b943c84169f43ca377ed33",
     "18105-dash": null,
-    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751764211~acl=/stream/18105/file/*~id=allUsers~hmac=5f6ba1522892b1e46948aeebe178bfa1fed9117f4b60fe3eb0c1bef3f084e9b7",
+    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751764810~acl=/stream/18105/file/*~id=allUsers~hmac=ccadafaca4aedd97e20d18ca6c79e1444a9894ea35f3ea4d85e6d94d00ef5a4a",
+    "204-dash": null,
+    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751764810~acl=/stream/204/file/*~id=allUsers~hmac=ac899e943e5c6949b01bb721cf4b745d13f7a4ce35af43066ad025383f95f554",
     "all-sections": "17140-17141-17884-18249-18250-18762-19035-6717",
     "all-vidiolivetv": [
       {
@@ -496,7 +496,7 @@
       "start_time": "2025-07-05T20:20:00.000Z"
     },
     "18250": {
-      "title": "Chang Ko-Chi/Po Li-Wei (TPE) vs Wei Chun Wei/Po Chih Yang (TPE) - Men's Doubles Semifinals | Yonex Canada Open 2025",
+      "title": "Fang-Chih Lee/Fang-Jen Lee (TPE) vs Zhi-Wei He/Huang Jui-Hsuan (TPE) - Men's Doubles Semifinals | Yonex Canada Open 2025",
       "web_url": "18250",
       "cover_url": "https://thumbor.prod.vidiocdn.com/5_5-6whgGMUO_q2IviTQhZbzwUw=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18250/yonex-canada-open-2025-semifinals-court-2-6debea.jpg",
       "start_time": "2025-07-05T20:25:00.000Z"
@@ -630,7 +630,7 @@
       "start_time": "2025-07-05T20:20:00.000Z"
     },
     "18250": {
-      "title": "Chang Ko-Chi/Po Li-Wei (TPE) vs Wei Chun Wei/Po Chih Yang (TPE) - Men's Doubles Semifinals | Yonex Canada Open 2025",
+      "title": "Fang-Chih Lee/Fang-Jen Lee (TPE) vs Zhi-Wei He/Huang Jui-Hsuan (TPE) - Men's Doubles Semifinals | Yonex Canada Open 2025",
       "web_url": "18250",
       "cover_url": "https://thumbor.prod.vidiocdn.com/5_5-6whgGMUO_q2IviTQhZbzwUw=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18250/yonex-canada-open-2025-semifinals-court-2-6debea.jpg",
       "start_time": "2025-07-05T20:25:00.000Z"
