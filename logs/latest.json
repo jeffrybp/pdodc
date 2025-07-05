@@ -1,5 +1,5 @@
 {
-  "time": "2025-07-05T22:20:13.016Z",
+  "time": "2025-07-05T22:30:12.847Z",
   "headers": {
     "x-api-platform": "web-desktop",
     "content-type": "application/vnd.api+json",
@@ -10,21 +10,21 @@
     "sec-ch-ua": "\"Not)A;Brand\";v=\"8\", \"Chromium\";v=\"138\", \"HeadlessChrome\";v=\"138\"",
     "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/j+1QdSaMh2zAuz8/RsbdnsdCGPYylhEDILuPYbujtJd+nH17b86CH9R+6tPM9Y3sjzDQpi0RF/xNAvW+Y4WJ1c=",
     "sec-ch-ua-mobile": "?0",
-    "luws": "82726FCB-B185-BF8A-FFDE-1637E1588178_",
-    "x-signature": "dfd167ad3b68c12ec2f91b00feac101a0ebfce32c2c9744568c26b237d4041f3",
+    "luws": "855DC482-49CF-00C1-FF06-AF3F2359BE4B_",
+    "x-signature": "5f120f8eae97bc0b7a88808e6e09807dae83c8b60f776b1894c453a29219063e",
     "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/138.0.7204.23 Safari/537.36",
     "x-secure-level": "2",
-    "x-client": "1751754010.226",
+    "x-client": "1751754610.608",
     "x-user-email": null,
     "205-dash": null,
-    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751768411~acl=/stream/205/file/*~id=allUsers~hmac=ec858d1d300db07dde3393332a5cc265f956a774231220b0e638981a32f7e3b8",
+    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751769011~acl=/stream/205/file/*~id=allUsers~hmac=3227a65502203ac6cdfb5a88c57bcf16d0be9a6a5a3460b7ce7fee06e42399e1",
     "204-dash": null,
-    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751768411~acl=/stream/204/file/*~id=allUsers~hmac=edad5ae6add5ec3d300972a20cabc5287d3ef4f3eb0d20f9bbcd0934bc6a7a3a",
-    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751768411~acl=/stream/206/file/*~id=allUsers~hmac=2190553cba6d06ef4d6033b547b4a1252718a0fbf01edf5cfe5c6622b5f308dc",
-    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751768411~acl=/stream/206/file/*~id=allUsers~hmac=2190553cba6d06ef4d6033b547b4a1252718a0fbf01edf5cfe5c6622b5f308dc",
+    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751769011~acl=/stream/204/file/*~id=allUsers~hmac=9da6ca0c8e11c4c37dd0459f2ff39147cb96a0cd6af9b42a1fee6702149b9c61",
     "18105-dash": null,
-    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751768411~acl=/stream/18105/file/*~id=allUsers~hmac=3e237bbcf22f0f52585744dac4d119477a968c7728d17fe9d3daf34b105ee942",
-    "all-sections": "17139-17140-17141-17884-18249-18250-18762-19035-6717",
+    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751769011~acl=/stream/18105/file/*~id=allUsers~hmac=ddedb86568c69a1da07d7303e23d8bb9eab364d227d34c0489ea0ed9b1dda446",
+    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751769011~acl=/stream/206/file/*~id=allUsers~hmac=b75a4d9bb81e697fa27677234dec43299ca2c7465869718cb85837432fa4d67d",
+    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751769011~acl=/stream/206/file/*~id=allUsers~hmac=b75a4d9bb81e697fa27677234dec43299ca2c7465869718cb85837432fa4d67d",
+    "all-sections": "17139-17140-17141-17884-18249-18762-19035",
     "all-vidiolivetv": [
       {
         "content_id": "204",
@@ -490,16 +490,10 @@
   },
   "sections": {
     "18249": {
-      "title": "Kaho Osawa/Mai Tanabe (JPN) vs Chang Ching Hui/Yang Ching Tun (TPE) - Women's Doubles Semifinals | Yonex Canada Open 2025",
+      "title": "Michelle Li (CAN) vs Manami Suizu (JPN) - Women's Singles Semifinals | Yonex Canada Open 2025",
       "web_url": "18249",
       "cover_url": "https://thumbor.prod.vidiocdn.com/IbGwrum4y9WjVrHYAhV_Xq1qD_4=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18249/yonex-canada-open-2025-semifinals-court-1-8e489c.jpg",
       "start_time": "2025-07-05T20:20:00.000Z"
-    },
-    "18250": {
-      "title": "Fang-Chih Lee/Fang-Jen Lee (TPE) vs Zhi-Wei He/Huang Jui-Hsuan (TPE) - Men's Doubles Semifinals | Yonex Canada Open 2025",
-      "web_url": "18250",
-      "cover_url": "https://thumbor.prod.vidiocdn.com/5_5-6whgGMUO_q2IviTQhZbzwUw=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18250/yonex-canada-open-2025-semifinals-court-2-6debea.jpg",
-      "start_time": "2025-07-05T20:25:00.000Z"
     },
     "4398542": {
       "title": "Persib Bandung vs Port FC - Piala Presiden",
@@ -518,12 +512,6 @@
       "web_url": "18762",
       "cover_url": "https://thumbor.prod.vidiocdn.com/SD4jGZjdztF-B8Xnqc234pN2E5Q=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4399170/21a0f8.jpg",
       "start_time": "2025-07-06T13:55:00.000Z"
-    },
-    "4401312": {
-      "title": "Miami Heat vs San Antonio Spurs - NBA 2K Summer League",
-      "web_url": "6717",
-      "cover_url": "https://thumbor.prod.vidiocdn.com/UrUK4NDzUPg2s04UubTSFBcOfV4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4401312/fe403c.jpg",
-      "start_time": "2025-07-05T20:30:00.000Z"
     },
     "4403692": {
       "title": "FIM Junior Motocross World Championship 2025: 125cc - Race 1",
@@ -660,16 +648,10 @@
       "start_time": "2024-10-20T12:45:00.000Z"
     },
     "18249": {
-      "title": "Kaho Osawa/Mai Tanabe (JPN) vs Chang Ching Hui/Yang Ching Tun (TPE) - Women's Doubles Semifinals | Yonex Canada Open 2025",
+      "title": "Michelle Li (CAN) vs Manami Suizu (JPN) - Women's Singles Semifinals | Yonex Canada Open 2025",
       "web_url": "18249",
       "cover_url": "https://thumbor.prod.vidiocdn.com/IbGwrum4y9WjVrHYAhV_Xq1qD_4=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18249/yonex-canada-open-2025-semifinals-court-1-8e489c.jpg",
       "start_time": "2025-07-05T20:20:00.000Z"
-    },
-    "18250": {
-      "title": "Fang-Chih Lee/Fang-Jen Lee (TPE) vs Zhi-Wei He/Huang Jui-Hsuan (TPE) - Men's Doubles Semifinals | Yonex Canada Open 2025",
-      "web_url": "18250",
-      "cover_url": "https://thumbor.prod.vidiocdn.com/5_5-6whgGMUO_q2IviTQhZbzwUw=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18250/yonex-canada-open-2025-semifinals-court-2-6debea.jpg",
-      "start_time": "2025-07-05T20:25:00.000Z"
     }
   }
 }
