@@ -1,5 +1,5 @@
 {
-  "time": "2025-07-05T18:40:12.895Z",
+  "time": "2025-07-05T18:50:11.611Z",
   "headers": {
     "x-api-platform": "web-desktop",
     "content-type": "application/vnd.api+json",
@@ -10,20 +10,20 @@
     "sec-ch-ua": "\"Not)A;Brand\";v=\"8\", \"Chromium\";v=\"138\", \"HeadlessChrome\";v=\"138\"",
     "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/vwP6nk6qE6iscdnGpkXmNDrz1vg8i/c2mhM+0fh8dj2fOTA7tYmt+X5N+Ji9ghAMgVv8apuv/DjDrVjDDh+8kk=",
     "sec-ch-ua-mobile": "?0",
-    "luws": "AA4F5365-07C7-B74D-A18E-E70866EFDEA8_",
-    "x-signature": "58e022fd8604d30a844e895465fcf0a69d59104bd530912ba64fb018c4779be0",
+    "luws": "1E01B6D6-7B17-A699-E337-E9DAE9AAB248_",
+    "x-signature": "ee9470939f57e40655ff56e1638b41f346e7b697182c709441eb4d636b3b8777",
     "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/138.0.7204.23 Safari/537.36",
     "x-secure-level": "2",
-    "x-client": "1751740809.978",
+    "x-client": "1751741409.374",
     "x-user-email": null,
+    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751755810~acl=/stream/206/file/*~id=allUsers~hmac=3f096234a896654a6efa4bc69224dcb9499a53b5e3941a85f58fbf76cdbc58ff",
+    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751755810~acl=/stream/206/file/*~id=allUsers~hmac=3f096234a896654a6efa4bc69224dcb9499a53b5e3941a85f58fbf76cdbc58ff",
     "204-dash": null,
-    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751755211~acl=/stream/204/file/*~id=allUsers~hmac=16d57ee0ef456f8a973bbbf095851382b0ba85c154d72220f31139545fd16efa",
-    "18105-dash": null,
-    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751755211~acl=/stream/18105/file/*~id=allUsers~hmac=3cffa9679bf76a4ca182c0a493ac7d809be3f9fbed6b1e86df7d69d1fc9aa5ff",
-    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751755211~acl=/stream/206/file/*~id=allUsers~hmac=ac5865c51ec60012063ae7fa7b96bf6a9a06ef4336d6f2ae9a89cb9a0b809f4c",
-    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751755211~acl=/stream/206/file/*~id=allUsers~hmac=ac5865c51ec60012063ae7fa7b96bf6a9a06ef4336d6f2ae9a89cb9a0b809f4c",
+    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751755810~acl=/stream/204/file/*~id=allUsers~hmac=50566549ab19677db03dd89ab865e104bff7253f49d38e7ce3c8f6d1f2bb6681",
     "205-dash": null,
-    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751755211~acl=/stream/205/file/*~id=allUsers~hmac=c520a18eecb6478bef82203b45679d086b2804e09c137c22483e60bbc4ab8d49",
+    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751755810~acl=/stream/205/file/*~id=allUsers~hmac=979d625fb4763fc8e996f43d54b4b068d4613949189e63b4f14dbe408e1a829b",
+    "18105-dash": null,
+    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751755810~acl=/stream/18105/file/*~id=allUsers~hmac=854d12cb5de2416d1c6f30e6ca030a2eef12b6b91846ddbd24179bec14e71dc7",
     "all-sections": "17139-17140-17141-17884-18189-18249-18250-18762-19035-6717",
     "all-vidiolivetv": [
       {
@@ -490,7 +490,7 @@
   },
   "sections": {
     "18249": {
-      "title": "Kidambi Srikanth (IND) vs Kenta Nishimoto (JPN) - Men's Singles Semifinals | Yonex Canada Open 2025",
+      "title": "C Hemming/E van Leeuwen (ENG) vs R Oupthong/J Sudjaipraparat (THA) - Mixed Doubles Semifinals | Yonex Canada Open 2025",
       "web_url": "18249",
       "cover_url": "https://thumbor.prod.vidiocdn.com/IbGwrum4y9WjVrHYAhV_Xq1qD_4=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18249/yonex-canada-open-2025-semifinals-court-1-8e489c.jpg",
       "start_time": "2025-07-05T15:00:00.000Z"
@@ -624,7 +624,7 @@
       "start_time": "2025-07-06T01:30:00.000Z"
     },
     "17884": {
-      "title": "FIA Formula 2 Championship Sprint 2025",
+      "title": "Formula 1",
       "web_url": "17884",
       "cover_url": "https://thumbor.prod.vidiocdn.com/Rc1pHYZnd8l_siMi118TkKusbPM=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17884/formula-1-5ee872.jpg",
       "start_time": "2025-04-02T13:25:00.000Z"
@@ -642,7 +642,7 @@
       "start_time": "2024-10-20T12:45:00.000Z"
     },
     "18249": {
-      "title": "Kidambi Srikanth (IND) vs Kenta Nishimoto (JPN) - Men's Singles Semifinals | Yonex Canada Open 2025",
+      "title": "C Hemming/E van Leeuwen (ENG) vs R Oupthong/J Sudjaipraparat (THA) - Mixed Doubles Semifinals | Yonex Canada Open 2025",
       "web_url": "18249",
       "cover_url": "https://thumbor.prod.vidiocdn.com/IbGwrum4y9WjVrHYAhV_Xq1qD_4=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18249/yonex-canada-open-2025-semifinals-court-1-8e489c.jpg",
       "start_time": "2025-07-05T15:00:00.000Z"
