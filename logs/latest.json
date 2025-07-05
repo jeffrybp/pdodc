@@ -1,5 +1,5 @@
 {
-  "time": "2025-07-05T19:40:12.230Z",
+  "time": "2025-07-05T19:50:11.889Z",
   "headers": {
     "x-api-platform": "web-desktop",
     "content-type": "application/vnd.api+json",
@@ -10,20 +10,20 @@
     "sec-ch-ua": "\"Not)A;Brand\";v=\"8\", \"Chromium\";v=\"138\", \"HeadlessChrome\";v=\"138\"",
     "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/vaalseJnZJOPBDLtKixr1IJ7OTQ7yC3HlnNXSSTvXDg6w5hf+j1p7OzGdsoVhGVZcCl88/cGfu08rYIajsLaDY=",
     "sec-ch-ua-mobile": "?0",
-    "luws": "70EFF14C-FA44-5CB9-037A-C1E5BC42B0D5_",
-    "x-signature": "bb17689872877c1489ce7fd60621906820beb11f4061b53fd26b744e04d9265f",
+    "luws": "BD73E0D0-B1EA-5C87-10A3-53C411611CC8_",
+    "x-signature": "2371c92c55e1800f4e064cf5f416941e993cddd303505bece27793e3dfca64b3",
     "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/138.0.7204.23 Safari/537.36",
     "x-secure-level": "2",
-    "x-client": "1751744409.657",
+    "x-client": "1751745009.566",
     "x-user-email": null,
-    "204-dash": null,
-    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751758810~acl=/stream/204/file/*~id=allUsers~hmac=57a172796f80d165cf65cb8e14ea398576eaa34a7a90da1f9c3afce3a62f8600",
-    "205-dash": null,
-    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751758810~acl=/stream/205/file/*~id=allUsers~hmac=f142c66384692c69ef7140106a3e8888827d496898450609bde3391083041f22",
     "18105-dash": null,
-    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751758810~acl=/stream/18105/file/*~id=allUsers~hmac=20070cf1f6522eafb0602b8797d0e120b7a074314f9765b8afe854e7ef4c753a",
-    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751758810~acl=/stream/206/file/*~id=allUsers~hmac=9e1dadfdfb9dbb754176fcbf1b461a01c5b3785d604603a6d5ce834abec9627c",
-    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751758810~acl=/stream/206/file/*~id=allUsers~hmac=9e1dadfdfb9dbb754176fcbf1b461a01c5b3785d604603a6d5ce834abec9627c",
+    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751759410~acl=/stream/18105/file/*~id=allUsers~hmac=c52d9ef6c8ebbb063748ba06837acfab9c32bcf4e20f349b8a8250adc137af5c",
+    "205-dash": null,
+    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751759410~acl=/stream/205/file/*~id=allUsers~hmac=5f2920fabd40640450d98ae7a9e22c99a2adff880faaaec75ca7969ea7476a7c",
+    "204-dash": null,
+    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751759410~acl=/stream/204/file/*~id=allUsers~hmac=d95827e88537a8be64a48975c3757ff16a998dd809124d8805af8afb09edcb5c",
+    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751759410~acl=/stream/206/file/*~id=allUsers~hmac=1eabbd974a855d474e85a9d82cf08b18307537b01dfe479ac233311dd6e9a126",
+    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751759410~acl=/stream/206/file/*~id=allUsers~hmac=1eabbd974a855d474e85a9d82cf08b18307537b01dfe479ac233311dd6e9a126",
     "all-sections": "17140-17141-17884-18189-18249-18250-18762-19035-6717",
     "all-vidiolivetv": [
       {
@@ -490,7 +490,7 @@
   },
   "sections": {
     "18249": {
-      "title": "C Hemming/E van Leeuwen (ENG) vs R Oupthong/J Sudjaipraparat (THA) - Mixed Doubles Semifinals | Yonex Canada Open 2025",
+      "title": "Hsu Yin-Hui/Lin Jhih Yun (TPE) vs Benyapa Aimsaard/Nuntakarn Aimsaard (THA) - Women's Doubles Semifinals | Yonex Canada Open 2025",
       "web_url": "18249",
       "cover_url": "https://thumbor.prod.vidiocdn.com/IbGwrum4y9WjVrHYAhV_Xq1qD_4=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18249/yonex-canada-open-2025-semifinals-court-1-8e489c.jpg",
       "start_time": "2025-07-05T15:00:00.000Z"
@@ -630,7 +630,7 @@
       "start_time": "2024-10-20T12:45:00.000Z"
     },
     "18249": {
-      "title": "C Hemming/E van Leeuwen (ENG) vs R Oupthong/J Sudjaipraparat (THA) - Mixed Doubles Semifinals | Yonex Canada Open 2025",
+      "title": "Hsu Yin-Hui/Lin Jhih Yun (TPE) vs Benyapa Aimsaard/Nuntakarn Aimsaard (THA) - Women's Doubles Semifinals | Yonex Canada Open 2025",
       "web_url": "18249",
       "cover_url": "https://thumbor.prod.vidiocdn.com/IbGwrum4y9WjVrHYAhV_Xq1qD_4=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18249/yonex-canada-open-2025-semifinals-court-1-8e489c.jpg",
       "start_time": "2025-07-05T15:00:00.000Z"
