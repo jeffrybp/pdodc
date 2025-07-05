@@ -1,5 +1,5 @@
 {
-  "time": "2025-07-05T21:20:11.921Z",
+  "time": "2025-07-05T21:30:08.806Z",
   "headers": {
     "x-api-platform": "web-desktop",
     "content-type": "application/vnd.api+json",
@@ -10,20 +10,20 @@
     "sec-ch-ua": "\"Not)A;Brand\";v=\"8\", \"Chromium\";v=\"138\", \"HeadlessChrome\";v=\"138\"",
     "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/iwG4PUKy8e9/Y/WT9jYBIeXbg2JECpzbT45+ENFNCk0yrsMEfjDmNd0sIJoULoguAdAFVbDlj8UfRGIFMr/YYs=",
     "sec-ch-ua-mobile": "?0",
-    "luws": "3824B1C7-CA6F-9793-FBC7-E148BED9F9C4_",
-    "x-signature": "3f0efd4929b91a6b161e2a0706fc501d305769bce8695c4fda504502218cc252",
+    "luws": "36B01268-358B-C4A3-695F-A8ABBAD5E9E6_",
+    "x-signature": "79e6572b015805e9f89c6330909720ea123cd3df5ffebfc5c3e6926eca39e6ca",
     "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/138.0.7204.23 Safari/537.36",
     "x-secure-level": "2",
-    "x-client": "1751750410.014",
+    "x-client": "1751751005.957",
     "x-user-email": null,
-    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751764810~acl=/stream/206/file/*~id=allUsers~hmac=c29054d61c38d237f5bf2d3e1c46cec7ee44ddc231f0209008d8701bab74b84d",
-    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751764810~acl=/stream/206/file/*~id=allUsers~hmac=c29054d61c38d237f5bf2d3e1c46cec7ee44ddc231f0209008d8701bab74b84d",
-    "205-dash": null,
-    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751764810~acl=/stream/205/file/*~id=allUsers~hmac=835e175abef907379464d9c323eebc0b6b19755850b943c84169f43ca377ed33",
-    "18105-dash": null,
-    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751764810~acl=/stream/18105/file/*~id=allUsers~hmac=ccadafaca4aedd97e20d18ca6c79e1444a9894ea35f3ea4d85e6d94d00ef5a4a",
     "204-dash": null,
-    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751764810~acl=/stream/204/file/*~id=allUsers~hmac=ac899e943e5c6949b01bb721cf4b745d13f7a4ce35af43066ad025383f95f554",
+    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751765407~acl=/stream/204/file/*~id=allUsers~hmac=3c4799a149cac4371311fef42a2b9fe67a0e46f76753ec7853ed8bbddd1fe89d",
+    "205-dash": null,
+    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751765407~acl=/stream/205/file/*~id=allUsers~hmac=073402fdfc44b148b27f22ffb03c6ad003b911d8e77ffacdfca796161eade1db",
+    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751765407~acl=/stream/206/file/*~id=allUsers~hmac=4df2fccfa13a23638342f3f019290bea45a0919a921496218654733b0fe8dc95",
+    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751765407~acl=/stream/206/file/*~id=allUsers~hmac=4df2fccfa13a23638342f3f019290bea45a0919a921496218654733b0fe8dc95",
+    "18105-dash": null,
+    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751765407~acl=/stream/18105/file/*~id=allUsers~hmac=022f19895c03306bb782be620ba5bc180a2115e3c72b182ad03688821e2a2eab",
     "all-sections": "17140-17141-17884-18249-18250-18762-19035-6717",
     "all-vidiolivetv": [
       {
@@ -490,7 +490,7 @@
   },
   "sections": {
     "18249": {
-      "title": "Hsu Yin-Hui/Lin Jhih Yun (TPE) vs Benyapa Aimsaard/Nuntakarn Aimsaard (THA) - Women's Doubles Semifinals | Yonex Canada Open 2025",
+      "title": "Amalie Schulz (DEN) vs Nguyen Thuy Linh (VIE) - Women's Singles Semifinals | Yonex Canada Open 2025",
       "web_url": "18249",
       "cover_url": "https://thumbor.prod.vidiocdn.com/IbGwrum4y9WjVrHYAhV_Xq1qD_4=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18249/yonex-canada-open-2025-semifinals-court-1-8e489c.jpg",
       "start_time": "2025-07-05T20:20:00.000Z"
@@ -624,7 +624,7 @@
       "start_time": "2024-10-20T12:45:00.000Z"
     },
     "18249": {
-      "title": "Hsu Yin-Hui/Lin Jhih Yun (TPE) vs Benyapa Aimsaard/Nuntakarn Aimsaard (THA) - Women's Doubles Semifinals | Yonex Canada Open 2025",
+      "title": "Amalie Schulz (DEN) vs Nguyen Thuy Linh (VIE) - Women's Singles Semifinals | Yonex Canada Open 2025",
       "web_url": "18249",
       "cover_url": "https://thumbor.prod.vidiocdn.com/IbGwrum4y9WjVrHYAhV_Xq1qD_4=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18249/yonex-canada-open-2025-semifinals-court-1-8e489c.jpg",
       "start_time": "2025-07-05T20:20:00.000Z"
