@@ -1,5 +1,5 @@
 {
-  "time": "2025-07-05T20:20:14.096Z",
+  "time": "2025-07-05T20:30:13.283Z",
   "headers": {
     "x-api-platform": "web-desktop",
     "content-type": "application/vnd.api+json",
@@ -10,20 +10,20 @@
     "sec-ch-ua": "\"Not)A;Brand\";v=\"8\", \"Chromium\";v=\"138\", \"HeadlessChrome\";v=\"138\"",
     "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/qsJX3bXL/T1K18TmH2OJwD0AdHeq/FbkFyB2dGH15avk/A07kKAZQYjIFnE2yjKdGXVlNnBkB+ixavUp3mQ2Fo=",
     "sec-ch-ua-mobile": "?0",
-    "luws": "13B5B629-E664-237D-A5D1-77FE77324B6E_",
-    "x-signature": "64625d12d4bb579901895a46a8fdedb1e1107738b3df4cdf1a41f45cb13c9c4d",
+    "luws": "31BFB660-2601-D9CC-ECD0-30917A0AD653_",
+    "x-signature": "405ff69dcdf380ca0c954aab4f247dc62c48fbdf1b4299bbb3a4cfeef530aa9a",
     "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/138.0.7204.23 Safari/537.36",
     "x-secure-level": "2",
-    "x-client": "1751746811.33",
+    "x-client": "1751747410.785",
     "x-user-email": null,
+    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751761811~acl=/stream/206/file/*~id=allUsers~hmac=277744e16716b489a456dfe764b98ebe5918d86143a8023be6c7febf9a633882",
+    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751761811~acl=/stream/206/file/*~id=allUsers~hmac=277744e16716b489a456dfe764b98ebe5918d86143a8023be6c7febf9a633882",
     "204-dash": null,
-    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751761212~acl=/stream/204/file/*~id=allUsers~hmac=0c936d70af736b1da3fda6ca1b0ee508d3b189a6d7c76fd12529993db9134fa6",
+    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751761811~acl=/stream/204/file/*~id=allUsers~hmac=56bcb89536e12eedcf241fc8c47f56b1d3bffa6fde6885cf8bfc42afcb702c9f",
     "205-dash": null,
-    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751761212~acl=/stream/205/file/*~id=allUsers~hmac=3917db6a68bccc40a77e595fafeda89ff6e9161a9b37a4a9875218589531c2ff",
+    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751761811~acl=/stream/205/file/*~id=allUsers~hmac=ab527c4e054767485089c97e1dee070908fb6ab59cec032eacc2c188bd5b2aa8",
     "18105-dash": null,
-    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751761212~acl=/stream/18105/file/*~id=allUsers~hmac=cb341304b0946b1183bba0bc43891ff7257cc0632535f69d17934a01e57632f2",
-    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751761212~acl=/stream/206/file/*~id=allUsers~hmac=34d02dcd81161175a24858b7b73e437ea0ed52de0c6e73bd593617b2bd675e5b",
-    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751761212~acl=/stream/206/file/*~id=allUsers~hmac=34d02dcd81161175a24858b7b73e437ea0ed52de0c6e73bd593617b2bd675e5b",
+    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751761812~acl=/stream/18105/file/*~id=allUsers~hmac=a79d0cb797c77d0bea3d86c1e707d2a77c0ac93bdb92bf90cc62a32a83383c32",
     "all-sections": "17140-17141-17884-18249-18250-18762-19035-6717",
     "all-vidiolivetv": [
       {
@@ -493,13 +493,13 @@
       "title": "Hsu Yin-Hui/Lin Jhih Yun (TPE) vs Benyapa Aimsaard/Nuntakarn Aimsaard (THA) - Women's Doubles Semifinals | Yonex Canada Open 2025",
       "web_url": "18249",
       "cover_url": "https://thumbor.prod.vidiocdn.com/IbGwrum4y9WjVrHYAhV_Xq1qD_4=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18249/yonex-canada-open-2025-semifinals-court-1-8e489c.jpg",
-      "start_time": "2025-07-05T20:30:00.000Z"
+      "start_time": "2025-07-05T20:20:00.000Z"
     },
     "18250": {
       "title": "Chang Ko-Chi/Po Li-Wei (TPE) vs Wei Chun Wei/Po Chih Yang (TPE) - Men's Doubles Semifinals | Yonex Canada Open 2025",
       "web_url": "18250",
       "cover_url": "https://thumbor.prod.vidiocdn.com/5_5-6whgGMUO_q2IviTQhZbzwUw=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18250/yonex-canada-open-2025-semifinals-court-2-6debea.jpg",
-      "start_time": "2025-07-05T20:30:00.000Z"
+      "start_time": "2025-07-05T20:25:00.000Z"
     },
     "4398542": {
       "title": "Persib Bandung vs Port FC - Piala Presiden",
@@ -622,6 +622,18 @@
       "web_url": "17939",
       "cover_url": "https://thumbor.prod.vidiocdn.com/X-RqLAcQNAoAqhhYdA6L240KI50=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17939/serie-a-4cc90b.jpg",
       "start_time": "2024-10-20T12:45:00.000Z"
+    },
+    "18249": {
+      "title": "Hsu Yin-Hui/Lin Jhih Yun (TPE) vs Benyapa Aimsaard/Nuntakarn Aimsaard (THA) - Women's Doubles Semifinals | Yonex Canada Open 2025",
+      "web_url": "18249",
+      "cover_url": "https://thumbor.prod.vidiocdn.com/IbGwrum4y9WjVrHYAhV_Xq1qD_4=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18249/yonex-canada-open-2025-semifinals-court-1-8e489c.jpg",
+      "start_time": "2025-07-05T20:20:00.000Z"
+    },
+    "18250": {
+      "title": "Chang Ko-Chi/Po Li-Wei (TPE) vs Wei Chun Wei/Po Chih Yang (TPE) - Men's Doubles Semifinals | Yonex Canada Open 2025",
+      "web_url": "18250",
+      "cover_url": "https://thumbor.prod.vidiocdn.com/5_5-6whgGMUO_q2IviTQhZbzwUw=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18250/yonex-canada-open-2025-semifinals-court-2-6debea.jpg",
+      "start_time": "2025-07-05T20:25:00.000Z"
     }
   }
 }
