@@ -1,5 +1,5 @@
 {
-  "time": "2025-07-05T00:40:13.740Z",
+  "time": "2025-07-05T00:50:12.193Z",
   "headers": {
     "x-api-platform": "web-desktop",
     "content-type": "application/vnd.api+json",
@@ -8,22 +8,22 @@
     "referer": "https://www.vidio.com/",
     "accept-language": "undefined",
     "sec-ch-ua": "\"Not)A;Brand\";v=\"8\", \"Chromium\";v=\"138\", \"HeadlessChrome\";v=\"138\"",
-    "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/qZ/pAtpS/9962l2xx6nEl6bvbsHk5iFfCoDhfAX8n4Lcp2rDwJhpUQzVopxKEdUe14KAdBWHyxaQeGm/Qn8e48=",
+    "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/vPPcOUR514S0hn6bFOzotyk8QCszR4UlqXCFHAnlhPZaTxs8uUyc/GAKIxpEvsUrqDRLI+gGx3O0r9J4SU4AGs=",
     "sec-ch-ua-mobile": "?0",
-    "luws": "A55C1271-EEE9-2AAB-7962-D05DE1261F66_",
-    "x-signature": "3262ed6f333241b4b9c2d88c14edfe9689ecf1fe7bc26ded24ae562b8e87038f",
+    "luws": "29507CCE-606F-C772-2BFA-A3224319E894_",
+    "x-signature": "edade1330d2f0d6ab49da0e5c1080c12b35b3575bf95d33c953d47490a63f44d",
     "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/138.0.7204.23 Safari/537.36",
     "x-secure-level": "2",
-    "x-client": "1751676011.413",
+    "x-client": "1751676610.156",
     "x-user-email": null,
-    "205-dash": null,
-    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751690412~acl=/stream/205/file/*~id=allUsers~hmac=4d11bc721f5c324176547f74861a0508d3d770df0d08c25dd55230fa2dee5a58",
+    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751691010~acl=/stream/206/file/*~id=allUsers~hmac=fb4343ef2a65acd681bacbfa3bc4334cd437924a89f619917815180af6185a2b",
+    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751691010~acl=/stream/206/file/*~id=allUsers~hmac=fb4343ef2a65acd681bacbfa3bc4334cd437924a89f619917815180af6185a2b",
     "18105-dash": null,
-    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751690412~acl=/stream/18105/file/*~id=allUsers~hmac=0abea258366bf142f032327bc23e72abb1cd69c01e3262ee774d00c9a66ea29e",
-    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751690412~acl=/stream/206/file/*~id=allUsers~hmac=5d8a804f769daf9a3db96e11378debabfb12df0ac5c5de5ee62f36c04e0e3eec",
-    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751690412~acl=/stream/206/file/*~id=allUsers~hmac=5d8a804f769daf9a3db96e11378debabfb12df0ac5c5de5ee62f36c04e0e3eec",
+    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751691010~acl=/stream/18105/file/*~id=allUsers~hmac=77ee47c9953902588ce9b2d174a44fcf48212d939f290c07645c9c3510d90644",
+    "205-dash": null,
+    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751691010~acl=/stream/205/file/*~id=allUsers~hmac=7ddb68122b4cd41e18f168a19e287e439c5d612d60ba61d03c4d412b55766e3f",
     "204-dash": null,
-    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751690412~acl=/stream/204/file/*~id=allUsers~hmac=59ece38ad444367ba5e8ef4f0ce0eba44402343848693d3c1275d2cd4b1fce2d",
+    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751691010~acl=/stream/204/file/*~id=allUsers~hmac=0b4cca342966ad5213d736706d7fc24b7e5ceaa6482c2a7c507d81a75cde6c8b",
     "all-sections": "17884-18189-18249-18250-18762-18994-19035-6299-6317-6717",
     "all-vidiolivetv": [
       {
@@ -496,7 +496,7 @@
       "start_time": "2025-07-04T21:30:00.000Z"
     },
     "18250": {
-      "title": "Huang Yu-Hsun (TPE) vs Manami Suizu (JPN) - Women's Singles Quarterfinals | Yonex Canada Open 2025",
+      "title": "Fang-Chih Lee/Fang-Jen Lee (TPE) vs Chen Cheng Kuan/Lin Bing-Wei (TPE) - Men's Doubles Quarterfinals | Yonex Canada Open 2025",
       "web_url": "18250",
       "cover_url": "https://thumbor.prod.vidiocdn.com/NwiLJ_UI09mig7xEAszjeF04Glg=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18250/yonex-canada-open-2025-round-of-16-court-2-8d40ca.jpg",
       "start_time": "2025-07-04T21:30:00.000Z"
@@ -612,7 +612,7 @@
       "start_time": "2025-07-04T21:30:00.000Z"
     },
     "18250": {
-      "title": "Huang Yu-Hsun (TPE) vs Manami Suizu (JPN) - Women's Singles Quarterfinals | Yonex Canada Open 2025",
+      "title": "Fang-Chih Lee/Fang-Jen Lee (TPE) vs Chen Cheng Kuan/Lin Bing-Wei (TPE) - Men's Doubles Quarterfinals | Yonex Canada Open 2025",
       "web_url": "18250",
       "cover_url": "https://thumbor.prod.vidiocdn.com/NwiLJ_UI09mig7xEAszjeF04Glg=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18250/yonex-canada-open-2025-round-of-16-court-2-8d40ca.jpg",
       "start_time": "2025-07-04T21:30:00.000Z"
