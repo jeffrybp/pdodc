@@ -1,5 +1,5 @@
 {
-  "time": "2025-07-05T08:40:09.202Z",
+  "time": "2025-07-05T08:50:08.774Z",
   "headers": {
     "x-api-platform": "web-desktop",
     "content-type": "application/vnd.api+json",
@@ -8,22 +8,22 @@
     "referer": "https://www.vidio.com/",
     "accept-language": "undefined",
     "sec-ch-ua": "\"Not)A;Brand\";v=\"8\", \"Chromium\";v=\"138\", \"HeadlessChrome\";v=\"138\"",
-    "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/gz0V9cchtIZt/dcC4282eRgCr126YEe5X6bVfWbtMIpAsp95tjFffHpX+zx0lwY6PsLRoe3M+VTS164fPD1uHw=",
+    "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/kNT3G+xZ+fWlTaLq6QZHoyPQAoRA8F9R/wUTLwDgOMCAfEm1kuhi7LcZEBfdEOA0mpKY9ejzkeX7BJQUu9VS1s=",
     "sec-ch-ua-mobile": "?0",
-    "luws": "F8E064D7-39AF-19C8-8C34-259CF2EBC3D9_",
-    "x-signature": "85ea526cd156e0456cb92a7efcd558d79732b474363270e9246629c980987998",
+    "luws": "2C0D4864-46D2-8F3D-73DB-96C4B8331734_",
+    "x-signature": "e0b60120a0d5d5b8352d1ba225ad3220b4fbf5f219c19dae830494d7a8a58da5",
     "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/138.0.7204.23 Safari/537.36",
     "x-secure-level": "2",
-    "x-client": "1751704806.836",
+    "x-client": "1751705406.511",
     "x-user-email": null,
-    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751719207~acl=/stream/206/file/*~id=allUsers~hmac=b204b81d559be25568095c6c2552593c32cba9324ee67a1c5143f746362f5dd9",
-    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751719207~acl=/stream/206/file/*~id=allUsers~hmac=b204b81d559be25568095c6c2552593c32cba9324ee67a1c5143f746362f5dd9",
     "204-dash": null,
-    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751719207~acl=/stream/204/file/*~id=allUsers~hmac=fe92396e870dbe7e09ab42ba4a5f536cc8e5f2ba16651cad236d3b514c9c76fd",
-    "205-dash": null,
-    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751719207~acl=/stream/205/file/*~id=allUsers~hmac=6024c1aab2daf1c12bed16461deada28d7455c997df6cf042430f10858a8fae3",
+    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751719806~acl=/stream/204/file/*~id=allUsers~hmac=5069c96986f7665e351d188286b8be533cadba42a95384ba2f7c3494ce5d7beb",
     "18105-dash": null,
-    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751719207~acl=/stream/18105/file/*~id=allUsers~hmac=9e6644bdcca60aa8518dfb1d9854dd463b2fc1848d8aa4c14baf1179e9ff3587",
+    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751719807~acl=/stream/18105/file/*~id=allUsers~hmac=04dba9294e0c200771d0f6f36dc5384edcd30cb43986c88dcfae80e3834dbb7f",
+    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751719807~acl=/stream/206/file/*~id=allUsers~hmac=7d1fe25f0d31312d38e5738c48fdc6ff81732af5bc5ba82811130ff50f290aa5",
+    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751719807~acl=/stream/206/file/*~id=allUsers~hmac=7d1fe25f0d31312d38e5738c48fdc6ff81732af5bc5ba82811130ff50f290aa5",
+    "205-dash": null,
+    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751719807~acl=/stream/205/file/*~id=allUsers~hmac=98fa69f336d8336853ca9e2252a8e1fd0a5952972cc05c0c1f9ec6c045c8bc25",
     "all-sections": "17139-17140-17141-17884-18189-18249-18250-18762-18994-19035-6317-6717",
     "all-vidiolivetv": [
       {
@@ -499,19 +499,13 @@
       "title": "Chang Ko-Chi/Po Li-Wei (TPE) vs Wei Chun Wei/Po Chih Yang (TPE) - Men's Doubles Semifinals | Yonex Canada Open 2025",
       "web_url": "18250",
       "cover_url": "https://thumbor.prod.vidiocdn.com/5_5-6whgGMUO_q2IviTQhZbzwUw=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18250/yonex-canada-open-2025-semifinals-court-2-6debea.jpg",
-      "start_time": "2025-07-05T15:00:00.000Z"
+      "start_time": "2025-07-05T20:30:00.000Z"
     },
     "4396747": {
       "title": "Chinese Taipei vs Indonesia - AFC Women's Asian Cup 2026 Qualifiers",
       "web_url": "18994",
       "cover_url": "https://thumbor.prod.vidiocdn.com/W6Il6wCRjiJUVjbBOquA7mvEap8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4396747/433dfc.jpg",
       "start_time": "2025-07-05T12:32:00.000Z"
-    },
-    "4398423": {
-      "title": "FIA Formula 3 Championship Great Britain Grand Prix 2025 - Sprint Race",
-      "web_url": "17884",
-      "cover_url": "https://thumbor.prod.vidiocdn.com/X9bqzD1LYodtppiI3dd2rzXIGu4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4398423/3e98e3.jpg",
-      "start_time": "2025-07-05T07:55:00.000Z"
     },
     "4398424": {
       "title": "Formula 1 Qatar Airways British Grand Prix 2025 - Practice 3",
@@ -678,9 +672,9 @@
   },
   "vidioliveothers": {
     "17884": {
-      "title": "FIA Formula 3 Championship Great Britain Grand Prix 2025 - Sprint Race",
+      "title": "Formula 1",
       "web_url": "17884",
-      "cover_url": "https://thumbor.prod.vidiocdn.com/X9bqzD1LYodtppiI3dd2rzXIGu4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4398423/3e98e3.jpg",
+      "cover_url": "https://thumbor.prod.vidiocdn.com/Rc1pHYZnd8l_siMi118TkKusbPM=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17884/formula-1-5ee872.jpg",
       "start_time": "2025-04-02T13:25:00.000Z"
     },
     "17938": {
