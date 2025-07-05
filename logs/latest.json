@@ -1,5 +1,5 @@
 {
-  "time": "2025-07-05T17:40:13.668Z",
+  "time": "2025-07-05T17:50:13.158Z",
   "headers": {
     "x-api-platform": "web-desktop",
     "content-type": "application/vnd.api+json",
@@ -8,22 +8,22 @@
     "referer": "https://www.vidio.com/",
     "accept-language": "undefined",
     "sec-ch-ua": "\"Not)A;Brand\";v=\"8\", \"Chromium\";v=\"138\", \"HeadlessChrome\";v=\"138\"",
-    "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/lfgfLOhTCIUNzVnyvFUOW6AKrAfTJloeGKpmDTh/es0t9l6dioShJOwEChSzW5nS0NGDVbD4CsV03Woel98A7k=",
+    "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/u6irbE1WzlBt3puEqrihF0IpfgqeNsQenfo+beGVYmWeqOBkAdSA0NRJnGxQKefG+KTBepLPaGjvzyBfRELWwI=",
     "sec-ch-ua-mobile": "?0",
-    "luws": "A0575DE5-00D7-A3C3-4070-828965B94622_",
-    "x-signature": "695c585ad8e1f004ed5ab6255e50b02023a07846964442cd42c141cfdbb536d4",
+    "luws": "2113DD0B-515C-519B-8840-4E9B524C05F0_",
+    "x-signature": "5190701362e2964db6bb7f95774086a1588f9958c373e49a53d5eb15fbfc70af",
     "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/138.0.7204.23 Safari/537.36",
     "x-secure-level": "2",
-    "x-client": "1751737210.924",
+    "x-client": "1751737810.186",
     "x-user-email": null,
-    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751751612~acl=/stream/206/file/*~id=allUsers~hmac=9a01c499a186453a187c8868c2487503236c59919a8af2157f07f025c1db303d",
-    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751751612~acl=/stream/206/file/*~id=allUsers~hmac=9a01c499a186453a187c8868c2487503236c59919a8af2157f07f025c1db303d",
-    "205-dash": null,
-    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751751612~acl=/stream/205/file/*~id=allUsers~hmac=64d9f79c19f5ef12ade5ba0385c70759a6d2a91899ab870933aa35993be200fd",
-    "204-dash": null,
-    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751751612~acl=/stream/204/file/*~id=allUsers~hmac=2a92154e5f68755f3f6913e246652ddc65e3e25467f5b353a4d26df149c06b15",
     "18105-dash": null,
-    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751751612~acl=/stream/18105/file/*~id=allUsers~hmac=68751336b8598244a8a770410005e7653e921647796c592bf2a0f6cbf2889d11",
+    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751752211~acl=/stream/18105/file/*~id=allUsers~hmac=3636dff59d0819147a26081c1a83172512a7fdffa2db8a7634ebd3103d725313",
+    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751752211~acl=/stream/206/file/*~id=allUsers~hmac=cef85ecb24e2996fec7cd6277fffe794ee9c20c4b907127019354e22b811e6b4",
+    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751752211~acl=/stream/206/file/*~id=allUsers~hmac=cef85ecb24e2996fec7cd6277fffe794ee9c20c4b907127019354e22b811e6b4",
+    "205-dash": null,
+    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751752211~acl=/stream/205/file/*~id=allUsers~hmac=35c72c2f3dafaca9c8dbeb192f85d9725c39f81e0c0112170dc5151bb10c6f9b",
+    "204-dash": null,
+    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751752211~acl=/stream/204/file/*~id=allUsers~hmac=11ac9b028022cfc9046b2989e5ec803dd35ffc206a08abe4bb7c333273dc0df4",
     "all-sections": "17139-17140-17141-17884-18189-18249-18250-18762-19035-6317-6717",
     "all-vidiolivetv": [
       {
@@ -490,7 +490,7 @@
   },
   "sections": {
     "18249": {
-      "title": "P Smith/J Gai (USA) vs M Seidel/T Nguyen (GER) - Mixed Doubles Semifinal | Yonex Canada Open 2025",
+      "title": "Kidambi Srikanth (IND) vs Kenta Nishimoto (JPN) - Men's Singles Semifinals | Yonex Canada Open 2025",
       "web_url": "18249",
       "cover_url": "https://thumbor.prod.vidiocdn.com/IbGwrum4y9WjVrHYAhV_Xq1qD_4=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18249/yonex-canada-open-2025-semifinals-court-1-8e489c.jpg",
       "start_time": "2025-07-05T15:00:00.000Z"
@@ -648,7 +648,7 @@
       "start_time": "2024-10-20T12:45:00.000Z"
     },
     "18249": {
-      "title": "P Smith/J Gai (USA) vs M Seidel/T Nguyen (GER) - Mixed Doubles Semifinal | Yonex Canada Open 2025",
+      "title": "Kidambi Srikanth (IND) vs Kenta Nishimoto (JPN) - Men's Singles Semifinals | Yonex Canada Open 2025",
       "web_url": "18249",
       "cover_url": "https://thumbor.prod.vidiocdn.com/IbGwrum4y9WjVrHYAhV_Xq1qD_4=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18249/yonex-canada-open-2025-semifinals-court-1-8e489c.jpg",
       "start_time": "2025-07-05T15:00:00.000Z"
