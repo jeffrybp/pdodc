@@ -1,5 +1,5 @@
 {
-  "time": "2025-07-06T04:00:09.689Z",
+  "time": "2025-07-06T04:10:08.938Z",
   "headers": {
     "x-api-platform": "web-desktop",
     "content-type": "application/vnd.api+json",
@@ -10,20 +10,20 @@
     "sec-ch-ua": "\"Not)A;Brand\";v=\"8\", \"Chromium\";v=\"138\", \"HeadlessChrome\";v=\"138\"",
     "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/tkzufAfUdsHPjqj9gTwqGn8Nj5NnIv8qqv8+mDq/FX6ufEhasuy4tEBJH0VJBtCf8Xo7ryzeHG8MkRlTj7Wv/I=",
     "sec-ch-ua-mobile": "?0",
-    "luws": "EBE75BC7-DB12-F49B-0401-97D107946B66_",
-    "x-signature": "ef2e94c48cb68f6e70b09a621510abd5c26b7f1e8ee1067e655f3a2adfa0cc5e",
+    "luws": "6A8117EA-732F-1547-9524-4938A531ED11_",
+    "x-signature": "468be935415752273d41d3c539c28a0406215d93be5b72799ab087fe31cb4be8",
     "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/138.0.7204.23 Safari/537.36",
     "x-secure-level": "2",
-    "x-client": "1751774406.594",
+    "x-client": "1751775006.49",
     "x-user-email": null,
-    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751788807~acl=/stream/206/file/*~id=allUsers~hmac=52267b83e548c19bd88b56c7427ccf710f24598d94827ec8ce2a218e46f021fc",
-    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751788807~acl=/stream/206/file/*~id=allUsers~hmac=52267b83e548c19bd88b56c7427ccf710f24598d94827ec8ce2a218e46f021fc",
-    "205-dash": null,
-    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751788807~acl=/stream/205/file/*~id=allUsers~hmac=bba6a318af57d8586ca5e5a4dc5a7f8849b259cf91cc31d5357c11cf751ce2eb",
-    "204-dash": null,
-    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751788807~acl=/stream/204/file/*~id=allUsers~hmac=c5d433ee15d1e7b4634b888ee732e50adb8783ffca963f6e42a0b9b09a4f04af",
+    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751789406~acl=/stream/206/file/*~id=allUsers~hmac=31b3912e40ca6edd95658086a70c246d743432031f690a440dec65331dfdc213",
+    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751789406~acl=/stream/206/file/*~id=allUsers~hmac=31b3912e40ca6edd95658086a70c246d743432031f690a440dec65331dfdc213",
     "18105-dash": null,
-    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751788807~acl=/stream/18105/file/*~id=allUsers~hmac=4e2d77557d0be93f6afd1d8d8109ee7cacf4abf1d49120f6a6eb4707444926d6",
+    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751789406~acl=/stream/18105/file/*~id=allUsers~hmac=7fa1bf2a39d319c79f166683610113dfc3dc3aa9e67cf9c95a35c2c77cb54322",
+    "204-dash": null,
+    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751789406~acl=/stream/204/file/*~id=allUsers~hmac=31e0b43dde99c55212ea759a0b161dc4ca40f13ddfaf54567fb809560f8e5e1e",
+    "205-dash": null,
+    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751789406~acl=/stream/205/file/*~id=allUsers~hmac=f2a695f18451fad8dfc70b996e07776dcedb14cc750297f46189022187ce39e2",
     "all-sections": "17139-17140-17141-17884-18189-18249-18762-19035-6717",
     "all-vidiolivetv": [
       {
@@ -688,6 +688,12 @@
       "web_url": "17939",
       "cover_url": "https://thumbor.prod.vidiocdn.com/X-RqLAcQNAoAqhhYdA6L240KI50=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17939/serie-a-4cc90b.jpg",
       "start_time": "2024-10-20T12:45:00.000Z"
+    },
+    "19042": {
+      "title": "Dedi Mulyadi Buka Piala Presiden 2025 di Stadion Jalak Harupat, Persib vs Port FC Laga Pembuka",
+      "web_url": "19042",
+      "cover_url": "https://thumbor.prod.vidiocdn.com/NDTUGzIcRc1pt92meeJSrE5Vr1c=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/19042/dedi-mulyadi-buka-piala-presiden-2025-di-stadion-jalak-harupat-persib-vs-port-fc-laga-pembuka-f6f8db.jpg",
+      "start_time": "2025-07-06T07:00:00.000Z"
     }
   }
 }
