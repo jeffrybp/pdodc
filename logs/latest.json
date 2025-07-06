@@ -1,5 +1,5 @@
 {
-  "time": "2025-07-06T07:00:09.315Z",
+  "time": "2025-07-06T07:10:09.995Z",
   "headers": {
     "x-api-platform": "web-desktop",
     "content-type": "application/vnd.api+json",
@@ -10,20 +10,20 @@
     "sec-ch-ua": "\"Not)A;Brand\";v=\"8\", \"Chromium\";v=\"138\", \"HeadlessChrome\";v=\"138\"",
     "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/hqyaAXXss992fJrVtoqmMpMt4M8RlU/S+0eK5QA9w8/EZsG6+zymbJQBEFgYQWBKQELTI+Dy53XQxak8BNmVlc=",
     "sec-ch-ua-mobile": "?0",
-    "luws": "65B96847-6790-9A21-652A-CA4BF1F85E72_",
-    "x-signature": "3fde7b95fde9f921be0ce1adaf073269c1e29914b895e1ddf60304e7c4f5c459",
+    "luws": "567A78ED-A018-453C-3935-63528D30B8A6_",
+    "x-signature": "c0bf0d0c6a0cb42510042c05831f5912646ba732dbce41de1f9d32c05c9f8d08",
     "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/138.0.7204.23 Safari/537.36",
     "x-secure-level": "2",
-    "x-client": "1751785206.601",
+    "x-client": "1751785807.013",
     "x-user-email": null,
-    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751799607~acl=/stream/206/file/*~id=allUsers~hmac=0930e7b68046d4d8bf118a847f8dd947321e8f10eff6410adbc62b3568af2724",
-    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751799607~acl=/stream/206/file/*~id=allUsers~hmac=0930e7b68046d4d8bf118a847f8dd947321e8f10eff6410adbc62b3568af2724",
+    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751800208~acl=/stream/206/file/*~id=allUsers~hmac=c67c1c5bb5a6610dd05cdf4b2b6a789b7f5a60f6067a83ab46ce23ebea6d0c9e",
+    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751800208~acl=/stream/206/file/*~id=allUsers~hmac=c67c1c5bb5a6610dd05cdf4b2b6a789b7f5a60f6067a83ab46ce23ebea6d0c9e",
     "204-dash": null,
-    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751799607~acl=/stream/204/file/*~id=allUsers~hmac=22eb94c55a53df2144484b488fb9ee0a922f434c938717aae5f154e6ad0c2515",
+    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751800208~acl=/stream/204/file/*~id=allUsers~hmac=05a92744538d5fc30b651df9b4eb1bb955420162a8e261b98417298b17208049",
     "205-dash": null,
-    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751799607~acl=/stream/205/file/*~id=allUsers~hmac=b91ec822f3dcab40cc3cdeeaef1580c70a55980b1b271f76be1bce528395e5ad",
+    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751800208~acl=/stream/205/file/*~id=allUsers~hmac=c8a2e38639395dbe6a96ac2ac5910a9c089cbc1f67fc2eb7a783c3b5e5c6a884",
     "18105-dash": null,
-    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751799607~acl=/stream/18105/file/*~id=allUsers~hmac=022ae71b0c8058bf1e9e7b4a89ce5efc8b3dc2f50c8d0d6de8a3515cc74f635d",
+    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751800208~acl=/stream/18105/file/*~id=allUsers~hmac=42821d6066d1b2af541416f938e8d72cd723beab65fad73802239453dc050c2d",
     "all-sections": "17139-17140-17141-17884-18189-18249-18762-19035-6717",
     "all-vidiolivetv": [
       {
@@ -672,7 +672,7 @@
   },
   "vidioliveothers": {
     "17884": {
-      "title": "Formula 1 Qualifying 2025",
+      "title": "Formula 1",
       "web_url": "17884",
       "cover_url": "https://thumbor.prod.vidiocdn.com/Rc1pHYZnd8l_siMi118TkKusbPM=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17884/formula-1-5ee872.jpg",
       "start_time": "2025-04-02T13:25:00.000Z"
