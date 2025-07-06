@@ -1,5 +1,5 @@
 {
-  "time": "2025-07-06T12:00:10.076Z",
+  "time": "2025-07-06T12:10:12.281Z",
   "headers": {
     "x-api-platform": "web-desktop",
     "content-type": "application/vnd.api+json",
@@ -8,22 +8,22 @@
     "referer": "https://www.vidio.com/",
     "accept-language": "undefined",
     "sec-ch-ua": "\"Not)A;Brand\";v=\"8\", \"Chromium\";v=\"138\", \"HeadlessChrome\";v=\"138\"",
-    "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/siUUrI5ZyrWeolOovrJykk90PSqxtT9VdMDyYnABgfUczisVm8NzVntOS+DkJmKEtPglcw504GRPtI01QaQFOU=",
+    "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/vtzOuLggpdlkUMV2p3rWESuABiOdYk66WXq0x0bsMtHh7+eft+TLs6osbl8teCuPjkFYiP3BBTKkq7wJ532P+E=",
     "sec-ch-ua-mobile": "?0",
-    "luws": "B9D655C0-3457-4206-5FF1-1183694CACE1_",
-    "x-signature": "fbe814118e6515411a7c6e3e2dd1005a2c3151ca70154d3bd8f0c3f2d9f3e444",
+    "luws": "25253834-38D0-BE73-9151-8FC3448780FF_",
+    "x-signature": "34762ecf94f4a6073028d4fa9b0d6d9b81966fa278eda06c1de8e74d211be64d",
     "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/138.0.7204.23 Safari/537.36",
     "x-secure-level": "2",
-    "x-client": "1751803205.96",
+    "x-client": "1751803809.866",
     "x-user-email": null,
-    "204-dash": null,
-    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751817607~acl=/stream/204/file/*~id=allUsers~hmac=64172080b4f55eea934c392d94d14bb6a2de608bd0a34f701e1957bdc35c6a6c",
-    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751817607~acl=/stream/206/file/*~id=allUsers~hmac=f8603f225256d1f564725499d2a354335e37ff23d7534f02debc69781797a7a0",
-    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751817607~acl=/stream/206/file/*~id=allUsers~hmac=f8603f225256d1f564725499d2a354335e37ff23d7534f02debc69781797a7a0",
     "205-dash": null,
     "205-hls": null,
     "18105-dash": null,
-    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751817607~acl=/stream/18105/file/*~id=allUsers~hmac=7dbbb051a12c16bb450a0668c0b1c025d94e804d5f7e3d8da27f3d8438b9e620",
+    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751818210~acl=/stream/18105/file/*~id=allUsers~hmac=3c51968cd982e9ee4e31360b9eaba8257c1b4e3795f6dc2ac294060274cf9447",
+    "204-dash": null,
+    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751818210~acl=/stream/204/file/*~id=allUsers~hmac=c821d733f04037c4015744c0693477c0f0ed2fc83a7e2f6210155b0d6a13d74a",
+    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751818210~acl=/stream/206/file/*~id=allUsers~hmac=5eaf3320f508971da46c3090198ece9e6e288385a961e664524dae3495e9f0da",
+    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751818210~acl=/stream/206/file/*~id=allUsers~hmac=5eaf3320f508971da46c3090198ece9e6e288385a961e664524dae3495e9f0da",
     "all-sections": "17139-17140-17141-17884-18189-18249-18762-19035-6717",
     "all-vidiolivetv": [
       {
@@ -507,12 +507,6 @@
       "cover_url": "https://thumbor.prod.vidiocdn.com/SD4jGZjdztF-B8Xnqc234pN2E5Q=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4399170/21a0f8.jpg",
       "start_time": "2025-07-06T13:55:00.000Z"
     },
-    "4403692": {
-      "title": "FIM Junior Motocross World Championship 2025: 125cc - Race 1",
-      "web_url": "17141",
-      "cover_url": "https://thumbor.prod.vidiocdn.com/iuoy7oAvdo57xelwP8PJ1zn55sw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4403692/052faf.jpg",
-      "start_time": "2025-07-06T11:25:00.000Z"
-    },
     "4403695": {
       "title": "FIM Junior Motocross World Championship 2025: 65cc - Race 2",
       "web_url": "17141",
@@ -523,13 +517,13 @@
       "title": "FIM Junior Motocross World Championship 2025: 85cc - Race 2",
       "web_url": "17141",
       "cover_url": "https://thumbor.prod.vidiocdn.com/KtLM8_qV21zoujF9cmnuqhI2iCQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4403696/ca8989.jpg",
-      "start_time": "2025-07-06T13:15:00.000Z"
+      "start_time": "2025-07-06T13:25:00.000Z"
     },
     "4403697": {
       "title": "FIM Junior Motocross World Championship 2025: 125cc - Race 2",
       "web_url": "17141",
       "cover_url": "https://thumbor.prod.vidiocdn.com/SKJxxtKxBVCYx1bSIT-31MsHqkc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4403697/5fab49.jpg",
-      "start_time": "2025-07-06T14:05:00.000Z"
+      "start_time": "2025-07-06T14:25:00.000Z"
     },
     "4403698": {
       "title": "Persib Bandung vs Dewa United Banten FC - Piala Presiden",
@@ -648,9 +642,9 @@
   },
   "vidioliveothers": {
     "17141": {
-      "title": "FIM Junior Motocross World Championship 2025: 125cc - Race 1",
+      "title": "2025 MXGP",
       "web_url": "17141",
-      "cover_url": "https://thumbor.prod.vidiocdn.com/iuoy7oAvdo57xelwP8PJ1zn55sw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4403692/052faf.jpg",
+      "cover_url": "https://thumbor.prod.vidiocdn.com/oWmj2GJmekD1JrfkvlsXV2pDbAA=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17141/2025-mxgp-45d5b5.jpg",
       "start_time": "2025-07-06T09:21:00.000Z"
     },
     "17884": {
