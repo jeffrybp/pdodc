@@ -1,5 +1,5 @@
 {
-  "time": "2025-07-06T14:50:08.152Z",
+  "time": "2025-07-06T15:00:08.702Z",
   "headers": {
     "x-api-platform": "web-desktop",
     "content-type": "application/vnd.api+json",
@@ -8,22 +8,22 @@
     "referer": "https://www.vidio.com/",
     "accept-language": "undefined",
     "sec-ch-ua": "\"Not)A;Brand\";v=\"8\", \"Chromium\";v=\"138\", \"HeadlessChrome\";v=\"138\"",
-    "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/v4oZslRcKB1e6L313LejTYWgiHKUq+hR4Vk0/kPqagInKAd0wxfWCMPEN73FL/LZ/JEUo2wxrlAqPZYbEQqnMs=",
+    "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/sS7CyQIVYjI6vb7pygOUNYr9jfio/GBMXrT/kC+YFArtHvzfmw8NCWZ7148/tyVbhcjKpqXh1IFwfSTDdag9/I=",
     "sec-ch-ua-mobile": "?0",
-    "luws": "C39D1928-4EC3-C5DA-EBAE-5739E8EF077B_",
-    "x-signature": "f7709572fcfaf1d01c8d0241cd632a0e13ec9f359a26d36a65491c58023a33da",
+    "luws": "10BE733C-8626-0370-01DA-7219718CEF22_",
+    "x-signature": "3b361bc94c3c972c62e66bc077d53d0c3b7f1d7df4df399413875f6d3a42f4ef",
     "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/138.0.7204.23 Safari/537.36",
     "x-secure-level": "2",
-    "x-client": "1751813406.294",
+    "x-client": "1751814005.93",
     "x-user-email": null,
     "205-dash": null,
-    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751827806~acl=/stream/205/file/*~id=allUsers~hmac=3a511d5c37d079366f52b1337456c10145294b6ac6fd4393343c63ea01dc797c",
-    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751827806~acl=/stream/206/file/*~id=allUsers~hmac=eb2191c9e6ef97f9f082b344c197dcf1bae1428e79315f727aeb6b71c6a691dd",
-    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751827806~acl=/stream/206/file/*~id=allUsers~hmac=eb2191c9e6ef97f9f082b344c197dcf1bae1428e79315f727aeb6b71c6a691dd",
-    "204-dash": null,
-    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751827806~acl=/stream/204/file/*~id=allUsers~hmac=e51837af4894b632bd6d27c8bed5cbdd3a5d301f03a2d0da03deea22ca89f3b1",
+    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751828407~acl=/stream/205/file/*~id=allUsers~hmac=ae1ad38d685e840cd388d01f03b43bc63758f60f1de78ae14b666cbb10d6337d",
     "18105-dash": null,
-    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751827806~acl=/stream/18105/file/*~id=allUsers~hmac=098b0a663785cf355b31b60f6d76de1e18b43fac65a27809bcc41adb27b4f4c7",
+    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751828407~acl=/stream/18105/file/*~id=allUsers~hmac=31fa11dbd3aa565b627714e4586e0d3a769919d238c7a2c4e8c095baa5bc2fdb",
+    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751828407~acl=/stream/206/file/*~id=allUsers~hmac=6e9123ff8b18e4295e83552977747853a214b81ba690e484b4cced08782b63e9",
+    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751828407~acl=/stream/206/file/*~id=allUsers~hmac=6e9123ff8b18e4295e83552977747853a214b81ba690e484b4cced08782b63e9",
+    "204-dash": null,
+    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751828407~acl=/stream/204/file/*~id=allUsers~hmac=6d983826304240de9c738a93332b9b733d227a9639dc2d7854dc01167b2e50d3",
     "all-sections": "17139-17140-17141-17884-18189-18249-18762-19035-6717",
     "all-vidiolivetv": [
       {
@@ -492,14 +492,8 @@
     "18249": {
       "title": "Fang-Chih Lee/Fang-Jen Lee (TPE) vs Chang Ko-Chi/Po Li-Wei (TPE) - Men's Doubles Finals | Yonex Canada Open 2025",
       "web_url": "18249",
-      "cover_url": "https://thumbor.prod.vidiocdn.com/HWI3CG_BBo9xY1Nw1sN-S1qnIdU=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18249/yonex-canada-open-2025-finals-0b5b0f.jpg",
+      "cover_url": "https://thumbor.prod.vidiocdn.com/Ls46CO1rDV5edE8mxrgv8ABK_bo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4406046/807d06.jpg",
       "start_time": "2025-07-06T15:00:00.000Z"
-    },
-    "4398543": {
-      "title": "Oxford United vs Liga Indonesia All Star - Piala Presiden",
-      "web_url": "19035",
-      "cover_url": "https://thumbor.prod.vidiocdn.com/DJ0trSPhPbdmJdABhW5y3cdItlc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4398543/f669c8.jpg",
-      "start_time": "2025-07-06T12:30:00.000Z"
     },
     "4399170": {
       "title": "F1 Kids British - Race",
@@ -542,12 +536,6 @@
       "web_url": "17140",
       "cover_url": "https://thumbor.prod.vidiocdn.com/eYqAlR_CAoDd2MiK0-2Jk5edXao=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4405998/869ed9.jpg",
       "start_time": "2025-07-06T17:00:00.000Z"
-    },
-    "4405999": {
-      "title": "Sonay Kartal vs Anastasia Pavlyuchenkova - Ladies' Singles Fourth Round | Wimbledon 2025",
-      "web_url": "17139",
-      "cover_url": "https://thumbor.prod.vidiocdn.com/HaoL6Iv_HYpjKXlMOicDRCSSoOM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4405999/d1c9ef.jpg",
-      "start_time": "2025-07-06T12:25:00.000Z"
     },
     "4406000": {
       "title": "Aryna Sabalenka vs Elise Mertens - Ladies' Singles Fourth Round | Wimbledon 2025",
@@ -647,17 +635,17 @@
       "cover_url": "https://thumbor.prod.vidiocdn.com/X-RqLAcQNAoAqhhYdA6L240KI50=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17939/serie-a-4cc90b.jpg",
       "start_time": "2024-10-20T12:45:00.000Z"
     },
+    "18249": {
+      "title": "Fang-Chih Lee/Fang-Jen Lee (TPE) vs Chang Ko-Chi/Po Li-Wei (TPE) - Men's Doubles Finals | Yonex Canada Open 2025",
+      "web_url": "18249",
+      "cover_url": "https://thumbor.prod.vidiocdn.com/Ls46CO1rDV5edE8mxrgv8ABK_bo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4406046/807d06.jpg",
+      "start_time": "2025-07-06T15:00:00.000Z"
+    },
     "18762": {
       "title": "F1 Kids British - Race",
       "web_url": "18762",
       "cover_url": "https://thumbor.prod.vidiocdn.com/SD4jGZjdztF-B8Xnqc234pN2E5Q=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4399170/21a0f8.jpg",
       "start_time": "2025-07-06T13:55:00.000Z"
-    },
-    "19035": {
-      "title": "Oxford United vs Liga Indonesia All Star - Piala Presiden",
-      "web_url": "19035",
-      "cover_url": "https://thumbor.prod.vidiocdn.com/DJ0trSPhPbdmJdABhW5y3cdItlc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4398543/f669c8.jpg",
-      "start_time": "2025-07-06T11:34:00.000Z"
     }
   }
 }
