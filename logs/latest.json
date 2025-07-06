@@ -1,5 +1,5 @@
 {
-  "time": "2025-07-06T03:30:10.198Z",
+  "time": "2025-07-06T03:40:09.075Z",
   "headers": {
     "x-api-platform": "web-desktop",
     "content-type": "application/vnd.api+json",
@@ -8,22 +8,22 @@
     "referer": "https://www.vidio.com/",
     "accept-language": "undefined",
     "sec-ch-ua": "\"Not)A;Brand\";v=\"8\", \"Chromium\";v=\"138\", \"HeadlessChrome\";v=\"138\"",
-    "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/hORywvBbSRqKXh/iWAI0GQT8dCVpNuPOnzBICL7qQYnO+f6hxloIZ44xino0tndTKKqJUHCsYNg2lEhvlkjIkY=",
+    "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/kxai3/YqgU2UT77v5p1LLYjnqrjg9wpDuNrQ4KNDmu5At7gTxmMfx5g8OxSC3ehXNrKgvKNvbMnxtxSmbqhZlI=",
     "sec-ch-ua-mobile": "?0",
-    "luws": "789973F4-40E0-DF4A-00E0-DE98A6BF1377_",
-    "x-signature": "ba2b6f62ddbb3d01fb9ba528ee7e915f02c183c8f7ba876acdf464b4685df35a",
+    "luws": "C8380B69-327C-D671-083A-E3F0071297DD_",
+    "x-signature": "f7f24751c9b6e4c56aab6fbd1f9655e1e5f23d5125c17b37c05e5531c37ce525",
     "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/138.0.7204.23 Safari/537.36",
     "x-secure-level": "2",
-    "x-client": "1751772606.28",
+    "x-client": "1751773206.277",
     "x-user-email": null,
-    "205-dash": null,
-    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751787008~acl=/stream/205/file/*~id=allUsers~hmac=dbf3cbbc9a08094f798fd450f51556f0efb4e00fec57269487af26971e7986f6",
-    "18105-dash": null,
-    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751787008~acl=/stream/18105/file/*~id=allUsers~hmac=4d32c45ba8ac22a59869dbd23863d44609678e6b0f844a5355b9e8c4d8eb1197",
-    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751787008~acl=/stream/206/file/*~id=allUsers~hmac=946f469e21eab660d5eee0276194c3063ca6627be1198b69a7066c68b652056b",
-    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751787008~acl=/stream/206/file/*~id=allUsers~hmac=946f469e21eab660d5eee0276194c3063ca6627be1198b69a7066c68b652056b",
     "204-dash": null,
-    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751787008~acl=/stream/204/file/*~id=allUsers~hmac=3b6c18afdb186f4708ecb1bf2351e0b7064f5e843eeb39e3b6a38007e31bfae1",
+    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751787607~acl=/stream/204/file/*~id=allUsers~hmac=56aec06465854ea997ac25cc9e7f441a75360c9c85afd520bd07be8c4ff46911",
+    "18105-dash": null,
+    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751787607~acl=/stream/18105/file/*~id=allUsers~hmac=cb7870c6a9f402ca30efc9c74805941392ef35c313751bc246590c272fd764cb",
+    "205-dash": null,
+    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751787607~acl=/stream/205/file/*~id=allUsers~hmac=a8a73b60d21f6459f1e8d615219e0055a041482dc38d49e7c15467c4688157ff",
+    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751787607~acl=/stream/206/file/*~id=allUsers~hmac=26dfd68c01f87793a7d78ba69a4d55d0760e4588eac44dd1c70f441afc7447bd",
+    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751787607~acl=/stream/206/file/*~id=allUsers~hmac=26dfd68c01f87793a7d78ba69a4d55d0760e4588eac44dd1c70f441afc7447bd",
     "all-sections": "17139-17140-17141-17884-18189-18249-18762-19035-6717",
     "all-vidiolivetv": [
       {
@@ -499,13 +499,13 @@
       "title": "Persib Bandung vs Port FC - Piala Presiden",
       "web_url": "19035",
       "cover_url": "https://thumbor.prod.vidiocdn.com/7MtaiUHLh7sAGSFRe5eye4S7OLw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4398542/6d630c.jpg",
-      "start_time": "2025-07-06T08:30:00.000Z"
+      "start_time": "2025-07-06T08:00:00.000Z"
     },
     "4398543": {
       "title": "Oxford United vs Liga Indonesia All Star - Piala Presiden",
       "web_url": "19035",
       "cover_url": "https://thumbor.prod.vidiocdn.com/DJ0trSPhPbdmJdABhW5y3cdItlc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4398543/f669c8.jpg",
-      "start_time": "2025-07-06T12:30:00.000Z"
+      "start_time": "2025-07-06T11:30:00.000Z"
     },
     "4399170": {
       "title": "F1 Kids British - Race",
@@ -600,13 +600,13 @@
     "4405999": {
       "title": "Sonay Kartal vs Anastasia Pavlyuchenkova - Ladies' Singles Fourth Round | Wimbledon 2025",
       "web_url": "17139",
-      "cover_url": "https://thumbor.prod.vidiocdn.com/qVM1wZck6qycS4-bJ1DDXymb2to=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4405999/6e3d39.jpg",
+      "cover_url": "https://thumbor.prod.vidiocdn.com/HaoL6Iv_HYpjKXlMOicDRCSSoOM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4405999/d1c9ef.jpg",
       "start_time": "2025-07-06T12:30:00.000Z"
     },
     "4406000": {
       "title": "Aryna Sabalenka vs Elise Mertens - Ladies' Singles Fourth Round | Wimbledon 2025",
       "web_url": "17139",
-      "cover_url": "https://thumbor.prod.vidiocdn.com/1vWQzCaYSs8agsW3zZm59cGzoMU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4406000/261bf8.jpg",
+      "cover_url": "https://thumbor.prod.vidiocdn.com/mwna4H2XLR3gtfXQT_KVxW1Grvw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4406000/2a0c9d.jpg",
       "start_time": "2025-07-06T15:00:00.000Z"
     },
     "4406001": {
@@ -692,11 +692,17 @@
       "web_url": "17140",
       "cover_url": "https://thumbor.prod.vidiocdn.com/yUHCmCLmIMnSl1hd3VR7Q44PNhs=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4406140/71ce76.jpg",
       "start_time": "2025-07-09T12:00:00.000Z"
+    },
+    "4406147": {
+      "title": "Golden State Warriors vs San Antonio Spurs - NBA 2K Summer League",
+      "web_url": "6717",
+      "cover_url": "https://thumbor.prod.vidiocdn.com/c2q02GMafGIQqsMSHP9-Su1vT7M=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4406147/7ce425.jpg",
+      "start_time": "2025-07-06T22:30:00.000Z"
     }
   },
   "vidioliveothers": {
     "17884": {
-      "title": "Formula 1",
+      "title": "FIA Formula 3 Championship Sprint 2025",
       "web_url": "17884",
       "cover_url": "https://thumbor.prod.vidiocdn.com/Rc1pHYZnd8l_siMi118TkKusbPM=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17884/formula-1-5ee872.jpg",
       "start_time": "2025-04-02T13:25:00.000Z"
