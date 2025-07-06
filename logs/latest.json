@@ -1,5 +1,5 @@
 {
-  "time": "2025-07-06T09:40:12.561Z",
+  "time": "2025-07-06T09:47:14.031Z",
   "headers": {
     "x-api-platform": "web-desktop",
     "content-type": "application/vnd.api+json",
@@ -8,22 +8,24 @@
     "referer": "https://www.vidio.com/",
     "accept-language": "undefined",
     "sec-ch-ua": "\"Not)A;Brand\";v=\"8\", \"Chromium\";v=\"138\", \"HeadlessChrome\";v=\"138\"",
-    "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/vGEh84jxqVD0XB9zgX370yREJ+/VgzvtVhtp0IF8nJX1g45695xx5wQME3FOWadNVbH5SMAeOTmBNibTl6PKYU=",
+    "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/gOdlgfw0o5Y54xrOSqRs18RxPNjVLfbCs8bCOP1KkZf4P37vTce+fUK/b7YhveKdLydDsqgdJEolVWoOMKB7fM=",
     "sec-ch-ua-mobile": "?0",
-    "luws": "01B616C4-1C1F-8BCB-74F1-A700EB514E9F_",
-    "x-signature": "814c873433a5ca2bf272cb7114ccf250f7882f510be11af3dfeeafd7ed6b2eb3",
+    "luws": "69C80621-BC6F-D51A-5E96-0E1C4FF8F18D_",
+    "x-signature": "8f62d128717e45f35901e8d8e08c62aa6a33c91cc9c09c284a1e1aab5d362954",
     "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/138.0.7204.23 Safari/537.36",
     "x-secure-level": "2",
-    "x-client": "1751794809.967",
+    "x-client": "1751795230.551",
     "x-user-email": null,
-    "18105-dash": null,
-    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751809210~acl=/stream/18105/file/*~id=allUsers~hmac=0dc366c327a3275848ac529ce8a89d303ea96aeb113d4f117bd453ba91571159",
-    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751809210~acl=/stream/206/file/*~id=allUsers~hmac=a02e7a9093e04ff6396f2a08ddeb131dea8902cd13cb26befe06d098c4ea78a3",
-    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751809210~acl=/stream/206/file/*~id=allUsers~hmac=a02e7a9093e04ff6396f2a08ddeb131dea8902cd13cb26befe06d098c4ea78a3",
+    "19035-dash": null,
+    "19035-hls": null,
+    "204-dash": null,
+    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751809631~acl=/stream/204/file/*~id=allUsers~hmac=7f2233a1be26de31c9c0793c0939845149bb9bb32e076bc26aca7671b47ef4ea",
     "205-dash": null,
     "205-hls": null,
-    "204-dash": null,
-    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751809210~acl=/stream/204/file/*~id=allUsers~hmac=df4fa7c882cdfa7bf6a27f2bc6280a8d659c805cc6eea47d4ea7bd8f484662a8",
+    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751809631~acl=/stream/206/file/*~id=allUsers~hmac=e2c06162d014a6c01389bd4948daaa2fb573d4d55d8d38d0c9e6430d845b72ef",
+    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751809631~acl=/stream/206/file/*~id=allUsers~hmac=e2c06162d014a6c01389bd4948daaa2fb573d4d55d8d38d0c9e6430d845b72ef",
+    "18105-dash": null,
+    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751809631~acl=/stream/18105/file/*~id=allUsers~hmac=36036b52b4bd7bef3a02782abbed2290831307d430abbc311ef9b3d4c1d0337c",
     "all-sections": "17139-17140-17141-17884-18189-18249-18762-19035-6717",
     "all-vidiolivetv": [
       {
@@ -561,12 +563,6 @@
       "cover_url": "https://thumbor.prod.vidiocdn.com/POFR4nuKo-7GvFUz7oeRjT-25aQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4403699/249365.jpg",
       "start_time": "2025-07-08T08:30:00.000Z"
     },
-    "4403896": {
-      "title": "FIA Formula 3 Championship Great Britain Grand Prix 2025 - Race",
-      "web_url": "17884",
-      "cover_url": "https://thumbor.prod.vidiocdn.com/-XPRIrOS4fVEw7t3j2NWOFwUw1A=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4403896/a5f6b7.jpg",
-      "start_time": "2025-07-06T08:25:00.000Z"
-    },
     "4403897": {
       "title": "FIA Formula 2 Championship Great Britain Grand Prix 2025 - Race",
       "web_url": "17884",
@@ -684,9 +680,9 @@
       "start_time": "2025-07-06T09:21:00.000Z"
     },
     "17884": {
-      "title": "FIA Formula 3 Championship Great Britain Grand Prix 2025 - Race",
+      "title": "Formula 1",
       "web_url": "17884",
-      "cover_url": "https://thumbor.prod.vidiocdn.com/-XPRIrOS4fVEw7t3j2NWOFwUw1A=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4403896/a5f6b7.jpg",
+      "cover_url": "https://thumbor.prod.vidiocdn.com/Rc1pHYZnd8l_siMi118TkKusbPM=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17884/formula-1-5ee872.jpg",
       "start_time": "2025-04-02T13:25:00.000Z"
     },
     "17938": {
