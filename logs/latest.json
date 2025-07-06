@@ -1,5 +1,5 @@
 {
-  "time": "2025-07-06T11:40:09.262Z",
+  "time": "2025-07-06T11:50:08.020Z",
   "headers": {
     "x-api-platform": "web-desktop",
     "content-type": "application/vnd.api+json",
@@ -8,20 +8,20 @@
     "referer": "https://www.vidio.com/",
     "accept-language": "undefined",
     "sec-ch-ua": "\"Not)A;Brand\";v=\"8\", \"Chromium\";v=\"138\", \"HeadlessChrome\";v=\"138\"",
-    "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/hfCUzrYYef704PiISpUIkgXNksvpeACFDpKEeLoh3UylPVSJA3Qc7gY7/7JgCJX3t9ZR5XyJE/MO8ByF/gPgXM=",
+    "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/q4jRCUPUWMQ732xESBdggddmg+8TTstoCj0Dj+fXXgK58kxP/uLNFQNyrQEdIyixQboiECvkkibT3q9MZuecD0=",
     "sec-ch-ua-mobile": "?0",
-    "luws": "568B187F-E601-7C82-84D5-AF10E9A48590_",
-    "x-signature": "6fa9bba858bebcc6a11df02698c7561f39397370a041e8b5cd4a6f01d4ea1411",
+    "luws": "E18A5B45-755E-48BA-1427-27C0AE7D1BA5_",
+    "x-signature": "125f49f1c6c59d49dd84a144de86f17ff2de7d60e8c690f20451deadb2094b91",
     "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/138.0.7204.23 Safari/537.36",
     "x-secure-level": "2",
-    "x-client": "1751802006.658",
+    "x-client": "1751802605.599",
     "x-user-email": null,
-    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751816407~acl=/stream/206/file/*~id=allUsers~hmac=7fc0e4e934f09d9fa6debbd0c866d429a141bbf7948c20679481b518c9d31fb3",
-    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751816407~acl=/stream/206/file/*~id=allUsers~hmac=7fc0e4e934f09d9fa6debbd0c866d429a141bbf7948c20679481b518c9d31fb3",
+    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751817006~acl=/stream/206/file/*~id=allUsers~hmac=db45b0277cf0eef42169ecc732181d65ffee815b752e2d9ef07155b7d58d41d1",
+    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751817006~acl=/stream/206/file/*~id=allUsers~hmac=db45b0277cf0eef42169ecc732181d65ffee815b752e2d9ef07155b7d58d41d1",
     "204-dash": null,
-    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751816407~acl=/stream/204/file/*~id=allUsers~hmac=82320da1e379aaa54c4e39c0aaa20fb51ea20ee7f20a4cf2709c89c1f278f754",
+    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751817006~acl=/stream/204/file/*~id=allUsers~hmac=9fcc205959e6131939442dd36368286734da27d085d7562d560fbb8065a13c6d",
     "18105-dash": null,
-    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751816407~acl=/stream/18105/file/*~id=allUsers~hmac=6fbe17e3296ddefd9b485e2c15f8550ff5918ead4d31529063dce346faed4da8",
+    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751817006~acl=/stream/18105/file/*~id=allUsers~hmac=57e9d7a9356edc90056ec2c071bc4a6d806702a19f250a1be74c7e9e3bef8847",
     "205-dash": null,
     "205-hls": null,
     "all-sections": "17139-17140-17141-17884-18189-18249-18762-19035-6717",
@@ -543,12 +543,6 @@
       "cover_url": "https://thumbor.prod.vidiocdn.com/POFR4nuKo-7GvFUz7oeRjT-25aQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4403699/249365.jpg",
       "start_time": "2025-07-08T08:30:00.000Z"
     },
-    "4403897": {
-      "title": "FIA Formula 2 Championship Great Britain Grand Prix 2025 - Race",
-      "web_url": "17884",
-      "cover_url": "https://thumbor.prod.vidiocdn.com/LpPpZhFN6jMHDTIkHbUUzieYbS4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4403897/2a571d.jpg",
-      "start_time": "2025-07-06T10:00:00.000Z"
-    },
     "4403898": {
       "title": "Formula 1 Qatar Airways British Grand Prix 2025 - Race",
       "web_url": "17884",
@@ -660,9 +654,9 @@
       "start_time": "2025-07-06T09:21:00.000Z"
     },
     "17884": {
-      "title": "FIA Formula 2 Championship Great Britain Grand Prix 2025 - Race",
+      "title": "Formula 1",
       "web_url": "17884",
-      "cover_url": "https://thumbor.prod.vidiocdn.com/LpPpZhFN6jMHDTIkHbUUzieYbS4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4403897/2a571d.jpg",
+      "cover_url": "https://thumbor.prod.vidiocdn.com/Rc1pHYZnd8l_siMi118TkKusbPM=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17884/formula-1-5ee872.jpg",
       "start_time": "2025-04-02T13:25:00.000Z"
     },
     "17938": {
