@@ -1,5 +1,5 @@
 {
-  "time": "2025-07-06T18:40:07.585Z",
+  "time": "2025-07-06T18:50:07.980Z",
   "headers": {
     "x-api-platform": "web-desktop",
     "content-type": "application/vnd.api+json",
@@ -10,20 +10,20 @@
     "sec-ch-ua": "\"Not)A;Brand\";v=\"8\", \"Chromium\";v=\"138\", \"HeadlessChrome\";v=\"138\"",
     "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/oisohNIdbGTvLZRVRyZW5+pQB4Vb7oTA85pM29f2mt+jvRbfUlRrTKWgEtz0+4muNUeV45gUZIApD1eZ2w65iQ=",
     "sec-ch-ua-mobile": "?0",
-    "luws": "A4D2228F-CCE8-DD04-CA7A-D4C429045C24_",
-    "x-signature": "17f2a2a182224c6b926e9a5616da606f36c9030fae878aa95c306fcf2e7b1004",
+    "luws": "7F051F02-F544-7D5F-A357-B69707D910AB_",
+    "x-signature": "4c653e781448d7060fa5b19287ce6b44ab1e2e5dec7b0b247ae33752b8181aba",
     "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/138.0.7204.23 Safari/537.36",
     "x-secure-level": "2",
-    "x-client": "1751827205.993",
+    "x-client": "1751827806.056",
     "x-user-email": null,
-    "18105-dash": null,
-    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751841606~acl=/stream/18105/file/*~id=allUsers~hmac=4c0279530d01ace609fe1aa0e692588a1b36f2b0706af0954cc184ff5db6548b",
-    "205-dash": null,
-    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751841606~acl=/stream/205/file/*~id=allUsers~hmac=51a9b97f436b208196efe8c3257f3368b232a5e0c4fa8e12d341bd737309c554",
-    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751841606~acl=/stream/206/file/*~id=allUsers~hmac=9357fa4b3509bb1ed6f12b8e442c63da68b4ec8c4eb158b0c74ecc0d6442da4b",
-    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751841606~acl=/stream/206/file/*~id=allUsers~hmac=9357fa4b3509bb1ed6f12b8e442c63da68b4ec8c4eb158b0c74ecc0d6442da4b",
     "204-dash": null,
-    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751841606~acl=/stream/204/file/*~id=allUsers~hmac=1fca96fc9aa2413645b93d955d6d93f24e2e156c718b70aadee30c0801a47f0d",
+    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751842206~acl=/stream/204/file/*~id=allUsers~hmac=553c02a34e11032de55a2607a3afe5e0c42b49a3cf5315364a08f7d42c261ef7",
+    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751842206~acl=/stream/206/file/*~id=allUsers~hmac=a099a90b8c97363888bea2ddae19eefb9a9b3b1b759c0e9c69e42c240f4e06c4",
+    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751842206~acl=/stream/206/file/*~id=allUsers~hmac=a099a90b8c97363888bea2ddae19eefb9a9b3b1b759c0e9c69e42c240f4e06c4",
+    "205-dash": null,
+    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751842206~acl=/stream/205/file/*~id=allUsers~hmac=862de52ae9852ce8d8cc340dd0c47d7267f575dd8d92ccc58481ff81ea8dde5f",
+    "18105-dash": null,
+    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751842206~acl=/stream/18105/file/*~id=allUsers~hmac=5ec526531eb516974e8cfe9a4b70dccee55a0f595ec0e19d641d5785ac09a22a",
     "all-sections": "17139-17140-18189-18249-19035-6717",
     "all-vidiolivetv": [
       {
@@ -490,9 +490,9 @@
   },
   "sections": {
     "18249": {
-      "title": "Manami Suizu (JPN) vs Nguyen Thuy Linh (VIE) - Women's Singles Finals | Yonex Canada Open 2025",
+      "title": "Kenta Nishimoto (JPN) vs Victor Lai (CAN) - Men's Singles Finals | Yonex Canada Open 2025",
       "web_url": "18249",
-      "cover_url": "https://thumbor.prod.vidiocdn.com/rV-UqH-fFtVyTooShm6_2vGLeds=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4406050/25d696.jpg",
+      "cover_url": "https://thumbor.prod.vidiocdn.com/XkJV6bnh88z09xs4YMtxqTd4l-A=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4406051/675254.jpg",
       "start_time": "2025-07-06T15:00:00.000Z"
     },
     "4403698": {
@@ -636,9 +636,9 @@
       "start_time": "2024-10-20T12:45:00.000Z"
     },
     "18249": {
-      "title": "Manami Suizu (JPN) vs Nguyen Thuy Linh (VIE) - Women's Singles Finals | Yonex Canada Open 2025",
+      "title": "Kenta Nishimoto (JPN) vs Victor Lai (CAN) - Men's Singles Finals | Yonex Canada Open 2025",
       "web_url": "18249",
-      "cover_url": "https://thumbor.prod.vidiocdn.com/rV-UqH-fFtVyTooShm6_2vGLeds=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4406050/25d696.jpg",
+      "cover_url": "https://thumbor.prod.vidiocdn.com/XkJV6bnh88z09xs4YMtxqTd4l-A=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4406051/675254.jpg",
       "start_time": "2025-07-06T15:00:00.000Z"
     }
   }
