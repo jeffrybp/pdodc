@@ -1,5 +1,5 @@
 {
-  "time": "2025-07-06T05:00:14.268Z",
+  "time": "2025-07-06T05:10:08.637Z",
   "headers": {
     "x-api-platform": "web-desktop",
     "content-type": "application/vnd.api+json",
@@ -10,20 +10,20 @@
     "sec-ch-ua": "\"Not)A;Brand\";v=\"8\", \"Chromium\";v=\"138\", \"HeadlessChrome\";v=\"138\"",
     "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/nAnvnmaWkEUxQlkn3SSLOw2jn9CS/1AYjs1ouBxCiTil+tND4Zft2BFylPNue4uVi554Pb7WSIaJBZycBQ0WNQ=",
     "sec-ch-ua-mobile": "?0",
-    "luws": "117877EE-CE8F-C917-51AC-5A6B435F459E_",
-    "x-signature": "c318dad7b5218d4845e99ca0c5bc8fbbd41c4b6f6891b8a7910650ae71c4f361",
+    "luws": "503A7A3B-2985-B92F-0094-C6230E760A68_",
+    "x-signature": "c4f66e39bda2b72556ec0c4fd4f0729e116f1d84f936a27e07ca5ca3c3e34baa",
     "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/138.0.7204.23 Safari/537.36",
     "x-secure-level": "2",
-    "x-client": "1751778011.37",
+    "x-client": "1751778606.282",
     "x-user-email": null,
     "204-dash": null,
-    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751792412~acl=/stream/204/file/*~id=allUsers~hmac=ea3924a52d0748feab37a63fa38789d18d5d5ac28ac454e4431d44ee8d9c8448",
-    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751792412~acl=/stream/206/file/*~id=allUsers~hmac=fab55974ede0039825abf6bb55ee3a76704bd6e56e1d58bc47730c23c2bb7129",
-    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751792412~acl=/stream/206/file/*~id=allUsers~hmac=fab55974ede0039825abf6bb55ee3a76704bd6e56e1d58bc47730c23c2bb7129",
-    "18105-dash": null,
-    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751792412~acl=/stream/18105/file/*~id=allUsers~hmac=a50404f3107ed368b0d77ba0e628323b0105784ab758cf5099a530e4d9da2b8f",
+    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751793007~acl=/stream/204/file/*~id=allUsers~hmac=00d23f0ae4dddd0dd439d3f68e523305956e598461d45ea1a248b9bf6d92a43f",
     "205-dash": null,
-    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751792412~acl=/stream/205/file/*~id=allUsers~hmac=6e06eb33ec0108792cbbc28abe2e5dbf0b22f8ef2835f80db8c29b4457454b60",
+    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751793007~acl=/stream/205/file/*~id=allUsers~hmac=0099f75c5cb967e39d76f5655e68d9b095fba974d2d48458e8a0ebb9721cec5c",
+    "18105-dash": null,
+    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751793007~acl=/stream/18105/file/*~id=allUsers~hmac=ac77fb8529a764d9bea489c01ebd45469d9ddfa5f5e8011f8d76a6c7ad58bd38",
+    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751793007~acl=/stream/206/file/*~id=allUsers~hmac=b377debf4762101429952b9d17b762f483c831a3558f2fdb81f79f21ab65d9ce",
+    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751793007~acl=/stream/206/file/*~id=allUsers~hmac=b377debf4762101429952b9d17b762f483c831a3558f2fdb81f79f21ab65d9ce",
     "all-sections": "17139-17140-17141-17884-18189-18249-18762-19035-6717",
     "all-vidiolivetv": [
       {
@@ -672,7 +672,7 @@
   },
   "vidioliveothers": {
     "17884": {
-      "title": "FIA Formula 2 Championship Sprint 2025",
+      "title": "Formula 1 Practice 2025",
       "web_url": "17884",
       "cover_url": "https://thumbor.prod.vidiocdn.com/Rc1pHYZnd8l_siMi118TkKusbPM=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17884/formula-1-5ee872.jpg",
       "start_time": "2025-04-02T13:25:00.000Z"
