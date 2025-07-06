@@ -1,5 +1,5 @@
 {
-  "time": "2025-07-06T11:30:08.670Z",
+  "time": "2025-07-06T11:40:09.262Z",
   "headers": {
     "x-api-platform": "web-desktop",
     "content-type": "application/vnd.api+json",
@@ -8,22 +8,22 @@
     "referer": "https://www.vidio.com/",
     "accept-language": "undefined",
     "sec-ch-ua": "\"Not)A;Brand\";v=\"8\", \"Chromium\";v=\"138\", \"HeadlessChrome\";v=\"138\"",
-    "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/tqKc/8aZrftvFj8ywybb7G2ZxLHmqDSq9x9LAfLN0EiJ1zbomvEhS9XEOV7hEtiCP+C0WzFWB/J8xXAl9zoIuM=",
+    "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/hfCUzrYYef704PiISpUIkgXNksvpeACFDpKEeLoh3UylPVSJA3Qc7gY7/7JgCJX3t9ZR5XyJE/MO8ByF/gPgXM=",
     "sec-ch-ua-mobile": "?0",
-    "luws": "727019F9-081B-7902-7E92-4DC67726B6C0_",
-    "x-signature": "5627ea62f8951627d51b2fcee134ba4bc5236fe61abcbf42d4434c637ef848d9",
+    "luws": "568B187F-E601-7C82-84D5-AF10E9A48590_",
+    "x-signature": "6fa9bba858bebcc6a11df02698c7561f39397370a041e8b5cd4a6f01d4ea1411",
     "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/138.0.7204.23 Safari/537.36",
     "x-secure-level": "2",
-    "x-client": "1751801406.265",
+    "x-client": "1751802006.658",
     "x-user-email": null,
-    "18105-dash": null,
-    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751815807~acl=/stream/18105/file/*~id=allUsers~hmac=7fb6e48584cb8b51e122f2a69799a3ec0ffd3cbd1a57f6ba041be44520969c4c",
-    "205-dash": null,
-    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751815807~acl=/stream/205/file/*~id=allUsers~hmac=1e90c61a0cfbbdc5980a1fef39991857b1c48e869e2217bd51d9c30541297cd3",
+    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751816407~acl=/stream/206/file/*~id=allUsers~hmac=7fc0e4e934f09d9fa6debbd0c866d429a141bbf7948c20679481b518c9d31fb3",
+    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751816407~acl=/stream/206/file/*~id=allUsers~hmac=7fc0e4e934f09d9fa6debbd0c866d429a141bbf7948c20679481b518c9d31fb3",
     "204-dash": null,
-    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751815807~acl=/stream/204/file/*~id=allUsers~hmac=f569a61c54770e11e6671992666a0232c468ce99af50de23015c36a5573af6ce",
-    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751815807~acl=/stream/206/file/*~id=allUsers~hmac=07e9dbbc0cd833906571d6685991ef97907c89b9403c2feb5b125dd84d1ad0b7",
-    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751815807~acl=/stream/206/file/*~id=allUsers~hmac=07e9dbbc0cd833906571d6685991ef97907c89b9403c2feb5b125dd84d1ad0b7",
+    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751816407~acl=/stream/204/file/*~id=allUsers~hmac=82320da1e379aaa54c4e39c0aaa20fb51ea20ee7f20a4cf2709c89c1f278f754",
+    "18105-dash": null,
+    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751816407~acl=/stream/18105/file/*~id=allUsers~hmac=6fbe17e3296ddefd9b485e2c15f8550ff5918ead4d31529063dce346faed4da8",
+    "205-dash": null,
+    "205-hls": null,
     "all-sections": "17139-17140-17141-17884-18189-18249-18762-19035-6717",
     "all-vidiolivetv": [
       {
@@ -676,6 +676,12 @@
       "web_url": "17939",
       "cover_url": "https://thumbor.prod.vidiocdn.com/X-RqLAcQNAoAqhhYdA6L240KI50=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17939/serie-a-4cc90b.jpg",
       "start_time": "2024-10-20T12:45:00.000Z"
+    },
+    "19035": {
+      "title": "Opening Ceremony - Piala Presiden",
+      "web_url": "19035",
+      "cover_url": "https://thumbor.prod.vidiocdn.com/JxSPSDtiiFP2K-nwgQBOuOorSnw=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/19035/piala-presiden-97e5a8.jpg",
+      "start_time": "2025-07-06T11:34:00.000Z"
     }
   }
 }
