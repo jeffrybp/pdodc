@@ -1,5 +1,5 @@
 {
-  "time": "2025-07-06T23:20:09.716Z",
+  "time": "2025-07-06T23:30:11.096Z",
   "headers": {
     "x-api-platform": "web-desktop",
     "content-type": "application/vnd.api+json",
@@ -10,20 +10,20 @@
     "sec-ch-ua": "\"Not)A;Brand\";v=\"8\", \"Chromium\";v=\"138\", \"HeadlessChrome\";v=\"138\"",
     "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/oCIn2YD+SP0XCQWPCjdCvmqZWg3YBs5pUVENBQRR9cvA7wX726f9JSQmnTipiK6HXSkx+lFWfUP7GZwmlHFQxo=",
     "sec-ch-ua-mobile": "?0",
-    "luws": "B37DF773-33C6-38C0-1EA2-D51C28A3E244_",
-    "x-signature": "4760c819ccfccceb2af01cebb253743e1307af54c8a891a2676b32d8496184ee",
+    "luws": "23B39B76-1020-3861-71AB-1F5C24783888_",
+    "x-signature": "4c45e865995c75bbf75b41ca8bc227a70bd15bb1cf7346463f249016b7f48bbe",
     "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/138.0.7204.23 Safari/537.36",
     "x-secure-level": "2",
-    "x-client": "1751844006.124",
+    "x-client": "1751844608.479",
     "x-user-email": null,
-    "204-dash": null,
-    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751858408~acl=/stream/204/file/*~id=allUsers~hmac=b642a097328cb3e154d29bbe74fb8eac9fdfafc272d468bd4a898b869e02c99e",
-    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751858408~acl=/stream/206/file/*~id=allUsers~hmac=b5479808a0f22dc08c9437f6a003ee58838a46866931035d42c66170aa8fe3f7",
-    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751858408~acl=/stream/206/file/*~id=allUsers~hmac=b5479808a0f22dc08c9437f6a003ee58838a46866931035d42c66170aa8fe3f7",
+    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751859009~acl=/stream/206/file/*~id=allUsers~hmac=1bf0aba78f46f3475ae8dd3bc002da1e7a9c4495274eacf2e803b2fd232ced91",
+    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751859009~acl=/stream/206/file/*~id=allUsers~hmac=1bf0aba78f46f3475ae8dd3bc002da1e7a9c4495274eacf2e803b2fd232ced91",
     "18105-dash": null,
-    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751858408~acl=/stream/18105/file/*~id=allUsers~hmac=73c5b5f128b4a8ae9a47682bfe9559ce0aeb600c6287ab1d017c9ca026334234",
+    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751859009~acl=/stream/18105/file/*~id=allUsers~hmac=7099b6e549853c2124ea087e86ff47303c4d83d38d220d20738664c6846f9c00",
+    "204-dash": null,
+    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751859009~acl=/stream/204/file/*~id=allUsers~hmac=5cf476e05e1875637f909bbf7073a1d6ef20fc58374b2cb499384f1b72dfb36b",
     "205-dash": null,
-    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751858408~acl=/stream/205/file/*~id=allUsers~hmac=68c5e638120c5be7190fd5fe5e3cfdb4d3e1e82ec5c1bca83508024e35a79ca0",
+    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751859009~acl=/stream/205/file/*~id=allUsers~hmac=ff4764e95852385ed8523a0a41ec470df40d82817dedfe89ea13cfc2d7d7816b",
     "all-sections": "17139-17140-19035-6717",
     "all-vidiolivetv": [
       {
@@ -518,12 +518,6 @@
       "web_url": "6717",
       "cover_url": "https://thumbor.prod.vidiocdn.com/TTX-9uFSHqIoAKPr3_9JgfP3e6M=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4406127/20fb7a.jpg",
       "start_time": "2025-07-09T01:00:00.000Z"
-    },
-    "4406129": {
-      "title": "Seattle Sounders FC vs Columbus Crew - Major League Soccer",
-      "web_url": "17140",
-      "cover_url": "https://thumbor.prod.vidiocdn.com/LsIHJ3ga4ldKVJfJpAlmTWna_Es=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4406129/10d2fc.jpg",
-      "start_time": "2025-07-06T21:00:00.000Z"
     },
     "4406137": {
       "title": "The Championships, Wimbledon 2025: Quarterfinals - Day 9 (No.1 Court)",
