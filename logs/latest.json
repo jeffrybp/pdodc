@@ -1,5 +1,5 @@
 {
-  "time": "2025-07-06T02:40:09.478Z",
+  "time": "2025-07-06T02:50:10.790Z",
   "headers": {
     "x-api-platform": "web-desktop",
     "content-type": "application/vnd.api+json",
@@ -8,23 +8,23 @@
     "referer": "https://www.vidio.com/",
     "accept-language": "undefined",
     "sec-ch-ua": "\"Not)A;Brand\";v=\"8\", \"Chromium\";v=\"138\", \"HeadlessChrome\";v=\"138\"",
-    "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/ipala0DUr62Z5lxq32G4rvgcATaKIYLM03gthsSncy+8lQm5dMvBR2eR66eCOyO5SLAHvX2JeG+znS6s3mmo3c=",
+    "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/g8LCcAqjma9AkFuEknNjia0ZVGrbVpkSravXzaJPV4dyjTiLUQ9PjEZTHXNzagD+fd8+T7paWzJ4FtRwsvumvc=",
     "sec-ch-ua-mobile": "?0",
-    "luws": "3C797E52-234E-4C64-C153-8F3849388BCC_",
-    "x-signature": "f15359ea49b54e92854c5478eb903a238884729ea846378712b736557817b82b",
+    "luws": "D80E3726-10E1-25E2-458C-C86A7F120B68_",
+    "x-signature": "a71d8b6963fbdab99fe17f913c064bd1a1f6db9c1d9d96f1b341be46b31fe54c",
     "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/138.0.7204.23 Safari/537.36",
     "x-secure-level": "2",
-    "x-client": "1751769606.687",
+    "x-client": "1751770208.193",
     "x-user-email": null,
-    "205-dash": null,
-    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751784007~acl=/stream/205/file/*~id=allUsers~hmac=e72bb0715254f1850521deaae8649598ef58d976cf758cb3490617abfe2fd0f4",
-    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751784007~acl=/stream/206/file/*~id=allUsers~hmac=bcc521c58eb178d4f7507180c55cef1793b7c6bf3edc441c92721c100d82e253",
-    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751784007~acl=/stream/206/file/*~id=allUsers~hmac=bcc521c58eb178d4f7507180c55cef1793b7c6bf3edc441c92721c100d82e253",
-    "204-dash": null,
-    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751784007~acl=/stream/204/file/*~id=allUsers~hmac=b6dccade66e8e96d73c380ec4de29ef65032eb1ab371d478bd140cc09163343e",
     "18105-dash": null,
-    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751784007~acl=/stream/18105/file/*~id=allUsers~hmac=ad9ae1e0fa016741336a8597eae1f3827863cfab6a252d29879e9063c00336de",
-    "all-sections": "17139-17140-17141-17884-18762-19035",
+    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751784609~acl=/stream/18105/file/*~id=allUsers~hmac=3d8fde6077056634be7a699ff2cb85d81b5fe72999c530341b5b74fd0c5576a2",
+    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751784609~acl=/stream/206/file/*~id=allUsers~hmac=e94af9be211a3d8e80f3b109f3b46b38e51c8ffe4bb86dbabede548f6504b171",
+    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751784609~acl=/stream/206/file/*~id=allUsers~hmac=e94af9be211a3d8e80f3b109f3b46b38e51c8ffe4bb86dbabede548f6504b171",
+    "204-dash": null,
+    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751784609~acl=/stream/204/file/*~id=allUsers~hmac=e84803819997f5a2aea7e198f9e61fc81c193e1d0ab1216cada92e17303cb540",
+    "205-dash": null,
+    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751784609~acl=/stream/205/file/*~id=allUsers~hmac=d5d319cfb63ff2a2f406696b1df7fc3534063fef5dd224fc586ab089afca1fb9",
+    "all-sections": "17139-17140-17141-17884-18249-18762-19035",
     "all-vidiolivetv": [
       {
         "content_id": "204",
@@ -489,6 +489,12 @@
     ]
   },
   "sections": {
+    "18249": {
+      "title": "Fang-Chih Lee/Fang-Jen Lee (TPE) vs Chang Ko-Chi/Po Li-Wei (TPE) - Men's Doubles Finals | Yonex Canada Open 2025",
+      "web_url": "18249",
+      "cover_url": "https://thumbor.prod.vidiocdn.com/HWI3CG_BBo9xY1Nw1sN-S1qnIdU=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18249/yonex-canada-open-2025-finals-0b5b0f.jpg",
+      "start_time": "2025-07-06T15:00:00.000Z"
+    },
     "4398542": {
       "title": "Persib Bandung vs Port FC - Piala Presiden",
       "web_url": "19035",
@@ -614,6 +620,36 @@
       "web_url": "17139",
       "cover_url": "https://thumbor.prod.vidiocdn.com/QtA01C3PUF1THw8rGnOrO-8dLrA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4406001/e443c0.jpg",
       "start_time": "2025-07-06T17:30:00.000Z"
+    },
+    "4406046": {
+      "title": "Fang-Chih Lee/Fang-Jen Lee (TPE) vs Chang Ko-Chi/Po Li-Wei (TPE) - Men's Doubles Finals | Yonex Canada Open 2025",
+      "web_url": "18249",
+      "cover_url": "https://thumbor.prod.vidiocdn.com/Ls46CO1rDV5edE8mxrgv8ABK_bo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4406046/807d06.jpg",
+      "start_time": "2025-07-06T15:00:00.000Z"
+    },
+    "4406047": {
+      "title": "Presley Smith/Jennie Gai (USA) vs Ruttanapak Oupthong/Jhenicha Sudjaipraparat (THA) - Mixed Doubles Finals | Yonex Canada Open 2025",
+      "web_url": "18249",
+      "cover_url": "https://thumbor.prod.vidiocdn.com/OpIESPGF1guBvBHb_17H2dZHHfo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4406047/3faaf7.jpg",
+      "start_time": "2025-07-06T15:50:00.000Z"
+    },
+    "4406048": {
+      "title": "Benyapa Aimsaard/Nuntakarn Aimsaard (THA) vs Kaho Osawa/Mai Tanabe (JPN) - Women's Doubles Finals | Yonex Canada Open 2025",
+      "web_url": "18249",
+      "cover_url": "https://thumbor.prod.vidiocdn.com/FF3jA-Fbs_RWRYVbQer4V5GYPts=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4406048/c14273.jpg",
+      "start_time": "2025-07-06T16:40:00.000Z"
+    },
+    "4406050": {
+      "title": "Manami Suizu (JPN) vs Nguyen Thuy Linh (VIE) - Women's Singles Finals | Yonex Canada Open 2025",
+      "web_url": "18249",
+      "cover_url": "https://thumbor.prod.vidiocdn.com/rV-UqH-fFtVyTooShm6_2vGLeds=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4406050/25d696.jpg",
+      "start_time": "2025-07-06T17:30:00.000Z"
+    },
+    "4406051": {
+      "title": "Kenta Nishimoto (JPN) vs Victor Lai (CAN) - Men's Singles Finals | Yonex Canada Open 2025",
+      "web_url": "18249",
+      "cover_url": "https://thumbor.prod.vidiocdn.com/XkJV6bnh88z09xs4YMtxqTd4l-A=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4406051/675254.jpg",
+      "start_time": "2025-07-06T18:20:00.000Z"
     }
   },
   "vidioliveothers": {
