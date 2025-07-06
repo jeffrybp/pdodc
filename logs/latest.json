@@ -1,5 +1,5 @@
 {
-  "time": "2025-07-06T02:50:10.790Z",
+  "time": "2025-07-06T03:00:08.495Z",
   "headers": {
     "x-api-platform": "web-desktop",
     "content-type": "application/vnd.api+json",
@@ -10,20 +10,20 @@
     "sec-ch-ua": "\"Not)A;Brand\";v=\"8\", \"Chromium\";v=\"138\", \"HeadlessChrome\";v=\"138\"",
     "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/g8LCcAqjma9AkFuEknNjia0ZVGrbVpkSravXzaJPV4dyjTiLUQ9PjEZTHXNzagD+fd8+T7paWzJ4FtRwsvumvc=",
     "sec-ch-ua-mobile": "?0",
-    "luws": "D80E3726-10E1-25E2-458C-C86A7F120B68_",
-    "x-signature": "a71d8b6963fbdab99fe17f913c064bd1a1f6db9c1d9d96f1b341be46b31fe54c",
+    "luws": "B0D9036A-8188-3056-0DD6-1E5771E95C1B_",
+    "x-signature": "bf4d209c567eac7d76be0d47d8f91329a9608e85b07b8d4607924cb10b517533",
     "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/138.0.7204.23 Safari/537.36",
     "x-secure-level": "2",
-    "x-client": "1751770208.193",
+    "x-client": "1751770806.419",
     "x-user-email": null,
-    "18105-dash": null,
-    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751784609~acl=/stream/18105/file/*~id=allUsers~hmac=3d8fde6077056634be7a699ff2cb85d81b5fe72999c530341b5b74fd0c5576a2",
-    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751784609~acl=/stream/206/file/*~id=allUsers~hmac=e94af9be211a3d8e80f3b109f3b46b38e51c8ffe4bb86dbabede548f6504b171",
-    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751784609~acl=/stream/206/file/*~id=allUsers~hmac=e94af9be211a3d8e80f3b109f3b46b38e51c8ffe4bb86dbabede548f6504b171",
     "204-dash": null,
-    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751784609~acl=/stream/204/file/*~id=allUsers~hmac=e84803819997f5a2aea7e198f9e61fc81c193e1d0ab1216cada92e17303cb540",
+    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751785206~acl=/stream/204/file/*~id=allUsers~hmac=55772b4f30f464b42b4ac225a6269350c0f8f6168e7b907cda305007df180bda",
+    "18105-dash": null,
+    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751785206~acl=/stream/18105/file/*~id=allUsers~hmac=9103cd8a66543450431ceea824ca9abba2d15f9ab166fe2e4afcf0e04233683e",
     "205-dash": null,
-    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751784609~acl=/stream/205/file/*~id=allUsers~hmac=d5d319cfb63ff2a2f406696b1df7fc3534063fef5dd224fc586ab089afca1fb9",
+    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751785206~acl=/stream/205/file/*~id=allUsers~hmac=3641ba0e84c99658246120e060ccf50ec8d1fce02d5dc660d9deece21e658ca2",
+    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751785206~acl=/stream/206/file/*~id=allUsers~hmac=2f9033aa13cf0c50526274cd108126f96c1dfcdd830024706d13bd924c9a7c25",
+    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751785206~acl=/stream/206/file/*~id=allUsers~hmac=2f9033aa13cf0c50526274cd108126f96c1dfcdd830024706d13bd924c9a7c25",
     "all-sections": "17139-17140-17141-17884-18249-18762-19035",
     "all-vidiolivetv": [
       {
@@ -653,12 +653,6 @@
     }
   },
   "vidioliveothers": {
-    "6954": {
-      "title": "Minggu Pekan Biasa ke XIV",
-      "web_url": "6954",
-      "cover_url": "https://thumbor.prod.vidiocdn.com/ASLvJEzn8iA3hYluyuk6_q1xfds=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6954/misa-katedral-3545fc.jpg",
-      "start_time": "2025-07-06T01:30:00.000Z"
-    },
     "17884": {
       "title": "Formula 1",
       "web_url": "17884",
