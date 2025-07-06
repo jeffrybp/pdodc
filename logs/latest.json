@@ -1,5 +1,5 @@
 {
-  "time": "2025-07-06T08:20:08.802Z",
+  "time": "2025-07-06T08:30:09.662Z",
   "headers": {
     "x-api-platform": "web-desktop",
     "content-type": "application/vnd.api+json",
@@ -8,22 +8,22 @@
     "referer": "https://www.vidio.com/",
     "accept-language": "undefined",
     "sec-ch-ua": "\"Not)A;Brand\";v=\"8\", \"Chromium\";v=\"138\", \"HeadlessChrome\";v=\"138\"",
-    "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/thKYRRCpa7tL0K33vId3Dho0pe1EaMXX4ZAMK6csnjXWjQYJNunspSZ0xpxYLa+ZUBV9bdopW55SQH/UVBp7/I=",
+    "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/sLO/tcDz6nyljrg26rTXZsRFzNrBZlKRcWGNBCywwoJA2sOwFafBuqyIerBOUNanFFw2Vew489lPRuQigvILWg=",
     "sec-ch-ua-mobile": "?0",
-    "luws": "EE9233DD-EC60-9CA0-DDEF-9D6444F9CD92_",
-    "x-signature": "27b2e5ac40b1c98793c8379798ab1706cad7c19d2b1ee145d47539ee699b9da9",
+    "luws": "B3B3F557-1643-BA03-9479-29C32514D872_",
+    "x-signature": "4351bf67f1137bb5aeb272c18aa4b486b39e2bc9f4612999e49a7f4a7d1d1987",
     "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/138.0.7204.23 Safari/537.36",
     "x-secure-level": "2",
-    "x-client": "1751790006.768",
+    "x-client": "1751790606.736",
     "x-user-email": null,
     "204-dash": null,
-    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751804407~acl=/stream/204/file/*~id=allUsers~hmac=4c15344f1e1bf1886d734faf7241b6a836d6a8c991d6dbaaa10cb9a28a3936a0",
-    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751804407~acl=/stream/206/file/*~id=allUsers~hmac=da28a5d43c0ab49c9a1fe9e1ffff78182b639b3cc9b2c9570eec7099b8b6acb5",
-    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751804407~acl=/stream/206/file/*~id=allUsers~hmac=da28a5d43c0ab49c9a1fe9e1ffff78182b639b3cc9b2c9570eec7099b8b6acb5",
+    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751805007~acl=/stream/204/file/*~id=allUsers~hmac=79fc4aecc200e4332f5bd4ad8a8562809fcb6abd25d194f283fae87a0b325339",
     "205-dash": null,
     "205-hls": null,
+    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751805007~acl=/stream/206/file/*~id=allUsers~hmac=ed45128c918df8e00fcc66a9ed3d77cca92ea42358cd30c4295133ce5ddb034d",
+    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751805007~acl=/stream/206/file/*~id=allUsers~hmac=ed45128c918df8e00fcc66a9ed3d77cca92ea42358cd30c4295133ce5ddb034d",
     "18105-dash": null,
-    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751804407~acl=/stream/18105/file/*~id=allUsers~hmac=f9a17e9ef22c8229e267beb94c134ec33850ee70730f275c164f965780788c7d",
+    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751805007~acl=/stream/18105/file/*~id=allUsers~hmac=7ecceb7cb15c2e0a8430aa8cb253f244db421e248b772c3c5a40b8243d2fa437",
     "all-sections": "17139-17140-17141-17884-18189-18249-18762-19035-6717",
     "all-vidiolivetv": [
       {
@@ -672,9 +672,9 @@
   },
   "vidioliveothers": {
     "17884": {
-      "title": "Formula 1",
+      "title": "FIA Formula 3 Championship Great Britain Grand Prix 2025 - Race",
       "web_url": "17884",
-      "cover_url": "https://thumbor.prod.vidiocdn.com/Rc1pHYZnd8l_siMi118TkKusbPM=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17884/formula-1-5ee872.jpg",
+      "cover_url": "https://thumbor.prod.vidiocdn.com/-XPRIrOS4fVEw7t3j2NWOFwUw1A=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4403896/a5f6b7.jpg",
       "start_time": "2025-04-02T13:25:00.000Z"
     },
     "17938": {
