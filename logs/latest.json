@@ -1,5 +1,5 @@
 {
-  "time": "2025-07-06T16:50:08.909Z",
+  "time": "2025-07-06T17:00:14.671Z",
   "headers": {
     "x-api-platform": "web-desktop",
     "content-type": "application/vnd.api+json",
@@ -8,22 +8,22 @@
     "referer": "https://www.vidio.com/",
     "accept-language": "undefined",
     "sec-ch-ua": "\"Not)A;Brand\";v=\"8\", \"Chromium\";v=\"138\", \"HeadlessChrome\";v=\"138\"",
-    "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/tWiTM/uJEBoyoQ+0a8sQgjB1LOq4fYzdrA9EdWBLZ/msyXoqjBXPdTMAZlbPt4ly2CVtRrIrc6KFoHZnb8AHPo=",
+    "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/ohYrQz4as3p3gjW8rugkaBpD4gMbjUs5DqezE11tWbOhBdCpZEsVPFcnvoVHH62NDXQeZzI7Xcg4fMwGElWDMo=",
     "sec-ch-ua-mobile": "?0",
-    "luws": "22E3106B-0689-7B7E-1BCB-D52AFC191179_",
-    "x-signature": "5c86b39d72ff2008f6994f6cc078b656ef0553cf1ae0cbeca8a839ae554385e7",
+    "luws": "0790969D-FB0E-484A-FF15-1A738EC4FADC_",
+    "x-signature": "24b52087927fe6938522705b20fa59f4abb481d2b1bc44d1c52a2da35ad8db50",
     "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/138.0.7204.23 Safari/537.36",
     "x-secure-level": "2",
-    "x-client": "1751820606.542",
+    "x-client": "1751821211.302",
     "x-user-email": null,
-    "205-dash": null,
-    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751835007~acl=/stream/205/file/*~id=allUsers~hmac=dbe927bd5f838814ae183f0db422cafc417bd16949fd94de34a525d7d540ad13",
-    "18105-dash": null,
-    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751835007~acl=/stream/18105/file/*~id=allUsers~hmac=d5984a6f6dacde8d4b9437933415ec9acf5ca580097aebc57164943a91f6defa",
     "204-dash": null,
-    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751835007~acl=/stream/204/file/*~id=allUsers~hmac=0a3f92fc1e7006cea3be7d928f5f8d443016c654f2017409d28e56fd1183294d",
-    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751835007~acl=/stream/206/file/*~id=allUsers~hmac=09bafd13187bf40a87dec9f419fb721e7882e0f6067bca89f9ecdb02f98d2001",
-    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751835007~acl=/stream/206/file/*~id=allUsers~hmac=09bafd13187bf40a87dec9f419fb721e7882e0f6067bca89f9ecdb02f98d2001",
+    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751835612~acl=/stream/204/file/*~id=allUsers~hmac=bc0f318a15b77047128af928634daf3c91d686b33fccce8b090d463f46691f05",
+    "205-dash": null,
+    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751835612~acl=/stream/205/file/*~id=allUsers~hmac=b2e138f8679451e2daffcccc17515ec6ce6167b4e0940c86558c09e67a6d83de",
+    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751835612~acl=/stream/206/file/*~id=allUsers~hmac=a81e33b36715da307fa08cd628652f1c6ce8e6e356866ba57b4c48bc0e7083e6",
+    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751835612~acl=/stream/206/file/*~id=allUsers~hmac=a81e33b36715da307fa08cd628652f1c6ce8e6e356866ba57b4c48bc0e7083e6",
+    "18105-dash": null,
+    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751835612~acl=/stream/18105/file/*~id=allUsers~hmac=b5d7c80439047cf659d34871b944552063a2faf89ac05e1af87dec3206445208",
     "all-sections": "17139-17140-18189-18249-19035-6717",
     "all-vidiolivetv": [
       {
@@ -594,7 +594,7 @@
   },
   "vidioliveothers": {
     "17884": {
-      "title": "British Grand Prix : Chequered Flag",
+      "title": "British Grand Prix : Ted's Notebook",
       "web_url": "17884",
       "cover_url": "https://thumbor.prod.vidiocdn.com/Rc1pHYZnd8l_siMi118TkKusbPM=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17884/formula-1-5ee872.jpg",
       "start_time": "2025-04-02T13:25:00.000Z"
