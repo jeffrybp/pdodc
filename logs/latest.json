@@ -1,5 +1,5 @@
 {
-  "time": "2025-07-06T12:20:08.591Z",
+  "time": "2025-07-06T12:30:16.455Z",
   "headers": {
     "x-api-platform": "web-desktop",
     "content-type": "application/vnd.api+json",
@@ -8,22 +8,22 @@
     "referer": "https://www.vidio.com/",
     "accept-language": "undefined",
     "sec-ch-ua": "\"Not)A;Brand\";v=\"8\", \"Chromium\";v=\"138\", \"HeadlessChrome\";v=\"138\"",
-    "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/obyqaUOOlIcselnAixz9tk3eXEx23zspWsi7Wq/a+B9M2xFizQ31lUx7rFsfufca9sUCuuhpsWd6CcnJB78myY=",
+    "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/uNIV04kR7yy2hAVI5JJLd7gqgmyqJQ5RBUlCoe2zFbCwkrKXVGwF9NZmoYZMgdGV2B9R3TWyhmeKbppbLW/bPM=",
     "sec-ch-ua-mobile": "?0",
-    "luws": "B1FD9936-2711-7F72-D36D-4D8D076DAEEB_",
-    "x-signature": "c2df99b6a735c634fd69e626d708bede44cd0c77c8aa58509e64a8dc879dc31c",
+    "luws": "ED377647-6C56-CA9D-DA1D-B0B892BA4D78_",
+    "x-signature": "40915c9767929917a92fc7b427aef6b119951810304517eaa3d7e285cb35f4f4",
     "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/138.0.7204.23 Safari/537.36",
     "x-secure-level": "2",
-    "x-client": "1751804406.119",
+    "x-client": "1751805006.644",
     "x-user-email": null,
     "205-dash": null,
     "205-hls": null,
+    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751819411~acl=/stream/206/file/*~id=allUsers~hmac=3fdf71f44838f4b2e314f2d4093114b4981ae0519a4af6b9539eb599abda71fa",
+    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751819411~acl=/stream/206/file/*~id=allUsers~hmac=3fdf71f44838f4b2e314f2d4093114b4981ae0519a4af6b9539eb599abda71fa",
     "18105-dash": null,
-    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751818806~acl=/stream/18105/file/*~id=allUsers~hmac=cb105f95603c213b65927ff4ef37729253c6548dbc7df152ee1dcac490fad869",
+    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751819411~acl=/stream/18105/file/*~id=allUsers~hmac=a004b0b18f3f56ee6a0de1f29766d09c92ebeaae26467bd27489588e9f791e21",
     "204-dash": null,
-    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751818806~acl=/stream/204/file/*~id=allUsers~hmac=a690c72bfee68937d7c97d6fa717bfeead9d22a7635bde93b62dec106b0938de",
-    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751818806~acl=/stream/206/file/*~id=allUsers~hmac=b5d9fca874d8898471b503f83c4bd2c9a57d72ce4ce213d92126347d489579eb",
-    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751818806~acl=/stream/206/file/*~id=allUsers~hmac=b5d9fca874d8898471b503f83c4bd2c9a57d72ce4ce213d92126347d489579eb",
+    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751819412~acl=/stream/204/file/*~id=allUsers~hmac=bd4c0363b864f057d41444c7f7570b4f40c6a2dfd4d487d87887c814e8728f57",
     "all-sections": "17139-17140-17141-17884-18189-18249-18762-19035-6717",
     "all-vidiolivetv": [
       {
@@ -642,13 +642,13 @@
   },
   "vidioliveothers": {
     "17141": {
-      "title": "2025 MXGP",
+      "title": "FIM Junior Motocross World Championship 2025: 65cc - Race 2",
       "web_url": "17141",
-      "cover_url": "https://thumbor.prod.vidiocdn.com/oWmj2GJmekD1JrfkvlsXV2pDbAA=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17141/2025-mxgp-45d5b5.jpg",
+      "cover_url": "https://thumbor.prod.vidiocdn.com/FpmjGYigZlKbseA-De3D6ho8N5E=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4403695/5dc866.jpg",
       "start_time": "2025-07-06T09:21:00.000Z"
     },
     "17884": {
-      "title": "Formula 1",
+      "title": "British Grand Prix : Grand Prix Sunday",
       "web_url": "17884",
       "cover_url": "https://thumbor.prod.vidiocdn.com/Rc1pHYZnd8l_siMi118TkKusbPM=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17884/formula-1-5ee872.jpg",
       "start_time": "2025-04-02T13:25:00.000Z"
@@ -666,9 +666,9 @@
       "start_time": "2024-10-20T12:45:00.000Z"
     },
     "19035": {
-      "title": "Opening Ceremony - Piala Presiden",
+      "title": "Oxford United vs Liga Indonesia All Star - Piala Presiden",
       "web_url": "19035",
-      "cover_url": "https://thumbor.prod.vidiocdn.com/JxSPSDtiiFP2K-nwgQBOuOorSnw=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/19035/piala-presiden-97e5a8.jpg",
+      "cover_url": "https://thumbor.prod.vidiocdn.com/DJ0trSPhPbdmJdABhW5y3cdItlc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4398543/f669c8.jpg",
       "start_time": "2025-07-06T11:34:00.000Z"
     }
   }
