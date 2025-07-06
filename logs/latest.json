@@ -1,5 +1,5 @@
 {
-  "time": "2025-07-06T15:50:09.648Z",
+  "time": "2025-07-06T16:00:08.056Z",
   "headers": {
     "x-api-platform": "web-desktop",
     "content-type": "application/vnd.api+json",
@@ -8,22 +8,22 @@
     "referer": "https://www.vidio.com/",
     "accept-language": "undefined",
     "sec-ch-ua": "\"Not)A;Brand\";v=\"8\", \"Chromium\";v=\"138\", \"HeadlessChrome\";v=\"138\"",
-    "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/nUEdhKw87/mLbXzydSj1f97nTmz93bGmtWMm35IWMIuqiie7CEg2C9Gol2AVrAygfDYfPtkIdjQluQbsg7RH1Q=",
+    "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/u5gnY1amzrPYYE7FjfEraqwIoDR9Y6fwed5xXPwDvp/1V/9hMPQLMJCZ7G3PLvwwmsAHDf2VGEUeSLDxAGKltw=",
     "sec-ch-ua-mobile": "?0",
-    "luws": "DF5FD106-1E0B-9539-EDAD-FD244D5AF14F_",
-    "x-signature": "1d6bdb56ddf492c439d7752107c9025871082efb81f33965f03ecea81c988b19",
+    "luws": "EC481285-12E3-2BA7-6D39-C2316DD74069_",
+    "x-signature": "632c5695094b09b62fd3584fbf55798ec50e2e6370d2762dbc4fd94db3f8f7ff",
     "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/138.0.7204.23 Safari/537.36",
     "x-secure-level": "2",
-    "x-client": "1751817007.558",
+    "x-client": "1751817605.85",
     "x-user-email": null,
     "18105-dash": null,
-    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751831407~acl=/stream/18105/file/*~id=allUsers~hmac=9c8307c5e3942e7a8c7363244feb4ffb29fafe9cb67222297073ba165588d80d",
+    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751832006~acl=/stream/18105/file/*~id=allUsers~hmac=e07ed0e7a2382f9fc87c73e733f1f2b8c98467b7ed480023fb90b5c61ddfd64f",
     "204-dash": null,
-    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751831407~acl=/stream/204/file/*~id=allUsers~hmac=b6db48c2bf1899e04b9d07b80a951eb990df6abed9673be953a16ed34f64703e",
+    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751832006~acl=/stream/204/file/*~id=allUsers~hmac=0afa11350a9151ee6739803609b306dcab0b6349299a68bde810a3dcdba27b0d",
+    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751832006~acl=/stream/206/file/*~id=allUsers~hmac=f73622d9e561b8c441fbc980cdc92c2d3391dfd1856369b02bc9eb23325b51de",
+    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751832006~acl=/stream/206/file/*~id=allUsers~hmac=f73622d9e561b8c441fbc980cdc92c2d3391dfd1856369b02bc9eb23325b51de",
     "205-dash": null,
-    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751831407~acl=/stream/205/file/*~id=allUsers~hmac=e0ec13c9269dfe96ed5cfa23353fbd485089379472d0567a3e8a14d5698348c6",
-    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751831407~acl=/stream/206/file/*~id=allUsers~hmac=40edddd3ebb8ede4eedae02bcb48e922cb13ba019e031664af5c1b92ef1726cd",
-    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751831407~acl=/stream/206/file/*~id=allUsers~hmac=40edddd3ebb8ede4eedae02bcb48e922cb13ba019e031664af5c1b92ef1726cd",
+    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751832006~acl=/stream/205/file/*~id=allUsers~hmac=37028489614b959d12026ecac59e4b43ace6a693f09c1011535e26a83b0fd3c9",
     "all-sections": "17139-17140-17884-18189-18249-18762-19035-6717",
     "all-vidiolivetv": [
       {
@@ -628,12 +628,6 @@
       "web_url": "18249",
       "cover_url": "https://thumbor.prod.vidiocdn.com/Ls46CO1rDV5edE8mxrgv8ABK_bo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4406046/807d06.jpg",
       "start_time": "2025-07-06T15:00:00.000Z"
-    },
-    "18762": {
-      "title": "F1 Kids British - Race",
-      "web_url": "18762",
-      "cover_url": "https://thumbor.prod.vidiocdn.com/SD4jGZjdztF-B8Xnqc234pN2E5Q=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4399170/21a0f8.jpg",
-      "start_time": "2025-07-06T13:55:00.000Z"
     }
   }
 }
