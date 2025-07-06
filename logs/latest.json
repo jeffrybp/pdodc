@@ -1,5 +1,5 @@
 {
-  "time": "2025-07-06T10:10:08.055Z",
+  "time": "2025-07-06T10:20:09.924Z",
   "headers": {
     "x-api-platform": "web-desktop",
     "content-type": "application/vnd.api+json",
@@ -8,22 +8,22 @@
     "referer": "https://www.vidio.com/",
     "accept-language": "undefined",
     "sec-ch-ua": "\"Not)A;Brand\";v=\"8\", \"Chromium\";v=\"138\", \"HeadlessChrome\";v=\"138\"",
-    "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/hV51sCI6E6PDlzGn2ePpfeXSxOKGLO/oFUMT23ZN3NgD/nbICbu1GRNj7iyy7nBWNFHsWAV2fIGrBNLZrKaKH8=",
+    "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/gCWrs7NcTwmV93destFk7qkWfzAKykHK+G9Y8OcAc/uMRbw6GX4A9rH6nGvHusG/NOrg0hFIofRVxOW3NkjP0Y=",
     "sec-ch-ua-mobile": "?0",
-    "luws": "E311F176-ED2C-E048-FCDA-6D800D78EBDA_",
-    "x-signature": "54310fba774239c3fdd179addc23d7a7de0f79d84fd25ceff70b677d070f042e",
+    "luws": "51EC6CDF-7DD4-5BF4-540C-77B9DF430A07_",
+    "x-signature": "3da2c2c6a3d8792beeab2415f91902acdec95ab6b82851130ca6400fb147a398",
     "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/138.0.7204.23 Safari/537.36",
     "x-secure-level": "2",
-    "x-client": "1751796605.783",
+    "x-client": "1751797207.291",
     "x-user-email": null,
-    "204-dash": null,
-    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751811006~acl=/stream/204/file/*~id=allUsers~hmac=77b86000721f279c50948b4853567a771e6830f3ac840baf22ca48ccb71ad1f3",
     "205-dash": null,
     "205-hls": null,
+    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751811608~acl=/stream/206/file/*~id=allUsers~hmac=36df893a1f180c61e85d220bc023bb54bcdfa9fac58516ca5e6c45e417e0cbc5",
+    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751811608~acl=/stream/206/file/*~id=allUsers~hmac=36df893a1f180c61e85d220bc023bb54bcdfa9fac58516ca5e6c45e417e0cbc5",
+    "204-dash": null,
+    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751811608~acl=/stream/204/file/*~id=allUsers~hmac=00284bfeb77da74015400ae4e447c70cdfed1fcfb5adc60ef76697310552e52d",
     "18105-dash": null,
-    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751811006~acl=/stream/18105/file/*~id=allUsers~hmac=d5198599d28b39dd76cf1dd46420f019b52d3360e6fa0954ae3b093088b79bef",
-    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751811006~acl=/stream/206/file/*~id=allUsers~hmac=6758e282947cedebdd1e31f149f6083e50d3502b1e49e70be1cf13eb8c83578d",
-    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751811006~acl=/stream/206/file/*~id=allUsers~hmac=6758e282947cedebdd1e31f149f6083e50d3502b1e49e70be1cf13eb8c83578d",
+    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751811608~acl=/stream/18105/file/*~id=allUsers~hmac=1f9879460e1dcd4b7f236b8b3e08b4f30e308ae41bf1098c13bf401def939d72",
     "all-sections": "17139-17140-17141-17884-18189-18249-18762-19035-6717",
     "all-vidiolivetv": [
       {
@@ -505,7 +505,7 @@
       "title": "Oxford United vs Liga Indonesia All Star - Piala Presiden",
       "web_url": "19035",
       "cover_url": "https://thumbor.prod.vidiocdn.com/DJ0trSPhPbdmJdABhW5y3cdItlc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4398543/f669c8.jpg",
-      "start_time": "2025-07-06T11:35:00.000Z"
+      "start_time": "2025-07-06T12:30:00.000Z"
     },
     "4399170": {
       "title": "F1 Kids British - Race",
