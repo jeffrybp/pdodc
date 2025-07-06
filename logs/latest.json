@@ -1,5 +1,5 @@
 {
-  "time": "2025-07-06T20:00:12.120Z",
+  "time": "2025-07-06T20:10:11.918Z",
   "headers": {
     "x-api-platform": "web-desktop",
     "content-type": "application/vnd.api+json",
@@ -8,23 +8,23 @@
     "referer": "https://www.vidio.com/",
     "accept-language": "undefined",
     "sec-ch-ua": "\"Not)A;Brand\";v=\"8\", \"Chromium\";v=\"138\", \"HeadlessChrome\";v=\"138\"",
-    "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/kSJKSOHMUBDiccC1lerNwq4huIgRaKD9bPdAIgZKsXCYYGlQ1BqNQUgEcVd06B+gOUJUBxR5PG3z+59Bwnu1s4=",
+    "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/o5qLdfE+0J1O0p5/c2rv+Xv8qL69CxdONB0hiW8hZshUY0FVg9btLg50nIG/T6bzpi7GpQDcjrjvxZcxA71WQM=",
     "sec-ch-ua-mobile": "?0",
-    "luws": "E03EA204-7B29-1F8B-68AB-D8150C24A964_",
-    "x-signature": "1358a9899016dfc06a40b69d10d599263e59d456779e36ae0d910b9570d84885",
+    "luws": "13DD11D6-81C3-62F4-912F-4C71069FD08C_",
+    "x-signature": "521538c4d2335ed15f2a58f8867a7b58a068a79a8b895a0ba8e2c438d18c39e0",
     "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/138.0.7204.23 Safari/537.36",
     "x-secure-level": "2",
-    "x-client": "1751832009.744",
+    "x-client": "1751832609.864",
     "x-user-email": null,
-    "205-dash": null,
-    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751846410~acl=/stream/205/file/*~id=allUsers~hmac=71874e1b57e72ca48dc94af58dbf6a33f720dd9f3f341d7ccf40f41f07a0f78e",
-    "18105-dash": null,
-    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751846410~acl=/stream/18105/file/*~id=allUsers~hmac=328f0aca73db15b9b7f875a8c29e87699a8e6408598670202feb1f688fa0aa82",
+    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751847010~acl=/stream/206/file/*~id=allUsers~hmac=8865e13c11a58c02e4ce0064ca79e01648f90ab3f7dace796741fe6b234f141e",
+    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751847010~acl=/stream/206/file/*~id=allUsers~hmac=8865e13c11a58c02e4ce0064ca79e01648f90ab3f7dace796741fe6b234f141e",
     "204-dash": null,
-    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751846410~acl=/stream/204/file/*~id=allUsers~hmac=46031f9a8d4af4c1caeba4964cda194b9c93427c92b8c8251ea047c4bd072d97",
-    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751846410~acl=/stream/206/file/*~id=allUsers~hmac=bf54008328863526dbd4581abafce4a13fb32d92d2d705814662a0fd7ca67248",
-    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751846410~acl=/stream/206/file/*~id=allUsers~hmac=bf54008328863526dbd4581abafce4a13fb32d92d2d705814662a0fd7ca67248",
-    "all-sections": "17139-17140-18189-18249-19035-6717",
+    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751847010~acl=/stream/204/file/*~id=allUsers~hmac=47cd21743a36701f594f8779b236903a74c6f2533a072381cc0612a3b43e3a4a",
+    "18105-dash": null,
+    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751847010~acl=/stream/18105/file/*~id=allUsers~hmac=a3adfafb9a983e7a22dc332f59f3f9f98a413dc11f06a4504a84cd1e45314fa8",
+    "205-dash": null,
+    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751847010~acl=/stream/205/file/*~id=allUsers~hmac=d9631dc3122cbaf1533625e25f450227654ff23b438077ebae33ba334f3b927a",
+    "all-sections": "17139-17140-18189-19035-6717",
     "all-vidiolivetv": [
       {
         "content_id": "204",
@@ -489,12 +489,6 @@
     ]
   },
   "sections": {
-    "18249": {
-      "title": "Kenta Nishimoto (JPN) vs Victor Lai (CAN) - Men's Singles Finals | Yonex Canada Open 2025",
-      "web_url": "18249",
-      "cover_url": "https://thumbor.prod.vidiocdn.com/XkJV6bnh88z09xs4YMtxqTd4l-A=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4406051/675254.jpg",
-      "start_time": "2025-07-06T15:00:00.000Z"
-    },
     "4403698": {
       "title": "Persib Bandung vs Dewa United Banten FC - Piala Presiden",
       "web_url": "19035",
@@ -634,12 +628,6 @@
       "web_url": "17939",
       "cover_url": "https://thumbor.prod.vidiocdn.com/X-RqLAcQNAoAqhhYdA6L240KI50=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17939/serie-a-4cc90b.jpg",
       "start_time": "2024-10-20T12:45:00.000Z"
-    },
-    "18249": {
-      "title": "Kenta Nishimoto (JPN) vs Victor Lai (CAN) - Men's Singles Finals | Yonex Canada Open 2025",
-      "web_url": "18249",
-      "cover_url": "https://thumbor.prod.vidiocdn.com/XkJV6bnh88z09xs4YMtxqTd4l-A=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4406051/675254.jpg",
-      "start_time": "2025-07-06T15:00:00.000Z"
     }
   }
 }
