@@ -1,5 +1,5 @@
 {
-  "time": "2025-07-07T13:00:14.935Z",
+  "time": "2025-07-07T13:10:13.503Z",
   "headers": {
     "x-api-platform": "web-desktop",
     "content-type": "application/vnd.api+json",
@@ -8,22 +8,22 @@
     "referer": "https://www.vidio.com/",
     "accept-language": "undefined",
     "sec-ch-ua": "\"Not)A;Brand\";v=\"8\", \"Chromium\";v=\"138\", \"HeadlessChrome\";v=\"138\"",
-    "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/uq2G3S3XJJkoKHVsKjYrgl9vmA1naxhhPZalwFfSxTlz0uS9kyz2ySYVSplnHnKWiv6pCcEdEgGnb9B8O2faWE=",
+    "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/lsYNsohYNxxItI1AsmFimS237lAQSggCC/4WXWWpfkV09Gc4MMacrQNpxK8SDSYHfj9p7vd62SOccqhOmWnHco=",
     "sec-ch-ua-mobile": "?0",
-    "luws": "0A998D37-3315-C81C-E2BA-FD86BB5D28A9_",
-    "x-signature": "5179605fbff8cd2c8a17d876f3b8d872270ce1980f5b76fe6234ad885ba6941a",
+    "luws": "447D3623-3432-E2D2-CF8F-5E0197BA87B4_",
+    "x-signature": "26466a2ce8f2aea48048bc966937ab0b32c09b6086458f73ea40deeecc327ba3",
     "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/138.0.7204.23 Safari/537.36",
     "x-secure-level": "2",
-    "x-client": "1751893210.925",
+    "x-client": "1751893810.658",
     "x-user-email": null,
-    "204-dash": null,
-    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751907612~acl=/stream/204/file/*~id=allUsers~hmac=6a5bafac16c01d61893d00987f04bf4ea35b151d2d30d72e5e715f72a8cd7cec",
-    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751907612~acl=/stream/206/file/*~id=allUsers~hmac=9630e40d265501fc4d89add9c244d3b76247f74b666577f7f0069bc99430c518",
-    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751907612~acl=/stream/206/file/*~id=allUsers~hmac=9630e40d265501fc4d89add9c244d3b76247f74b666577f7f0069bc99430c518",
     "205-dash": null,
-    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751907612~acl=/stream/205/file/*~id=allUsers~hmac=6ba74257781266627d158af85fb0215c6944371ffe76f551852fc64bbf5c31d5",
+    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751908211~acl=/stream/205/file/*~id=allUsers~hmac=deeac370f4ccf3dfef58bc66b5ca38b9f3b7a8eaaf0ee27a4507efb062ef6725",
+    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751908211~acl=/stream/206/file/*~id=allUsers~hmac=90b96a0fcaf9559515a735c8a128081c95768098f4cd0c9a89e078e79a2c3c7e",
+    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751908211~acl=/stream/206/file/*~id=allUsers~hmac=90b96a0fcaf9559515a735c8a128081c95768098f4cd0c9a89e078e79a2c3c7e",
     "18105-dash": null,
-    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751907612~acl=/stream/18105/file/*~id=allUsers~hmac=777cd434ccd91ad18b70c4b9b9b70b5329269d7bcd29c65812c553109474a054",
+    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751908211~acl=/stream/18105/file/*~id=allUsers~hmac=17d3303bdfc3018b000fe94b3ab9e550fa17d4df3257c2b820aeff8b08f036bb",
+    "204-dash": null,
+    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751908211~acl=/stream/204/file/*~id=allUsers~hmac=e23ced8411fee73e46d7c98e5fdf57d3fb3d149b1dbaab8b4ee686ab198ff679",
     "all-sections": "17139-17140-18853-18954-19035-6717",
     "all-vidiolivetv": [
       {
@@ -636,7 +636,7 @@
       "start_time": "2025-04-02T13:25:00.000Z"
     },
     "17938": {
-      "title": "Lazio vs Milan - Serie A",
+      "title": "Milan vs Inter - Serie A",
       "web_url": "17938",
       "cover_url": "https://thumbor.prod.vidiocdn.com/tJoOEHTHed9-fRQvnXoew2nr8hY=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17938/serie-a-973769.jpg",
       "start_time": "2024-10-20T10:00:00.000Z"
