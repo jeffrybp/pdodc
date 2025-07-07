@@ -1,5 +1,5 @@
 {
-  "time": "2025-07-07T07:40:17.487Z",
+  "time": "2025-07-07T07:50:12.265Z",
   "headers": {
     "x-api-platform": "web-desktop",
     "content-type": "application/vnd.api+json",
@@ -8,22 +8,22 @@
     "referer": "https://www.vidio.com/",
     "accept-language": "undefined",
     "sec-ch-ua": "\"Not)A;Brand\";v=\"8\", \"Chromium\";v=\"138\", \"HeadlessChrome\";v=\"138\"",
-    "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/smZE6ksmDafm5inz/OqIAl9eUbbjjYpKHHhGuuCuowmuZA1W9Ta8VN6xmo1twcQ9kKy6/yzFKIOSLHkksd6O0U=",
+    "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/uv0iolEJWd6qjlpKhs75SwbCcpWAQRBc/jIUUrLo47fPU5AZi3QMqyeghHrhO+JeHNqWXBW89/dTwLnA682jMs=",
     "sec-ch-ua-mobile": "?0",
-    "luws": "A8F2EFD8-8D3E-F263-0EFB-4B9CF9119292_",
-    "x-signature": "c9d47abd279c03337c6a27da40a2fe7f6348db8b8b6200c2e4831ab8b3c2a327",
+    "luws": "3EF4E4C6-7039-ECB1-D3F0-BC567B3C8579_",
+    "x-signature": "305c5f89b3091a79f56e39ddfdee19a9377a5e292fd5fb49b6e11e6ac664099e",
     "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/138.0.7204.23 Safari/537.36",
     "x-secure-level": "2",
-    "x-client": "1751874015.113",
+    "x-client": "1751874610.011",
     "x-user-email": null,
     "204-dash": null,
-    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751888415~acl=/stream/204/file/*~id=allUsers~hmac=00db3be606a69e443625164634535ce726d7b463fe38d753eef2e06a5b43a093",
-    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751888415~acl=/stream/206/file/*~id=allUsers~hmac=c3ff857fa5b95eecd66f5d5fb353f14cad8a64c6984eef9c3fe5be797d724bd9",
-    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751888415~acl=/stream/206/file/*~id=allUsers~hmac=c3ff857fa5b95eecd66f5d5fb353f14cad8a64c6984eef9c3fe5be797d724bd9",
-    "205-dash": null,
-    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751888415~acl=/stream/205/file/*~id=allUsers~hmac=6381c5df3e578664b5b0812e78bf1550f400ffb5f4fff6dfefd385ea494a8bf3",
+    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751889010~acl=/stream/204/file/*~id=allUsers~hmac=a72b2bc5234772724fdaa6eb2662a28ba9da17f17b7b7e7a814a2295c1e29132",
     "18105-dash": null,
-    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751888415~acl=/stream/18105/file/*~id=allUsers~hmac=a7bbf5fd45e6a85e11eab85850cc4a30616530d02408157bcb6fd1233aefd944",
+    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751889010~acl=/stream/18105/file/*~id=allUsers~hmac=358d329825492634c30425265f0c05578f85797b3fafe99898458546ef4de4e7",
+    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751889010~acl=/stream/206/file/*~id=allUsers~hmac=1a4c8ce2b44617b912457c3e79635849f6d547a027cb22ba7d555640e5cc6be2",
+    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751889010~acl=/stream/206/file/*~id=allUsers~hmac=1a4c8ce2b44617b912457c3e79635849f6d547a027cb22ba7d555640e5cc6be2",
+    "205-dash": null,
+    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751889010~acl=/stream/205/file/*~id=allUsers~hmac=e7bd8d73df0d36bff16bd5c3b2701e6658f1bee92d6ba8eea90762e4572c23d7",
     "all-sections": "17139-17140-18853-18954-19035-6717",
     "all-vidiolivetv": [
       {
@@ -646,12 +646,6 @@
       "web_url": "17939",
       "cover_url": "https://thumbor.prod.vidiocdn.com/X-RqLAcQNAoAqhhYdA6L240KI50=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17939/serie-a-4cc90b.jpg",
       "start_time": "2024-10-20T12:45:00.000Z"
-    },
-    "19043": {
-      "title": "Rapat DPR & Basarnas di Tengah Kasus WN Brasil Juliana Marins",
-      "web_url": "19043",
-      "cover_url": "https://thumbor.prod.vidiocdn.com/8R_a-rIcZ5mqrqM_0HySgQN5QfE=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/19043/live-now-0afa1c.jpg",
-      "start_time": "2025-07-07T04:47:00.000Z"
     }
   }
 }
