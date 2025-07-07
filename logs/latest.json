@@ -1,5 +1,5 @@
 {
-  "time": "2025-07-07T03:30:14.484Z",
+  "time": "2025-07-07T03:40:15.319Z",
   "headers": {
     "x-api-platform": "web-desktop",
     "content-type": "application/vnd.api+json",
@@ -8,22 +8,22 @@
     "referer": "https://www.vidio.com/",
     "accept-language": "undefined",
     "sec-ch-ua": "\"Not)A;Brand\";v=\"8\", \"Chromium\";v=\"138\", \"HeadlessChrome\";v=\"138\"",
-    "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/upFrdYscV287z1UWBt8HaN8gUs63nH8bAwEuLGO6ockVKtC9+XhHjMB1wlplB8Y/fwMvGqo1fc2yjVYy0ADI0Y=",
+    "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/jIYmiRhcGp5vV6wJBFAfyUuJO7OvI0iSzHlyU5M3czBnc0U3bSryaRkT/deueOcfTD12wuSImyVX3BzQFgmgUo=",
     "sec-ch-ua-mobile": "?0",
-    "luws": "B4F4AA18-130A-25F0-FCD1-6283701954FC_",
-    "x-signature": "1497378780a3c879c2acbf8e620bc4e1c2217aa044c0ea6aa27c067e64062e01",
+    "luws": "3919600B-50BC-B489-6AEA-ADDDE4E28A69_",
+    "x-signature": "5dd6cd40b90684d041131e70fadf76ca4a3502dab754612484c2c95e07f08b39",
     "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/138.0.7204.23 Safari/537.36",
     "x-secure-level": "2",
-    "x-client": "1751859011.735",
+    "x-client": "1751859611.612",
     "x-user-email": null,
-    "204-dash": null,
-    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751873412~acl=/stream/204/file/*~id=allUsers~hmac=9cddbe2e16754b9dc0e7075338038ee2bd4cb75054778257f4fb82b97f4016bf",
-    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751873412~acl=/stream/206/file/*~id=allUsers~hmac=ca276f651dcc32972e48a2a967593bc016eb03671a2f9572012198815ae5f49f",
-    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751873412~acl=/stream/206/file/*~id=allUsers~hmac=ca276f651dcc32972e48a2a967593bc016eb03671a2f9572012198815ae5f49f",
-    "18105-dash": null,
-    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751873412~acl=/stream/18105/file/*~id=allUsers~hmac=40408212c75aa95b5953f11fe7bb68653a29f5b849d4fd46ed892546ffeaeeac",
     "205-dash": null,
-    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751873412~acl=/stream/205/file/*~id=allUsers~hmac=7f2041e841a907867b23904ae657e7bc8c4a04ef844ddff68f981b6962da3f30",
+    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751874012~acl=/stream/205/file/*~id=allUsers~hmac=7a0924f948f3684889139d90f8fd9057a414b85cf094572a2780df468c12577d",
+    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751874012~acl=/stream/206/file/*~id=allUsers~hmac=27edbcd84131899fdd08b46bd5ee0a6680a43bc0994da48da357f1ed2cd7bcb8",
+    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751874012~acl=/stream/206/file/*~id=allUsers~hmac=27edbcd84131899fdd08b46bd5ee0a6680a43bc0994da48da357f1ed2cd7bcb8",
+    "18105-dash": null,
+    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751874012~acl=/stream/18105/file/*~id=allUsers~hmac=fb718f2b6e5abcd4a539d1892cb713713e9c2ca6c64a9fbe3558d4ec3da65c21",
+    "204-dash": null,
+    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751874012~acl=/stream/204/file/*~id=allUsers~hmac=d2e5d6680973c9cdc3f28dfa3791a84b4c7c5f2969379e499fcf02b8b82d601c",
     "all-sections": "17139-17140-18853-18954-19035-6717",
     "all-vidiolivetv": [
       {
@@ -618,8 +618,14 @@
     "4409231": {
       "title": "Dewa United Banten FC vs Port FC - Piala Presiden",
       "web_url": "19035",
-      "cover_url": "https://thumbor.prod.vidiocdn.com/JxSPSDtiiFP2K-nwgQBOuOorSnw=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/19035/piala-presiden-97e5a8.jpg",
-      "start_time": "2025-07-10T08:30:00.000Z"
+      "cover_url": "https://thumbor.prod.vidiocdn.com/jjAZvH0mf4Tqco8B8geuzmZkI58=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4409231/c109a1.jpg",
+      "start_time": "2025-07-10T08:00:00.000Z"
+    },
+    "4409232": {
+      "title": "Arema FC vs Oxford United - Piala Presiden",
+      "web_url": "19035",
+      "cover_url": "https://thumbor.prod.vidiocdn.com/2oG-VzeRYYJIrnpZDRjhaK9tJ3s=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4409232/33cf9e.jpg",
+      "start_time": "2025-07-10T12:00:00.000Z"
     }
   },
   "vidioliveothers": {
