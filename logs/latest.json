@@ -1,5 +1,5 @@
 {
-  "time": "2025-07-07T04:40:19.094Z",
+  "time": "2025-07-07T04:50:14.186Z",
   "headers": {
     "x-api-platform": "web-desktop",
     "content-type": "application/vnd.api+json",
@@ -10,20 +10,20 @@
     "sec-ch-ua": "\"Not)A;Brand\";v=\"8\", \"Chromium\";v=\"138\", \"HeadlessChrome\";v=\"138\"",
     "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/m+ri3DeDbWzQhq67f3bZw4cIsNmDDTpd5IFNdo4xutVL2YPEjH3dwXZ4udykQLurLLuzzUiSCweaubul7mjXa8=",
     "sec-ch-ua-mobile": "?0",
-    "luws": "0F487F16-F9CA-7C87-F72F-3AC075E6958D_",
-    "x-signature": "135fd5c1c5071bbc4d9b3014c5a3267c0ba766ee2a7916fb69d8bbb5de4da143",
+    "luws": "5616B397-2972-FA54-81F3-749664D7283C_",
+    "x-signature": "3c997751ed51a1179b87492377f1f7f70da9124684ee57581fe34dac30763800",
     "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/138.0.7204.23 Safari/537.36",
     "x-secure-level": "2",
-    "x-client": "1751863215.642",
+    "x-client": "1751863810.012",
     "x-user-email": null,
-    "205-dash": null,
-    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751877617~acl=/stream/205/file/*~id=allUsers~hmac=1a6303e5091436208eb136df166d76eed6348dbb9d42f592e8be37fb80b1a06a",
     "18105-dash": null,
-    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751877617~acl=/stream/18105/file/*~id=allUsers~hmac=b320d80864e32e77147b3d95fb140350529ee4c7550b59a7ab8359ba58f259bc",
+    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751878211~acl=/stream/18105/file/*~id=allUsers~hmac=6866f50821981a90338ccefe0d1faf482cb604e98e21a0cacad645858a418bb9",
+    "205-dash": null,
+    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751878211~acl=/stream/205/file/*~id=allUsers~hmac=9f3ab542be65e3df322fac1ce897e51b494482698de17c89311b4e8c0d7dc74d",
     "204-dash": null,
-    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751877617~acl=/stream/204/file/*~id=allUsers~hmac=4b5441ebe4016242183b3dec47ce9c836397c954eeca07aead3a7a10b42453d6",
-    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751877617~acl=/stream/206/file/*~id=allUsers~hmac=aee9921e05e33f9e9490105882ac17cbc4b2fd1f891cb741dd22e9130a424f4a",
-    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751877617~acl=/stream/206/file/*~id=allUsers~hmac=aee9921e05e33f9e9490105882ac17cbc4b2fd1f891cb741dd22e9130a424f4a",
+    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751878211~acl=/stream/204/file/*~id=allUsers~hmac=37f498171f5d9f39dd2a54a647960f681815796f6e2482fc3c2416394cbd109f",
+    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751878211~acl=/stream/206/file/*~id=allUsers~hmac=a67f5881e926145b13c0babd06cb7fecdc634b4b51b56648621f359ee19aa707",
+    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751878211~acl=/stream/206/file/*~id=allUsers~hmac=a67f5881e926145b13c0babd06cb7fecdc634b4b51b56648621f359ee19aa707",
     "all-sections": "17139-17140-18853-18954-19035-6717",
     "all-vidiolivetv": [
       {
@@ -646,6 +646,12 @@
       "web_url": "17939",
       "cover_url": "https://thumbor.prod.vidiocdn.com/X-RqLAcQNAoAqhhYdA6L240KI50=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17939/serie-a-4cc90b.jpg",
       "start_time": "2024-10-20T12:45:00.000Z"
+    },
+    "19043": {
+      "title": "Rapat DPR & Basarnas di Tengah Kasus WN Brasil Juliana Marins",
+      "web_url": "19043",
+      "cover_url": "https://thumbor.prod.vidiocdn.com/8R_a-rIcZ5mqrqM_0HySgQN5QfE=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/19043/live-now-0afa1c.jpg",
+      "start_time": "2025-07-07T04:47:00.000Z"
     }
   }
 }
