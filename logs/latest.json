@@ -1,5 +1,5 @@
 {
-  "time": "2025-07-08T10:40:14.419Z",
+  "time": "2025-07-08T10:50:14.296Z",
   "headers": {
     "x-api-platform": "web-desktop",
     "content-type": "application/vnd.api+json",
@@ -8,23 +8,23 @@
     "referer": "https://www.vidio.com/",
     "accept-language": "undefined",
     "sec-ch-ua": "\"Not)A;Brand\";v=\"8\", \"Chromium\";v=\"138\", \"HeadlessChrome\";v=\"138\"",
-    "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/s0NCgFvQMeoYPEpCHWW+jE+SW2n6P6c6OD8eAfnCorlEGIta/91hJcTfYou6uu7qz5L8hdxhbJkkV/H5wx+2qE=",
+    "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/qVBayAjU7GF/7/xkj5RRKOtLDi6Hgqjz66x3JrueaMfaGii91ao1t744R+k761CiCBVwYSTuZUbAez3b26vcMY=",
     "sec-ch-ua-mobile": "?0",
-    "luws": "3ECC9E88-895E-3503-4197-DD9BD0CD4061_",
-    "x-signature": "f42c17115b8416281df2eddd0d3c8bdd7e603ea74c75801b06431c5af7cb5fd1",
+    "luws": "02481E39-F663-6913-832B-76BE3EA0874E_",
+    "x-signature": "99c60e287dd16cd3cbf58a803014f74f76b056489cab23b7656ee11b58dfb166",
     "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/138.0.7204.23 Safari/537.36",
     "x-secure-level": "2",
-    "x-client": "1751971210.94",
+    "x-client": "1751971810.872",
     "x-user-email": null,
-    "204-dash": null,
-    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751985612~acl=/stream/204/file/*~id=allUsers~hmac=91d31b7fe20805412b98252bd17f8c798a5b4ecd8ec74833328e0b6cb9823fec",
-    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751985612~acl=/stream/206/file/*~id=allUsers~hmac=5e4742f9f4c97b91666d6fa84e644048629825a79c8218d5ce2ecb8c9dcdec10",
-    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751985612~acl=/stream/206/file/*~id=allUsers~hmac=5e4742f9f4c97b91666d6fa84e644048629825a79c8218d5ce2ecb8c9dcdec10",
     "205-dash": null,
-    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751985612~acl=/stream/205/file/*~id=allUsers~hmac=81c8a1d73f9b841fa1034b12774f35a6add80ae105c7e6a1fc03747530dbf4d1",
+    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751986212~acl=/stream/205/file/*~id=allUsers~hmac=716c395f2729476c2b6d2b5106801c437fcefb50318ccf393f8a7f7aaee6f222",
+    "204-dash": null,
+    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751986212~acl=/stream/204/file/*~id=allUsers~hmac=3f3eb5353ef0cda721e9887f4467e45dc62c8a80e59e5924f7d6a828c65d5933",
+    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751986212~acl=/stream/206/file/*~id=allUsers~hmac=9ffc631e15ead0728f45c35b58642a2d1c1d0a57055731b9240e49fb86842f92",
+    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751986212~acl=/stream/206/file/*~id=allUsers~hmac=9ffc631e15ead0728f45c35b58642a2d1c1d0a57055731b9240e49fb86842f92",
     "18105-dash": null,
-    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751985612~acl=/stream/18105/file/*~id=allUsers~hmac=120600dfcb5dd3a1eeacb21c664f6d9318546ba2925c7c55ff8ae42797d0e203",
-    "all-sections": "17139-17140-18851-18853-18954-19035-19047-6717",
+    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751986212~acl=/stream/18105/file/*~id=allUsers~hmac=db1220886ae4986bec3c819d6074e6eb31453c6c8a3efe978a76101f32b11b5f",
+    "all-sections": "17139-17140-18851-18853-18954-19035-19047-19050-6717",
     "all-vidiolivetv": [
       {
         "content_id": "204",
@@ -614,6 +614,18 @@
       "web_url": "19047",
       "cover_url": "https://thumbor.prod.vidiocdn.com/y9FiBoyzkpEHpnVLYrMIkwoNK1Y=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4412111/cba747.jpg",
       "start_time": "2025-07-09T11:00:00.000Z"
+    },
+    "4412384": {
+      "title": "Men: Thailand vs Indonesia - SEA VLeague",
+      "web_url": "19050",
+      "cover_url": "https://thumbor.prod.vidiocdn.com/cojqJKpAHU7ecMQu471BOJhtZuQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4412384/ccfdc4.jpg",
+      "start_time": "2025-07-09T07:00:00.000Z"
+    },
+    "4412385": {
+      "title": "Men: Philippines vs Vietnam - SEA VLeague",
+      "web_url": "19050",
+      "cover_url": "https://thumbor.prod.vidiocdn.com/SwVIRzVaEnfEpCpoGfte8Huc05k=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4412385/b909ad.jpg",
+      "start_time": "2025-07-09T10:00:00.000Z"
     }
   },
   "vidioliveothers": {
@@ -634,12 +646,6 @@
       "web_url": "17939",
       "cover_url": "https://thumbor.prod.vidiocdn.com/X-RqLAcQNAoAqhhYdA6L240KI50=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17939/serie-a-4cc90b.jpg",
       "start_time": "2024-10-20T12:45:00.000Z"
-    },
-    "19035": {
-      "title": "Piala Presiden",
-      "web_url": "19035",
-      "cover_url": "https://thumbor.prod.vidiocdn.com/JxSPSDtiiFP2K-nwgQBOuOorSnw=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/19035/piala-presiden-97e5a8.jpg",
-      "start_time": "2025-07-08T07:58:00.000Z"
     },
     "19052": {
       "title": "Samsung Galaxy Foldables",
