@@ -1,5 +1,5 @@
 {
-  "time": "2025-07-08T07:10:18.883Z",
+  "time": "2025-07-08T07:20:13.786Z",
   "headers": {
     "x-api-platform": "web-desktop",
     "content-type": "application/vnd.api+json",
@@ -8,22 +8,22 @@
     "referer": "https://www.vidio.com/",
     "accept-language": "undefined",
     "sec-ch-ua": "\"Not)A;Brand\";v=\"8\", \"Chromium\";v=\"138\", \"HeadlessChrome\";v=\"138\"",
-    "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/mbQM8Lyu6J6PNHf3bkA3nXTYNHgIp9u0HbB9ctrxikNk8SLgsFsEhckKoZKpvbAmgFwfPIE7Bkdq1sVBWLOOI0=",
+    "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/sD7fuZOh5vABbubjIJodb3Vf6fwlG9khL5j5TfLkql7l2kCiDKskcnsnBdavnp2D1RAuS1w5eY/StuhZyXMkEo=",
     "sec-ch-ua-mobile": "?0",
-    "luws": "54545F4B-DCD8-E9E6-9AAC-6D128FD17CC7_",
-    "x-signature": "037f3702aad3b8f2b2c5ac81b5c2eca250bee2d88e9c0b15fe10c34a2b5e28b3",
+    "luws": "13B5D03F-2815-8594-D63B-F3A9C278FFE2_",
+    "x-signature": "516c6bbfc5adeeaedb1a6f1a71c6346096062c81498826d71d3f8c1459b7fca0",
     "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/138.0.7204.23 Safari/537.36",
     "x-secure-level": "2",
-    "x-client": "1751958615.713",
+    "x-client": "1751959210.641",
     "x-user-email": null,
+    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751973611~acl=/stream/206/file/*~id=allUsers~hmac=93f737a590b58d138887cb84d3674eaf9ae270892d8559adc81ffa387cd4183b",
+    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751973611~acl=/stream/206/file/*~id=allUsers~hmac=93f737a590b58d138887cb84d3674eaf9ae270892d8559adc81ffa387cd4183b",
     "204-dash": null,
-    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751973016~acl=/stream/204/file/*~id=allUsers~hmac=16f101857cfd8c75d243a94d9c78ba8c921e0cc9568a45349c78e98c71e25776",
+    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751973611~acl=/stream/204/file/*~id=allUsers~hmac=5b6ae8c0aaa733d98c8667183aa9c3070025f8d4c03ca2321076754662cd56eb",
     "205-dash": null,
-    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751973016~acl=/stream/205/file/*~id=allUsers~hmac=da1331cae9bd1a5fe4a5bb45ebe4bbdd497ccf7b9ca5fc7eba8cca8134d3475b",
-    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751973016~acl=/stream/206/file/*~id=allUsers~hmac=8c8fde1c417d62b46c61928f82d557781728ccc5cd80a513e21ed341b1f651ac",
-    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751973016~acl=/stream/206/file/*~id=allUsers~hmac=8c8fde1c417d62b46c61928f82d557781728ccc5cd80a513e21ed341b1f651ac",
+    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751973611~acl=/stream/205/file/*~id=allUsers~hmac=d8fc9c54beae5175887d3ec485cc1ad25635fd5bc7e4038f448e9bf794eb53bd",
     "18105-dash": null,
-    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751973016~acl=/stream/18105/file/*~id=allUsers~hmac=448b72a60974687c152e212d73c71794a7fe85b0af307f1a881a61e014f728f5",
+    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751973611~acl=/stream/18105/file/*~id=allUsers~hmac=79b7eb694edae98dae8568be164b5794b6aaa272c3c5fafbe6c107fb88ea0d99",
     "all-sections": "17139-17140-18851-18853-18954-19035-19047-6717",
     "all-vidiolivetv": [
       {
@@ -640,6 +640,12 @@
       "web_url": "17939",
       "cover_url": "https://thumbor.prod.vidiocdn.com/X-RqLAcQNAoAqhhYdA6L240KI50=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17939/serie-a-4cc90b.jpg",
       "start_time": "2024-10-20T12:45:00.000Z"
+    },
+    "19049": {
+      "title": "Kejutan Rapat Komisi VI DPR dengan Menteri BUMN Erick Thohir",
+      "web_url": "19049",
+      "cover_url": "https://thumbor.prod.vidiocdn.com/Idd6ATYncb7ap0iv3lcl3HYlAxE=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/19049/merdeka-com-26ff29.jpg",
+      "start_time": "2025-07-08T07:20:00.000Z"
     }
   }
 }
