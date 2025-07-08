@@ -1,5 +1,5 @@
 {
-  "time": "2025-07-08T02:50:10.013Z",
+  "time": "2025-07-08T03:00:13.130Z",
   "headers": {
     "x-api-platform": "web-desktop",
     "content-type": "application/vnd.api+json",
@@ -8,22 +8,22 @@
     "referer": "https://www.vidio.com/",
     "accept-language": "undefined",
     "sec-ch-ua": "\"Not)A;Brand\";v=\"8\", \"Chromium\";v=\"138\", \"HeadlessChrome\";v=\"138\"",
-    "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/taKthSUh60bqjqe1zEelvj76k74X4EXV972bCbOJBhDNZPYbOvrSGohvWnfxgT1k1DE80Q2cbXETFjgbpW+h0c=",
+    "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/mRAUa/lPJj0CVkMqGDYiXhGk2JAIalZfLRONV6I41FQ51MBKCfHL/OAlRKG/c7VqFoNHHuLUKuhbaQvZwrw+9M=",
     "sec-ch-ua-mobile": "?0",
-    "luws": "8490C090-DC20-2518-26FE-487CD94612A7_",
-    "x-signature": "5a659b2b099e207833652339fa88143c820df58cb6966a77db87d11897d0fc1c",
+    "luws": "CD17574A-3DA7-946E-B93B-EE6D781304FA_",
+    "x-signature": "dfa6d5215f415098a16f59bc395150dfd68fac3cab8b281e4d03862f83a3d32e",
     "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/138.0.7204.23 Safari/537.36",
     "x-secure-level": "2",
-    "x-client": "1751943007.636",
+    "x-client": "1751943610.406",
     "x-user-email": null,
-    "18105-dash": null,
-    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751957408~acl=/stream/18105/file/*~id=allUsers~hmac=730dc3bfe968b9fedcce7d19965169ce9fdd72931550191bb178666ae9bceb0c",
     "205-dash": null,
-    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751957408~acl=/stream/205/file/*~id=allUsers~hmac=0555f3db91e1751fc71e60dec09e0b9109077d591236aa1d6a2e042d5267cb3f",
+    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751958011~acl=/stream/205/file/*~id=allUsers~hmac=5569deb480d55e7cacf0449f5db2376d43bbaf5fafa659441402d3d10f422094",
+    "18105-dash": null,
+    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751958011~acl=/stream/18105/file/*~id=allUsers~hmac=07ba541b6a7cff6a441500316ddabde5b93756e16cd715e794ac42e25653452b",
+    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751958011~acl=/stream/206/file/*~id=allUsers~hmac=d90bafe2beb00021d6a68599e84a987e5889ab0f23d0e64cf978584038085842",
+    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751958011~acl=/stream/206/file/*~id=allUsers~hmac=d90bafe2beb00021d6a68599e84a987e5889ab0f23d0e64cf978584038085842",
     "204-dash": null,
-    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751957408~acl=/stream/204/file/*~id=allUsers~hmac=16b6ca71a056d42320d008645045dd4dd14d218a9f5aa6f496656cc47e1ff8b1",
-    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751957408~acl=/stream/206/file/*~id=allUsers~hmac=420cb11c5eaeb7db2ae5970a53cd533ca4b3fddb2e03fca0f208b84a91fbf3fc",
-    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751957408~acl=/stream/206/file/*~id=allUsers~hmac=420cb11c5eaeb7db2ae5970a53cd533ca4b3fddb2e03fca0f208b84a91fbf3fc",
+    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751958011~acl=/stream/204/file/*~id=allUsers~hmac=250df44edd74c77f90af02e300ebed8fe6fb7c45db0f5daa9555661bb1c00f1a",
     "all-sections": "17139-17140-18853-18954-19035-6717",
     "all-vidiolivetv": [
       {
@@ -500,12 +500,6 @@
       "web_url": "19035",
       "cover_url": "https://thumbor.prod.vidiocdn.com/POFR4nuKo-7GvFUz7oeRjT-25aQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4403699/249365.jpg",
       "start_time": "2025-07-08T08:00:00.000Z"
-    },
-    "4406124": {
-      "title": "Memphis Grizzlies vs Utah Jazz - NBA 2K Summer League",
-      "web_url": "6717",
-      "cover_url": "https://thumbor.prod.vidiocdn.com/c4bgJYsaNaqNv39gILLyafQ8Id4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4406124/229735.jpg",
-      "start_time": "2025-07-08T01:00:00.000Z"
     },
     "4406125": {
       "title": "Memphis Grizzlies vs Philadelphia 76ers - NBA 2K Summer League",
