@@ -1,5 +1,5 @@
 {
-  "time": "2025-07-08T06:20:16.804Z",
+  "time": "2025-07-08T06:30:19.732Z",
   "headers": {
     "x-api-platform": "web-desktop",
     "content-type": "application/vnd.api+json",
@@ -8,22 +8,22 @@
     "referer": "https://www.vidio.com/",
     "accept-language": "undefined",
     "sec-ch-ua": "\"Not)A;Brand\";v=\"8\", \"Chromium\";v=\"138\", \"HeadlessChrome\";v=\"138\"",
-    "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/jA1sI4UrkaTJaGxYYDrM+LudXlihFdUfNi7yq8MQZKoXpoLBjbKgi2Qw+jSxQP0q2iZwnVtD1IlE5xxgn1RLqQ=",
+    "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/vhaY18EAo33tLvqtDoZ74ywbvjUkooAIqdlQ4uPQ9VOYDHmM9SblADYgNy9ZSLVFT0GZ2C4u6NeOzyZ0yo3Zrc=",
     "sec-ch-ua-mobile": "?0",
-    "luws": "A51B68C0-6E8E-3CF8-D372-85B0024D618A_",
-    "x-signature": "0b197c93e3b891f468d84b6e06dea25372e195abfc23069c0355739dbf8c0a37",
+    "luws": "FB764AEA-D37A-4630-10DC-AE6526245F08_",
+    "x-signature": "aea00e956a9755075341baebc0a7de3c5f637cf3847b23ef7bca5663796b8bc2",
     "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/138.0.7204.23 Safari/537.36",
     "x-secure-level": "2",
-    "x-client": "1751955610.754",
+    "x-client": "1751956217.218",
     "x-user-email": null,
-    "18105-dash": null,
-    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751970014~acl=/stream/18105/file/*~id=allUsers~hmac=224134d0049858a11538c8ba7607d79db17b0bf12e0d794378b2ad7452338ade",
+    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751970618~acl=/stream/206/file/*~id=allUsers~hmac=89c46d006539fe4a708694d314892076351f366f236a021fb24337442791c108",
+    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751970618~acl=/stream/206/file/*~id=allUsers~hmac=89c46d006539fe4a708694d314892076351f366f236a021fb24337442791c108",
     "204-dash": null,
-    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751970014~acl=/stream/204/file/*~id=allUsers~hmac=5b8476491c82a967c85d3776869e60f427c37a85f1652794004f0595c82159ea",
+    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751970618~acl=/stream/204/file/*~id=allUsers~hmac=b1ceabd2e03f4db45f55108ad4bf8362804c20ecfb83373372cb35d51128f24d",
     "205-dash": null,
-    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751970014~acl=/stream/205/file/*~id=allUsers~hmac=736df2539d770a581492278aed412e08e82f46cb3d04f6a69781afef81882a31",
-    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751970014~acl=/stream/206/file/*~id=allUsers~hmac=8773d92ed85992cb59d642677ed380b566b018e9f7d99db5bae148a51c0ff0a8",
-    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751970014~acl=/stream/206/file/*~id=allUsers~hmac=8773d92ed85992cb59d642677ed380b566b018e9f7d99db5bae148a51c0ff0a8",
+    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751970618~acl=/stream/205/file/*~id=allUsers~hmac=2149ca0b0b5b992878c222dc71c6f9f5838d531ef7c56b3360485ec5b8d825a7",
+    "18105-dash": null,
+    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751970618~acl=/stream/18105/file/*~id=allUsers~hmac=35fbfdb309a243d1b28082bdd78b858685e6193e71a38fa2f5045c71ecdba5e7",
     "all-sections": "17139-17140-18851-18853-18954-19035-6717",
     "all-vidiolivetv": [
       {
@@ -634,6 +634,12 @@
       "web_url": "17939",
       "cover_url": "https://thumbor.prod.vidiocdn.com/X-RqLAcQNAoAqhhYdA6L240KI50=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17939/serie-a-4cc90b.jpg",
       "start_time": "2024-10-20T12:45:00.000Z"
+    },
+    "19048": {
+      "title": "Tegas DPR Rapat Panggil Dua Menteri Prabowo Bahas RUU KUHAP",
+      "web_url": "19048",
+      "cover_url": "https://thumbor.prod.vidiocdn.com/xjn0X-ImV4Fve4lqHAKJFBqRSLg=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/19048/merdeka-com-3681d1.jpg",
+      "start_time": "2025-07-08T06:27:00.000Z"
     }
   }
 }
