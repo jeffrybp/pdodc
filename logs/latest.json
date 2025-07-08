@@ -1,5 +1,5 @@
 {
-  "time": "2025-07-08T01:20:14.047Z",
+  "time": "2025-07-08T01:30:13.768Z",
   "headers": {
     "x-api-platform": "web-desktop",
     "content-type": "application/vnd.api+json",
@@ -8,22 +8,22 @@
     "referer": "https://www.vidio.com/",
     "accept-language": "undefined",
     "sec-ch-ua": "\"Not)A;Brand\";v=\"8\", \"Chromium\";v=\"138\", \"HeadlessChrome\";v=\"138\"",
-    "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/ggtK8XRCX34Z1Q3ff+AdEoewtOcxq8g+7HV8woDkxeAbTKl0/vLxq4gp4gZhvwp8uKNKnNOHRcFWb24GdIx4xU=",
+    "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/msjynNPfZSrTtsgPY3G/q7Oef78TuyEBRbfJXzwhIkxpx/SSe3u0ywCJDmftx2cIJFJBtOzYXioxL/M3rosf8A=",
     "sec-ch-ua-mobile": "?0",
-    "luws": "A85B5372-4634-0C2D-CA97-293F91DFFDA0_",
-    "x-signature": "00e3d68b7a2e970dabd089df1561988c265d4f5e679f3063b1289f6b1f2ebd5b",
+    "luws": "5D646FDE-DDF4-B0B6-D89C-A3E669A98B22_",
+    "x-signature": "421d39dbe7e0c2c06e61fdb88ee800d9f4581164c15b6665803951eca22ba652",
     "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/138.0.7204.23 Safari/537.36",
     "x-secure-level": "2",
-    "x-client": "1751937610.572",
+    "x-client": "1751938210.7",
     "x-user-email": null,
-    "205-dash": null,
-    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751952011~acl=/stream/205/file/*~id=allUsers~hmac=a557488653a84fd652a2047932ffc255ff255c835a041fece651434624dcce62",
-    "18105-dash": null,
-    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751952011~acl=/stream/18105/file/*~id=allUsers~hmac=9567867b0b0ab3b35380f0017d77f96ddcb4116dffc15f5f69503a4f3a25588f",
+    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751952612~acl=/stream/206/file/*~id=allUsers~hmac=d55e3e7e3e6962cfe2ef602e70076cc0b1e083ab873e13314a31691be1b97e0f",
+    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751952612~acl=/stream/206/file/*~id=allUsers~hmac=d55e3e7e3e6962cfe2ef602e70076cc0b1e083ab873e13314a31691be1b97e0f",
     "204-dash": null,
-    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751952011~acl=/stream/204/file/*~id=allUsers~hmac=33c354dbc027fb87c3d6304fd7563aac5b9f97d46257221eb2b3d41d1d4b038d",
-    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751952011~acl=/stream/206/file/*~id=allUsers~hmac=30ec7f78160ec5f7b86c617fee21113d4b774447e59b983f8135f3e2be5444c0",
-    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751952011~acl=/stream/206/file/*~id=allUsers~hmac=30ec7f78160ec5f7b86c617fee21113d4b774447e59b983f8135f3e2be5444c0",
+    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751952612~acl=/stream/204/file/*~id=allUsers~hmac=c817b10c7bd68c23108e081e0d3e0399108471b346f6ad980805a228d1ccff34",
+    "205-dash": null,
+    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751952612~acl=/stream/205/file/*~id=allUsers~hmac=1eb980a268eeb6f7d5bcc5cff6aa922ca282c733c01ea5a42f2c15a837115765",
+    "18105-dash": null,
+    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751952612~acl=/stream/18105/file/*~id=allUsers~hmac=16348206cea628015a479ed6419c394bd87a4f996feaa67a8ffc835b20ababb7",
     "all-sections": "17139-17140-18853-18954-19035-6717",
     "all-vidiolivetv": [
       {
@@ -577,25 +577,25 @@
     "4410120": {
       "title": "Taylor Fritz vs Karen Khachanov - Gentlemen's Singles Quarter Final | Wimbledon 2025",
       "web_url": "17140",
-      "cover_url": "https://thumbor.prod.vidiocdn.com/lXg-THhpfOEWdsC1Q30HdvG2o9g=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4410120/bad03d.jpg",
+      "cover_url": "https://thumbor.prod.vidiocdn.com/iF5pnoiujemPXi7qnxVQhhWhI3g=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4410120/558966.jpg",
       "start_time": "2025-07-08T11:55:00.000Z"
     },
     "4410121": {
       "title": "Amanda Anisimova vs Anastasia Pavlyuchenkova - Ladies's Singles Quarter Final | Wimbledon 2025",
       "web_url": "17140",
-      "cover_url": "https://thumbor.prod.vidiocdn.com/wOITwvyLO3Xx35QgyhUeH9ZJbGw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4410121/1b3960.jpg",
+      "cover_url": "https://thumbor.prod.vidiocdn.com/J9Atb2oULJ3cbJZPe5YK4MlcO3s=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4410121/a9aa5a.jpg",
       "start_time": "2025-07-08T15:00:00.000Z"
     },
     "4410122": {
       "title": "Aryna Sabalenka vs Laura Siegemund - Ladies's Singles Quarter Final | Wimbledon 2025",
       "web_url": "17139",
-      "cover_url": "https://thumbor.prod.vidiocdn.com/cUcax2oOIORGKX6tvr1cwEtDTNY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4410122/ca7112.jpg",
+      "cover_url": "https://thumbor.prod.vidiocdn.com/b2BdrSPFRDN8Bt1AQ1tr9iw0l8c=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4410122/abdff4.jpg",
       "start_time": "2025-07-08T12:30:00.000Z"
     },
     "4410123": {
       "title": "Cameron Norrie vs Carlos Alcaraz - Gentlemen's Singles Quarter Final | Wimbledon 2025",
       "web_url": "17139",
-      "cover_url": "https://thumbor.prod.vidiocdn.com/qtWfHZR4kkDLPntJdYcXfHzI4YE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4410123/e7d94f.jpg",
+      "cover_url": "https://thumbor.prod.vidiocdn.com/73jt5xrysH8CFQEZneAnGdS7a70=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4410123/5d0fa6.jpg",
       "start_time": "2025-07-08T15:30:00.000Z"
     }
   },
@@ -617,6 +617,12 @@
       "web_url": "17939",
       "cover_url": "https://thumbor.prod.vidiocdn.com/X-RqLAcQNAoAqhhYdA6L240KI50=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17939/serie-a-4cc90b.jpg",
       "start_time": "2024-10-20T12:45:00.000Z"
+    },
+    "19044": {
+      "title": "Jakarta Masih Banjir, Ini Titiknya | BREAKING NEWS",
+      "web_url": "19044",
+      "cover_url": "https://thumbor.prod.vidiocdn.com/Aq3BJKzwCboPqMPh3tsa7vjgRHw=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/19044/jakarta-masih-banjir-ini-titiknya-breaking-news-3355b8.jpg",
+      "start_time": "2025-07-08T01:20:00.000Z"
     }
   }
 }
