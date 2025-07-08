@@ -1,5 +1,5 @@
 {
-  "time": "2025-07-08T10:30:10.552Z",
+  "time": "2025-07-08T10:40:14.419Z",
   "headers": {
     "x-api-platform": "web-desktop",
     "content-type": "application/vnd.api+json",
@@ -8,22 +8,22 @@
     "referer": "https://www.vidio.com/",
     "accept-language": "undefined",
     "sec-ch-ua": "\"Not)A;Brand\";v=\"8\", \"Chromium\";v=\"138\", \"HeadlessChrome\";v=\"138\"",
-    "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/rVYQzAleuvQ8+kOv6DulMfVa99oOgKWfYO3JOX6Mp0zfF6h6sULkBP+S9L5B0hiTH/bfglaP1rXFTgPEaUla0w=",
+    "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/s0NCgFvQMeoYPEpCHWW+jE+SW2n6P6c6OD8eAfnCorlEGIta/91hJcTfYou6uu7qz5L8hdxhbJkkV/H5wx+2qE=",
     "sec-ch-ua-mobile": "?0",
-    "luws": "E6E21289-C7E4-3B1A-A5F6-AB03FD872A89_",
-    "x-signature": "bc5e77dc9f381729cf8a9474f43e6a630c1b4ddf02c76f23ed0056667964b193",
+    "luws": "3ECC9E88-895E-3503-4197-DD9BD0CD4061_",
+    "x-signature": "f42c17115b8416281df2eddd0d3c8bdd7e603ea74c75801b06431c5af7cb5fd1",
     "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/138.0.7204.23 Safari/537.36",
     "x-secure-level": "2",
-    "x-client": "1751970607.702",
+    "x-client": "1751971210.94",
     "x-user-email": null,
     "204-dash": null,
-    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751985008~acl=/stream/204/file/*~id=allUsers~hmac=f4db9fd107f10968de9836bf33e86d10c705c660ae0147c6951c70402a81c6cb",
-    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751985008~acl=/stream/206/file/*~id=allUsers~hmac=0d0f5ca67344c079ba644e5bfdd6e5514ab94fd3a5b8134dfc7b6dbcc92bc375",
-    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751985008~acl=/stream/206/file/*~id=allUsers~hmac=0d0f5ca67344c079ba644e5bfdd6e5514ab94fd3a5b8134dfc7b6dbcc92bc375",
+    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751985612~acl=/stream/204/file/*~id=allUsers~hmac=91d31b7fe20805412b98252bd17f8c798a5b4ecd8ec74833328e0b6cb9823fec",
+    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751985612~acl=/stream/206/file/*~id=allUsers~hmac=5e4742f9f4c97b91666d6fa84e644048629825a79c8218d5ce2ecb8c9dcdec10",
+    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751985612~acl=/stream/206/file/*~id=allUsers~hmac=5e4742f9f4c97b91666d6fa84e644048629825a79c8218d5ce2ecb8c9dcdec10",
     "205-dash": null,
-    "205-hls": null,
+    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751985612~acl=/stream/205/file/*~id=allUsers~hmac=81c8a1d73f9b841fa1034b12774f35a6add80ae105c7e6a1fc03747530dbf4d1",
     "18105-dash": null,
-    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751985008~acl=/stream/18105/file/*~id=allUsers~hmac=fa1cfc0024bbe5231db6a19f4cfada756225249dbbbf3e4bfefb73e3d06c1925",
+    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751985612~acl=/stream/18105/file/*~id=allUsers~hmac=120600dfcb5dd3a1eeacb21c664f6d9318546ba2925c7c55ff8ae42797d0e203",
     "all-sections": "17139-17140-18851-18853-18954-19035-19047-6717",
     "all-vidiolivetv": [
       {
@@ -495,12 +495,6 @@
       "cover_url": "https://thumbor.prod.vidiocdn.com/55jPyx0oBzdm63dMZewYyeSyPi8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4403698/401475.jpg",
       "start_time": "2025-07-08T12:00:00.000Z"
     },
-    "4403699": {
-      "title": "Liga Indonesia All Star vs Arema FC - Piala Presiden",
-      "web_url": "19035",
-      "cover_url": "https://thumbor.prod.vidiocdn.com/POFR4nuKo-7GvFUz7oeRjT-25aQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4403699/249365.jpg",
-      "start_time": "2025-07-08T07:58:00.000Z"
-    },
     "4406125": {
       "title": "Memphis Grizzlies vs Philadelphia 76ers - NBA 2K Summer League",
       "web_url": "6717",
@@ -642,9 +636,9 @@
       "start_time": "2024-10-20T12:45:00.000Z"
     },
     "19035": {
-      "title": "Liga Indonesia All Star vs Arema FC - Piala Presiden",
+      "title": "Piala Presiden",
       "web_url": "19035",
-      "cover_url": "https://thumbor.prod.vidiocdn.com/POFR4nuKo-7GvFUz7oeRjT-25aQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4403699/249365.jpg",
+      "cover_url": "https://thumbor.prod.vidiocdn.com/JxSPSDtiiFP2K-nwgQBOuOorSnw=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/19035/piala-presiden-97e5a8.jpg",
       "start_time": "2025-07-08T07:58:00.000Z"
     },
     "19052": {
