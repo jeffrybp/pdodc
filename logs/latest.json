@@ -1,5 +1,5 @@
 {
-  "time": "2025-07-08T01:40:14.183Z",
+  "time": "2025-07-08T01:50:08.814Z",
   "headers": {
     "x-api-platform": "web-desktop",
     "content-type": "application/vnd.api+json",
@@ -8,22 +8,22 @@
     "referer": "https://www.vidio.com/",
     "accept-language": "undefined",
     "sec-ch-ua": "\"Not)A;Brand\";v=\"8\", \"Chromium\";v=\"138\", \"HeadlessChrome\";v=\"138\"",
-    "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/sLirJu/TVaCD22xCt0RVp3+3bZeUegczwqzFJhvac+PZ4PrcSPsKv/7euLimtbqhG2AtVbkZRCwEn8rVdFTxoQ=",
+    "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/oN2G+LEzvs3PX/tmMUYMPQ1QaKMwMZpuT4pDH9F952UpiQtZE6DBZYlhC7a+66yVnRKpJ16RWGhZt2MElG8tBI=",
     "sec-ch-ua-mobile": "?0",
-    "luws": "74D0D900-3CBC-1022-C10F-C52D338A88EE_",
-    "x-signature": "f560326aebfbc75e85a140284eafdb942946a31f5be53bd12c49606ed3b31c3b",
+    "luws": "7ED357F4-04C1-265C-CCA9-980CED31D9EC_",
+    "x-signature": "a5a95994b7872007906793e7214905542ade93b8f052fb5ea525bc45335c4bf9",
     "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/138.0.7204.23 Safari/537.36",
     "x-secure-level": "2",
-    "x-client": "1751938811.079",
+    "x-client": "1751939405.679",
     "x-user-email": null,
-    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751953212~acl=/stream/206/file/*~id=allUsers~hmac=13827d7e94fca5622b19eda714a698aab5a67a080fea14b4a0c58d97f8d5e284",
-    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751953212~acl=/stream/206/file/*~id=allUsers~hmac=13827d7e94fca5622b19eda714a698aab5a67a080fea14b4a0c58d97f8d5e284",
-    "18105-dash": null,
-    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751953212~acl=/stream/18105/file/*~id=allUsers~hmac=d5307a7418c79d8e2740d07aa359ba9dcc05251b3d41b98ca8f480fcd665a818",
-    "205-dash": null,
-    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751953212~acl=/stream/205/file/*~id=allUsers~hmac=f4f62860d3d0603745e4f0e5af24706206dc1f24c9faf0dd32bd7f9a45c224a6",
+    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751953806~acl=/stream/206/file/*~id=allUsers~hmac=0a4971341cddae3f2911aee8ac181b11d1245b4707906a58e258e1478db08384",
+    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751953806~acl=/stream/206/file/*~id=allUsers~hmac=0a4971341cddae3f2911aee8ac181b11d1245b4707906a58e258e1478db08384",
     "204-dash": null,
-    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751953212~acl=/stream/204/file/*~id=allUsers~hmac=ffb4dfab2e388b69c3877240acd6089ef1ab5e010f00c393f6dcbee448fbf9b9",
+    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751953806~acl=/stream/204/file/*~id=allUsers~hmac=9c8fad6357f087e7880b1fb6a5ceeff68cfdb41a0efb28bade123273a1f150d6",
+    "18105-dash": null,
+    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751953806~acl=/stream/18105/file/*~id=allUsers~hmac=b80824db75270541e79ac773cb2eef1c83ccb08f1e1496e2a9f1c645c2b17d77",
+    "205-dash": null,
+    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751953806~acl=/stream/205/file/*~id=allUsers~hmac=a5d965c2b5d7547415d9587cb96b0b99cd5118e30fea24e2ffbbd823705a77d7",
     "all-sections": "17139-17140-18853-18954-19035-6717",
     "all-vidiolivetv": [
       {
@@ -380,6 +380,11 @@
         "content_id": "7448",
         "nama_channel": "Hot FM",
         "cover_url": "https://thumbor.prod.vidiocdn.com/LD-I2fbjXF2NeRNm7ldq_cKJcIU=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/7448/529568.jpg"
+      },
+      {
+        "content_id": "7242",
+        "nama_channel": "Dahlia FM",
+        "cover_url": "https://thumbor.prod.vidiocdn.com/opF4kqmGSC__JL6xs71jWXlcahA=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/7242/d12a5d.png"
       },
       {
         "content_id": "7248",
