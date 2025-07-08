@@ -1,5 +1,5 @@
 {
-  "time": "2025-07-08T04:10:14.948Z",
+  "time": "2025-07-08T04:20:17.831Z",
   "headers": {
     "x-api-platform": "web-desktop",
     "content-type": "application/vnd.api+json",
@@ -8,22 +8,22 @@
     "referer": "https://www.vidio.com/",
     "accept-language": "undefined",
     "sec-ch-ua": "\"Not)A;Brand\";v=\"8\", \"Chromium\";v=\"138\", \"HeadlessChrome\";v=\"138\"",
-    "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/neUFeJtCbhjTcok/NNhPsD7rz4MIZVxbzBeggIWDlng6dR6H2EWFwMQwV41WOLQnCQfWTMSIbTHh2Sd2JQNxiw=",
+    "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/nIOzRZxvw/cRBGR61I8O85eEkKT3UdlTWyfMpjsKzT31+yjCvfgZfASZZ8J+F4Bait34OGMQzR0wZK5OJgI4vI=",
     "sec-ch-ua-mobile": "?0",
-    "luws": "64AB8D32-06CE-0376-0C6E-BDE94B5C1D83_",
-    "x-signature": "6086977b33ea8c8da0e64205a1aec3d6e981b771aa8337f242fe7d25fa39768d",
+    "luws": "5B4650A4-7ACD-496C-D820-87DFE76C444B_",
+    "x-signature": "936244a1b196e073de91722751cbc998fe1041af3759a0a6074dafd6d8a92e7d",
     "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/138.0.7204.23 Safari/537.36",
     "x-secure-level": "2",
-    "x-client": "1751947811.706",
+    "x-client": "1751948415.221",
     "x-user-email": null,
-    "18105-dash": null,
-    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751962213~acl=/stream/18105/file/*~id=allUsers~hmac=4ea4d2858d22f69d6fbe9cb90a157f34f98e42af85b943cad936dbb50d08227a",
-    "205-dash": null,
-    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751962213~acl=/stream/205/file/*~id=allUsers~hmac=b354dfff228f33d407df5d632ff6d01a9e863c8527fa9394022e446d79f18bf0",
+    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751962816~acl=/stream/206/file/*~id=allUsers~hmac=ab47475559008b3a5d328d3e722c674cd348bcf19e58df0e531fa139546cd232",
+    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751962816~acl=/stream/206/file/*~id=allUsers~hmac=ab47475559008b3a5d328d3e722c674cd348bcf19e58df0e531fa139546cd232",
     "204-dash": null,
-    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751962213~acl=/stream/204/file/*~id=allUsers~hmac=81862ce0ab2ecc1482872d7795cc17df4e1a146645115fb2350e1a9ddb7e21bb",
-    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751962213~acl=/stream/206/file/*~id=allUsers~hmac=f0c18a933b3b6fdc12f4982fd252cb0c40bb6ccdff141f0325600499189e216f",
-    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751962213~acl=/stream/206/file/*~id=allUsers~hmac=f0c18a933b3b6fdc12f4982fd252cb0c40bb6ccdff141f0325600499189e216f",
+    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751962816~acl=/stream/204/file/*~id=allUsers~hmac=843042251b1b96c358a7994b2a4e86d454ff63124c914cbebe1e624baf33d766",
+    "205-dash": null,
+    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751962816~acl=/stream/205/file/*~id=allUsers~hmac=8b0f267308b3dd382ae22e8123c81bc986487e1efa22391a0945909a7ee30a01",
+    "18105-dash": null,
+    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751962816~acl=/stream/18105/file/*~id=allUsers~hmac=7b3b0cb9b54f85e457af174a04a9470180af902a15cff0e23bc1276a6990423c",
     "all-sections": "17139-17140-18853-18954-19035-6717",
     "all-vidiolivetv": [
       {
@@ -616,12 +616,6 @@
       "web_url": "17939",
       "cover_url": "https://thumbor.prod.vidiocdn.com/X-RqLAcQNAoAqhhYdA6L240KI50=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17939/serie-a-4cc90b.jpg",
       "start_time": "2024-10-20T12:45:00.000Z"
-    },
-    "19045": {
-      "title": "LIVE - Kejutan Gibran dan Titiek Soeharto Acara Rembuk Tani di Sleman",
-      "web_url": "19045",
-      "cover_url": "https://thumbor.prod.vidiocdn.com/NmsqCRX5WdvjKxuWBXPyW12ujuE=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/19045/merdeka-com-aac681.jpg",
-      "start_time": "2025-07-08T03:02:00.000Z"
     }
   }
 }
