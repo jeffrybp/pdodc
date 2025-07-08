@@ -1,5 +1,5 @@
 {
-  "time": "2025-07-08T12:30:07.724Z",
+  "time": "2025-07-08T12:40:15.323Z",
   "headers": {
     "x-api-platform": "web-desktop",
     "content-type": "application/vnd.api+json",
@@ -8,22 +8,22 @@
     "referer": "https://www.vidio.com/",
     "accept-language": "undefined",
     "sec-ch-ua": "\"Not)A;Brand\";v=\"8\", \"Chromium\";v=\"138\", \"HeadlessChrome\";v=\"138\"",
-    "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/rGrN7tNrCLcs+lCgRGZKPAiXjcNbhhE4IIcs7biaMyE28u0cGUqUhuW2DnONZKPWiE+avvKdXZzDfRKG42J99Q=",
+    "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/uZlPf+M3f5QTqwJAmKUxOLGQ7FHfRBfN6LyA9bfQprQl1tp0rdEDOqpDJXkZA+i3Lap2Oxl+1NGSm/WbLmSQBE=",
     "sec-ch-ua-mobile": "?0",
-    "luws": "DE7B5D6D-B2D2-CC6E-EA2E-A0D8F832D4C7_",
-    "x-signature": "8eba293a9b7b8b4c342ffb9c208e84b767bc1f9eaf98277bbaebc244a012c726",
+    "luws": "1332BE1D-D219-952F-2877-F4D974DBF96A_",
+    "x-signature": "693f0118e26f6f8479df9072a63cb6eafb560d1d15ca621b4a7a0104f81067e1",
     "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/138.0.7204.23 Safari/537.36",
     "x-secure-level": "2",
-    "x-client": "1751977805.703",
+    "x-client": "1751978412.184",
     "x-user-email": null,
+    "18105-dash": null,
+    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751992813~acl=/stream/18105/file/*~id=allUsers~hmac=05c9d46bcfe064304e37ea0e96422cbb72282f2384ca61e2a50f8a1885db4008",
     "205-dash": null,
     "205-hls": null,
+    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751992813~acl=/stream/206/file/*~id=allUsers~hmac=b558821631286b1172d151bdcb8867cb4f16becd75155643130f00108b9f4676",
+    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751992813~acl=/stream/206/file/*~id=allUsers~hmac=b558821631286b1172d151bdcb8867cb4f16becd75155643130f00108b9f4676",
     "204-dash": null,
-    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751992206~acl=/stream/204/file/*~id=allUsers~hmac=13cc3104b09e955efadeecc18a779c99bf6099f9b931e17d4c746d9839c40812",
-    "18105-dash": null,
-    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751992206~acl=/stream/18105/file/*~id=allUsers~hmac=5c2a14c09dff5ac7b9c27fe282af4a8032bfb1d656bf1168e966a568d8d45958",
-    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751992206~acl=/stream/206/file/*~id=allUsers~hmac=1e3813c49fd0b231d125e843b4496f5f953a2980e3771f7748e714114dce3cf6",
-    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751992206~acl=/stream/206/file/*~id=allUsers~hmac=1e3813c49fd0b231d125e843b4496f5f953a2980e3771f7748e714114dce3cf6",
+    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751992813~acl=/stream/204/file/*~id=allUsers~hmac=51a4dab6e73e053ffe442e0d7d988acf6da0a0a5124b952c6910e7d2637d0248",
     "all-sections": "17139-17140-18851-18853-18954-19035-19047-19050-6717",
     "all-vidiolivetv": [
       {
@@ -619,7 +619,7 @@
       "title": "Men: Thailand vs Indonesia - SEA VLeague",
       "web_url": "19050",
       "cover_url": "https://thumbor.prod.vidiocdn.com/cojqJKpAHU7ecMQu471BOJhtZuQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4412384/ccfdc4.jpg",
-      "start_time": "2025-07-09T07:00:00.000Z"
+      "start_time": "2025-07-09T06:00:00.000Z"
     },
     "4412385": {
       "title": "Men: Philippines vs Vietnam - SEA VLeague",
