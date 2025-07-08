@@ -1,5 +1,5 @@
 {
-  "time": "2025-07-08T10:20:11.285Z",
+  "time": "2025-07-08T10:30:10.552Z",
   "headers": {
     "x-api-platform": "web-desktop",
     "content-type": "application/vnd.api+json",
@@ -8,22 +8,22 @@
     "referer": "https://www.vidio.com/",
     "accept-language": "undefined",
     "sec-ch-ua": "\"Not)A;Brand\";v=\"8\", \"Chromium\";v=\"138\", \"HeadlessChrome\";v=\"138\"",
-    "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/odGCbyLphdAOpXoc2iEQOpSEWq08V9UYx04rsohfkgliYnxSjltjkbBBv+rGYwF02lZ3CYrJxxgldG0yphX1qc=",
+    "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/rVYQzAleuvQ8+kOv6DulMfVa99oOgKWfYO3JOX6Mp0zfF6h6sULkBP+S9L5B0hiTH/bfglaP1rXFTgPEaUla0w=",
     "sec-ch-ua-mobile": "?0",
-    "luws": "7B285BE7-4D9C-ADFF-D03F-8F80E955D447_",
-    "x-signature": "b173057a3b479c69551b7bda159af7e7fa26de1fcc41d4de6296b3aeeea73ef9",
+    "luws": "E6E21289-C7E4-3B1A-A5F6-AB03FD872A89_",
+    "x-signature": "bc5e77dc9f381729cf8a9474f43e6a630c1b4ddf02c76f23ed0056667964b193",
     "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/138.0.7204.23 Safari/537.36",
     "x-secure-level": "2",
-    "x-client": "1751970007.637",
+    "x-client": "1751970607.702",
     "x-user-email": null,
+    "204-dash": null,
+    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751985008~acl=/stream/204/file/*~id=allUsers~hmac=f4db9fd107f10968de9836bf33e86d10c705c660ae0147c6951c70402a81c6cb",
+    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751985008~acl=/stream/206/file/*~id=allUsers~hmac=0d0f5ca67344c079ba644e5bfdd6e5514ab94fd3a5b8134dfc7b6dbcc92bc375",
+    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751985008~acl=/stream/206/file/*~id=allUsers~hmac=0d0f5ca67344c079ba644e5bfdd6e5514ab94fd3a5b8134dfc7b6dbcc92bc375",
     "205-dash": null,
     "205-hls": null,
     "18105-dash": null,
-    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751984408~acl=/stream/18105/file/*~id=allUsers~hmac=59cb4bffb40c7c3d226e87eac259367e25248647595fe265c1ae93fb172d6ca1",
-    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751984408~acl=/stream/206/file/*~id=allUsers~hmac=010f3ed0d647d33bc89c5738a521e0e4c114972e6269850b941d5161dff26119",
-    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751984408~acl=/stream/206/file/*~id=allUsers~hmac=010f3ed0d647d33bc89c5738a521e0e4c114972e6269850b941d5161dff26119",
-    "204-dash": null,
-    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751984409~acl=/stream/204/file/*~id=allUsers~hmac=29b19a347a115c67595367e71ffb6289553599b62c19b0d92bf7a0d2ed8f94fd",
+    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751985008~acl=/stream/18105/file/*~id=allUsers~hmac=fa1cfc0024bbe5231db6a19f4cfada756225249dbbbf3e4bfefb73e3d06c1925",
     "all-sections": "17139-17140-18851-18853-18954-19035-19047-6717",
     "all-vidiolivetv": [
       {
@@ -646,12 +646,6 @@
       "web_url": "19035",
       "cover_url": "https://thumbor.prod.vidiocdn.com/POFR4nuKo-7GvFUz7oeRjT-25aQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4403699/249365.jpg",
       "start_time": "2025-07-08T07:58:00.000Z"
-    },
-    "19049": {
-      "title": "Kejutan Rapat Komisi VI DPR dengan Menteri BUMN Erick Thohir",
-      "web_url": "19049",
-      "cover_url": "https://thumbor.prod.vidiocdn.com/Idd6ATYncb7ap0iv3lcl3HYlAxE=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/19049/merdeka-com-26ff29.jpg",
-      "start_time": "2025-07-08T07:20:00.000Z"
     },
     "19052": {
       "title": "Samsung Galaxy Foldables",
