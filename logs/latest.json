@@ -1,5 +1,5 @@
 {
-  "time": "2025-07-08T08:30:14.240Z",
+  "time": "2025-07-08T08:40:13.996Z",
   "headers": {
     "x-api-platform": "web-desktop",
     "content-type": "application/vnd.api+json",
@@ -8,22 +8,22 @@
     "referer": "https://www.vidio.com/",
     "accept-language": "undefined",
     "sec-ch-ua": "\"Not)A;Brand\";v=\"8\", \"Chromium\";v=\"138\", \"HeadlessChrome\";v=\"138\"",
-    "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/gMTGbwFnv3Q6sgzUAHVUzJVDVkzA9vQu/pGk3Xelkoh0LXi1tFZ3Hw7ZmEYTui3zuCclDocwKB/oEuWUFUPXBY=",
+    "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/r8SilhMjOFGzLA7AIMP7HhCNKpNfasJlDZdmRbxNMHvmnoqRJBjQDwLDFHDG7xm7814+stGngYFdHBSC8QMnXA=",
     "sec-ch-ua-mobile": "?0",
-    "luws": "EF278E00-04FF-2B37-38E8-BBB0D9A1739D_",
-    "x-signature": "2ba2a62d86a7d9892379d59c8211f53173fd7a9c8386541bb0816a07d5f8c3e6",
+    "luws": "0244602F-B252-6062-E6BB-881327D7DCEB_",
+    "x-signature": "967534e857a98ab903dccbcd150ae87c63f205b55589d5efa394dfa926779093",
     "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/138.0.7204.23 Safari/537.36",
     "x-secure-level": "2",
-    "x-client": "1751963411.014",
+    "x-client": "1751964011.185",
     "x-user-email": null,
-    "18105-dash": null,
-    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751977812~acl=/stream/18105/file/*~id=allUsers~hmac=31a8c316fa386f354694ee2bce8777144c959497003119c3a1751a2fb5467690",
     "205-dash": null,
     "205-hls": null,
-    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751977812~acl=/stream/206/file/*~id=allUsers~hmac=0287d7d2957d7f455c1950ceb3e781e7cde18f1bc8114980d04d668b9208884e",
-    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751977812~acl=/stream/206/file/*~id=allUsers~hmac=0287d7d2957d7f455c1950ceb3e781e7cde18f1bc8114980d04d668b9208884e",
     "204-dash": null,
-    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751977812~acl=/stream/204/file/*~id=allUsers~hmac=71a02d2dfb094b353d54f1cafce229d0fbc5191b7a72072c3d435065cec7e93a",
+    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751978412~acl=/stream/204/file/*~id=allUsers~hmac=bf70ee911d87f5fc3e3aed0ff9075eecec20b6287e1c7a84f97b3a5a8ec0a253",
+    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751978412~acl=/stream/206/file/*~id=allUsers~hmac=1fa5fb8ffccfdaaf449843c18c78af9f049e1476541b5c2ae72d2dcecbb5617e",
+    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751978412~acl=/stream/206/file/*~id=allUsers~hmac=1fa5fb8ffccfdaaf449843c18c78af9f049e1476541b5c2ae72d2dcecbb5617e",
+    "18105-dash": null,
+    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751978412~acl=/stream/18105/file/*~id=allUsers~hmac=b82a01260de82e5096fff007b82f131d449e46248b029e25da816fbb747d88bf",
     "all-sections": "17139-17140-18851-18853-18954-19035-19047-6717",
     "all-vidiolivetv": [
       {
@@ -652,6 +652,12 @@
       "web_url": "19049",
       "cover_url": "https://thumbor.prod.vidiocdn.com/Idd6ATYncb7ap0iv3lcl3HYlAxE=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/19049/merdeka-com-26ff29.jpg",
       "start_time": "2025-07-08T07:20:00.000Z"
+    },
+    "19052": {
+      "title": "Samsung Galaxy Foldables",
+      "web_url": "19052",
+      "cover_url": "https://thumbor.prod.vidiocdn.com/XVGyMzhPn2RLlhEyg672bCpzUxI=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/19052/samsung-galaxy-foldables-a7e068.jpg",
+      "start_time": "2025-07-09T14:00:00.000Z"
     }
   }
 }
