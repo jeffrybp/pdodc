@@ -1,5 +1,5 @@
 {
-  "time": "2025-07-08T11:20:19.439Z",
+  "time": "2025-07-08T11:30:14.798Z",
   "headers": {
     "x-api-platform": "web-desktop",
     "content-type": "application/vnd.api+json",
@@ -8,22 +8,22 @@
     "referer": "https://www.vidio.com/",
     "accept-language": "undefined",
     "sec-ch-ua": "\"Not)A;Brand\";v=\"8\", \"Chromium\";v=\"138\", \"HeadlessChrome\";v=\"138\"",
-    "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/kA3f8MZrtuDSGYn0NMVjxpaSwRO6/sMExFHoHunKZVdH64vTGod4YGaJGH3adVVg+Bxp6WXMb/iuLH/hd7KNbA=",
+    "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/t9YFFUDN3yvnjl1N8G3d8jlvrNZG2ALv/30J+aoYX1HxztTHx904nfQVYHolg9cHHs+sx4pYr5oaVEFGrpF1iM=",
     "sec-ch-ua-mobile": "?0",
-    "luws": "0438F42D-B70C-7278-5185-99CAA68AE6C7_",
-    "x-signature": "ae35c2bdc054f68e4a92afbb1d747853504db99011f54aca75182ea944f4b0de",
+    "luws": "A131BF22-DEAD-5609-5EA1-5E9310D65308_",
+    "x-signature": "a0fa2f9b622a1132c9e5b6f06a922a9ce94e4946a0e4245e76b3a34673523066",
     "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/138.0.7204.23 Safari/537.36",
     "x-secure-level": "2",
-    "x-client": "1751973611.375",
+    "x-client": "1751974211.623",
     "x-user-email": null,
-    "18105-dash": null,
-    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751988013~acl=/stream/18105/file/*~id=allUsers~hmac=723a8bd07278d2afc9fa428eb8d3694d1201b025dbdb4b5949eafd92808943a7",
     "204-dash": null,
-    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751988013~acl=/stream/204/file/*~id=allUsers~hmac=05144c0c5fad72d4d3453dbf0cf9fd0b4709480e7e17bc3506970eb4551072b6",
-    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751988013~acl=/stream/206/file/*~id=allUsers~hmac=0b72d72f2469a57e6e0180a4f008a5db09c0a6bbcaafa2e11e187b26650467a1",
-    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751988013~acl=/stream/206/file/*~id=allUsers~hmac=0b72d72f2469a57e6e0180a4f008a5db09c0a6bbcaafa2e11e187b26650467a1",
+    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751988613~acl=/stream/204/file/*~id=allUsers~hmac=1d8398b1a2b1c3701eb66df8239c6a30139ab1d44f592a92ec36761bf143d0a9",
     "205-dash": null,
-    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751988013~acl=/stream/205/file/*~id=allUsers~hmac=403fd50cec6011dc7971dd2c97f47fc84ea89f6a02c83f4772c5503d1ef3effd",
+    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1751988613~acl=/stream/205/file/*~id=allUsers~hmac=de6720b886a2d27c333dfb4bd950693d59ab771b4eda651f689988610c38d448",
+    "18105-dash": null,
+    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751988613~acl=/stream/18105/file/*~id=allUsers~hmac=08e8c6686594244e99e173ff92ec0c201c3db2309a23448b4436be43bc3de440",
+    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751988613~acl=/stream/206/file/*~id=allUsers~hmac=7e8d540e17013647964a7afc980e7fc88eb74bfe2c9d269288acfdc9e16dbc84",
+    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751988613~acl=/stream/206/file/*~id=allUsers~hmac=7e8d540e17013647964a7afc980e7fc88eb74bfe2c9d269288acfdc9e16dbc84",
     "all-sections": "17139-17140-18851-18853-18954-19035-19047-19050-6717",
     "all-vidiolivetv": [
       {
@@ -652,6 +652,12 @@
       "web_url": "19052",
       "cover_url": "https://thumbor.prod.vidiocdn.com/XVGyMzhPn2RLlhEyg672bCpzUxI=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/19052/samsung-galaxy-foldables-a7e068.jpg",
       "start_time": "2025-07-09T13:30:00.000Z"
+    },
+    "19053": {
+      "title": "Ratusan Ribu Penerima Bansos Terlibat Judi Online",
+      "web_url": "19053",
+      "cover_url": "https://thumbor.prod.vidiocdn.com/ZmGRg3YyVYAp1h0LR0WkclhIEg4=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/19053/liputan6-update-8f6634.jpg",
+      "start_time": "2025-07-09T04:00:00.000Z"
     }
   }
 }
