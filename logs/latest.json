@@ -1,34 +1,29 @@
 {
-  "time": "2025-07-08T12:13:01.383Z",
+  "time": "2025-07-08T12:20:11.900Z",
   "headers": {
     "x-api-platform": "web-desktop",
     "content-type": "application/vnd.api+json",
-    "cookie": "refresh_token=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InR5cGUiOiJyZWZyZXNoX3Rva2VuIiwidWlkIjo5ODA2MjAxfSwiZXhwIjoxNzU0NTY4Nzc3fQ.p9ZJTWusIxJuFGOnjBmSpt6B1dsbrVVsmGr6dhzrMOE; country_id=ID; ahoy_visitor=0b5924b3-80a8-4a9a-b1b4-776a3698167a; ahoy_visit=acac2636-1161-48b1-bc8f-5a1e3fe675ad; _gid=GA1.2.1823723460.1751976778; _gcl_au=1.1.1023719589.1751976778; _ga=GA1.3.2091640295.1751976778; _gid=GA1.3.1823723460.1751976778; shva=1; _vidio=true; plenty_id=9806201; x_user_token=2CoMQGweWykM6Leq7p9X; access_token=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InR5cGUiOiJhY2Nlc3NfdG9rZW4iLCJ1aWQiOjk4MDYyMDF9LCJleHAiOjE3NTIwNjMxNzd9.SJTLEV4MjiglpUJCIDKiU-MN7YbLIjEc0Rxre7Y1qmY; flash=%7B%22session_notice%22%3A%22Yay%2C+kamu+berhasil+masuk+ke+akunmu%21%22%7D; _vidio_session=I%2F%2FQ1OLCHXYw1Oe06tfb7Y6t7eBCYKaOQL5SJHKh7nHp%2FOCxQwsMsJ0WRJTZe0jHWlD9mfLlI6yf1UlnmC5D%2F94fBv3NqOwO%2B%2F3Rfx6StxNmk%2FMYkaaHzbrwpAKzu%2FVK31ZtgnP51LVwOheQymbCIXepldJtnm3MSb2hauxHp%2B4Kd4ftGpVlc4x9K2SKK17clm3zHnsif7kDE6mWTvbeAwcEFu8bTaIx%2FN%2BOqnoCz5veFAxIlY94AzvyGhVeWYoro2yy8blkQn24z5Dpn%2BFAm%2FiASLRK3kVBtWNBM8sWi3PjrZ9XOM0k6ZdTpuvuO%2BkNMcIbe5%2BDDJ%2Ff3yWmVPPppQB33mJkn1CoQmNYQpTrmB6nE%2F0j1eG2xNG6mV448XJMkI6eovHWTke4%2BprXkXCrhCszKQ%2FtVlR44G1H4%2BYlW6yg0hY0q1Ztdx6%2BsbVu6eXrt3gzzOnRwIdDdiGDaGJ73pbceakoAgpc4PJNkKaxiJXmyPtCAi3ccUtBIZ7%2FmQm3sWEMZt3tzMCkrXDVQMy1wuQRICoKP0dKwnsR7qYVKnzj19w5JFSyszrJT80rRCLVbBehZHOBpvmW875onXWvdFBKjpHf%2B6Z2MIV7WldAv1Qr5NW5r8zmrz%2B69Ex4tiT85wNM4kUlvmVMB%2FHX7DqRVjbgWRodW4UCde2prOBn--oyWWG8xPQ%2FM%2BG9JH--KWPNy3bQ1tEuFMROM4pFMg%3D%3D; _dc_gtm_UA-47200845-12=1; _ga_JBTBSESXVN=GS2.1.s1751976777$o1$g0$t1751976777$j60$l0$h0; _ga=GA1.1.2091640295.1751976778; _fbp=fb.1.1751976777881.209807108613504559; UID=1A2ada9145af505b7b0d4161751976778; XID=1A2ada9145af505b7b0d4161751976778; _ttp=2zaksaBTfvA3w7fYz8Q1FYbCHYH; _tt_enable_cookie=1; _ttp=01JZMZ86957C3JPWJ75A3DNPX7_.tt.1; ttcsid_C9AIGT3C77U5U5I026MG=1751976778023::50X3JazfTpoVg0SXddRb.1.1751976778023; ttcsid=1751976778024::4S5XAWcErV1zGMoHgI6Y.1.1751976778024",
     "x-request-from": "https://www.vidio.com/live/7004",
     "sec-ch-ua-platform": "\"Windows\"",
     "referer": "https://www.vidio.com/",
     "accept-language": "undefined",
     "sec-ch-ua": "\"Not)A;Brand\";v=\"8\", \"Chromium\";v=\"138\", \"HeadlessChrome\";v=\"138\"",
-    "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/i3ONmh1gSDbyhJueJx6RNvBRVfQJhKMS+jIrkgzfXJpXhIXQ96lYqxNHjdWAec5Us5O8V6eHw2fKJ2PeQnJZXw=",
+    "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/pTu4YgTDx/UUTrD/u/brWCnOU7VTHenxwZtQRG0G68LCPQ7aqZYq+6l8KfL654Vi1jVnpsZsYVqhwvzxsPmc7Y=",
     "sec-ch-ua-mobile": "?0",
-    "luws": "7C8CF407-5C8E-1FA9-B1FB-30E5ABCCC335_9806201",
-    "x-signature": "9bbd1cceffb54bb3b962a3741deff58395cf01d01311122e8ddfa0a5276a3aa3",
+    "luws": "5B201A3E-B0B6-94F5-563C-4D68BFCEE884_",
+    "x-signature": "5d71321bf72d4b5899bd2b792e35a82a3e4ae226906392c247525b36f0aaa410",
     "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/138.0.7204.23 Safari/537.36",
-    "x-user-email": "jeffrybp@outlook.co.id",
     "x-secure-level": "2",
-    "x-client": "1751976778.849",
+    "x-client": "1751977208.795",
+    "x-user-email": null,
     "205-dash": null,
     "205-hls": null,
     "204-dash": null,
-    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751991179~acl=/stream/204/file/*~id=allUsers~hmac=e0626f0e62e216a6cc3351f5735776bd36f72004e465b7c1d29394f933baf67f",
-    "733-dash": null,
-    "733-hls": null,
-    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751991179~acl=/stream/206/file/*~id=allUsers~hmac=379a4220b19beb31fc75e240ceb0955fc2af1b23fb0c17085e09ea2abc8341a8",
-    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751991179~acl=/stream/206/file/*~id=allUsers~hmac=379a4220b19beb31fc75e240ceb0955fc2af1b23fb0c17085e09ea2abc8341a8",
-    "734-dash": null,
-    "734-hls": null,
+    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1751991610~acl=/stream/204/file/*~id=allUsers~hmac=88f8949c8303c1a0643398997c78380404362877c1324dacc981dc8dedf9c685",
     "18105-dash": null,
-    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751991179~acl=/stream/18105/file/*~id=allUsers~hmac=071ee9ee510a19c5570216bad588a86da2dd011aa49906c18cb2bec3fafe738b",
+    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1751991610~acl=/stream/18105/file/*~id=allUsers~hmac=d0915900baea0a6cbab72d416a64fd575516133d3669389833f24aa6fbee6dff",
+    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1751991610~acl=/stream/206/file/*~id=allUsers~hmac=c9d40738ab62f17f6cbb445a9009a4b6045359752cf4c26525c73eb81baa2598",
+    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1751991610~acl=/stream/206/file/*~id=allUsers~hmac=c9d40738ab62f17f6cbb445a9009a4b6045359752cf4c26525c73eb81baa2598",
     "all-sections": "17139-17140-18851-18853-18954-19035-19047-19050-6717",
     "all-vidiolivetv": [
       {
@@ -635,7 +630,7 @@
   },
   "vidioliveothers": {
     "17884": {
-      "title": "Formula 1",
+      "title": "Silverstone : FIA Formula 3 Championship Feature Race",
       "web_url": "17884",
       "cover_url": "https://thumbor.prod.vidiocdn.com/Rc1pHYZnd8l_siMi118TkKusbPM=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17884/formula-1-5ee872.jpg",
       "start_time": "2025-04-02T13:25:00.000Z"
@@ -659,7 +654,7 @@
       "start_time": "2025-07-08T12:02:00.000Z"
     },
     "19052": {
-      "title": "Samsung Galaxy Foldables",
+      "title": "Galaxy Unpacked July 2025",
       "web_url": "19052",
       "cover_url": "https://thumbor.prod.vidiocdn.com/XVGyMzhPn2RLlhEyg672bCpzUxI=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/19052/samsung-galaxy-foldables-a7e068.jpg",
       "start_time": "2025-07-09T13:30:00.000Z"
