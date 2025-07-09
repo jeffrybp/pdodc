@@ -1,5 +1,5 @@
 {
-  "time": "2025-07-09T01:40:10.348Z",
+  "time": "2025-07-09T01:50:11.629Z",
   "headers": {
     "x-api-platform": "web-desktop",
     "content-type": "application/vnd.api+json",
@@ -8,22 +8,22 @@
     "referer": "https://www.vidio.com/",
     "accept-language": "undefined",
     "sec-ch-ua": "\"Not)A;Brand\";v=\"8\", \"Chromium\";v=\"138\", \"HeadlessChrome\";v=\"138\"",
-    "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/o710Ql9fm+lSOexqvjnYIvs4bN2ocRXtw4kDVJrztLfXRypG4fzgEszCkWIkM8QxAs3hUkRadDVpRw3y9JDl6o=",
+    "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/r1u+FUFBmekQSc/tx7z0aixw6K0J40YJ/qBURxJjxkEbSgAEXHfop7ci06zrEfko+q6mrZV1cIZiQpwC3Ki0uw=",
     "sec-ch-ua-mobile": "?0",
-    "luws": "C0A8D79A-3A99-1527-A244-0FA1C99881EA_",
-    "x-signature": "5a3b8b1690ca40fb5f90173f5ecc6bec721183eba76af252b7564dba54cfae5a",
+    "luws": "62C33148-7A56-1F10-2E8E-E69F7D88EFC1_",
+    "x-signature": "7a16587699c55b3ef2bb51a42aabe7e57f0250401d5f7f574665298dd357b411",
     "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/138.0.7204.23 Safari/537.36",
     "x-secure-level": "2",
-    "x-client": "1752025207.755",
+    "x-client": "1752025809.104",
     "x-user-email": null,
-    "204-dash": null,
-    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1752039608~acl=/stream/204/file/*~id=allUsers~hmac=27fbad4cd3d1a40ebd7de36fc663620cab812f72d82a73376136ce9ad31dd62c",
     "205-dash": null,
-    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1752039608~acl=/stream/205/file/*~id=allUsers~hmac=316364eb7df1bf2490a36b54bda5a9774d2705901f532e9f5da9e6096d791d97",
-    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1752039608~acl=/stream/206/file/*~id=allUsers~hmac=41e91ddfbe6ac7fc80e2d373123f7a738a1c321d2ff3e4d1e9a79a40eae5224e",
-    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1752039608~acl=/stream/206/file/*~id=allUsers~hmac=41e91ddfbe6ac7fc80e2d373123f7a738a1c321d2ff3e4d1e9a79a40eae5224e",
+    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1752040209~acl=/stream/205/file/*~id=allUsers~hmac=adb5d685484a86d9aff2a79d45521c3698ee4e86564ccccd4aebf7f416fdb820",
     "18105-dash": null,
-    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1752039608~acl=/stream/18105/file/*~id=allUsers~hmac=1f7958bf76be163642b5322645dab365c71b5672882cf2158c73dc1d16f0494f",
+    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1752040209~acl=/stream/18105/file/*~id=allUsers~hmac=90d3c3033ae33fdd9ac538e160b3fb402bd4ae9bae3fa399168d556cf84afffd",
+    "204-dash": null,
+    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1752040210~acl=/stream/204/file/*~id=allUsers~hmac=ebec26656e66b40b8d6dbf4272bc7e1ad6e5362e0fadd6325eebea94323cab73",
+    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1752040210~acl=/stream/206/file/*~id=allUsers~hmac=85fb64f2bfa3cd1f9ef4757abdf9803e09017f78ccd5c2e26fca600e5b0f1ddc",
+    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1752040210~acl=/stream/206/file/*~id=allUsers~hmac=85fb64f2bfa3cd1f9ef4757abdf9803e09017f78ccd5c2e26fca600e5b0f1ddc",
     "all-sections": "17139-17140-18851-18853-18954-19035-19047-19050-6717",
     "all-vidiolivetv": [
       {
@@ -562,7 +562,7 @@
       "start_time": "2025-07-10T00:30:00.000Z"
     },
     "4412111": {
-      "title": "Football West All Star vs Persebaya Surabaya - Persebaya Matchday",
+      "title": "Western Australia vs Persebaya Surabaya - Persebaya Matchday",
       "web_url": "19047",
       "cover_url": "https://thumbor.prod.vidiocdn.com/y9FiBoyzkpEHpnVLYrMIkwoNK1Y=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4412111/cba747.jpg",
       "start_time": "2025-07-09T11:00:00.000Z"
