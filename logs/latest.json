@@ -1,5 +1,5 @@
 {
-  "time": "2025-07-09T01:50:11.629Z",
+  "time": "2025-07-09T02:00:10.672Z",
   "headers": {
     "x-api-platform": "web-desktop",
     "content-type": "application/vnd.api+json",
@@ -8,22 +8,22 @@
     "referer": "https://www.vidio.com/",
     "accept-language": "undefined",
     "sec-ch-ua": "\"Not)A;Brand\";v=\"8\", \"Chromium\";v=\"138\", \"HeadlessChrome\";v=\"138\"",
-    "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/r1u+FUFBmekQSc/tx7z0aixw6K0J40YJ/qBURxJjxkEbSgAEXHfop7ci06zrEfko+q6mrZV1cIZiQpwC3Ki0uw=",
+    "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/idhs8Nc8Dl//RS6hTIIScpui5YmNrRGoDXnedqLeEG2/tLkNayu4I4mOdolfUPGIvajD1+TyIuaDBc32R6LuIA=",
     "sec-ch-ua-mobile": "?0",
-    "luws": "62C33148-7A56-1F10-2E8E-E69F7D88EFC1_",
-    "x-signature": "7a16587699c55b3ef2bb51a42aabe7e57f0250401d5f7f574665298dd357b411",
+    "luws": "945DDE65-F18C-06FD-890A-C488E5B3CB13_",
+    "x-signature": "a9007f8168ddc7c89cf8074041f97d74b1b7bac2e182f20eec9a0cc65d807f4d",
     "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/138.0.7204.23 Safari/537.36",
     "x-secure-level": "2",
-    "x-client": "1752025809.104",
+    "x-client": "1752026407.824",
     "x-user-email": null,
-    "205-dash": null,
-    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1752040209~acl=/stream/205/file/*~id=allUsers~hmac=adb5d685484a86d9aff2a79d45521c3698ee4e86564ccccd4aebf7f416fdb820",
+    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1752040808~acl=/stream/206/file/*~id=allUsers~hmac=e25a93e9ccf4ba5a7681af375049a5da99eb351a34ce1ef69b0fa0c824a68f39",
+    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1752040808~acl=/stream/206/file/*~id=allUsers~hmac=e25a93e9ccf4ba5a7681af375049a5da99eb351a34ce1ef69b0fa0c824a68f39",
     "18105-dash": null,
-    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1752040209~acl=/stream/18105/file/*~id=allUsers~hmac=90d3c3033ae33fdd9ac538e160b3fb402bd4ae9bae3fa399168d556cf84afffd",
+    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1752040808~acl=/stream/18105/file/*~id=allUsers~hmac=9d416c06c8e1b9d57dd2e08730379de0d7914b9e663d0ed4f9762fc7f74ae054",
     "204-dash": null,
-    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1752040210~acl=/stream/204/file/*~id=allUsers~hmac=ebec26656e66b40b8d6dbf4272bc7e1ad6e5362e0fadd6325eebea94323cab73",
-    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1752040210~acl=/stream/206/file/*~id=allUsers~hmac=85fb64f2bfa3cd1f9ef4757abdf9803e09017f78ccd5c2e26fca600e5b0f1ddc",
-    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1752040210~acl=/stream/206/file/*~id=allUsers~hmac=85fb64f2bfa3cd1f9ef4757abdf9803e09017f78ccd5c2e26fca600e5b0f1ddc",
+    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1752040808~acl=/stream/204/file/*~id=allUsers~hmac=70db3ae0c6a71e04f689f1e9d090ea3f4916c6e30ed87a1af62fbeeb119b2987",
+    "205-dash": null,
+    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1752040808~acl=/stream/205/file/*~id=allUsers~hmac=76e5d55d53ba4c9ebba1c74caf8e1c6fa8aebbbe5937e9633e3ec55713f4db60",
     "all-sections": "17139-17140-18851-18853-18954-19035-19047-19050-6717",
     "all-vidiolivetv": [
       {
@@ -90,6 +90,11 @@
         "content_id": "6441",
         "nama_channel": "TVRI",
         "cover_url": "https://thumbor.prod.vidiocdn.com/F6W__Y0wn_7mFW0cOuz7mi7qjWU=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6441/528cc9.png"
+      },
+      {
+        "content_id": "19046",
+        "nama_channel": "Sin Po TV",
+        "cover_url": "https://thumbor.prod.vidiocdn.com/j6L0yLX8CtZTUnIO5aMzs0tNkvI=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/19046/aaa3fa.png"
       },
       {
         "content_id": "18162",
