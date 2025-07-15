@@ -1,37 +1,37 @@
 {
-  "time": "2025-07-15T18:10:08.653Z",
+  "time": "2025-07-15T18:20:06.982Z",
   "headers": {
     "x-api-platform": "web-desktop",
     "content-type": "application/vnd.api+json",
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
-    "cookie": "country_id=ID; ahoy_visitor=a16d3ee7-dcd9-4f1f-964b-f531bf4b011a; ahoy_visit=bec7cfed-567c-45a2-83f2-e32ea2f18544; shva=1; _vidio=true; plenty_id=9806201; x_user_token=3e7y2ex3EtG29Jvy9VM3; access_token=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InR5cGUiOiJhY2Nlc3NfdG9rZW4iLCJ1aWQiOjk4MDYyMDF9LCJleHAiOjE3NTI2ODk0MDV9.NUyv7wGd7WD5_UadmurBtlvnWFhA_zRQELl8OUHkcPs; _vidio_session=YioyNTxq931YcTdDp2lkuDcy%2BIpzp6qt2oS79JdxRUC0jQ%2BSbsP7F5dWPuqlPQsNFup7IqyCyTQkCYitdTEjbk%2BqxVsPWt7w6m2oo%2FXbS11vdUzUR2V0jg%2BC5wG5J5mom6aiqYtvt9cxnWPVY%2FRAwdfJeUOSUGgjgWj2moihY%2Fe49azi6Kg2wrxFH9JDX9wVyKUDScNbcrXaWVqpMZqDvMPoWbV%2BS1grh7U6ffX8UY5R98z%2BIq01zfAcVMYfEU%2BJs0MdtEz%2BJIf%2F1njiN2oeBSymo%2FyNWdqxjVLig5rkyj%2B2%2BzaRaf6o0ZT5yyKTgJjUnSJ43Wx9%2B%2F0cask9nYrmiwzFSdfAr1s1957EGoFtPlTJgxrge4gjHx5Vf0b7SnrRwOP4nDF9FbUmupvbebKRfkYnhQWRoAbR4GusAXzhC0tvsbVKadix1sUkJesNdRu8SBENq6IRlxWnpbaXZzw6gLib5nE%2FHk%2FgITt8ZNdCktUnPfT4hV%2F6KR1P7I%2F1NSkW%2FsbByFQoHd%2F%2BP7B%2BYApRhXcKzYTSiP%2Fb%2FJEslPWH10U%2BY%2FIEa15%2BWdHxx2GuNV6wAyCWzsjVX2OMEyqu%2FPygbOo1rVVDXu2X1zA%2Fa%2B6afJjDOXjnCfc%2FEhB0TZortDc4tG84vnnMH0bheJ%2FUC74X3Ld3XKwbAPTxeR%2BNgC7t--CjYjuqi1ywiZN3xl--8EWac%2FfVvmGUQJuFVHxpIQ%3D%3D",
+    "cookie": "country_id=ID; ahoy_visitor=a458bb77-005d-4d1b-b7a4-cba7157cf8be; ahoy_visit=7604dda5-0e4c-48f2-ae1f-bca9b592e177; shva=1; _vidio=true; plenty_id=9806201; x_user_token=XAqnF-TokrLi-sV3Mtsn; access_token=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InR5cGUiOiJhY2Nlc3NfdG9rZW4iLCJ1aWQiOjk4MDYyMDF9LCJleHAiOjE3NTI2OTAwMDN9.WKE_hEjMGuDDj8ZJwoP7tGGkbfjYfnf-UMLcKRP1yPk; _vidio_session=LXRbJNLlc%2Fl13SMrOEPvZ9Fd1en1i%2Bk85g2Ih6m%2BryRlqIBIumy%2F5Xb3iEqk%2F5Jv8aGnyKUGkFKVAAUK%2BXNKKA%2B0RjtIzphZOXbETrX1neKbUt9q1UDGXLVOD7GZTZAomS31tQLmsvKW17atoxgZddfPxsCB0BvzVaMT3S%2FfqlzVpFwvdyPR6b4L5k5OXhqwFCQQADKMX8aVANicC%2FVEOdNsGcsEmrsMoMckMU5qFQHcY50eM2nWGwh7FsOaEfoojkmUeGWZR1WXmU5e2QfOplSkuAwpMGwsseFdK5tTq8WwnWATn9gzOdqqpgx3gECVkXynVZ9jYaY%2BoaKHOwtRCifq49m5jizh6ee8TvYXK2Rk2hYiBNNek%2Fc2SkjwLbowQrnvsqGKpnq9GM533B95MwPDnD7FYbVsNRNGCdh7t7u5qV2imo5mw4ERrl%2Bw8U0iQKA9XFlRVqNRFzukyBykVxpXi9ESW5U6ReXMF8YO4JiY96jXSuHO0meyRjfo4R%2FBIseF9rTem8tSonTg8Asr1viVK7DrSIvmeqMK1NWTJASH7rHo%2FrWvJse9EwEUDVOrak8LoZFgs%2BGq8Vu1sb%2FGYh9cDsE1Ar8rCXhqk1RnD5E9gvmk%2FISwc%2BjF65ywICFlyAGyaFhLUEP%2BYR8vayT9BeCI4cYdFT2U8Cwmn580--qBywBN7kiyiMHAzD--xOjZPY2fw8rhiLNvnetEuA%3D%3D",
     "x-request-from": "https://www.vidio.com/live/7004",
     "sec-ch-ua-platform": "\"Windows\"",
     "referer": "https://www.vidio.com/",
     "accept-language": "undefined",
     "sec-ch-ua": "\"Not)A;Brand\";v=\"8\", \"Chromium\";v=\"138\", \"HeadlessChrome\";v=\"138\"",
-    "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/vCDvQ1TR9tqjzw+xyNNGhUa8EgkehWwueDv+HVqg00fZIt52V/2IEzRZhMNqIoGYeAkzz37PtengCTI8n089M4=",
+    "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/qgQSLKUZyNt/FsZODKdW+dYAfzLPm3feEqhIx6cD8XeP1vXpIV2wBlaIavvQY5gMtiD2nGzmpW47JtHWyyCGqg=",
     "sec-ch-ua-mobile": "?0",
-    "luws": "88304EED-BD2E-7759-E83E-0A57AEA8AA49_9806201",
-    "x-signature": "c348f8ce7c39f82fce00dec265d3575f054f099c62459724749b5158b567dbdf",
+    "luws": "6A30E8C8-9613-C93F-39C4-67CE1A15780F_9806201",
+    "x-signature": "1fabdab3b79aa679c10310a0d6abd89a9ee59c204ab1c5b1a553e87f97b7a7eb",
     "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
     "x-user-email": "jeffrybp@outlook.co.id",
     "x-secure-level": "2",
-    "x-client": "1752603006.353",
+    "x-client": "1752603604.498",
     "206-dash": null,
     "206-hls": null,
-    "19062-dash": null,
-    "19062-hls": null,
-    "204-dash": null,
-    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1752617407~acl=/stream/204/file/*~id=9806201~hmac=8dedfb99a172fcab89d4e40c72abc1693b919875e60cb1a8e51a8f919737f430",
     "18105-dash": null,
-    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1752617407~acl=/stream/18105/file/*~id=9806201~hmac=636222837c63f477f5372d800ed3d6d77fec5216e3cc4534732982194d5201e8",
-    "205-dash": null,
-    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1752617407~acl=/stream/205/file/*~id=9806201~hmac=33adebce0af80eb4eb35c3dcf8f197c5901f4a227ae25c5dd967462c0ebb234f",
+    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1752618005~acl=/stream/18105/file/*~id=9806201~hmac=d870820e64f39850562ab181d3107f0db7af5f6991606b7bb75130f221831067",
     "733-dash": null,
     "733-hls": null,
+    "204-dash": null,
+    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1752618005~acl=/stream/204/file/*~id=9806201~hmac=3b1f85e00c7cda626b49b95898acd73de48cd1a2afee005822062203312a7386",
+    "19062-dash": null,
+    "19062-hls": null,
     "734-dash": null,
     "734-hls": null,
+    "205-dash": null,
+    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1752618005~acl=/stream/205/file/*~id=9806201~hmac=a6d19698d7daed4d3241ffedc17258c6da8d0e20e06343305b8cbbe3968782d3",
     "all-sections": "16890-17139-17140-17875-18189-18249-18250-18252-18853-19051-6299-6317-6685-6686-6717-6786",
     "all-vidiolivetv": [
       {
@@ -770,7 +770,7 @@
       "title": "Malaga P1 Premier Padel 2025 - Quarter Final",
       "web_url": "6299",
       "cover_url": "https://thumbor.prod.vidiocdn.com/m_YPOOJwdFRWR6goPPYj7MxcYvA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4428811/816c48.jpg",
-      "start_time": "2025-07-18T14:00:00.000Z"
+      "start_time": "2025-07-18T18:00:00.000Z"
     },
     "4428812": {
       "title": "MotoGP Practice: MotoGP 2025 Round 12 - Grand Prix of Czechia",
@@ -830,7 +830,7 @@
       "title": "Malaga P1 Premier Padel 2025 - Quarter Final",
       "web_url": "6299",
       "cover_url": "https://thumbor.prod.vidiocdn.com/Z8pgfGJ0c304IWnRZxf_zYXGu4E=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4428821/14db56.jpg",
-      "start_time": "2025-07-18T08:00:00.000Z"
+      "start_time": "2025-07-18T17:00:00.000Z"
     },
     "4428822": {
       "title": "ATP 250: EFG Swiss Open Gstaad 2025 - Quarter Final",
