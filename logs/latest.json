@@ -1,5 +1,5 @@
 {
-  "time": "2025-08-03T11:02:22.534Z",
+  "time": "2025-08-03T11:04:09.734Z",
   "headers": {
     "content-type": "application/vnd.api+json",
     "x-api-platform": "tv-android",
@@ -8,21 +8,45 @@
     "x-visitor-id": "51b995d2-833d-4a3c-b021-952b647424cb",
     "x-api-app-info": "tv-android/10/2.45.11-736",
     "referer": "androidtv-app://com.vidio.android.tv",
-    "cookie": "country_id=ID; ahoy_visitor=4280a582-6e3d-46ee-aa6a-b0a6dfd5a541; ahoy_visit=95c532d1-0389-412c-ae6a-9f8f5d58ef70; shva=1; _vidio=true; plenty_id=186878963; x_user_token=6A5pjUJpwN9MYYiHqQLt; access_token=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InR5cGUiOiJhY2Nlc3NfdG9rZW4iLCJ1aWQiOjE4Njg3ODk2M30sImV4cCI6MTc1NDMwNTMyNX0.V29NYm8AJJrNw9PYl4dxcqEHARj83Ke-MUu4Ab0_Nb0; _vidio_session=76bjqka7%2FgwkLSD5rcpQiu3v2kBhmNzHZX7mEIhW3WjOkQHQVPjEZEoF4kUC77mCj0EtEfloOxEjlQukk53SCo1nwHJzJQMAUmSRbVTS2oNiWf19692CSEjSs6kkDDGTIhdiMLXpl1F1ODxsY%2BR5Ky9Q4qTy73UT%2FTjX5OGH%2B57QKDXmOlTucF1uDTJT9w3P5OCHBhrCaNx1hKFPzvEItazp5toSn0AEE1p63TV0bU%2FwdRlE%2BB5ZkJh8Jr2ehTDqmhf%2Bj%2FKHFuatrtaZhW5nUbAfsrUzlyXMSt2sRhCcxo4Vv5JCCNYwtwOrk0Kyy94dBXr9fCfmoiolJTXgdSacfMXchBzzpj6spL8y55RiG7VaJpHkssxkmpLZQ07XRD2kjNsA%2FpW0M5zmR268wa3mzM3GqUt6mxxoKUuh%2BQuE4stDlsng71OtiFIHJi2oQmbkqkAl7ssrUX2HGl9qfT1szZLeFSUeqitFm0AMlESRCBzBUulq%2BPMyMWFQTui1Jm%2F2%2FzhMcI5RIYd6cE%2BwDl6hx60fwavMDoboFT3UFLw4%2BA5Qni%2BzK%2BXxVsKIpk8F6zPskNUqS73SnQ6pKgAq119uel7qXdCTYBD82%2BabYoh2iNV0b911CtS6VHjYzRbXvSNge4UuI2vkD1vjHf39pljj%2FNPG0SJ0mi5CNjA%2FmFay--h0qW9r9GxdUdcjuY--Q1dX33JR7C2B74S35DT2Mg%3D%3D",
+    "cookie": "country_id=ID; ahoy_visitor=3bdc00a7-d701-4ae8-8d5f-142087d6952a; ahoy_visit=69c1c760-e653-4531-9c23-06867e6ea0cf; shva=1; _vidio=true; plenty_id=186878963; x_user_token=swrjQcUHQ-MMC14wTxdw; access_token=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InR5cGUiOiJhY2Nlc3NfdG9rZW4iLCJ1aWQiOjE4Njg3ODk2M30sImV4cCI6MTc1NDMwNTQ0NH0.Spbev3tw-n7r8R2sfg0klKXF4pqUjBJVCUCJ-sIu73s; _vidio_session=Sl6yJFqbPxIPYNXtOv7S3fjTyb4YbjzYNRSkQVxQFYyww4Lk8PfgqIvfykmShVFF%2B5WuVMbx%2FuBcmlUMYk%2FuxpFPXoxcawTwD2CKksX0nXwSv%2FQuGJN6vwg5NtWkqfQ%2F6O%2FPtmvsue6cs6hMxGGqom6GS38slwMmhITtTA5vVzLw0cCkGBHv7tJFoqVRnH0HGjhSlnbnfPecgGVXjFMwlVM%2BbirsH8HXEF0YocfxZ8gtgyuR09JkBB%2Fq%2FPgEMdd7f3r9WMBR0VORw1j5NAgbnr1GyIyYdmDjrOcUn8FP8XxVF1tva2pNhSvOxf3AV%2F3ESkGSNhNV2c1zrpPqNIdhZg36zhyJ1coAqgnqqddu6vadZVLf64NxdhWFoseE0rigZy9PqUxcKR70LEusrJOriSBJg4QmnjmtIwWytKLJW%2BcYvDHeo4BxTkii2IifHMKdU6FAZ50TXo8oeQeFELT0xYFOG6iqn3Gatzasra1YRWnq%2By%2FIvSQE452kkWQ%2FOg7ikV3ZjVxClHUfYU%2FbTmVc9Se%2F3qghqDSCfJ1Nv96trwOtBmDUxoKuzzhuPZUCuM7R1X57HHkzaZ2A%2FUMtDTfaZMXvkHpk6ReLfgs9p59GX1qw22VxYqb2dCoOcjhZJYj23kwrh28K4Ge%2Fheza%2Bex19nqHRVE%2BRasfw4%2BQeBnG--t%2F%2BxEp%2BFpA0TRq%2BM--Jqw%2BtBcJmkVRDf3jK8ozUQ%3D%3D",
     "accept": "*/*",
     "accept-language": "undefined",
     "origin": "https://www.vidio.com",
     "user-agent": "tv-android/2.45.11 (736)",
-    "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/pOyISrgKde5cni9wwi5su1DpRlg96pjhy0L6jSBkW5G0er3Z51K1jFjCbsUl2RdlXgINYET6SJCUryPWzA+yQg=",
+    "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/n1qZZitRGFBD13lMWSHfz1IB0+0qREK33/wEHM+iMVUkmzpGvvrbmM8daVYZKAhhSoUXVw12+rlxvk9ShEsDhw=",
     "x-request-from": "https://www.vidio.com/live/7004",
     "x-secure-level": "2",
-    "x-signature": "6ba8852fdd634f52ed80adc752254772cdab874450f88f58568ec2a7b6b3dac0",
-    "x-client": "1754218930.631",
-    "luws": "C3F77A3F-770C-DDE2-1DB4-7C5E53E12C89_186878963",
+    "x-signature": "3baa4f90fe3ba6667ca97f3072d947b7f95fe349fc83dfd15b8f24f554937f9e",
+    "x-client": "1754219046.884",
+    "luws": "7DB4C356-627E-658D-FB46-031365D297BC_186878963",
     "sec-ch-ua": "\"Not;A=Brand\";v=\"99\", \"HeadlessChrome\";v=\"139\", \"Chromium\";v=\"139\"",
     "sec-ch-ua-mobile": "?0",
     "sec-ch-ua-platform": "\"Windows\"",
     "x-user-email": "txghczej@gmail.com",
+    "19051-dash": "https://geo-ban-th-vn-ph-gg-etslive-v3-vidio-com-tokenized.akamaized.net/stream/19051/file/drm/dash/19051_stream.mpd?hdnts=exp=1754233391~acl=/stream/19051/file/*~id=186878963~hmac=d0746840c47740fe0c11fb1f77df8ae9adb68fd82abf05c18fbbe1e009adc56e",
+    "19051-hls": "https://geo-ban-th-vn-ph-gg-etslive-v3-vidio-com-tokenized.akamaized.net/stream/19051/file/drm/hls/19051/master.m3u8?hdnts=exp=1754233391~acl=/stream/19051/file/*~id=186878963~hmac=d0746840c47740fe0c11fb1f77df8ae9adb68fd82abf05c18fbbe1e009adc56e",
+    "19051-drm": "https://license.vidio.com/ri/licenseManager.do?pallycon-customdata-v2=eyJkcm1fdHlwZSI6IldpZGV2aW5lIiwic2l0ZV9pZCI6Ik1RRFQiLCJ1c2VyX2lkIjoiMTg2ODc4OTYzIiwiY2lkIjoibGl2ZV8xOTA1MV9hMjc1YWM5ZWMxOGEiLCJwb2xpY3kiOiI1a3hrUzJHK0hsSFJvYWdvUDBhTndmMWJZdDEwSmVZSjJoQlZ6NzhsZDJnQlByQUVlOWdDT29Obm11SUliRnowdGhKeFlraHJoU1l5aEhqcUtxbG9vZ0FHL3BoNTIzOTlYaUNpaUdxcWdJTXl1LzQ5a0YwS1Z1NGw0ZC8zZFphLyIsInRpbWVzdGFtcCI6IjIwMjUtMDgtMDNUMTE6MDM6MTFaIiwiaGFzaCI6ImhjTEJpdElJZWR6OGpNVm1WWDdHTmNMZGVaOWY0c2d5Q3BmYW5PQlhZd2c9Iiwia2V5X3JvdGF0aW9uIjpmYWxzZSwidmlkaW9fY29udGVudF9pZCI6MTkwNTEsInZpZGlvX2NvbnRlbnRfdHlwZSI6IkxpdmVzdHJlYW1pbmciLCJpc19wcmV2aWV3IjpmYWxzZX0=",
+    "206-dash": null,
+    "206-hls": null,
+    "206-drm": null,
+    "18105-dash": null,
+    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1754233448~acl=/stream/18105/file/*~id=186878963~hmac=bca37b32654967085d6e3723e3a17aeb6f3c53751f4f79a5da3690a7797bf69f",
+    "18105-drm": null,
+    "733-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/733/file/dash/733_stream.mpd?hdnts=exp=1754233391~acl=/stream/733/file/*~id=186878963~hmac=e5a2273d7ac242e14eab30e147e6edb352bafd25696f0341b21dbd98fa5d5eb5",
+    "733-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/733/file/live/733/master.m3u8?hdnts=exp=1754233391~acl=/stream/733/file/*~id=186878963~hmac=e5a2273d7ac242e14eab30e147e6edb352bafd25696f0341b21dbd98fa5d5eb5",
+    "733-drm": null,
+    "205-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/dash/205_stream.mpd?hdnts=exp=1754233448~acl=/stream/205/file/*~id=186878963~hmac=7216f6f6d369ddd280d87ffe3dfc247702366bd88bc8d1db925f95b0804b35ee",
+    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1754233448~acl=/stream/205/file/*~id=186878963~hmac=7216f6f6d369ddd280d87ffe3dfc247702366bd88bc8d1db925f95b0804b35ee",
+    "205-drm": null,
+    "18037-dash": "https://geo-id-tl-ph-etslive-v3-vidio-com-tokenized.akamaized.net/stream/18037/file/drm/dash/18037_stream.mpd?hdnts=exp=1754233391~acl=/stream/18037/file/*~id=186878963~hmac=4c6451c51046bdf1d4aede6b8c9639233a38bc8ba7ea5a9d3f416719787b8097",
+    "18037-hls": "https://geo-id-tl-ph-etslive-v3-vidio-com-tokenized.akamaized.net/stream/18037/file/drm/hls/18037/master.m3u8?hdnts=exp=1754233391~acl=/stream/18037/file/*~id=186878963~hmac=4c6451c51046bdf1d4aede6b8c9639233a38bc8ba7ea5a9d3f416719787b8097",
+    "18037-drm": "https://license.vidio.com/ri/licenseManager.do?pallycon-customdata-v2=eyJkcm1fdHlwZSI6IldpZGV2aW5lIiwic2l0ZV9pZCI6Ik1RRFQiLCJ1c2VyX2lkIjoiMTg2ODc4OTYzIiwiY2lkIjoibGl2ZV8xODAzN185YTcyMjNhOWVlMmUiLCJwb2xpY3kiOiI1a3hrUzJHK0hsSFJvYWdvUDBhTndmMWJZdDEwSmVZSjJoQlZ6NzhsZDJnQlByQUVlOWdDT29Obm11SUliRnowdGhKeFlraHJoU1l5aEhqcUtxbG9vZ0FHL3BoNTIzOTlYaUNpaUdxcWdJTXl1LzQ5a0YwS1Z1NGw0ZC8zZFphLyIsInRpbWVzdGFtcCI6IjIwMjUtMDgtMDNUMTE6MDM6MTFaIiwiaGFzaCI6ImNaUHNJbFp1UVQwQmJmNktBQ0xKaGNzckdJT01iMVhmajNob0hCZHB2U2s9Iiwia2V5X3JvdGF0aW9uIjpmYWxzZSwidmlkaW9fY29udGVudF9pZCI6MTgwMzcsInZpZGlvX2NvbnRlbnRfdHlwZSI6IkxpdmVzdHJlYW1pbmciLCJpc19wcmV2aWV3IjpmYWxzZX0=",
+    "204-dash": null,
+    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1754233448~acl=/stream/204/file/*~id=186878963~hmac=914ae538fdfd400684cb6880111b48df46c04e51e9a9ea62bf8aaf89ca79f871",
+    "204-drm": null,
+    "734-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/734/file/dash/734_stream.mpd?hdnts=exp=1754233391~acl=/stream/734/file/*~id=186878963~hmac=10af586251dce031e9011e0a59797d9058f3bd3dbc24ffbffac611c42877c055",
+    "734-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/734/file/live/734/master.m3u8?hdnts=exp=1754233391~acl=/stream/734/file/*~id=186878963~hmac=10af586251dce031e9011e0a59797d9058f3bd3dbc24ffbffac611c42877c055",
+    "734-drm": null,
     "all-sections": "17140-17141-17875-17884-18189-18853-18994-19051-19228-19268-19308-19310-6299-6786",
     "all-vidiolivetv": [
       {
@@ -607,11 +631,11 @@
       "cover_url": "https://thumbor.prod.vidiocdn.com/beS7HIHt8Ezb66hU6glo6HwE9po=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4474046/acfa6a.jpg",
       "start_time": "2025-08-08T12:00:00.000Z"
     },
-    "4474071": {
-      "title": "GANENDRA SATYA VS RIAU UNITED | Topskor National Championship U-16",
+    "4474116": {
+      "title": "PSES ENDER VS EPFC SEMARANG | Topskor National Championship U-16",
       "web_url": "19308",
       "cover_url": "https://thumbor.prod.vidiocdn.com/rtakl7bjXsoQd1EuoQpKxJJmHA4=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/19308/topskor-national-championship-2025-u-16-matchday-1-field-2-5ce5b1.jpg",
-      "start_time": "2025-08-04T00:00:00.000Z"
+      "start_time": "2025-08-04T05:50:00.000Z"
     }
   },
   "vidioliveothers": {
