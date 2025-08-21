@@ -1,5 +1,5 @@
 {
-  "time": "2025-08-21T10:58:02.031Z",
+  "time": "2025-08-21T11:00:02.693Z",
   "sections": {
     "19414": {
       "title": "BYON Madness 2",
@@ -487,18 +487,6 @@
       "cover_url": "https://thumbor.prod.vidiocdn.com/R1N7yO0lTfI6QtI1CN_0tlTORy4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4512851/74b416.jpg",
       "start_time": "2025-08-24T15:00:00.000Z"
     },
-    "4512861": {
-      "title": "Roma vs Bologna - Serie A",
-      "web_url": "17938",
-      "cover_url": "https://thumbor.prod.vidiocdn.com/oP_JLvPrdLDBsEmkULoENg9qCgs=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4512861/f4f291.jpg",
-      "start_time": "2025-08-23T18:45:00.000Z"
-    },
-    "4512863": {
-      "title": "Milan vs Cremonese - Serie A",
-      "web_url": "19404",
-      "cover_url": "https://thumbor.prod.vidiocdn.com/yarwKMJWdrPFDHUb36n1dY9QIAw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4512863/de9601.jpg",
-      "start_time": "2025-08-23T18:45:00.000Z"
-    },
     "4512864": {
       "title": "Cagliari vs Fiorentina - Serie A",
       "web_url": "17939",
@@ -750,6 +738,12 @@
       "web_url": "17938",
       "cover_url": "https://thumbor.prod.vidiocdn.com/KSubGXEERRHd42-JZm6vM3BIoKA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4514274/3c421a.jpg",
       "start_time": "2025-08-23T16:30:00.000Z"
+    },
+    "4514279": {
+      "title": "Milan vs Cremonese - Serie A",
+      "web_url": "17938",
+      "cover_url": "https://thumbor.prod.vidiocdn.com/uG61wyZQC6jNj88VqLbuaoo3aww=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4514279/984b18.jpg",
+      "start_time": "2025-08-23T18:45:00.000Z"
     }
   },
   "vidioliveothers": {
@@ -764,6 +758,12 @@
       "web_url": "19331",
       "cover_url": "https://thumbor.prod.vidiocdn.com/7qOFTZrnI7-sP94lWDnpiG49A1U=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4510912/b37f2b.jpg",
       "start_time": "2025-08-21T08:50:00.000Z"
+    },
+    "19334": {
+      "title": "Italy vs Indonesia - FIVB Men's U21 World Championship",
+      "web_url": "19334",
+      "cover_url": "https://thumbor.prod.vidiocdn.com/9Z-HNayYzIFbxk0-Ns4fkBxBUPs=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4510908/da5b89.jpg",
+      "start_time": "2025-08-21T11:00:00.000Z"
     },
     "19404": {
       "title": "Venezia vs Juventus - Serie A",
@@ -780,46 +780,46 @@
     "x-visitor-id": "51b995d2-833d-4a3c-b021-952b647424cb",
     "x-api-app-info": "tv-android/10/2.45.11-736",
     "referer": "androidtv-app://com.vidio.android.tv",
-    "cookie": "country_id=ID; ahoy_visitor=feac5b24-0e97-4706-9a9a-162bdd981adc; ahoy_visit=094a79e2-ddf1-49e9-8a7f-d1c54894e900; shva=1; _vidio=true; plenty_id=188535219; x_user_token=urADfyANN_QRiqPLRkpK; access_token=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InR5cGUiOiJhY2Nlc3NfdG9rZW4iLCJ1aWQiOjE4ODUzNTIxOX0sImV4cCI6MTc1NTg2MDI4M30.3kWJuECjXTn7jhsywbk5047qoknYqpiA0L9uGYgmOk8; _vidio_session=O2vKOphaaDSauCYq65qiDdi67XZdQBtoqij2j0uYjNGJsr%2FNTLrwDXz%2Fe485gsvUfk8BkZVbq2M3LA%2BOPvp5P7XOqS5XEdRJhxm0yF4GgLH6sdiP%2FII9x8PG96J8CYiXdZzw8YuvIJ9u%2FbzlqSN4gWhRMLkOLxJtBm2fUh875oE3GlY%2BtubPe5tzqnZmrkJmdZQfymsak%2BmBZ8UPy7v0sxsbk6Rh8%2BFxPldZzHAr122o3SNOaQPsJjaH3FOglFkUeAtExFBH8YcdYVXBwk6IYdReeWCw%2Br7XUV2ynEb5JoKzOaTS93MyzyfrLsUFV3F1qeXLTTg3VYmkAlYlbWfETKfiYvxuwEM5no%2Bo191bLPBfLTL4FO9yVx2s%2BeKiGXhJ3EZhNe92YbAy1XvhlO0Bj2Q3Mm1dfrG64qbr1vkgX7t4iHHBJIv76m8XEA4i0yV%2BbJZPWNDnOr9fhvjS9JdSQbL3Tjc9nMSZ6cLdbTtUxOpz58fmKw90De2pn7KESEBg3I6sKjJqvw8e5pfzfkfDCh%2F8mNR4djzBiSNHsuCjOHqSJbj%2FGyrQLWB3e7FjNAu3%2Fzc4RvsdkTqylCF9s0xE5SuoRMy4O41sSiPE8CCEYJHhZtxeTOllO5aY1000MOiMmiZ7Te5jJ%2Bwk1RunnZBj%2BNJwp20XIKgqTeXADo%2FT--V9HCihK1c%2F59TEmm--eH1jGUxFJ70oTn1CLRThfw%3D%3D",
+    "cookie": "country_id=ID; ahoy_visitor=867f265b-8d62-4246-8ee1-f22a52b120c1; ahoy_visit=10bb6d9f-c995-4cf1-aa1e-4b11987d3df0; shva=1; _vidio=true; plenty_id=188535219; x_user_token=FQ1r1xsSkHu1Qoh6Apyr; access_token=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InR5cGUiOiJhY2Nlc3NfdG9rZW4iLCJ1aWQiOjE4ODUzNTIxOX0sImV4cCI6MTc1NTg2MDQwNH0.OUSneRU3bHJH-Pz1PaRdj7ya1AwEZZltktRGSWXPg_8; _vidio_session=j9qWeMwYw9OsNeZPvtGn%2FjaadHtDAzeJxsEcYFozVmUT20ZdOPKOBFLoZgjBhLiFv%2BDYFGONdMXlTPpVtn7mmwrgqw1Q%2FSwj7aWpcCdqwi4u78lEsmRKvWKMDjrsTx6647JUNhLTF3R4Qls6HiwQfZpvvmXcJ4Gg4rKo8CPhquVOC51CucSrBb8ZcPKjqsqZBYmR3vqmIIKdW6jZ%2BjCVcQdVWR6JjaN20gBOs8Q2B1LpuMcIr%2BBQFI6qhX3wXusQGSbDWS7ImHOFsRDAonbSYokJOuxuPX%2FE1ZBs%2BpfsbokOQPxrVJCORE07fhBOto7zdpC9tdTvYdbxFQCTsRncYxFpPpbr6zQBa3wnhA%2B2dmK029Pqhcpq%2BkAJDGHLUAHF0Q4eZih7qJiZ%2F%2FVjRKaavXv4etb4sDtBsckr%2BmxOh%2FHgkOHw%2F068hF3B4NCNmDXf7cfvy5CZjqtwiSh8%2BS3hBSzuk8tYf4OIMJk5pxotcfWmm%2BTd%2FRT%2BjJh8ixzFrOf9yH5kYqlzVO4m3vt0Oylh%2F7GHWs52jeyLv4GTVtlX5OIEZQUs3Q4kuBZwlvq6a%2Br%2F2WQF1zYuBAp7QeyfJZt3rSRSnmEJLdImiixNxr2%2FU1R7OvuLimEmZ3F9c7Ber2rUC5RlBfHlUozutzK%2BMDGNCRvUx6eQ8BNWLdO0Mp%2FV--yyJxRo%2Bzr%2BCBJsLH--uurKr3ETjdcpJDFDgtmzGw%3D%3D",
     "accept": "*/*",
     "origin": "https://www.vidio.com",
     "user-agent": "tv-android/2.45.11 (736)",
-    "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/mi1MHpvioMkrE/e5euGdufgc+wpQE4IMuNx8WvN2uVlSlZ1hG3/8isRSmRlIG+r3VVTi4AFAJqJO7P90cikEk4=",
-    "x-client": "1755773888.033",
+    "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/o/9tnAW/VqVmRKAi6NxWzysExVxd8WgU0XBk+pIhiHnJRp/o42vCuB5G8UcHJu1GLgbX8jFKQMHOp72LJY0Lrk=",
+    "x-client": "1755774013.124",
     "x-secure-level": "2",
-    "x-signature": "8977fc1b27d762ba45438c658083087305a551553af4038c428fe91ac11a6e35",
+    "x-signature": "7527019df313ab6a81ff4c87236da17403d4491f5be822bf3ce16b082a1750e6",
     "x-user-email": "vijtworu@gmail.com",
-    "luws": "FFED8721-B608-5BF0-7A75-2FB1C8DE85C3_188535219",
+    "luws": "6D6B37A5-9A62-5C4E-40EC-6E75B0CD894B_188535219",
     "sec-ch-ua": "\"Not;A=Brand\";v=\"99\", \"HeadlessChrome\";v=\"139\", \"Chromium\";v=\"139\"",
     "sec-ch-ua-mobile": "?0",
     "sec-ch-ua-platform": "\"Windows\"",
-    "19354-dash": null,
-    "19354-hls": null,
-    "19354-drm": null,
-    "19384-dash": null,
-    "19384-hls": null,
-    "19384-drm": null,
-    "733-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/733/file/dash/733_stream.mpd?hdnts=exp=1755788291~acl=/stream/733/file/*~id=188535219~hmac=83c6df2b475c6db5d1d1d8f286f44610a39b5645b1fd0c414f7e9774bd3e9afd",
-    "733-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/733/file/dash/733/master.m3u8?hdnts=exp=1755788291~acl=/stream/733/file/*~id=188535219~hmac=83c6df2b475c6db5d1d1d8f286f44610a39b5645b1fd0c414f7e9774bd3e9afd",
+    "18105-dash": null,
+    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1755788418~acl=/stream/18105/file/*~id=188535219~hmac=940ed32673b4227e4f58decce2737b760ec12a7608ee1576060bff37f9d9a38b",
+    "18105-drm": null,
+    "205-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/dash/205_stream.mpd?hdnts=exp=1755788418~acl=/stream/205/file/*~id=188535219~hmac=a4c3e7b8bd8667cf8b82b5d0edf1c932f26f5a9efd01ec2c9ebc80258700a7fd",
+    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1755788418~acl=/stream/205/file/*~id=188535219~hmac=a4c3e7b8bd8667cf8b82b5d0edf1c932f26f5a9efd01ec2c9ebc80258700a7fd",
+    "205-drm": null,
+    "733-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/733/file/dash/733_stream.mpd?hdnts=exp=1755788418~acl=/stream/733/file/*~id=188535219~hmac=74d9c3eaeddfa5f8ed76eace160ba01f2588e4847a0c174b8b225a254e18c652",
+    "733-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/733/file/dash/733/master.m3u8?hdnts=exp=1755788418~acl=/stream/733/file/*~id=188535219~hmac=74d9c3eaeddfa5f8ed76eace160ba01f2588e4847a0c174b8b225a254e18c652",
     "733-drm": null,
-    "734-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/734/file/dash/734_stream.mpd?hdnts=exp=1755788291~acl=/stream/734/file/*~id=188535219~hmac=22aaf5ecdded91fab180c4689d4d5e76eb773fb7e28257f066b9c6d3fe999233",
-    "734-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/734/file/live/734/master.m3u8?hdnts=exp=1755788291~acl=/stream/734/file/*~id=188535219~hmac=22aaf5ecdded91fab180c4689d4d5e76eb773fb7e28257f066b9c6d3fe999233",
+    "734-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/734/file/dash/734_stream.mpd?hdnts=exp=1755788418~acl=/stream/734/file/*~id=188535219~hmac=fdda034bb160b923efd0d73e7240186b2c9eaa9f79659c20ca2374ec8c8f745c",
+    "734-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/734/file/live/734/master.m3u8?hdnts=exp=1755788418~acl=/stream/734/file/*~id=188535219~hmac=fdda034bb160b923efd0d73e7240186b2c9eaa9f79659c20ca2374ec8c8f745c",
     "734-drm": null,
-    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1755788291~acl=/stream/206/file/*~id=188535219~hmac=61031d37f503ce8579bca6216a70f00d5fa72599d527ec2bd386bec619de212c",
-    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1755788291~acl=/stream/206/file/*~id=188535219~hmac=61031d37f503ce8579bca6216a70f00d5fa72599d527ec2bd386bec619de212c",
-    "206-drm": null,
     "19385-dash": null,
     "19385-hls": null,
     "19385-drm": null,
-    "204-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/dash/204_stream.mpd?hdnts=exp=1755788291~acl=/stream/204/file/*~id=188535219~hmac=e66d9e853267772b40e065e80791301d2132dfef5e896f712037c536ad43a51e",
-    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1755788291~acl=/stream/204/file/*~id=188535219~hmac=e66d9e853267772b40e065e80791301d2132dfef5e896f712037c536ad43a51e",
+    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1755788418~acl=/stream/206/file/*~id=188535219~hmac=d1766365b6465dcf53220df083d4005f13b05e45022df2d0e68f2273704ba41e",
+    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1755788418~acl=/stream/206/file/*~id=188535219~hmac=d1766365b6465dcf53220df083d4005f13b05e45022df2d0e68f2273704ba41e",
+    "206-drm": null,
+    "19384-dash": null,
+    "19384-hls": null,
+    "19384-drm": null,
+    "204-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/dash/204_stream.mpd?hdnts=exp=1755788418~acl=/stream/204/file/*~id=188535219~hmac=ec9d6d76497fdcb068c6de29e7706c2df9a8fe63f4f07f49b06e528bdb619fc8",
+    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1755788418~acl=/stream/204/file/*~id=188535219~hmac=ec9d6d76497fdcb068c6de29e7706c2df9a8fe63f4f07f49b06e528bdb619fc8",
     "204-drm": null,
-    "18105-dash": null,
-    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1755788291~acl=/stream/18105/file/*~id=188535219~hmac=45e8df742ab18c5bcb7052bc75753b24c084b252662eb04c100b432a16a04a2e",
-    "18105-drm": null,
-    "205-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/dash/205_stream.mpd?hdnts=exp=1755788291~acl=/stream/205/file/*~id=188535219~hmac=109a926628c0a7d66faa5c01325011ca98c6bf95108c6021a72934c041ccb9a7",
-    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1755788291~acl=/stream/205/file/*~id=188535219~hmac=109a926628c0a7d66faa5c01325011ca98c6bf95108c6021a72934c041ccb9a7",
-    "205-drm": null,
+    "19354-dash": null,
+    "19354-hls": null,
+    "19354-drm": null,
     "all-sections": "16890-17140-17141-17875-17938-17939-18189-18190-18739-19331-19332-19334-19347-19354-19375-19384-19385-19388-19404-19406-19407-19408-19412-19414-6299-6317-6685-6686-6786-9182-9183",
     "all-vidiolivetv": [
       {
