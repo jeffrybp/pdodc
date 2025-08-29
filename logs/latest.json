@@ -1,7 +1,573 @@
 {
-  "time": "2025-08-29T04:38:02.631Z",
-  "sections": {},
-  "vidioliveothers": {},
+  "time": "2025-08-29T04:40:02.181Z",
+  "sections": {
+    "18249": {
+      "title": "Victor Lai (CAN) vs Loh Kean Yew (SGP) - Men's Singles Quarterfinals | BWF World Championships 2025",
+      "web_url": "18249",
+      "cover_url": "https://thumbor.prod.vidiocdn.com/XnbDgP0Ypt5NA70NsEShIuVbm3U=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18249/totalenergies-bwf-world-championships-2025-quarterfinals-court-1-d175b8.jpg",
+      "start_time": "2025-08-29T07:30:00.000Z"
+    },
+    "18250": {
+      "title": "Chen Tang Jie/Toh Ee Wei (MAS) vs Dhruv Kapila/Tanisha Crasto (IND) - Mixed Doubles Quarterfinals | BWF World Championships 2025",
+      "web_url": "18250",
+      "cover_url": "https://thumbor.prod.vidiocdn.com/B_3HYFzlnDvypB8KjREx0V8L_9Q=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18250/totalenergies-bwf-world-championships-2025-quarterfinals-court-2-a908d4.jpg",
+      "start_time": "2025-08-29T07:30:00.000Z"
+    },
+    "19413": {
+      "title": "BYON Madness",
+      "web_url": "19413",
+      "cover_url": "https://thumbor.prod.vidiocdn.com/Bh2A6ro0lkLFovoFtxvxdpnODBI=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/19413/byon-madness-6ed38c.jpg",
+      "start_time": "2025-08-30T08:00:00.000Z"
+    },
+    "19414": {
+      "title": "BYON Madness",
+      "web_url": "19414",
+      "cover_url": "https://thumbor.prod.vidiocdn.com/bUSYxSdb7gMr73gaABUkcRZWV8A=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/19414/byon-madness-vol-2-b677f3.jpg",
+      "start_time": "2025-08-30T08:00:00.000Z"
+    },
+    "4523998": {
+      "title": "Sirkuit Nasional Bulutangkis 2025 - Mataram: Final",
+      "web_url": "18832",
+      "cover_url": "https://thumbor.prod.vidiocdn.com/tAcMPv5MX8bL5N2H7M4eU3itb58=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4523998/26a3b1.jpg",
+      "start_time": "2025-08-30T03:00:00.000Z"
+    },
+    "4523999": {
+      "title": "Formula 1 Dutch Grand Prix 2025 - Practice 1",
+      "web_url": "17884",
+      "cover_url": "https://thumbor.prod.vidiocdn.com/fWCFmUKnkNKAWxgsmo_HR66nMbo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4523999/8c047c.jpg",
+      "start_time": "2025-08-29T10:25:00.000Z"
+    },
+    "4524044": {
+      "title": "Formula 1 Dutch Grand Prix 2025 - Practice 2",
+      "web_url": "17884",
+      "cover_url": "https://thumbor.prod.vidiocdn.com/OQoZU2WP2tB4k2JMoBZIWj6Gt2E=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4524044/98bd9d.jpg",
+      "start_time": "2025-08-29T13:55:00.000Z"
+    },
+    "4524045": {
+      "title": "Formula 1 Dutch Grand Prix 2025 - Practice 3",
+      "web_url": "17884",
+      "cover_url": "https://thumbor.prod.vidiocdn.com/U_OrAIZ5-pY9dIhDBFEU8y3QfTA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4524045/9afe1c.jpg",
+      "start_time": "2025-08-30T09:25:00.000Z"
+    },
+    "4524046": {
+      "title": "Formula 1 Dutch Grand Prix 2025 - Qualifying",
+      "web_url": "17884",
+      "cover_url": "https://thumbor.prod.vidiocdn.com/ykiPoOMT2pzAmFWXb5nrdTVdY7o=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4524046/b15a80.jpg",
+      "start_time": "2025-08-30T12:55:00.000Z"
+    },
+    "4524047": {
+      "title": "Formula 1 Dutch Grand Prix 2025 - Race",
+      "web_url": "17884",
+      "cover_url": "https://thumbor.prod.vidiocdn.com/c5NyZnSY09tUf3w8JKVexKr57Lk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4524047/2b8346.jpg",
+      "start_time": "2025-08-31T12:55:00.000Z"
+    },
+    "4524049": {
+      "title": "Malut United FC vs PSIM Jogja - BRI Super League",
+      "web_url": "19385",
+      "cover_url": "https://thumbor.prod.vidiocdn.com/-CUgux0XeJUb8F5A9Dqaa4S4Xno=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4524049/79e7cf.jpg",
+      "start_time": "2025-08-30T11:54:00.000Z"
+    },
+    "4525570": {
+      "title": "Chelsea vs Fulham - Premier League",
+      "web_url": "9182",
+      "cover_url": "https://thumbor.prod.vidiocdn.com/eAjzHpya3WV445vBPOSoS_TYZoA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4525570/e343fd.jpg",
+      "start_time": "2025-08-30T11:00:00.000Z"
+    },
+    "4525571": {
+      "title": "Man United vs Burnley - Premier League",
+      "web_url": "9182",
+      "cover_url": "https://thumbor.prod.vidiocdn.com/SgE77fT2JgV3n7zyHyUJQIg488Q=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4525571/c0ecb9.jpg",
+      "start_time": "2025-08-30T13:30:00.000Z"
+    },
+    "4525573": {
+      "title": "Sunderland vs Brentford - Premier League",
+      "web_url": "19375",
+      "cover_url": "https://thumbor.prod.vidiocdn.com/QXKkJ_fbPzoDNoZX3t0dL5CWjFs=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4525573/c54658.jpg",
+      "start_time": "2025-08-30T13:50:00.000Z"
+    },
+    "4525574": {
+      "title": "Tottenham vs Bournemouth - Premier League",
+      "web_url": "9183",
+      "cover_url": "https://thumbor.prod.vidiocdn.com/Y-JqC0QdSGdcIVo5aimtw7F9OCk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4525574/4f9a69.jpg",
+      "start_time": "2025-08-30T14:00:00.000Z"
+    },
+    "4525576": {
+      "title": "Wolves vs Everton - Premier League",
+      "web_url": "18796",
+      "cover_url": "https://thumbor.prod.vidiocdn.com/VORX9x4CyUqBCkqkKi9gAb72TMQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4525576/08c0ad.jpg",
+      "start_time": "2025-08-30T13:50:00.000Z"
+    },
+    "4525577": {
+      "title": "Leeds United vs Newcastle - Premier League",
+      "web_url": "9182",
+      "cover_url": "https://thumbor.prod.vidiocdn.com/nzQJvzXKUw8StK8ZN3xPnByZ6cw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4525577/147c10.jpg",
+      "start_time": "2025-08-30T16:00:00.000Z"
+    },
+    "4525578": {
+      "title": "Cremonese vs Sassuolo - Serie A",
+      "web_url": "17938",
+      "cover_url": "https://thumbor.prod.vidiocdn.com/n8QAtebrCox-PaV4Bi4_WczuTI0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4525578/4ceab8.jpg",
+      "start_time": "2025-08-29T16:30:00.000Z"
+    },
+    "4525579": {
+      "title": "Lecce vs Milan - Serie A",
+      "web_url": "17938",
+      "cover_url": "https://thumbor.prod.vidiocdn.com/t50K4tNSu2IsqKGSc3Czbm0RLos=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4525579/dbd513.jpg",
+      "start_time": "2025-08-29T18:45:00.000Z"
+    },
+    "4525581": {
+      "title": "PSM Makassar vs PERSEBAYA Surabaya - BRI Super League",
+      "web_url": "19354",
+      "cover_url": "https://thumbor.prod.vidiocdn.com/mAPqIM2tE7cPdIX03pIhWifuRK8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4525581/e7ed8f.jpg",
+      "start_time": "2025-08-31T08:00:00.000Z"
+    },
+    "4525583": {
+      "title": "Jelang Kick Off - PSM Makassar vs PERSEBAYA Surabaya - BRI Super League",
+      "web_url": "19355",
+      "cover_url": "https://thumbor.prod.vidiocdn.com/On-LrZZZxcZ5EUHpVsCEWEljKTY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4525583/1d41b1.jpg",
+      "start_time": "2025-08-31T08:00:00.000Z"
+    },
+    "4525585": {
+      "title": "Sporting vs Porto - Liga Portugal",
+      "web_url": "18739",
+      "cover_url": "https://thumbor.prod.vidiocdn.com/qBKANUIEqEaZlCVUvHTRpIS1-aQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4525585/45eba2.jpg",
+      "start_time": "2025-08-30T19:30:00.000Z"
+    },
+    "4525587": {
+      "title": "Brighton vs Man City - Premier League",
+      "web_url": "9182",
+      "cover_url": "https://thumbor.prod.vidiocdn.com/hoNSGyC0VcTffNhsLbaF0xDL9CM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4525587/1d55b9.jpg",
+      "start_time": "2025-08-31T12:30:00.000Z"
+    },
+    "4525588": {
+      "title": "Liverpool vs Arsenal - Premier League",
+      "web_url": "9182",
+      "cover_url": "https://thumbor.prod.vidiocdn.com/oDo_emE8_BrRPNlAlzJc0KpFxsg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4525588/6a928e.jpg",
+      "start_time": "2025-08-31T15:00:00.000Z"
+    },
+    "4525589": {
+      "title": "Nottingham Forest vs West Ham - Premier League",
+      "web_url": "9183",
+      "cover_url": "https://thumbor.prod.vidiocdn.com/WryZOXPLKoQonpwvlRB_9rMMw3U=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4525589/e51072.jpg",
+      "start_time": "2025-08-31T13:00:00.000Z"
+    },
+    "4525593": {
+      "title": "(Data Zone) Liverpool vs Arsenal - Premier League",
+      "web_url": "9183",
+      "cover_url": "https://thumbor.prod.vidiocdn.com/GL2tKQdG7kK_90x4ybC1QKGkmPg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4525593/07f611.jpg",
+      "start_time": "2025-08-31T15:30:00.000Z"
+    },
+    "4525601": {
+      "title": "Rajadamnern 2025 Vacant Bantamweight Title",
+      "web_url": "19388",
+      "cover_url": "https://thumbor.prod.vidiocdn.com/HVOkddLiAP25EOB5G8LLclqLljU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4525601/31d7d2.jpg",
+      "start_time": "2025-08-30T12:00:00.000Z"
+    },
+    "4525623": {
+      "title": "ONE Friday Fights 122",
+      "web_url": "16890",
+      "cover_url": "https://thumbor.prod.vidiocdn.com/gK0OtmCcwIUWNp0sV_bMWr6T8Gg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4525623/0471f8.jpg",
+      "start_time": "2025-08-29T12:30:00.000Z"
+    },
+    "4525629": {
+      "title": "Byon Madness: Weigh-In + Press Conference",
+      "web_url": "19452",
+      "cover_url": "https://thumbor.prod.vidiocdn.com/qtAIQ8rdN2ku4TO3aZ5jplbYdHc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4525629/d0f19e.jpg",
+      "start_time": "2025-08-29T03:00:00.000Z"
+    },
+    "4525631": {
+      "title": "Elche vs Levante - LaLiga",
+      "web_url": "6317",
+      "cover_url": "https://thumbor.prod.vidiocdn.com/4QksP8sWRuB4rgqpWTUzOrNi_1s=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4525631/5ba2be.jpg",
+      "start_time": "2025-08-29T17:30:00.000Z"
+    },
+    "4525641": {
+      "title": "PSBS Biak vs PERSIK Kediri - BRI Super League",
+      "web_url": "19353",
+      "cover_url": "https://thumbor.prod.vidiocdn.com/sgEn44pVJ406NFJR0xhf_p2pvTI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4525641/386420.jpg",
+      "start_time": "2025-08-29T08:24:00.000Z"
+    },
+    "4525642": {
+      "title": "Dewa United Banten FC vs PERSIJA - BRI Super League",
+      "web_url": "19354",
+      "cover_url": "https://thumbor.prod.vidiocdn.com/DO1mxh_4fVadfut99b8GlowMKKw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4525642/d8768b.jpg",
+      "start_time": "2025-08-29T11:30:00.000Z"
+    },
+    "4525643": {
+      "title": "PERSIJAP vs Arema FC - BRI Super League",
+      "web_url": "19354",
+      "cover_url": "https://thumbor.prod.vidiocdn.com/_W0iwEDqLQgc6TxorBimyEWRpl0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4525643/9871b3.jpg",
+      "start_time": "2025-08-30T08:30:00.000Z"
+    },
+    "4525644": {
+      "title": "Bali United FC vs Madura United FC - BRI Super League",
+      "web_url": "19354",
+      "cover_url": "https://thumbor.prod.vidiocdn.com/bl2NaP1kkVZ7ZxPxbsaytVPGGT4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4525644/4efd26.jpg",
+      "start_time": "2025-08-30T11:30:00.000Z"
+    },
+    "4527454": {
+      "title": "FM Championship - Round 2",
+      "web_url": "18190",
+      "cover_url": "https://thumbor.prod.vidiocdn.com/dDKIjCQEcQExzE3d2sb8X6YMWBc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4527454/e9e79a.jpg",
+      "start_time": "2025-08-29T19:00:00.000Z"
+    },
+    "4527527": {
+      "title": "Alaves vs Atletico Madrid - LaLiga",
+      "web_url": "6317",
+      "cover_url": "https://thumbor.prod.vidiocdn.com/cbxWoUnNM8Ttqk4gE5yyzc8GyYk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4527527/cb577f.jpg",
+      "start_time": "2025-08-30T14:55:00.000Z"
+    },
+    "4527528": {
+      "title": "Bologna vs Como - Serie A",
+      "web_url": "17938",
+      "cover_url": "https://thumbor.prod.vidiocdn.com/SvwnOScWVayqERKILo4NoMFq01E=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4527528/ac25e6.jpg",
+      "start_time": "2025-08-30T16:30:00.000Z"
+    },
+    "4527529": {
+      "title": "Parma vs Atalanta - Serie A",
+      "web_url": "19404",
+      "cover_url": "https://thumbor.prod.vidiocdn.com/CjTCABtOKuF-UkJUUrC-XLq-Y9w=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4527529/9d0e87.jpg",
+      "start_time": "2025-08-30T16:30:00.000Z"
+    },
+    "4527530": {
+      "title": "Oviedo vs Real Sociedad - LaLiga",
+      "web_url": "6317",
+      "cover_url": "https://thumbor.prod.vidiocdn.com/xqYxYyaNn4CRIR1fs3z9G46zYKY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4527530/613975.jpg",
+      "start_time": "2025-08-30T17:00:00.000Z"
+    },
+    "4527532": {
+      "title": "Napoli vs Cagliari - Serie A",
+      "web_url": "17938",
+      "cover_url": "https://thumbor.prod.vidiocdn.com/CrTrXxVuxaEgLZDlaY8Z1TmM-_0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4527532/0814c9.jpg",
+      "start_time": "2025-08-30T18:45:00.000Z"
+    },
+    "4527533": {
+      "title": "Pisa vs Roma - Serie A",
+      "web_url": "19404",
+      "cover_url": "https://thumbor.prod.vidiocdn.com/4ATKrN503COwPMmEpIPNvkxRy50=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4527533/d10368.jpg",
+      "start_time": "2025-08-30T18:45:00.000Z"
+    },
+    "4527535": {
+      "title": "Celta Vigo vs Villarreal - LaLiga",
+      "web_url": "6317",
+      "cover_url": "https://thumbor.prod.vidiocdn.com/8d__yGbP5qSr2RDqarD9JJiKoZA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4527535/ca6825.jpg",
+      "start_time": "2025-08-31T14:55:00.000Z"
+    },
+    "4527536": {
+      "title": "Genoa vs Juventus - Serie A",
+      "web_url": "17938",
+      "cover_url": "https://thumbor.prod.vidiocdn.com/fO6qGAkLKUrkyI80ggq16dEIZbE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4527536/ab0027.jpg",
+      "start_time": "2025-08-31T16:30:00.000Z"
+    },
+    "4527538": {
+      "title": "Torino vs Fiorentina - Serie A",
+      "web_url": "19404",
+      "cover_url": "https://thumbor.prod.vidiocdn.com/AHTHwQDEc-YHVNFvJ13PZOZhJcs=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4527538/ca3abe.jpg",
+      "start_time": "2025-08-31T16:30:00.000Z"
+    },
+    "4527549": {
+      "title": "FM Championship - Round 3",
+      "web_url": "18190",
+      "cover_url": "https://thumbor.prod.vidiocdn.com/fE_P80q9mOkK8iU7SdAkNBNnmHU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4527549/08bbcc.jpg",
+      "start_time": "2025-08-30T19:00:00.000Z"
+    },
+    "4527595": {
+      "title": "Valencia vs Getafe - LaLiga",
+      "web_url": "17323",
+      "cover_url": "https://thumbor.prod.vidiocdn.com/w3t6Y_3vTMFM6ulwgujnWOQoeSI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4527595/c9f080.jpg",
+      "start_time": "2025-08-29T19:30:00.000Z"
+    },
+    "4527598": {
+      "title": "Girona vs Sevilla - LaLiga",
+      "web_url": "17323",
+      "cover_url": "https://thumbor.prod.vidiocdn.com/ChAbphz17xA5LIINrsappoYvZqQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4527598/6f4414.jpg",
+      "start_time": "2025-08-30T17:30:00.000Z"
+    },
+    "4527601": {
+      "title": "Real Madrid vs Mallorca - LaLiga",
+      "web_url": "17324",
+      "cover_url": "https://thumbor.prod.vidiocdn.com/W3SwQT2BFVDyVJQT-NjXtU9KagU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4527601/3be43f.jpg",
+      "start_time": "2025-08-30T19:30:00.000Z"
+    },
+    "4527608": {
+      "title": "League Phase Draw UEFA Europa League & Conference League 2025/26",
+      "web_url": "6317",
+      "cover_url": "https://thumbor.prod.vidiocdn.com/Dm-6Ukrn6KiOHko8me3RLqwfJbs=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4527608/032856.jpg",
+      "start_time": "2025-08-29T11:00:00.000Z"
+    },
+    "4527609": {
+      "title": "PERSIB vs Borneo FC Samarinda - BRI Super League",
+      "web_url": "19354",
+      "cover_url": "https://thumbor.prod.vidiocdn.com/C7tZlCUtsP8l8sUwiMeOSiw6DCE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4527609/65d9ff.jpg",
+      "start_time": "2025-08-31T12:00:00.000Z"
+    },
+    "4527610": {
+      "title": "PERSITA vs Semen Padang FC - BRI Super League",
+      "web_url": "19385",
+      "cover_url": "https://thumbor.prod.vidiocdn.com/PmTj5yAOLCBJ5csiJebIK3q2NLU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4527610/826045.jpg",
+      "start_time": "2025-08-31T11:54:00.000Z"
+    },
+    "4527658": {
+      "title": "Alverca vs Benfica - Liga Portugal",
+      "web_url": "18739",
+      "cover_url": "https://thumbor.prod.vidiocdn.com/byroZ9SlUC3L6Tf3YnWCWYFcEqg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4527658/09b220.jpg",
+      "start_time": "2025-08-31T17:00:00.000Z"
+    },
+    "4527659": {
+      "title": "Real Betis vs Athletic Club - LaLiga",
+      "web_url": "17324",
+      "cover_url": "https://thumbor.prod.vidiocdn.com/g1J_zcI7A0BM_7iHCY8-1y4vYys=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4527659/1f4079.jpg",
+      "start_time": "2025-08-31T17:00:00.000Z"
+    },
+    "4527660": {
+      "title": "Rayo Vallecano vs Barcelona - LaLiga",
+      "web_url": "17323",
+      "cover_url": "https://thumbor.prod.vidiocdn.com/OOz_f92Va6MICEEa9roUvJ5wsbw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4527660/bb9859.jpg",
+      "start_time": "2025-08-31T19:30:00.000Z"
+    },
+    "4527714": {
+      "title": "Millwall vs Wrexham - EFL Championship",
+      "web_url": "6685",
+      "cover_url": "https://thumbor.prod.vidiocdn.com/MAbD-yR8U18Hr0QBEBNbvnUgOag=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4527714/6a1fc4.jpg",
+      "start_time": "2025-08-30T14:00:00.000Z"
+    },
+    "4528586": {
+      "title": "Jelang Kick Off - Dewa United Banten FC vs PERSIJA - BRI Super League",
+      "web_url": "19355",
+      "cover_url": "https://thumbor.prod.vidiocdn.com/zYkSMrpg6SZc5sks7D2H8RIzD2Y=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4528586/393e99.jpg",
+      "start_time": "2025-08-29T11:30:00.000Z"
+    },
+    "4528734": {
+      "title": "Jelang Kick Off - PERSIJAP vs Arema FC - BRI Super League",
+      "web_url": "19355",
+      "cover_url": "https://thumbor.prod.vidiocdn.com/FBq_0rG3ruRf4L_XHpHjguGmvW4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4528734/74cd7b.jpg",
+      "start_time": "2025-08-30T08:00:00.000Z"
+    },
+    "4528735": {
+      "title": "Jelang Kick Off - Bali United FC vs Madura United FC - BRI Super League",
+      "web_url": "19355",
+      "cover_url": "https://thumbor.prod.vidiocdn.com/z7CEy_FlCcmZXGPHlb2NmKDIf5k=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4528735/d2176a.jpg",
+      "start_time": "2025-08-30T11:30:00.000Z"
+    },
+    "4529444": {
+      "title": "Nuno Borges vs Tommy Paul - Men's Singles 2nd Round | US Open Tennis Championships 2025",
+      "web_url": "17139",
+      "cover_url": "https://thumbor.prod.vidiocdn.com/RCvEfgOvaq-E191TZpZkj5g5To8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4529444/0cd50f.jpg",
+      "start_time": "2025-08-29T01:00:00.000Z"
+    },
+    "4529461": {
+      "title": "Jelang Kick Off - PERSIB vs Borneo FC Samarinda - BRI Super League",
+      "web_url": "19355",
+      "cover_url": "https://thumbor.prod.vidiocdn.com/LwO6MLDtvEDswB8w-dYtrA26gk4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4529461/3a170a.jpg",
+      "start_time": "2025-08-31T11:30:00.000Z"
+    },
+    "4529534": {
+      "title": "Bhayangkara Presisi Lampung FC vs PERSIS - BRI Super League",
+      "web_url": "19386",
+      "cover_url": "https://thumbor.prod.vidiocdn.com/_t9xw4Q7PhBSNZ-5oD3ATx3aXCQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4529534/38fcc1.jpg",
+      "start_time": "2025-08-29T08:24:00.000Z"
+    },
+    "4529537": {
+      "title": "Final: Thailand vs Australia - ASEAN U16 Girls' Mandiri Championship?2025",
+      "web_url": "19407",
+      "cover_url": "https://thumbor.prod.vidiocdn.com/Ctcjmdn3P_7wcD3YYLzBw1YoCwc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4529537/5690b2.jpg",
+      "start_time": "2025-08-29T12:20:00.000Z"
+    },
+    "4529538": {
+      "title": "3rd Place: Vietnam vs Indonesia - ASEAN U16 Girls' Mandiri Championship?2025",
+      "web_url": "19406",
+      "cover_url": "https://thumbor.prod.vidiocdn.com/z6ZtBMw5OYo6zBkOoceSSgeUId0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4529538/0fbc39.jpg",
+      "start_time": "2025-08-29T08:30:00.000Z"
+    },
+    "4529546": {
+      "title": "Colombia vs Tunisia - FIVB Men's U21 World Championship",
+      "web_url": "19347",
+      "cover_url": "https://thumbor.prod.vidiocdn.com/skfC9jGaoUIrMU51IQwcZBv45v4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4529546/9ecf09.jpg",
+      "start_time": "2025-08-29T02:55:00.000Z"
+    },
+    "4529548": {
+      "title": "Kazakhstan vs Bulgaria - FIVB Men's U21 World Championship",
+      "web_url": "19331",
+      "cover_url": "https://thumbor.prod.vidiocdn.com/rht9HYOIvM5_3AHVE__a9yS3sXQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4529548/7bf1f1.jpg",
+      "start_time": "2025-08-29T02:50:00.000Z"
+    },
+    "4529549": {
+      "title": "Ukraine vs Turkey - FIVB Men's U21 World Championship",
+      "web_url": "19331",
+      "cover_url": "https://thumbor.prod.vidiocdn.com/sBs7QPI_HtXDncy-mM-y7_dyfiI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4529549/1c1876.jpg",
+      "start_time": "2025-08-29T06:00:00.000Z"
+    },
+    "4529550": {
+      "title": "Morocco vs Puerto Rico - FIVB Men's U21 World Championship",
+      "web_url": "19347",
+      "cover_url": "https://thumbor.prod.vidiocdn.com/LdCSjyDJpUlq9A2jvvEg1K_NSio=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4529550/865c17.jpg",
+      "start_time": "2025-08-29T06:00:00.000Z"
+    },
+    "4529551": {
+      "title": "Japan vs Argentina - FIVB Men's U21 World Championship",
+      "web_url": "19331",
+      "cover_url": "https://thumbor.prod.vidiocdn.com/N_aFN1hXfefmvxq91zdDuczDxEI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4529551/ccbeb1.jpg",
+      "start_time": "2025-08-29T09:00:00.000Z"
+    },
+    "4529553": {
+      "title": "Thailand vs Canada - FIVB Men's U21 World Championship",
+      "web_url": "19347",
+      "cover_url": "https://thumbor.prod.vidiocdn.com/rFYjqbk9s7RdVlOEjMusQi2p_bM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4529553/63ecf8.jpg",
+      "start_time": "2025-08-29T09:00:00.000Z"
+    },
+    "4529554": {
+      "title": "Brazil vs Indonesia - FIVB Men's U21 World Championship",
+      "web_url": "19412",
+      "cover_url": "https://thumbor.prod.vidiocdn.com/tk8tEWilJOfGasV7L96qmAbHs8A=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4529554/99d1f0.jpg",
+      "start_time": "2025-08-29T11:30:00.000Z"
+    },
+    "4529556": {
+      "title": "Egypt vs South Korea - FIVB Men's U21 World Championship",
+      "web_url": "19331",
+      "cover_url": "https://thumbor.prod.vidiocdn.com/JwAGDOCueV7qBFgChJCgABdjaM0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4529556/e6e902.jpg",
+      "start_time": "2025-08-29T12:00:00.000Z"
+    },
+    "4529558": {
+      "title": "Quarter Final: France vs United States - FIVB Men's U21 World Championship",
+      "web_url": "19334",
+      "cover_url": "https://thumbor.prod.vidiocdn.com/bc8Djv092dnc-QfaPJAR80AJ6Eo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4529558/7cdbeb.jpg",
+      "start_time": "2025-08-29T02:30:00.000Z"
+    },
+    "4529559": {
+      "title": "Quarter Final: Poland vs Czechia - FIVB Men's U21 World Championship",
+      "web_url": "19334",
+      "cover_url": "https://thumbor.prod.vidiocdn.com/DHBYzyyjklZB8fYUyLexgECIRv0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4529559/ea3148.jpg",
+      "start_time": "2025-08-29T06:00:00.000Z"
+    },
+    "4529560": {
+      "title": "Quarter Final: China vs Iran - FIVB Men's U21 World Championship",
+      "web_url": "19334",
+      "cover_url": "https://thumbor.prod.vidiocdn.com/-sXqT4ZIZP6vWnv4xCG13RX6dWM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4529560/28a1c5.jpg",
+      "start_time": "2025-08-29T09:00:00.000Z"
+    },
+    "4529562": {
+      "title": "Quater Final: Cuba vs Italy - FIVB Men's U21 World Championship",
+      "web_url": "19332",
+      "cover_url": "https://thumbor.prod.vidiocdn.com/84l7P1_UfgnAqj4wIHHAAuZ3wY0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4529562/78a0d7.jpg",
+      "start_time": "2025-08-29T11:00:00.000Z"
+    },
+    "4531178": {
+      "title": "Putri Kusuma Wardani (INA) vs Pusarla V. Sindhu (IND) -Women's Singles Quarterfinals | BWF World Championships 2025",
+      "web_url": "18249",
+      "cover_url": "https://thumbor.prod.vidiocdn.com/Dh6bjNOJuuoEQs-2oz1tnIjemqQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4531178/3c5a8b.jpg",
+      "start_time": "2025-08-29T12:00:00.000Z"
+    },
+    "4531458": {
+      "title": "Liu Sheng Shu/Tan Ning (CHN) vs Jia Yi Fan/Zhang Shu Xian (CHN) - Women's Doubles Quarterfinals | BWF World Championships 2025",
+      "web_url": "18249",
+      "cover_url": "https://thumbor.prod.vidiocdn.com/xRcvv7QWI2kVo3WRGv5WEiGy0eE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4531458/3137fe.jpg",
+      "start_time": "2025-08-29T17:30:00.000Z"
+    },
+    "4531462": {
+      "title": "Takuro Hoki/Yugo Kobayashi (JPN) vs Kim Astrup/Anders Skaarup Rasmussen (DEN) - Men's Doubles Quarterfinals | BWF World Championships 2025",
+      "web_url": "18250",
+      "cover_url": "https://thumbor.prod.vidiocdn.com/vMbVuRoHL-SfyjLRypbuuFmK3jw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4531462/7f77e6.jpg",
+      "start_time": "2025-08-29T17:30:00.000Z"
+    },
+    "4531468": {
+      "title": "Elena Rybakina vs Emma Raducanu - Women's Singles 3rd Round | US Open Tennis Championships 2025",
+      "web_url": "17140",
+      "cover_url": "https://thumbor.prod.vidiocdn.com/ZKwvlZ-5-PglpOJ_5paQNlESX6s=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4531468/0e5157.jpg",
+      "start_time": "2025-08-29T15:00:00.000Z"
+    },
+    "4531469": {
+      "title": "Ben Shelton vs Adrian Mannarino - Men's Singles 3rd Round | US Open Tennis Championships 2025",
+      "web_url": "17140",
+      "cover_url": "https://thumbor.prod.vidiocdn.com/8lcR6x1mXjp4pP3UTdcwlZ3sC94=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4531469/a4ef4a.jpg",
+      "start_time": "2025-08-29T17:00:00.000Z"
+    },
+    "4531470": {
+      "title": "Luciano Darderi vs Carlos Alcaraz - Men's Singles 3rd Round | US Open Tennis Championships 2025",
+      "web_url": "17139",
+      "cover_url": "https://thumbor.prod.vidiocdn.com/0Qone4dzrd_SYUh-Rjy6i6y0Nis=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4531470/96e9ca.jpg",
+      "start_time": "2025-08-29T15:30:00.000Z"
+    },
+    "4531471": {
+      "title": "Jessica Pegula vs Victoria Azarenka - Women's Singles 3rd Round | US Open Tennis Championships 2025",
+      "web_url": "17139",
+      "cover_url": "https://thumbor.prod.vidiocdn.com/JmRdz6rISGumTYWhWw3GpX_ar5Q=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4531471/d10c6c.jpg",
+      "start_time": "2025-08-29T17:30:00.000Z"
+    },
+    "4531473": {
+      "title": "Chen Bo Yang/Liu Yi (CHN) vs Lee Jhe-Huei/Yang Po-Hsuan (TPE) - Men's Doubles Quarterfinals | BWF World Championships 2025",
+      "web_url": "18250",
+      "cover_url": "https://thumbor.prod.vidiocdn.com/0sg9MLyogwVniH2N08Vz4DRh47w=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4531473/b84ddf.jpg",
+      "start_time": "2025-08-29T18:20:00.000Z"
+    }
+  },
+  "vidioliveothers": {
+    "17884": {
+      "title": "Formula 1",
+      "web_url": "17884",
+      "cover_url": "https://thumbor.prod.vidiocdn.com/Rc1pHYZnd8l_siMi118TkKusbPM=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17884/formula-1-5ee872.jpg",
+      "start_time": "2025-04-02T13:25:00.000Z"
+    },
+    "17938": {
+      "title": "Como vs Lazio - Serie A",
+      "web_url": "17938",
+      "cover_url": "https://thumbor.prod.vidiocdn.com/nQxnMn-XInaQE3E8OFmzUKpufYo=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17938/serie-a-865e5f.jpg",
+      "start_time": "2025-08-23T16:14:00.000Z"
+    },
+    "19331": {
+      "title": "Kazakhstan vs Bulgaria - FIVB Men's U21 World Championship",
+      "web_url": "19331",
+      "cover_url": "https://thumbor.prod.vidiocdn.com/rht9HYOIvM5_3AHVE__a9yS3sXQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4529548/7bf1f1.jpg",
+      "start_time": "2025-08-29T02:50:00.000Z"
+    },
+    "19334": {
+      "title": "Quarter Final: France vs United States - FIVB Men's U21 World Championship",
+      "web_url": "19334",
+      "cover_url": "https://thumbor.prod.vidiocdn.com/bc8Djv092dnc-QfaPJAR80AJ6Eo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4529558/7cdbeb.jpg",
+      "start_time": "2025-08-29T02:30:00.000Z"
+    },
+    "19347": {
+      "title": "Colombia vs Tunisia - FIVB Men's U21 World Championship",
+      "web_url": "19347",
+      "cover_url": "https://thumbor.prod.vidiocdn.com/skfC9jGaoUIrMU51IQwcZBv45v4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4529546/9ecf09.jpg",
+      "start_time": "2025-08-29T02:55:00.000Z"
+    },
+    "19404": {
+      "title": "Serie A",
+      "web_url": "19404",
+      "cover_url": "https://thumbor.prod.vidiocdn.com/L75r8v7GTx-FEErmxGLs3iXfnRM=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/19404/serie-a-78c93e.jpg",
+      "start_time": "2025-08-18T08:00:00.000Z"
+    },
+    "19419": {
+      "title": "THE FIRST & BIGGEST WORKOUT & WELLNESS FESTIVAL in Indonesia",
+      "web_url": "19419",
+      "cover_url": "https://thumbor.prod.vidiocdn.com/KpY2N6KZWZfkH_awxKUHXHYbHH8=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/19419/ionation-2025-by-ion-water-1bf2b5.jpg",
+      "start_time": "2025-08-29T23:00:00.000Z"
+    },
+    "19452": {
+      "title": "Byon Madness: Weigh-In + Press Conference",
+      "web_url": "19452",
+      "cover_url": "https://thumbor.prod.vidiocdn.com/qtAIQ8rdN2ku4TO3aZ5jplbYdHc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4525629/d0f19e.jpg",
+      "start_time": "2025-08-29T03:00:00.000Z"
+    },
+    "19456": {
+      "title": "Scam Keuangan: Ancaman Nyata di Era Digital",
+      "web_url": "19456",
+      "cover_url": "https://thumbor.prod.vidiocdn.com/WkeIviZ3LofRLFA8JBwp_2FVRHs=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/19456/jadi-tahu-f1473d.jpg",
+      "start_time": "2025-08-29T08:30:00.000Z"
+    },
+    "19467": {
+      "title": "Pemakaman Driver Ojol Korban Rantis Brimob | LIVE",
+      "web_url": "19467",
+      "cover_url": "https://thumbor.prod.vidiocdn.com/RKCXDQYsY1gX2kbB7jdVzhiCluk=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/19467/pemakaman-driver-ojol-korban-rantis-brimob-live-b3b8af.jpg",
+      "start_time": "2025-08-29T03:20:00.000Z"
+    },
+    "19468": {
+      "title": "Situasi Terkini di Mako Brimob Kwitang | LIVE",
+      "web_url": "19468",
+      "cover_url": "https://thumbor.prod.vidiocdn.com/FTNh7ngigIefWvIrijumMHAiQ6E=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/19468/situasi-terkini-di-mako-brimob-kwitang-live-fee7ca.jpg",
+      "start_time": "2025-08-29T03:32:00.000Z"
+    }
+  },
   "headers": {
     "content-type": "application/json",
     "x-api-platform": "tv-android",
@@ -10,8 +576,339 @@
     "x-visitor-id": "51b995d2-833d-4a3c-b021-952b647424cb",
     "x-api-app-info": "tv-android/10/2.45.11-736",
     "referer": "androidtv-app://com.vidio.android.tv",
-    "cookie": "country_id=ID; ahoy_visitor=1df926e9-efe9-47ee-8104-0067da7d431f; ahoy_visit=8529ce81-b484-4002-b9de-d36ac7f1a635; shva=1; _vidio=true; plenty_id=188535219; x_user_token=x6rWbQRBtFb_tpuHzaxH; access_token=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InR5cGUiOiJhY2Nlc3NfdG9rZW4iLCJ1aWQiOjE4ODUzNTIxOX0sImV4cCI6MTc1NjUyODY4NH0.2M4FMmNGZdrxTKbZVXd-QxJ93C-QzlQjNqx9x8mn-I0; _vidio_session=OEgFwSAvORIdmLZuL1ci0PMsTuY1qjiCt%2Bn9LJkhYIZrm7M12lrh0%2BEgMcGzV8EpHwTbai%2BDgjjYYZeRBhzGBcMCNJe5PsoIokDs2WqYgTw%2BMIlxJHOrm5LW2t8pRKMlYjOSleJnU7sT9kgDmzNJV75DCcGPeqdJMLUEnHrYMglXLslXcPdOLQVhWe7t%2F7HAdUHh9%2BY1ZBkyd9tWH0Rq5YSUEnuMoS8ocG1XeF3yj%2FMy7C%2BvC0o%2FO7YxB88bOgkeNUDcowXD3q6htXO26Q4QEI3imez7FrIib5X3sajAreGRQj6Djv6LmlkIvYUT34YQW07g3AbX0490Xu99UANpsjVHkvI3CQ3r9nFWftd2CaOfe%2FmWgRHBsetaJnsNwaTnLo1hv0jkJ0cBfFL2Lg9C15ireyXRQsJP1vTSY9VjW41AtxekAgD2W89b101y1ZrJQN%2BcfTdeHfDxmk2qT3jJlBm81jjbctBVzjdpIJDKjKP%2F5QcwNbNNVsG%2Bb9INfAuzHsp7brYybslDn%2BWFs4%2BKSJkXpirVTz%2FcLYJ7HB9Nbh9S2WIOkOGQAyNfrVVHQLV%2FLcXyC1UukLTJqYTaLwOVDf6BVONGeKclaX4GSxjuaJJC0XBIIzrwlhqmMg%2BiTiu4AFz%2FsffYdwsvJ0TeVVvguZ4f1d2VeMETCluYlnE6--mfS35ChRh%2F%2FpemrT--mE6IGcD%2FoU8NAz8KIAjV%2Fg%3D%3D",
+    "cookie": "country_id=ID; ahoy_visitor=802c8812-c02b-4708-8a49-cc2213dcc84d; ahoy_visit=39afc7a1-c5b0-4d21-85fb-9ed3d7ca3556; shva=1; _vidio=true; plenty_id=188535219; x_user_token=-DnpmN5e8qzz_jchy_g7; access_token=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InR5cGUiOiJhY2Nlc3NfdG9rZW4iLCJ1aWQiOjE4ODUzNTIxOX0sImV4cCI6MTc1NjUyODgwM30.pQrEKNUI0_C7q-wrS0OI06wUYutPbys5k8pYpxNvYHs; _vidio_session=XMOiGV4c4lOZoeVZElWRAtJfVm8xGof%2FfVgwntijP2HX1DY8e4R2N2416NK0jrgvrA7036nR6S%2BQRoagTBdjBtfJmXJtu7uLdnme%2FvZl5ruKHbpP98V03fi2DNJMDM8Ou7PstoZ0iMXCC9p%2Fhm0Clf1I4EVrVZhO0iaFT%2BNSNrfQXlfAPLbcx%2FYK55VHkPioX8EjzvWFiSfyQkoGOAghtBc75KGZWsDPGF6VWJcdTLBSmjdKxJDOLSoLtCrPI2B4VFasr3WqJC08oBX%2FcAZk7g8ZKklBdblTWxp%2B9WuTxbmvEBsJXgQMQjtp0XbTDGF21EiRs8Zn8KYgqujuuXJvG5xZiQpzz0TRmr4hkUVo48urKBk9dLVv6FrfNMx0SWJL4OZmHuac8s4e%2BBV0zdW%2B0P4RKImsimX1QlRV84VNBxMvPsIcvQYxJ4fxqeME0PIl6WsyCGXvNKF1blyAD4WQJjqKHhOUdxdjCktwYa7AB%2BVMw%2B9CGh1%2BgFlJzTp5%2FYvtP7kB2%2B2UOKvwE8w2mjaLPgguu%2BE%2ByJ5u1mVofDquzGOJupHgkfW61CRSqaRUSdcoMAscU0VE%2Bo3nG00%2BGfAIEu3CbP2v1FjqT%2B44c2rmC0bAxy5Azdy2ZU1kCAIwf9GpHCoUEuA1LbZWAuofurCcz%2Bl8cxR9WoGNeCNsu%2BvD--MQtSAFzaC%2BpcRtF9--nA3DYcg4QadFIx9YlkBTrA%3D%3D",
+    "accept": "*/*",
+    "origin": "https://www.vidio.com",
+    "user-agent": "tv-android/2.45.11 (736)",
+    "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/vLoYsE5Y2nIUY7/4CA8Dm2dmc4a9QglhVLmwYricF56Bdphdem2zvxjrbFJUFXkS2WZAbloKPJEizQHxlGrcAs=",
+    "x-client": "1756442408.636",
+    "x-secure-level": "2",
+    "x-signature": "ec1ceae8d8ceeefb7ab45c9f26579f401301f2e14f53aedca5df1320003b8983",
     "x-user-email": "vijtworu@gmail.com",
-    "all-vidiolivetv": []
+    "luws": "70602160-FF8F-17E9-D1A2-227F8F434CFE_188535219",
+    "sec-ch-ua": "\"Not;A=Brand\";v=\"99\", \"HeadlessChrome\";v=\"139\", \"Chromium\";v=\"139\"",
+    "sec-ch-ua-mobile": "?0",
+    "sec-ch-ua-platform": "\"Windows\"",
+    "19386-dash": null,
+    "19386-hls": null,
+    "19386-drm": null,
+    "204-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/dash/204_stream.mpd?hdnts=exp=1756456812~acl=/stream/204/file/*~id=188535219~hmac=7e1bd5a40fd8ff767ce7d94137cfd8ce40fe192ce25cf7b7941ee631edeaaca4",
+    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1756456812~acl=/stream/204/file/*~id=188535219~hmac=7e1bd5a40fd8ff767ce7d94137cfd8ce40fe192ce25cf7b7941ee631edeaaca4",
+    "204-drm": null,
+    "19353-dash": null,
+    "19353-hls": null,
+    "19353-drm": null,
+    "206-dash": null,
+    "206-hls": null,
+    "206-drm": null,
+    "205-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/dash/205_stream.mpd?hdnts=exp=1756456812~acl=/stream/205/file/*~id=188535219~hmac=df9d667bf6732c869d10308ab3c39e7c735bba36f85a7fd8b4056ff6c9990770",
+    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1756456812~acl=/stream/205/file/*~id=188535219~hmac=df9d667bf6732c869d10308ab3c39e7c735bba36f85a7fd8b4056ff6c9990770",
+    "205-drm": null,
+    "19355-dash": null,
+    "19355-hls": null,
+    "19355-drm": null,
+    "all-sections": "16890-17139-17140-17323-17324-17884-17938-18190-18249-18250-18739-18796-18832-19331-19332-19334-19347-19353-19354-19355-19375-19385-19386-19388-19404-19406-19407-19412-19413-19414-19452-6317-6685-9182-9183",
+    "all-vidiolivetv": [
+      {
+        "content_id": "205",
+        "nama_channel": "Indosiar",
+        "cover_url": "https://thumbor.prod.vidiocdn.com/0plBZ7Gso7gNBJxid9ksA8HMGxc=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/205/54ab19.png"
+      },
+      {
+        "content_id": "204",
+        "nama_channel": "SCTV",
+        "cover_url": "https://thumbor.prod.vidiocdn.com/kH-K9J4cROqL0TZrAyQhw7P5pBk=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/204/4e9f5c.png"
+      },
+      {
+        "content_id": "733",
+        "nama_channel": "TRANS TV",
+        "cover_url": "https://thumbor.prod.vidiocdn.com/__j35q7LPpcS2EgkR7v8GpE4USQ=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/733/ecaa60.png"
+      },
+      {
+        "content_id": "783",
+        "nama_channel": "TVOne",
+        "cover_url": "https://thumbor.prod.vidiocdn.com/APQ6a9vXvN6lU1zjeyL15IV_AJQ=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/783/07750c.png"
+      },
+      {
+        "content_id": "206",
+        "nama_channel": "Moji",
+        "cover_url": "https://thumbor.prod.vidiocdn.com/g7gTjD2Il1GI4DJULOZ1cv6NSj4=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/206/1823dc.png"
+      },
+      {
+        "content_id": "782",
+        "nama_channel": "ANTV",
+        "cover_url": "https://thumbor.prod.vidiocdn.com/IRVkD3QGRzroJ4IZzXBpS-0MRls=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/782/e1af8b.png"
+      },
+      {
+        "content_id": "734",
+        "nama_channel": "Trans7",
+        "cover_url": "https://thumbor.prod.vidiocdn.com/-MEB2a6J4sB6SvBDimCb7JYP6WY=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/734/131514.png"
+      },
+      {
+        "content_id": "777",
+        "nama_channel": "Metro TV",
+        "cover_url": "https://thumbor.prod.vidiocdn.com/u0aa_S_rQeujrp5eR6LwXdertrI=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/777/ea8483.png"
+      },
+      {
+        "content_id": "874",
+        "nama_channel": "Kompas TV",
+        "cover_url": "https://thumbor.prod.vidiocdn.com/Pf8yLSfHEUZeRI9tUzLDR2U8Zow=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/874/042ca3.png"
+      },
+      {
+        "content_id": "1561",
+        "nama_channel": "RTV",
+        "cover_url": "https://thumbor.prod.vidiocdn.com/cStgoV5oqj2Om_6NMOzK0AFY-sg=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/1561/665aea.png"
+      },
+      {
+        "content_id": "875",
+        "nama_channel": "MDTV",
+        "cover_url": "https://thumbor.prod.vidiocdn.com/LCZH_yEBnTYEQzrU1pB7w7ev-Bw=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/875/325605.png"
+      },
+      {
+        "content_id": "8237",
+        "nama_channel": "Mentari TV",
+        "cover_url": "https://thumbor.prod.vidiocdn.com/59CZO-IVdps6hUK6gEQqn-w-bCw=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/8237/18585d.png"
+      },
+      {
+        "content_id": "6441",
+        "nama_channel": "TVRI",
+        "cover_url": "https://thumbor.prod.vidiocdn.com/F6W__Y0wn_7mFW0cOuz7mi7qjWU=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6441/528cc9.png"
+      },
+      {
+        "content_id": "6165",
+        "nama_channel": "BTV",
+        "cover_url": "https://thumbor.prod.vidiocdn.com/DoRk_b8tcmbwDHroNxP2-o6QRKU=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6165/8c950f.png"
+      },
+      {
+        "content_id": "18162",
+        "nama_channel": "Garuda TV",
+        "cover_url": "https://thumbor.prod.vidiocdn.com/qtIYvE-mjwMPwd-VUxilo2gFiAI=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/18162/b4bea2.png"
+      },
+      {
+        "content_id": "18105",
+        "nama_channel": "GGS TV",
+        "cover_url": "https://thumbor.prod.vidiocdn.com/mKMJ1J-ffUe8NpZ3ky3Ve5oDzuI=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/18105/25d569.png"
+      },
+      {
+        "content_id": "5415",
+        "nama_channel": "Jaktv",
+        "cover_url": "https://thumbor.prod.vidiocdn.com/lJ0VbXBqgieZcVnLJ-Beck84Idk=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/5415/802b76.png"
+      },
+      {
+        "content_id": "18280",
+        "nama_channel": "Berita Satu",
+        "cover_url": "https://thumbor.prod.vidiocdn.com/cSyueV9bIgkdLkvVWqIZOlR6TFQ=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/18280/c7fc8f.png"
+      },
+      {
+        "content_id": "7052",
+        "nama_channel": "Hip Hip Horee!",
+        "cover_url": "https://thumbor.prod.vidiocdn.com/EOkH5JDfHzAnCeGKEXiY12G36Qw=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/7052/63032e.png"
+      },
+      {
+        "content_id": "7464",
+        "nama_channel": "AJWA TV",
+        "cover_url": "https://thumbor.prod.vidiocdn.com/GydAc8ocolWIwQ2A_1xFv0iQ3GM=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/7464/e69965.png"
+      },
+      {
+        "content_id": "6397",
+        "nama_channel": "Horee",
+        "cover_url": "https://thumbor.prod.vidiocdn.com/lfyNbk-BG70u8ahFpO9I0HhV3bM=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6397/d422cd.png"
+      },
+      {
+        "content_id": "9713",
+        "nama_channel": "JTV",
+        "cover_url": "https://thumbor.prod.vidiocdn.com/RFPy_yTRC9PPPbHGeJlLQgt-RaE=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/9713/a11faf.png"
+      },
+      {
+        "content_id": "7432",
+        "nama_channel": "Nusantara TV",
+        "cover_url": "https://thumbor.prod.vidiocdn.com/npPL9VlWMJ5owmeupR7ucPjdGl4=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/7432/bfecbc.png"
+      },
+      {
+        "content_id": "19046",
+        "nama_channel": "Sin Po TV",
+        "cover_url": "https://thumbor.prod.vidiocdn.com/j6L0yLX8CtZTUnIO5aMzs0tNkvI=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/19046/aaa3fa.png"
+      },
+      {
+        "content_id": "6482",
+        "nama_channel": "DAAI TV",
+        "cover_url": "https://thumbor.prod.vidiocdn.com/0r_rhIVANc6dsGvQ76616ZSqF04=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6482/e83fcf.png"
+      },
+      {
+        "content_id": "9714",
+        "nama_channel": "jawaposTV",
+        "cover_url": "https://thumbor.prod.vidiocdn.com/yo9zkfT4I-17_keD5cai7XRKEE0=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/9714/5a2fad.jpg"
+      },
+      {
+        "content_id": "6898",
+        "nama_channel": "U-Channel TV",
+        "cover_url": "https://thumbor.prod.vidiocdn.com/yw_pUKLmZyf5rwqDqh-FvU2llv8=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6898/7e119a.png"
+      },
+      {
+        "content_id": "12607",
+        "nama_channel": "DMI TV",
+        "cover_url": "https://thumbor.prod.vidiocdn.com/XudiSJe7FNdZ4dBfDmy-5X0MwZo=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/12607/de1855.png"
+      },
+      {
+        "content_id": "10975",
+        "nama_channel": "Elshinta TV",
+        "cover_url": "https://thumbor.prod.vidiocdn.com/9Ai_9ibLKhC4czfgMXnw3P-uSyA=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/10975/0dc2d8.png"
+      },
+      {
+        "content_id": "7619",
+        "nama_channel": "MUSICA",
+        "cover_url": "https://thumbor.prod.vidiocdn.com/I6siEUUN1ga4mYcu0Ysr9BlHeH4=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/7619/379f71.png"
+      },
+      {
+        "content_id": "7230",
+        "nama_channel": "Magna TV",
+        "cover_url": "https://thumbor.prod.vidiocdn.com/43T_Bt_R_JSQugV3MxoAeYze7OQ=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/7230/7d6bf5.jpg"
+      },
+      {
+        "content_id": "9182",
+        "nama_channel": "CTV 5",
+        "cover_url": "https://thumbor.prod.vidiocdn.com/yRBAoM6H7dAkEINjwCH-TVbeacE=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/9182/13b733.png"
+      },
+      {
+        "content_id": "9183",
+        "nama_channel": "CTV 6",
+        "cover_url": "https://thumbor.prod.vidiocdn.com/mlEiapp7GXmQN5-WBHtM1EY6-kM=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/9183/33e19d.png"
+      },
+      {
+        "content_id": "6685",
+        "nama_channel": "CTV 1",
+        "cover_url": "https://thumbor.prod.vidiocdn.com/7chJIHmXZKn6pLd4kHzMH44577M=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6685/a2ed39.png"
+      },
+      {
+        "content_id": "6686",
+        "nama_channel": "CTV 2",
+        "cover_url": "https://thumbor.prod.vidiocdn.com/czBGyoVEbdU5E64ZH88sgEfmWXg=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6686/14270d.png"
+      },
+      {
+        "content_id": "6786",
+        "nama_channel": "CTV 3",
+        "cover_url": "https://thumbor.prod.vidiocdn.com/RoE6gTfzYNnm1APnwvK_Bi7j_-Y=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6786/d2ebc5.png"
+      },
+      {
+        "content_id": "6299",
+        "nama_channel": "Bein 1",
+        "cover_url": "https://thumbor.prod.vidiocdn.com/R5o3HOzN4coNEldIuKjnpawojr4=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6299/d74f54.png"
+      },
+      {
+        "content_id": "17875",
+        "nama_channel": "Bein 2",
+        "cover_url": "https://thumbor.prod.vidiocdn.com/HsxPbK2T6gPnpmNmiL4KEApfzz0=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/17875/afb4ca.png"
+      },
+      {
+        "content_id": "6317",
+        "nama_channel": "Bein 3",
+        "cover_url": "https://thumbor.prod.vidiocdn.com/lKgFAcljoRcYILYnMzYh8dt7Ixw=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6317/4a8762.png"
+      },
+      {
+        "content_id": "17139",
+        "nama_channel": "SPOTV",
+        "cover_url": "https://thumbor.prod.vidiocdn.com/1MzvDHEzp4Zo_wfPgQQzwkJOKc8=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/17139/e5207b.png"
+      },
+      {
+        "content_id": "17140",
+        "nama_channel": "SPOTV 2",
+        "cover_url": "https://thumbor.prod.vidiocdn.com/7Yaodip5SnRzHSrJqowhSrt1uSo=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/17140/18e12a.png"
+      },
+      {
+        "content_id": "9353",
+        "nama_channel": "Premier League TV",
+        "cover_url": "https://thumbor.prod.vidiocdn.com/wxu6A5xCPmydS0PsUyDZa9kbGeo=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/9353/a79dfe.png"
+      },
+      {
+        "content_id": "18189",
+        "nama_channel": "Champions Golf 1",
+        "cover_url": "https://thumbor.prod.vidiocdn.com/5RyqXQzhOVE-gf2Y_IG1e5heJV8=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/18189/8180b2.png"
+      },
+      {
+        "content_id": "18190",
+        "nama_channel": "Champions Golf 2",
+        "cover_url": "https://thumbor.prod.vidiocdn.com/iASUDB26jxl_lTZyJTM2mmr3fQY=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/18190/541269.png"
+      },
+      {
+        "content_id": "6717",
+        "nama_channel": "NBA TV",
+        "cover_url": "https://thumbor.prod.vidiocdn.com/KLX48tQxYRs4GxMnvm2avGTXpf0=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6717/790cc9.png"
+      },
+      {
+        "content_id": "6362",
+        "nama_channel": "TVN",
+        "cover_url": "https://thumbor.prod.vidiocdn.com/TjMKXqjCDGF1uqycTxG-Os7E87E=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6362/dcd434.png"
+      },
+      {
+        "content_id": "6852",
+        "nama_channel": "Makkah TV",
+        "cover_url": "https://thumbor.prod.vidiocdn.com/MBL6RJmC3YxGllDHfkl-3tOYjts=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6852/1047bc.png"
+      },
+      {
+        "content_id": "8121",
+        "nama_channel": "Rock Action",
+        "cover_url": "https://thumbor.prod.vidiocdn.com/KNwURMx7JBhbW7yXRRo9_SQUvHM=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/8121/e9e2b9.png"
+      },
+      {
+        "content_id": "6410",
+        "nama_channel": "Aljazeera",
+        "cover_url": "https://thumbor.prod.vidiocdn.com/ylPI-fG-She_OlfbH8KWncdsDe8=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6410/6027db.png"
+      },
+      {
+        "content_id": "6784",
+        "nama_channel": "Arirang",
+        "cover_url": "https://thumbor.prod.vidiocdn.com/oBMhyILK-ywwtqBqQyt51dmDs5o=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6784/b9cb20.png"
+      },
+      {
+        "content_id": "6411",
+        "nama_channel": "News Asia",
+        "cover_url": "https://thumbor.prod.vidiocdn.com/MVX8rapc40STy_XQvDREDJmSxkM=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6411/e600b8.jpg"
+      },
+      {
+        "content_id": "8120",
+        "nama_channel": "ROCK Entertainment",
+        "cover_url": "https://thumbor.prod.vidiocdn.com/evo4ygNACDOou93AiTxBSlw6wrs=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/8120/8d7f22.png"
+      },
+      {
+        "content_id": "7150",
+        "nama_channel": "ABC Australia",
+        "cover_url": "https://thumbor.prod.vidiocdn.com/7_vlXOuPe1jTvYQCMkgYv_KPjJQ=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/7150/2de77e.png"
+      },
+      {
+        "content_id": "5075",
+        "nama_channel": "DW English",
+        "cover_url": "https://thumbor.prod.vidiocdn.com/CkGuUHK9vLiapJ8s_TVp_Mj5v60=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/5075/f6106b.png"
+      },
+      {
+        "content_id": "7968",
+        "nama_channel": "NHK World Japan",
+        "cover_url": "https://thumbor.prod.vidiocdn.com/zxr-mrOWStozeCuL4GoW56c0JBc=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/7968/3f44ff.png"
+      },
+      {
+        "content_id": "6412",
+        "nama_channel": "Euronews",
+        "cover_url": "https://thumbor.prod.vidiocdn.com/mv4ZFcm2QaBMgaCprNUczDIaSJ4=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6412/c0e105.png"
+      },
+      {
+        "content_id": "6533",
+        "nama_channel": "Zoomoo",
+        "cover_url": "https://thumbor.prod.vidiocdn.com/vQdbJZqHtzPPXckjO0Hy8yy-3_0=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6533/f6c9c0.png"
+      },
+      {
+        "content_id": "18622",
+        "nama_channel": "Daystar TV",
+        "cover_url": "https://thumbor.prod.vidiocdn.com/a_R11gFNIXuNsUiqJ6Tsj-45lqE=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/18622/d20ab7.png"
+      },
+      {
+        "content_id": "17278",
+        "nama_channel": "TV5Monde",
+        "cover_url": "https://thumbor.prod.vidiocdn.com/AW2JNvGveJR_JGN4sr8pcViIxNM=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/17278/138bad.png"
+      },
+      {
+        "content_id": "12784",
+        "nama_channel": "Africanews",
+        "cover_url": "https://thumbor.prod.vidiocdn.com/gxp9cK9zfpgAKXUUuVc7SYF1q1g=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/12784/b75a42.png"
+      }
+    ]
   }
 }
