@@ -1,5 +1,319 @@
 {
-  "time": "2025-08-30T05:18:02.789Z",
+  "time": "2025-08-30T05:18:22.200Z",
+  "headers": {
+    "luws": "1CF6E0E2-D6D9-5E83-2EA5-3DB16C28496E_",
+    "x-signature": "5cb08dee900855e6c6638e1c294e3a9492c3367cfb89d24a716225bce4cd3396",
+    "x-client": "1756531114.041",
+    "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/rEeFEwJIi7JuuxnoEfJRzr7Brl+wwE3peLMqME1zKNkq48acpXoY52jRkiYi61pM0bSMSJztmV9rGVNn/+myxc=",
+    "x-secure-level": "2",
+    "x-api-platform": "web-desktop",
+    "x-request-from": "https://www.vidio.com/live/19419-ionation-2025-by-ion-water",
+    "content-type": "application/json",
+    "cookie": "ahoy_visitor=2a060c4b-cbf6-48ac-967f-2cbdf76522c8; ahoy_visit=a4ae4155-5d9a-4ede-a1e9-4802ed42053d; luws=1CF6E0E2-D6D9-5E83-2EA5-3DB16C28496E_; country_id=ID; _vidio_session=xxx;",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "x-user-email": null,
+    "204-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/dash/204_stream.mpd?hdnts=exp=1756545499~acl=/stream/204/file/*~id=allUsers~hmac=efa97622161ae64cc486ca6bd6296079f8f5d8f1cafe73439c3acc0dbdc933f4",
+    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1756545499~acl=/stream/204/file/*~id=allUsers~hmac=efa97622161ae64cc486ca6bd6296079f8f5d8f1cafe73439c3acc0dbdc933f4",
+    "205-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/dash/205_stream.mpd?hdnts=exp=1756545499~acl=/stream/205/file/*~id=allUsers~hmac=9ef3d4e7d55b25b16a2040639bc136672a880a7b9c54acd1d4ae9b8ba906e13f",
+    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1756545499~acl=/stream/205/file/*~id=allUsers~hmac=9ef3d4e7d55b25b16a2040639bc136672a880a7b9c54acd1d4ae9b8ba906e13f",
+    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1756545499~acl=/stream/206/file/*~id=allUsers~hmac=38d45e6862078e3cbce0c7b7b25e6f10575ab000be9c7ea3b5a1f14d5b43eba4",
+    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1756545499~acl=/stream/206/file/*~id=allUsers~hmac=38d45e6862078e3cbce0c7b7b25e6f10575ab000be9c7ea3b5a1f14d5b43eba4",
+    "18105-dash": null,
+    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1756545499~acl=/stream/18105/file/*~id=allUsers~hmac=c0b0d557f70110f0aec3d4dd330a171eba645ab82bbd705297ec2604ece55592",
+    "all-sections": "17324-17884-17938-18190-18249-18739-18796-18832-19331-19332-19334-19347-19354-19355-19375-19385-19388-19404-19412-19413-19414-6317-6685-6686-9182-9183",
+    "all-vidiolivetv": [
+      {
+        "content_id": "205",
+        "nama_channel": "Indosiar",
+        "cover_url": "https://thumbor.prod.vidiocdn.com/0plBZ7Gso7gNBJxid9ksA8HMGxc=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/205/54ab19.png"
+      },
+      {
+        "content_id": "204",
+        "nama_channel": "SCTV",
+        "cover_url": "https://thumbor.prod.vidiocdn.com/kH-K9J4cROqL0TZrAyQhw7P5pBk=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/204/4e9f5c.png"
+      },
+      {
+        "content_id": "783",
+        "nama_channel": "TVOne",
+        "cover_url": "https://thumbor.prod.vidiocdn.com/APQ6a9vXvN6lU1zjeyL15IV_AJQ=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/783/07750c.png"
+      },
+      {
+        "content_id": "206",
+        "nama_channel": "Moji",
+        "cover_url": "https://thumbor.prod.vidiocdn.com/g7gTjD2Il1GI4DJULOZ1cv6NSj4=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/206/1823dc.png"
+      },
+      {
+        "content_id": "782",
+        "nama_channel": "ANTV",
+        "cover_url": "https://thumbor.prod.vidiocdn.com/IRVkD3QGRzroJ4IZzXBpS-0MRls=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/782/e1af8b.png"
+      },
+      {
+        "content_id": "777",
+        "nama_channel": "Metro TV",
+        "cover_url": "https://thumbor.prod.vidiocdn.com/u0aa_S_rQeujrp5eR6LwXdertrI=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/777/ea8483.png"
+      },
+      {
+        "content_id": "874",
+        "nama_channel": "Kompas TV",
+        "cover_url": "https://thumbor.prod.vidiocdn.com/Pf8yLSfHEUZeRI9tUzLDR2U8Zow=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/874/042ca3.png"
+      },
+      {
+        "content_id": "1561",
+        "nama_channel": "RTV",
+        "cover_url": "https://thumbor.prod.vidiocdn.com/cStgoV5oqj2Om_6NMOzK0AFY-sg=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/1561/665aea.png"
+      },
+      {
+        "content_id": "875",
+        "nama_channel": "MDTV",
+        "cover_url": "https://thumbor.prod.vidiocdn.com/LCZH_yEBnTYEQzrU1pB7w7ev-Bw=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/875/325605.png"
+      },
+      {
+        "content_id": "8237",
+        "nama_channel": "Mentari TV",
+        "cover_url": "https://thumbor.prod.vidiocdn.com/59CZO-IVdps6hUK6gEQqn-w-bCw=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/8237/18585d.png"
+      },
+      {
+        "content_id": "6441",
+        "nama_channel": "TVRI",
+        "cover_url": "https://thumbor.prod.vidiocdn.com/F6W__Y0wn_7mFW0cOuz7mi7qjWU=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6441/528cc9.png"
+      },
+      {
+        "content_id": "6165",
+        "nama_channel": "BTV",
+        "cover_url": "https://thumbor.prod.vidiocdn.com/DoRk_b8tcmbwDHroNxP2-o6QRKU=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6165/8c950f.png"
+      },
+      {
+        "content_id": "18162",
+        "nama_channel": "Garuda TV",
+        "cover_url": "https://thumbor.prod.vidiocdn.com/qtIYvE-mjwMPwd-VUxilo2gFiAI=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/18162/b4bea2.png"
+      },
+      {
+        "content_id": "18105",
+        "nama_channel": "GGS TV",
+        "cover_url": "https://thumbor.prod.vidiocdn.com/mKMJ1J-ffUe8NpZ3ky3Ve5oDzuI=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/18105/25d569.png"
+      },
+      {
+        "content_id": "5415",
+        "nama_channel": "Jaktv",
+        "cover_url": "https://thumbor.prod.vidiocdn.com/lJ0VbXBqgieZcVnLJ-Beck84Idk=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/5415/802b76.png"
+      },
+      {
+        "content_id": "18280",
+        "nama_channel": "Berita Satu",
+        "cover_url": "https://thumbor.prod.vidiocdn.com/cSyueV9bIgkdLkvVWqIZOlR6TFQ=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/18280/c7fc8f.png"
+      },
+      {
+        "content_id": "7052",
+        "nama_channel": "Hip Hip Horee!",
+        "cover_url": "https://thumbor.prod.vidiocdn.com/EOkH5JDfHzAnCeGKEXiY12G36Qw=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/7052/63032e.png"
+      },
+      {
+        "content_id": "7464",
+        "nama_channel": "AJWA TV",
+        "cover_url": "https://thumbor.prod.vidiocdn.com/GydAc8ocolWIwQ2A_1xFv0iQ3GM=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/7464/e69965.png"
+      },
+      {
+        "content_id": "6397",
+        "nama_channel": "Horee",
+        "cover_url": "https://thumbor.prod.vidiocdn.com/lfyNbk-BG70u8ahFpO9I0HhV3bM=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6397/d422cd.png"
+      },
+      {
+        "content_id": "9713",
+        "nama_channel": "JTV",
+        "cover_url": "https://thumbor.prod.vidiocdn.com/RFPy_yTRC9PPPbHGeJlLQgt-RaE=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/9713/a11faf.png"
+      },
+      {
+        "content_id": "7432",
+        "nama_channel": "Nusantara TV",
+        "cover_url": "https://thumbor.prod.vidiocdn.com/npPL9VlWMJ5owmeupR7ucPjdGl4=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/7432/bfecbc.png"
+      },
+      {
+        "content_id": "19046",
+        "nama_channel": "Sin Po TV",
+        "cover_url": "https://thumbor.prod.vidiocdn.com/j6L0yLX8CtZTUnIO5aMzs0tNkvI=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/19046/aaa3fa.png"
+      },
+      {
+        "content_id": "6482",
+        "nama_channel": "DAAI TV",
+        "cover_url": "https://thumbor.prod.vidiocdn.com/0r_rhIVANc6dsGvQ76616ZSqF04=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6482/e83fcf.png"
+      },
+      {
+        "content_id": "9714",
+        "nama_channel": "jawaposTV",
+        "cover_url": "https://thumbor.prod.vidiocdn.com/yo9zkfT4I-17_keD5cai7XRKEE0=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/9714/5a2fad.jpg"
+      },
+      {
+        "content_id": "6898",
+        "nama_channel": "U-Channel TV",
+        "cover_url": "https://thumbor.prod.vidiocdn.com/yw_pUKLmZyf5rwqDqh-FvU2llv8=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6898/7e119a.png"
+      },
+      {
+        "content_id": "12607",
+        "nama_channel": "DMI TV",
+        "cover_url": "https://thumbor.prod.vidiocdn.com/XudiSJe7FNdZ4dBfDmy-5X0MwZo=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/12607/de1855.png"
+      },
+      {
+        "content_id": "10975",
+        "nama_channel": "Elshinta TV",
+        "cover_url": "https://thumbor.prod.vidiocdn.com/9Ai_9ibLKhC4czfgMXnw3P-uSyA=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/10975/0dc2d8.png"
+      },
+      {
+        "content_id": "7619",
+        "nama_channel": "MUSICA",
+        "cover_url": "https://thumbor.prod.vidiocdn.com/I6siEUUN1ga4mYcu0Ysr9BlHeH4=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/7619/379f71.png"
+      },
+      {
+        "content_id": "7230",
+        "nama_channel": "Magna TV",
+        "cover_url": "https://thumbor.prod.vidiocdn.com/43T_Bt_R_JSQugV3MxoAeYze7OQ=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/7230/7d6bf5.jpg"
+      },
+      {
+        "content_id": "9182",
+        "nama_channel": "CTV 5",
+        "cover_url": "https://thumbor.prod.vidiocdn.com/yRBAoM6H7dAkEINjwCH-TVbeacE=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/9182/13b733.png"
+      },
+      {
+        "content_id": "9183",
+        "nama_channel": "CTV 6",
+        "cover_url": "https://thumbor.prod.vidiocdn.com/mlEiapp7GXmQN5-WBHtM1EY6-kM=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/9183/33e19d.png"
+      },
+      {
+        "content_id": "6685",
+        "nama_channel": "CTV 1",
+        "cover_url": "https://thumbor.prod.vidiocdn.com/7chJIHmXZKn6pLd4kHzMH44577M=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6685/a2ed39.png"
+      },
+      {
+        "content_id": "6686",
+        "nama_channel": "CTV 2",
+        "cover_url": "https://thumbor.prod.vidiocdn.com/czBGyoVEbdU5E64ZH88sgEfmWXg=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6686/14270d.png"
+      },
+      {
+        "content_id": "6786",
+        "nama_channel": "CTV 3",
+        "cover_url": "https://thumbor.prod.vidiocdn.com/RoE6gTfzYNnm1APnwvK_Bi7j_-Y=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6786/d2ebc5.png"
+      },
+      {
+        "content_id": "6299",
+        "nama_channel": "Bein 1",
+        "cover_url": "https://thumbor.prod.vidiocdn.com/R5o3HOzN4coNEldIuKjnpawojr4=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6299/d74f54.png"
+      },
+      {
+        "content_id": "17875",
+        "nama_channel": "Bein 2",
+        "cover_url": "https://thumbor.prod.vidiocdn.com/HsxPbK2T6gPnpmNmiL4KEApfzz0=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/17875/afb4ca.png"
+      },
+      {
+        "content_id": "6317",
+        "nama_channel": "Bein 3",
+        "cover_url": "https://thumbor.prod.vidiocdn.com/lKgFAcljoRcYILYnMzYh8dt7Ixw=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6317/4a8762.png"
+      },
+      {
+        "content_id": "17139",
+        "nama_channel": "SPOTV",
+        "cover_url": "https://thumbor.prod.vidiocdn.com/1MzvDHEzp4Zo_wfPgQQzwkJOKc8=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/17139/e5207b.png"
+      },
+      {
+        "content_id": "17140",
+        "nama_channel": "SPOTV 2",
+        "cover_url": "https://thumbor.prod.vidiocdn.com/7Yaodip5SnRzHSrJqowhSrt1uSo=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/17140/18e12a.png"
+      },
+      {
+        "content_id": "9353",
+        "nama_channel": "Premier League TV",
+        "cover_url": "https://thumbor.prod.vidiocdn.com/wxu6A5xCPmydS0PsUyDZa9kbGeo=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/9353/a79dfe.png"
+      },
+      {
+        "content_id": "18189",
+        "nama_channel": "Champions Golf 1",
+        "cover_url": "https://thumbor.prod.vidiocdn.com/5RyqXQzhOVE-gf2Y_IG1e5heJV8=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/18189/8180b2.png"
+      },
+      {
+        "content_id": "18190",
+        "nama_channel": "Champions Golf 2",
+        "cover_url": "https://thumbor.prod.vidiocdn.com/iASUDB26jxl_lTZyJTM2mmr3fQY=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/18190/541269.png"
+      },
+      {
+        "content_id": "6717",
+        "nama_channel": "NBA TV",
+        "cover_url": "https://thumbor.prod.vidiocdn.com/KLX48tQxYRs4GxMnvm2avGTXpf0=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6717/790cc9.png"
+      },
+      {
+        "content_id": "6362",
+        "nama_channel": "TVN",
+        "cover_url": "https://thumbor.prod.vidiocdn.com/TjMKXqjCDGF1uqycTxG-Os7E87E=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6362/dcd434.png"
+      },
+      {
+        "content_id": "6852",
+        "nama_channel": "Makkah TV",
+        "cover_url": "https://thumbor.prod.vidiocdn.com/MBL6RJmC3YxGllDHfkl-3tOYjts=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6852/1047bc.png"
+      },
+      {
+        "content_id": "8121",
+        "nama_channel": "Rock Action",
+        "cover_url": "https://thumbor.prod.vidiocdn.com/KNwURMx7JBhbW7yXRRo9_SQUvHM=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/8121/e9e2b9.png"
+      },
+      {
+        "content_id": "6410",
+        "nama_channel": "Aljazeera",
+        "cover_url": "https://thumbor.prod.vidiocdn.com/ylPI-fG-She_OlfbH8KWncdsDe8=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6410/6027db.png"
+      },
+      {
+        "content_id": "6784",
+        "nama_channel": "Arirang",
+        "cover_url": "https://thumbor.prod.vidiocdn.com/oBMhyILK-ywwtqBqQyt51dmDs5o=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6784/b9cb20.png"
+      },
+      {
+        "content_id": "6411",
+        "nama_channel": "News Asia",
+        "cover_url": "https://thumbor.prod.vidiocdn.com/MVX8rapc40STy_XQvDREDJmSxkM=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6411/e600b8.jpg"
+      },
+      {
+        "content_id": "8120",
+        "nama_channel": "ROCK Entertainment",
+        "cover_url": "https://thumbor.prod.vidiocdn.com/evo4ygNACDOou93AiTxBSlw6wrs=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/8120/8d7f22.png"
+      },
+      {
+        "content_id": "7150",
+        "nama_channel": "ABC Australia",
+        "cover_url": "https://thumbor.prod.vidiocdn.com/7_vlXOuPe1jTvYQCMkgYv_KPjJQ=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/7150/2de77e.png"
+      },
+      {
+        "content_id": "5075",
+        "nama_channel": "DW English",
+        "cover_url": "https://thumbor.prod.vidiocdn.com/CkGuUHK9vLiapJ8s_TVp_Mj5v60=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/5075/f6106b.png"
+      },
+      {
+        "content_id": "7968",
+        "nama_channel": "NHK World Japan",
+        "cover_url": "https://thumbor.prod.vidiocdn.com/zxr-mrOWStozeCuL4GoW56c0JBc=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/7968/3f44ff.png"
+      },
+      {
+        "content_id": "6412",
+        "nama_channel": "Euronews",
+        "cover_url": "https://thumbor.prod.vidiocdn.com/mv4ZFcm2QaBMgaCprNUczDIaSJ4=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6412/c0e105.png"
+      },
+      {
+        "content_id": "6533",
+        "nama_channel": "Zoomoo",
+        "cover_url": "https://thumbor.prod.vidiocdn.com/vQdbJZqHtzPPXckjO0Hy8yy-3_0=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6533/f6c9c0.png"
+      },
+      {
+        "content_id": "18622",
+        "nama_channel": "Daystar TV",
+        "cover_url": "https://thumbor.prod.vidiocdn.com/a_R11gFNIXuNsUiqJ6Tsj-45lqE=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/18622/d20ab7.png"
+      },
+      {
+        "content_id": "17278",
+        "nama_channel": "TV5Monde",
+        "cover_url": "https://thumbor.prod.vidiocdn.com/AW2JNvGveJR_JGN4sr8pcViIxNM=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/17278/138bad.png"
+      },
+      {
+        "content_id": "12784",
+        "nama_channel": "Africanews",
+        "cover_url": "https://thumbor.prod.vidiocdn.com/gxp9cK9zfpgAKXUUuVc7SYF1q1g=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/12784/b75a42.png"
+      }
+    ]
+  },
   "sections": {
     "18249": {
       "title": "Guo Xin Wa/Chen Fang Hui (CHN) vs Jiang Zhen Bang/Wei Ya Xin (CHN) - Mixed Doubles Semifinals | BWF World Championships 2025",
@@ -363,357 +677,5 @@
       "cover_url": "https://thumbor.prod.vidiocdn.com/FmC0DJipys5slIQRw2PUJJGTX3Y=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/19470/liverpool-vs-arsenal-ajang-pembuktian-gyokeres-dan-ekitike-man-united-mode-lawak-amorim-out-f000ac.jpg",
       "start_time": "2025-08-30T12:00:00.000Z"
     }
-  },
-  "headers": {
-    "content-type": "application/json",
-    "x-api-platform": "tv-android",
-    "x-api-auth": "laZOmogezono5ogekaso5oz4Mezimew1",
-    "x-user-token": "vMFo7JhB3sXprNaHVL3n",
-    "x-visitor-id": "51b995d2-833d-4a3c-b021-952b647424cb",
-    "x-api-app-info": "tv-android/10/2.45.11-736",
-    "referer": "androidtv-app://com.vidio.android.tv",
-    "cookie": "country_id=ID; ahoy_visitor=bb470d46-13be-436e-98e0-3a39c308348a; ahoy_visit=2eb6cd3a-ce6f-435b-b94c-ade86b6f05a5; shva=1; _vidio=true; plenty_id=188535219; x_user_token=r4-syfrf9SzPq-fKdLeS; access_token=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InR5cGUiOiJhY2Nlc3NfdG9rZW4iLCJ1aWQiOjE4ODUzNTIxOX0sImV4cCI6MTc1NjYxNzQ4NH0.-G9HxJ7dHdxz2xgvwnLlnmJbes-H95ou0I7U0vzkJ4I; _vidio_session=Tj6EZ%2FU1CrYRhBO3kZYsYb2Ur2HgfbwpVKn%2FGUezMzHmry%2Bi4KUhCOL19UtGkdyp44ZzISwmHWDabxSTSTJ9AapPhjb14Cn7PcWO54pxbUUeIvuQS1A%2FnXf%2B4Qzb7yaYBIXIbeMqTy8jAyW%2BzCXrPv9salx%2FJ8LCRnz9%2FgWCvmlOoSQTXsUCOxyuYgAni5QOWwMZFdwmPeUodaYcIvD7b%2FDK46eAvnqvEcteNVDKGRjqAyK%2BqalGmStmqGASi%2BuNTGOICbneUlEm1z4nc89SaDylQxuXMaHauKyo%2F0RmBWwVsPYBoxUGy58FXsA9aZiJKKFA8KOAalviUObFiREYUuRAXDcyjaffcCvXYzty%2Fqx12RjJsOXOC1t%2BOwdPIpmJP3159t%2FK1AGcuNXBKkxrmf%2BqSZpgg1vyN6oiuhNFPCOuDePB4nzfvkr0ShDEHipZF5EO5BFBW50Ig9r16w3TuApZhiAv%2BwVM9SvbLjho1sBLiDSpDcsj4%2B1guZlYRXpiPvABbZMaFeGxPOvzyv8vnhsmLjjTOs4PNq5IqSVdqFvwLfgKEO6j75dsAMVU2ukTObuJQtIDTVYO2wLk7GgZKuyA%2FrEqneV%2FLOL700AOgV8Y93wKKYnJ8ff%2FB%2BNoNAtn2i69%2B4HQAtHhC76sSvsJ3eYP%2BgW09XyREQi2hI7e--7wrRtf1zWIY6scYa--0eDEOFko0L%2FH%2Ftq%2Fk3oc0w%3D%3D",
-    "accept": "*/*",
-    "origin": "https://www.vidio.com",
-    "user-agent": "tv-android/2.45.11 (736)",
-    "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/vrpopLfMsq1kUPopKpEr5tUq+8ms7i5uQSGdjVyzput1OneEhmWblmj7XTzNaiWq/kM2wKNn9UJdjde2z5eEvg=",
-    "x-client": "1756531088.889",
-    "x-secure-level": "2",
-    "x-signature": "8340be1edfe3206ed8bc06ed239d619f4438f3b322bd692925b787f77b893b67",
-    "x-user-email": "vijtworu@gmail.com",
-    "luws": "8679ADC2-59B1-3991-CD17-1B32179CAE1E_188535219",
-    "sec-ch-ua": "\"Not;A=Brand\";v=\"99\", \"HeadlessChrome\";v=\"139\", \"Chromium\";v=\"139\"",
-    "sec-ch-ua-mobile": "?0",
-    "sec-ch-ua-platform": "\"Windows\"",
-    "205-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/dash/205_stream.mpd?hdnts=exp=1756545492~acl=/stream/205/file/*~id=188535219~hmac=eca3d1cd2f286a6e61b5479e19d771c85e05ccbf14e139e5339adfdd2719af76",
-    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/live/205/master.m3u8?hdnts=exp=1756545492~acl=/stream/205/file/*~id=188535219~hmac=eca3d1cd2f286a6e61b5479e19d771c85e05ccbf14e139e5339adfdd2719af76",
-    "205-drm": null,
-    "733-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/733/file/dash/733_stream.mpd?hdnts=exp=1756545492~acl=/stream/733/file/*~id=188535219~hmac=77020df9fc8aac94156eb5e471cac54e0005febf947eab999fab0ad12f05e1c1",
-    "733-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/733/file/dash/733/master.m3u8?hdnts=exp=1756545492~acl=/stream/733/file/*~id=188535219~hmac=77020df9fc8aac94156eb5e471cac54e0005febf947eab999fab0ad12f05e1c1",
-    "733-drm": null,
-    "18105-dash": null,
-    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1756545492~acl=/stream/18105/file/*~id=188535219~hmac=69880bcf9653a35a27d8565926129f1971b3ae9c21be9df166badad3fe9698b7",
-    "18105-drm": null,
-    "734-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/734/file/dash/734_stream.mpd?hdnts=exp=1756545492~acl=/stream/734/file/*~id=188535219~hmac=a4da5a50e6e4dc583b275d323feba313723b994a6accd814efa5cbea4f118e51",
-    "734-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/734/file/live/734/master.m3u8?hdnts=exp=1756545492~acl=/stream/734/file/*~id=188535219~hmac=a4da5a50e6e4dc583b275d323feba313723b994a6accd814efa5cbea4f118e51",
-    "734-drm": null,
-    "19355-dash": null,
-    "19355-hls": "https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/stream/19355/file/live/19355/master.m3u8?hdnts=exp=1756545492~acl=/stream/19355/file/*~id=188535219~hmac=d91da900a55caac912b226358a63b253e56d424a8f43e727df909ab5b9ffeb88",
-    "19355-drm": null,
-    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1756545492~acl=/stream/206/file/*~id=188535219~hmac=54e5ac3a8ecdba48d00468af7a022e9abaef0dbda58e6e4bbb6fccfdac16c93f",
-    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/live/206/master.m3u8?hdnts=exp=1756545492~acl=/stream/206/file/*~id=188535219~hmac=54e5ac3a8ecdba48d00468af7a022e9abaef0dbda58e6e4bbb6fccfdac16c93f",
-    "206-drm": null,
-    "19385-dash": null,
-    "19385-hls": null,
-    "19385-drm": null,
-    "204-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/dash/204_stream.mpd?hdnts=exp=1756545492~acl=/stream/204/file/*~id=188535219~hmac=73ce3311ffebb8bbcb14b428d0e429b96f70628b6fd35b612c3d01dae4ea7828",
-    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/live/204/master.m3u8?hdnts=exp=1756545492~acl=/stream/204/file/*~id=188535219~hmac=73ce3311ffebb8bbcb14b428d0e429b96f70628b6fd35b612c3d01dae4ea7828",
-    "204-drm": null,
-    "19354-dash": null,
-    "19354-hls": null,
-    "19354-drm": null,
-    "all-sections": "17324-17884-17938-18190-18249-18739-18796-18832-19331-19332-19334-19347-19354-19355-19375-19385-19388-19404-19412-19413-19414-6317-6685-6686-9182-9183",
-    "all-vidiolivetv": [
-      {
-        "content_id": "205",
-        "nama_channel": "Indosiar",
-        "cover_url": "https://thumbor.prod.vidiocdn.com/0plBZ7Gso7gNBJxid9ksA8HMGxc=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/205/54ab19.png"
-      },
-      {
-        "content_id": "204",
-        "nama_channel": "SCTV",
-        "cover_url": "https://thumbor.prod.vidiocdn.com/kH-K9J4cROqL0TZrAyQhw7P5pBk=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/204/4e9f5c.png"
-      },
-      {
-        "content_id": "733",
-        "nama_channel": "TRANS TV",
-        "cover_url": "https://thumbor.prod.vidiocdn.com/__j35q7LPpcS2EgkR7v8GpE4USQ=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/733/ecaa60.png"
-      },
-      {
-        "content_id": "783",
-        "nama_channel": "TVOne",
-        "cover_url": "https://thumbor.prod.vidiocdn.com/APQ6a9vXvN6lU1zjeyL15IV_AJQ=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/783/07750c.png"
-      },
-      {
-        "content_id": "206",
-        "nama_channel": "Moji",
-        "cover_url": "https://thumbor.prod.vidiocdn.com/g7gTjD2Il1GI4DJULOZ1cv6NSj4=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/206/1823dc.png"
-      },
-      {
-        "content_id": "782",
-        "nama_channel": "ANTV",
-        "cover_url": "https://thumbor.prod.vidiocdn.com/IRVkD3QGRzroJ4IZzXBpS-0MRls=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/782/e1af8b.png"
-      },
-      {
-        "content_id": "734",
-        "nama_channel": "Trans7",
-        "cover_url": "https://thumbor.prod.vidiocdn.com/-MEB2a6J4sB6SvBDimCb7JYP6WY=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/734/131514.png"
-      },
-      {
-        "content_id": "777",
-        "nama_channel": "Metro TV",
-        "cover_url": "https://thumbor.prod.vidiocdn.com/u0aa_S_rQeujrp5eR6LwXdertrI=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/777/ea8483.png"
-      },
-      {
-        "content_id": "874",
-        "nama_channel": "Kompas TV",
-        "cover_url": "https://thumbor.prod.vidiocdn.com/Pf8yLSfHEUZeRI9tUzLDR2U8Zow=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/874/042ca3.png"
-      },
-      {
-        "content_id": "1561",
-        "nama_channel": "RTV",
-        "cover_url": "https://thumbor.prod.vidiocdn.com/cStgoV5oqj2Om_6NMOzK0AFY-sg=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/1561/665aea.png"
-      },
-      {
-        "content_id": "875",
-        "nama_channel": "MDTV",
-        "cover_url": "https://thumbor.prod.vidiocdn.com/LCZH_yEBnTYEQzrU1pB7w7ev-Bw=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/875/325605.png"
-      },
-      {
-        "content_id": "8237",
-        "nama_channel": "Mentari TV",
-        "cover_url": "https://thumbor.prod.vidiocdn.com/59CZO-IVdps6hUK6gEQqn-w-bCw=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/8237/18585d.png"
-      },
-      {
-        "content_id": "6441",
-        "nama_channel": "TVRI",
-        "cover_url": "https://thumbor.prod.vidiocdn.com/F6W__Y0wn_7mFW0cOuz7mi7qjWU=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6441/528cc9.png"
-      },
-      {
-        "content_id": "6165",
-        "nama_channel": "BTV",
-        "cover_url": "https://thumbor.prod.vidiocdn.com/DoRk_b8tcmbwDHroNxP2-o6QRKU=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6165/8c950f.png"
-      },
-      {
-        "content_id": "18162",
-        "nama_channel": "Garuda TV",
-        "cover_url": "https://thumbor.prod.vidiocdn.com/qtIYvE-mjwMPwd-VUxilo2gFiAI=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/18162/b4bea2.png"
-      },
-      {
-        "content_id": "18105",
-        "nama_channel": "GGS TV",
-        "cover_url": "https://thumbor.prod.vidiocdn.com/mKMJ1J-ffUe8NpZ3ky3Ve5oDzuI=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/18105/25d569.png"
-      },
-      {
-        "content_id": "5415",
-        "nama_channel": "Jaktv",
-        "cover_url": "https://thumbor.prod.vidiocdn.com/lJ0VbXBqgieZcVnLJ-Beck84Idk=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/5415/802b76.png"
-      },
-      {
-        "content_id": "18280",
-        "nama_channel": "Berita Satu",
-        "cover_url": "https://thumbor.prod.vidiocdn.com/cSyueV9bIgkdLkvVWqIZOlR6TFQ=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/18280/c7fc8f.png"
-      },
-      {
-        "content_id": "7052",
-        "nama_channel": "Hip Hip Horee!",
-        "cover_url": "https://thumbor.prod.vidiocdn.com/EOkH5JDfHzAnCeGKEXiY12G36Qw=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/7052/63032e.png"
-      },
-      {
-        "content_id": "7464",
-        "nama_channel": "AJWA TV",
-        "cover_url": "https://thumbor.prod.vidiocdn.com/GydAc8ocolWIwQ2A_1xFv0iQ3GM=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/7464/e69965.png"
-      },
-      {
-        "content_id": "6397",
-        "nama_channel": "Horee",
-        "cover_url": "https://thumbor.prod.vidiocdn.com/lfyNbk-BG70u8ahFpO9I0HhV3bM=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6397/d422cd.png"
-      },
-      {
-        "content_id": "9713",
-        "nama_channel": "JTV",
-        "cover_url": "https://thumbor.prod.vidiocdn.com/RFPy_yTRC9PPPbHGeJlLQgt-RaE=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/9713/a11faf.png"
-      },
-      {
-        "content_id": "7432",
-        "nama_channel": "Nusantara TV",
-        "cover_url": "https://thumbor.prod.vidiocdn.com/npPL9VlWMJ5owmeupR7ucPjdGl4=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/7432/bfecbc.png"
-      },
-      {
-        "content_id": "19046",
-        "nama_channel": "Sin Po TV",
-        "cover_url": "https://thumbor.prod.vidiocdn.com/j6L0yLX8CtZTUnIO5aMzs0tNkvI=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/19046/aaa3fa.png"
-      },
-      {
-        "content_id": "6482",
-        "nama_channel": "DAAI TV",
-        "cover_url": "https://thumbor.prod.vidiocdn.com/0r_rhIVANc6dsGvQ76616ZSqF04=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6482/e83fcf.png"
-      },
-      {
-        "content_id": "9714",
-        "nama_channel": "jawaposTV",
-        "cover_url": "https://thumbor.prod.vidiocdn.com/yo9zkfT4I-17_keD5cai7XRKEE0=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/9714/5a2fad.jpg"
-      },
-      {
-        "content_id": "6898",
-        "nama_channel": "U-Channel TV",
-        "cover_url": "https://thumbor.prod.vidiocdn.com/yw_pUKLmZyf5rwqDqh-FvU2llv8=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6898/7e119a.png"
-      },
-      {
-        "content_id": "12607",
-        "nama_channel": "DMI TV",
-        "cover_url": "https://thumbor.prod.vidiocdn.com/XudiSJe7FNdZ4dBfDmy-5X0MwZo=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/12607/de1855.png"
-      },
-      {
-        "content_id": "10975",
-        "nama_channel": "Elshinta TV",
-        "cover_url": "https://thumbor.prod.vidiocdn.com/9Ai_9ibLKhC4czfgMXnw3P-uSyA=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/10975/0dc2d8.png"
-      },
-      {
-        "content_id": "7619",
-        "nama_channel": "MUSICA",
-        "cover_url": "https://thumbor.prod.vidiocdn.com/I6siEUUN1ga4mYcu0Ysr9BlHeH4=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/7619/379f71.png"
-      },
-      {
-        "content_id": "7230",
-        "nama_channel": "Magna TV",
-        "cover_url": "https://thumbor.prod.vidiocdn.com/43T_Bt_R_JSQugV3MxoAeYze7OQ=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/7230/7d6bf5.jpg"
-      },
-      {
-        "content_id": "9182",
-        "nama_channel": "CTV 5",
-        "cover_url": "https://thumbor.prod.vidiocdn.com/yRBAoM6H7dAkEINjwCH-TVbeacE=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/9182/13b733.png"
-      },
-      {
-        "content_id": "9183",
-        "nama_channel": "CTV 6",
-        "cover_url": "https://thumbor.prod.vidiocdn.com/mlEiapp7GXmQN5-WBHtM1EY6-kM=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/9183/33e19d.png"
-      },
-      {
-        "content_id": "6685",
-        "nama_channel": "CTV 1",
-        "cover_url": "https://thumbor.prod.vidiocdn.com/7chJIHmXZKn6pLd4kHzMH44577M=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6685/a2ed39.png"
-      },
-      {
-        "content_id": "6686",
-        "nama_channel": "CTV 2",
-        "cover_url": "https://thumbor.prod.vidiocdn.com/czBGyoVEbdU5E64ZH88sgEfmWXg=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6686/14270d.png"
-      },
-      {
-        "content_id": "6786",
-        "nama_channel": "CTV 3",
-        "cover_url": "https://thumbor.prod.vidiocdn.com/RoE6gTfzYNnm1APnwvK_Bi7j_-Y=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6786/d2ebc5.png"
-      },
-      {
-        "content_id": "6299",
-        "nama_channel": "Bein 1",
-        "cover_url": "https://thumbor.prod.vidiocdn.com/R5o3HOzN4coNEldIuKjnpawojr4=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6299/d74f54.png"
-      },
-      {
-        "content_id": "17875",
-        "nama_channel": "Bein 2",
-        "cover_url": "https://thumbor.prod.vidiocdn.com/HsxPbK2T6gPnpmNmiL4KEApfzz0=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/17875/afb4ca.png"
-      },
-      {
-        "content_id": "6317",
-        "nama_channel": "Bein 3",
-        "cover_url": "https://thumbor.prod.vidiocdn.com/lKgFAcljoRcYILYnMzYh8dt7Ixw=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6317/4a8762.png"
-      },
-      {
-        "content_id": "17139",
-        "nama_channel": "SPOTV",
-        "cover_url": "https://thumbor.prod.vidiocdn.com/1MzvDHEzp4Zo_wfPgQQzwkJOKc8=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/17139/e5207b.png"
-      },
-      {
-        "content_id": "17140",
-        "nama_channel": "SPOTV 2",
-        "cover_url": "https://thumbor.prod.vidiocdn.com/7Yaodip5SnRzHSrJqowhSrt1uSo=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/17140/18e12a.png"
-      },
-      {
-        "content_id": "9353",
-        "nama_channel": "Premier League TV",
-        "cover_url": "https://thumbor.prod.vidiocdn.com/wxu6A5xCPmydS0PsUyDZa9kbGeo=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/9353/a79dfe.png"
-      },
-      {
-        "content_id": "18189",
-        "nama_channel": "Champions Golf 1",
-        "cover_url": "https://thumbor.prod.vidiocdn.com/5RyqXQzhOVE-gf2Y_IG1e5heJV8=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/18189/8180b2.png"
-      },
-      {
-        "content_id": "18190",
-        "nama_channel": "Champions Golf 2",
-        "cover_url": "https://thumbor.prod.vidiocdn.com/iASUDB26jxl_lTZyJTM2mmr3fQY=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/18190/541269.png"
-      },
-      {
-        "content_id": "6717",
-        "nama_channel": "NBA TV",
-        "cover_url": "https://thumbor.prod.vidiocdn.com/KLX48tQxYRs4GxMnvm2avGTXpf0=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6717/790cc9.png"
-      },
-      {
-        "content_id": "6362",
-        "nama_channel": "TVN",
-        "cover_url": "https://thumbor.prod.vidiocdn.com/TjMKXqjCDGF1uqycTxG-Os7E87E=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6362/dcd434.png"
-      },
-      {
-        "content_id": "6852",
-        "nama_channel": "Makkah TV",
-        "cover_url": "https://thumbor.prod.vidiocdn.com/MBL6RJmC3YxGllDHfkl-3tOYjts=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6852/1047bc.png"
-      },
-      {
-        "content_id": "8121",
-        "nama_channel": "Rock Action",
-        "cover_url": "https://thumbor.prod.vidiocdn.com/KNwURMx7JBhbW7yXRRo9_SQUvHM=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/8121/e9e2b9.png"
-      },
-      {
-        "content_id": "6410",
-        "nama_channel": "Aljazeera",
-        "cover_url": "https://thumbor.prod.vidiocdn.com/ylPI-fG-She_OlfbH8KWncdsDe8=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6410/6027db.png"
-      },
-      {
-        "content_id": "6784",
-        "nama_channel": "Arirang",
-        "cover_url": "https://thumbor.prod.vidiocdn.com/oBMhyILK-ywwtqBqQyt51dmDs5o=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6784/b9cb20.png"
-      },
-      {
-        "content_id": "6411",
-        "nama_channel": "News Asia",
-        "cover_url": "https://thumbor.prod.vidiocdn.com/MVX8rapc40STy_XQvDREDJmSxkM=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6411/e600b8.jpg"
-      },
-      {
-        "content_id": "8120",
-        "nama_channel": "ROCK Entertainment",
-        "cover_url": "https://thumbor.prod.vidiocdn.com/evo4ygNACDOou93AiTxBSlw6wrs=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/8120/8d7f22.png"
-      },
-      {
-        "content_id": "7150",
-        "nama_channel": "ABC Australia",
-        "cover_url": "https://thumbor.prod.vidiocdn.com/7_vlXOuPe1jTvYQCMkgYv_KPjJQ=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/7150/2de77e.png"
-      },
-      {
-        "content_id": "5075",
-        "nama_channel": "DW English",
-        "cover_url": "https://thumbor.prod.vidiocdn.com/CkGuUHK9vLiapJ8s_TVp_Mj5v60=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/5075/f6106b.png"
-      },
-      {
-        "content_id": "7968",
-        "nama_channel": "NHK World Japan",
-        "cover_url": "https://thumbor.prod.vidiocdn.com/zxr-mrOWStozeCuL4GoW56c0JBc=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/7968/3f44ff.png"
-      },
-      {
-        "content_id": "6412",
-        "nama_channel": "Euronews",
-        "cover_url": "https://thumbor.prod.vidiocdn.com/mv4ZFcm2QaBMgaCprNUczDIaSJ4=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6412/c0e105.png"
-      },
-      {
-        "content_id": "6533",
-        "nama_channel": "Zoomoo",
-        "cover_url": "https://thumbor.prod.vidiocdn.com/vQdbJZqHtzPPXckjO0Hy8yy-3_0=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6533/f6c9c0.png"
-      },
-      {
-        "content_id": "18622",
-        "nama_channel": "Daystar TV",
-        "cover_url": "https://thumbor.prod.vidiocdn.com/a_R11gFNIXuNsUiqJ6Tsj-45lqE=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/18622/d20ab7.png"
-      },
-      {
-        "content_id": "17278",
-        "nama_channel": "TV5Monde",
-        "cover_url": "https://thumbor.prod.vidiocdn.com/AW2JNvGveJR_JGN4sr8pcViIxNM=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/17278/138bad.png"
-      },
-      {
-        "content_id": "12784",
-        "nama_channel": "Africanews",
-        "cover_url": "https://thumbor.prod.vidiocdn.com/gxp9cK9zfpgAKXUUuVc7SYF1q1g=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/12784/b75a42.png"
-      }
-    ]
   }
 }
