@@ -1,5 +1,5 @@
 {
-  "time": "2025-09-05T08:28:02.551Z",
+  "time": "2025-09-05T08:30:02.341Z",
   "sections": {
     "4539750": {
       "title": "Madrid P1 Premier Padel 2025 - Quarter Final",
@@ -247,12 +247,6 @@
       "cover_url": "https://thumbor.prod.vidiocdn.com/O4TOBZxkb6zlWFUaoHw3DsjcCNM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4546881/0a50a7.jpg",
       "start_time": "2025-09-05T12:58:00.000Z"
     },
-    "4546882": {
-      "title": "FIA Formula 3 Championship Italy Grand Prix 2025 - Practice",
-      "web_url": "17884",
-      "cover_url": "https://thumbor.prod.vidiocdn.com/bMcGO9vFamNItn6nEd1jNBdF_ts=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4546882/5915f3.jpg",
-      "start_time": "2025-09-05T07:35:00.000Z"
-    },
     "4546930": {
       "title": "FIA Formula 2 Championship Italy Grand Prix 2025 - Qualifying",
       "web_url": "17884",
@@ -442,9 +436,9 @@
   },
   "vidioliveothers": {
     "17884": {
-      "title": "FIA Formula 3 Championship Italy Grand Prix 2025 - Practice",
+      "title": "Formula 1",
       "web_url": "17884",
-      "cover_url": "https://thumbor.prod.vidiocdn.com/bMcGO9vFamNItn6nEd1jNBdF_ts=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4546882/5915f3.jpg",
+      "cover_url": "https://thumbor.prod.vidiocdn.com/Rc1pHYZnd8l_siMi118TkKusbPM=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17884/formula-1-5ee872.jpg",
       "start_time": "2025-04-02T13:25:00.000Z"
     },
     "17938": {
@@ -458,6 +452,12 @@
       "web_url": "19404",
       "cover_url": "https://thumbor.prod.vidiocdn.com/L75r8v7GTx-FEErmxGLs3iXfnRM=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/19404/serie-a-78c93e.jpg",
       "start_time": "2025-08-18T08:00:00.000Z"
+    },
+    "19488": {
+      "title": "Putri: Mitra Bank Jateng vs Kharisma Premium - Livoli Divisi Utama",
+      "web_url": "19488",
+      "cover_url": "https://thumbor.prod.vidiocdn.com/I7cr0sWq6WYjZf6q8AM2qa8lhiU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4544468/50fdcf.jpg",
+      "start_time": "2025-09-05T08:30:00.000Z"
     },
     "19514": {
       "title": "LIVE REACTION EKSKLUSIF GELORA BUNG TOMO Timnas Indonesia vs Chinese Taipei | FIFA MATCH DAY",
@@ -474,40 +474,40 @@
     "x-visitor-id": "51b995d2-833d-4a3c-b021-952b647424cb",
     "x-api-app-info": "tv-android/10/2.45.11-736",
     "referer": "androidtv-app://com.vidio.android.tv",
-    "cookie": "country_id=ID; ahoy_visitor=481ca85c-eb61-437e-82ec-02c8e7d79424; ahoy_visit=80604e7f-a796-4b4b-8d37-1ce767279c9a; _vidio_session=zEy7tSnHJANKEvHbOwG6hU7g3zavpZTWVaUJ0%2BmnFnJgTS6i3%2FUQCUVVmjcYTOUFhkcy5i1gLD3T6sO7mpBIE1NdZRNYuQO%2F012rYQ6XYAONmpSNm82Q%2BEZ%2B3lul3Gt8ZC9mAPpKEBNXu287vS4wRm3eCZWbHmfIwpTsf%2FElXNrQJsF6WhKJSrsZ7U086mvW7b8dmgW5jjr7S1PIW0uiGphOJPg3Lld8R6HEg9sluTYCiJZfDmBN8fauta0jIecOyp19IO818PWjzqopFuUh9A3gpaKHOvo%2Bs60X8ReoqU7tlqMgIzvVMRL71r5OC0auh35NWl0jvLynnke1qRpkvicLPRjTRGRhe2GfqhQAu3CL%2FegSI0XfPNWiKSTiYTbl%2FZIcBQ5u4vzkoKjLJgNoyEaZmxs2dc6BLcO6uHxrszhNMwMdbWbC49TOyn1jpEtrUSMbT6yaAYmobTEuD0New1iG--VjiZOAAiJd7puSe9--pxRE6MRKo1TA6%2BUmqaCjhw%3D%3D",
+    "cookie": "country_id=ID; ahoy_visitor=93f22546-8a4e-4f1b-92cb-61a8e73a9300; ahoy_visit=88afa918-2f5a-4760-853b-12809720e3c4; _vidio_session=O9BLj1g6McnNPWdB6zOP%2Flx6eCsV4XXpaiRxc8AYAL8k6j2IGI7XAzOcjVKoqYdZhKIm0hWeM1d13Tts2GncrLqNi%2FFO%2F%2BrmANsh3%2Ft%2Fw8n1Bv823NAtiO17LKk5uj9Y45A2A06ZMlU9jgT1fDqjKgEy94YtdPm1V0Ar0hxehWcV2LdMdEO3uY9Od2lxadrF5BM42fRF6pKTtnNlE9xjy4ujm0qyyK8S1i8q2LFHj6B04zTMR8C1C%2Fnsx%2FQca4k%2Fv4b5uN7tFKdY8LGVCZhBOqcLaUUtnBi8GTE5FONwiUco7axfv%2Fap1bPURQaZVX1jxlzFLDkETi2PaTSpLIOkg6YhyrRm02bXii%2BMXdqDtbjF47Lsq6ocepvXqvd5E6XdNxJ4Lia6PfnG02AbJN9zOhjKnpUUQCe4Na8ASQz93rQDHmOB0JIU42nvvTXvCdOQnlVu8c%2B2pazxgUysJeDnC4N6--UmO8ZlW2pQngz9ya--XwIJhA6trDMxBg%2BjdGwTWQ%3D%3D",
     "accept": "*/*",
     "origin": "https://www.vidio.com",
     "user-agent": "tv-android/2.45.11 (736)",
-    "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/npAzYg/+7Iqng1CpXA250gf9d39zEk+Kx0bNVxLK8QfzacPe0XHd49Aqo2CiPN0c2heU417JM7KRoBh3iDtSqw=",
-    "x-client": "1757060889.068",
+    "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/qEVybHKdYeUZ6ruUiGwaH5anKEAUUZ+teoEEZg7Mr12Po+mVOehBC0GZaoqKudMaLw3cWBCfXNd7OeeZenqrZ8=",
+    "x-client": "1757061007.924",
     "x-secure-level": "2",
-    "x-signature": "7d4d5e51b6da97b4b85904749513a3ba37f6c8426c4c625d36cf0c4b29a1f317",
-    "luws": "D75186D4-FAE4-480A-4911-C484006A84B4_",
+    "x-signature": "013e1a3c0f216622c23674453398508b00eacb1645c904caf6b56261b26730bd",
+    "luws": "4CFD9433-ADF6-A5E2-BF4C-75ADB4C35B73_",
     "sec-ch-ua": "\"Not;A=Brand\";v=\"99\", \"HeadlessChrome\";v=\"139\", \"Chromium\";v=\"139\"",
     "sec-ch-ua-mobile": "?0",
     "sec-ch-ua-platform": "\"Windows\"",
     "x-user-email": null,
-    "734-dash": null,
-    "734-hls": null,
-    "734-drm": null,
-    "204-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/dash/204_stream.mpd?hdnts=exp=1757075291~acl=/stream/204/file/*~id=allUsers~hmac=0bc37382b06a7250442357c847827587804626ec08dfc0e224360dab431b214b",
-    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/dash/204/master.m3u8?hdnts=exp=1757075291~acl=/stream/204/file/*~id=allUsers~hmac=0bc37382b06a7250442357c847827587804626ec08dfc0e224360dab431b214b",
-    "204-drm": null,
     "19488-dash": null,
     "19488-hls": null,
     "19488-drm": null,
-    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1757075291~acl=/stream/206/file/*~id=allUsers~hmac=e24e979ba433bc0713d77fe3846ef042f84496e6d70d4e0ca57c6051faf63e82",
-    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206/master.m3u8?hdnts=exp=1757075291~acl=/stream/206/file/*~id=allUsers~hmac=e24e979ba433bc0713d77fe3846ef042f84496e6d70d4e0ca57c6051faf63e82",
+    "204-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/dash/204_stream.mpd?hdnts=exp=1757075410~acl=/stream/204/file/*~id=allUsers~hmac=67d8ee40ea35ca29b3fc84e6573a59c0956356f752894f0ac58f67fe3d624f29",
+    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/dash/204/master.m3u8?hdnts=exp=1757075410~acl=/stream/204/file/*~id=allUsers~hmac=67d8ee40ea35ca29b3fc84e6573a59c0956356f752894f0ac58f67fe3d624f29",
+    "204-drm": null,
+    "206-dash": null,
+    "206-hls": null,
     "206-drm": null,
-    "18105-dash": null,
-    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1757075291~acl=/stream/18105/file/*~id=allUsers~hmac=640b8ded6fc748120a84db9e2c220b9381080fa5a1237d59db89bce6c31d7cc6",
-    "18105-drm": null,
-    "205-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/dash/205_stream.mpd?hdnts=exp=1757075291~acl=/stream/205/file/*~id=allUsers~hmac=481a95497dcb524cd8577fea538c17d168533da37cc0d30b202e9a5bf839ca13",
-    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/dash/205/master.m3u8?hdnts=exp=1757075291~acl=/stream/205/file/*~id=allUsers~hmac=481a95497dcb524cd8577fea538c17d168533da37cc0d30b202e9a5bf839ca13",
+    "205-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/dash/205_stream.mpd?hdnts=exp=1757075410~acl=/stream/205/file/*~id=allUsers~hmac=0eaaa59259c108949dd33706b5b263b3fb961e3b7db3cb0989084f6ff06b7d2c",
+    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/dash/205/master.m3u8?hdnts=exp=1757075410~acl=/stream/205/file/*~id=allUsers~hmac=0eaaa59259c108949dd33706b5b263b3fb961e3b7db3cb0989084f6ff06b7d2c",
     "205-drm": null,
     "733-dash": null,
     "733-hls": null,
     "733-drm": null,
+    "18105-dash": null,
+    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1757075410~acl=/stream/18105/file/*~id=allUsers~hmac=171a221853ddf2cc89ffd3571e7e3989405d3362d7a02b303dee5d68e82c1d45",
+    "18105-drm": null,
+    "734-dash": null,
+    "734-hls": null,
+    "734-drm": null,
     "all-sections": "16890-17139-17140-17141-17884-19388-19486-19488-19497-204-6299-6317-6685",
     "all-vidiolivetv": [
       {
