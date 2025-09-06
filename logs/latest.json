@@ -1,26 +1,26 @@
 {
-  "time": "2025-09-06T04:42:56.325Z",
+  "time": "2025-09-06T04:46:17.747Z",
   "headers": {
     "luws": "BE7B15DD-8D3A-4BD6-A9FD-4C81CC85E9CE_",
-    "x-signature": "9e276f67795a296d7c884228681c7705808d9b56bc82d2c0ae39c26cbd2343f8",
-    "x-client": "1757133790.784",
+    "x-signature": "106ba8420f4288610d94650700f16575fdd7b38e0751f71539f4f8b8cc298069",
+    "x-client": "1757133991.138",
     "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/u7NT5BnZizPhokvqdaXdzH0Cp/yum77MspG/iiIebYkWo1uQ8jMHkYhD6AzONF8Be//P+VjPqpRuOTKeux13EQ=",
     "x-secure-level": "2",
     "x-api-platform": "web-desktop",
-    "x-request-from": "https://www.vidio.com/live/19488-livoli-divisi-utama?schedule_id=4544473",
+    "x-request-from": "https://www.vidio.com/live/19488-livoli-divisi-utama?schedule_id=4544470",
     "content-type": "application/json",
     "cookie": "ahoy_visitor=2a060c4b-cbf6-48ac-967f-2cbdf76522c8; luws=BE7B15DD-8D3A-4BD6-A9FD-4C81CC85E9CE_; country_id=ID; ahoy_visit=b043dda7-1645-4b1a-b163-952fbc0deb76; _vidio_session=xxx;",
     "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36",
     "x-user-email": null,
-    "204-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/dash/204_stream.mpd?hdnts=exp=1757148175~acl=/stream/204/file/*~id=allUsers~hmac=a41d6a8d2f8addc8687d658e5a2b4ee02937c56414a646d7bcc295fcb1e8751a",
-    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/dash/204/master.m3u8?hdnts=exp=1757148175~acl=/stream/204/file/*~id=allUsers~hmac=a41d6a8d2f8addc8687d658e5a2b4ee02937c56414a646d7bcc295fcb1e8751a",
-    "205-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/dash/205_stream.mpd?hdnts=exp=1757148175~acl=/stream/205/file/*~id=allUsers~hmac=12980af29d39402dce8f7ea286e592630e10ac1d74a91a2ded4aeec297993112",
-    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/dash/205/master.m3u8?hdnts=exp=1757148175~acl=/stream/205/file/*~id=allUsers~hmac=12980af29d39402dce8f7ea286e592630e10ac1d74a91a2ded4aeec297993112",
-    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1757148175~acl=/stream/206/file/*~id=allUsers~hmac=2874df6d2578ddae1eb61d79231f7e188ac005ba7fd21acb30a1ea0a955094ed",
-    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206/master.m3u8?hdnts=exp=1757148175~acl=/stream/206/file/*~id=allUsers~hmac=2874df6d2578ddae1eb61d79231f7e188ac005ba7fd21acb30a1ea0a955094ed",
+    "204-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/dash/204_stream.mpd?hdnts=exp=1757148375~acl=/stream/204/file/*~id=allUsers~hmac=5acc4e91fcf217cc03f520c3d2468d81e7f8a27959439ec796a39f735e85778e",
+    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/dash/204/master.m3u8?hdnts=exp=1757148375~acl=/stream/204/file/*~id=allUsers~hmac=5acc4e91fcf217cc03f520c3d2468d81e7f8a27959439ec796a39f735e85778e",
+    "205-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/dash/205_stream.mpd?hdnts=exp=1757148375~acl=/stream/205/file/*~id=allUsers~hmac=3d5e94841e910dac9b523744643b811b37939a4b0182660be5319c2a7473de20",
+    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/dash/205/master.m3u8?hdnts=exp=1757148375~acl=/stream/205/file/*~id=allUsers~hmac=3d5e94841e910dac9b523744643b811b37939a4b0182660be5319c2a7473de20",
+    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206_stream.mpd?hdnts=exp=1757148375~acl=/stream/206/file/*~id=allUsers~hmac=37db04901f48e0e2fdac1aeb694c6aee35a4029623eadafd5d0180253ead4e73",
+    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/dash/206/master.m3u8?hdnts=exp=1757148375~acl=/stream/206/file/*~id=allUsers~hmac=37db04901f48e0e2fdac1aeb694c6aee35a4029623eadafd5d0180253ead4e73",
     "18105-dash": null,
-    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1757148175~acl=/stream/18105/file/*~id=allUsers~hmac=94501f61a06875408d57ad3b6c076f41b5aec96a5094a644b23d0507b596b9e0",
-    "all-sections": "16890-17139-17140-17141-17884-19388-19486-19488-19497-204-6299-6685",
+    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/live/18105/master.m3u8?hdnts=exp=1757148375~acl=/stream/18105/file/*~id=allUsers~hmac=e2978ea6cbd0e620a272dbe83ab099aafb606a85e8fc3486725dad670ab7af26",
+    "all-sections": "17139-17140-17141-17884-19388-19486-19488-19497-204-6299-6685",
     "all-vidiolivetv": [
       {
         "content_id": "204",
@@ -525,12 +525,6 @@
       "cover_url": "https://thumbor.prod.vidiocdn.com/uXAd077w2575RZrhTOfAYTmClO8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4547032/9fdfe7.jpg",
       "start_time": "2025-09-07T12:55:00.000Z"
     },
-    "4549085": {
-      "title": "ONE Fight Night 35: Buntan vs Hemetsberger",
-      "web_url": "16890",
-      "cover_url": "https://thumbor.prod.vidiocdn.com/D04xYDo5VkZAX47hYbVEOdKDr0g=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4549085/77ac2a.jpg",
-      "start_time": "2025-09-06T01:00:00.000Z"
-    },
     "4549087": {
       "title": "WorldSBK Tissot Superpole - WorldSBK Championship Round 8 French Round",
       "web_url": "17139",
@@ -605,12 +599,6 @@
     }
   },
   "vidioliveothers": {
-    "16890": {
-      "title": "ONE Fight Night 35: Buntan vs Hemetsberger",
-      "web_url": "16890",
-      "cover_url": "https://thumbor.prod.vidiocdn.com/D04xYDo5VkZAX47hYbVEOdKDr0g=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4549085/77ac2a.jpg",
-      "start_time": "2025-09-06T01:00:00.000Z"
-    },
     "17884": {
       "title": "Formula 1",
       "web_url": "17884",
