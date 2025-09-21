@@ -1,5 +1,5 @@
 {
-  "time": "2025-09-20T23:54:02.367Z",
+  "time": "2025-09-21T00:00:02.656Z",
   "sections": {
     "18249": {
       "title": "Dechapol Puavaranukroh/Supissara Paewsampran (THA) vs Chen Tang Jie Toh Ee Wei (MAS) - Mixed Doubles Final | LI-NING China Masters 2025",
@@ -126,12 +126,6 @@
       "web_url": "17141",
       "cover_url": "https://thumbor.prod.vidiocdn.com/yG-wbcdAQvVbiRuczXa0AsEiVfw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4579885/636110.jpg",
       "start_time": "2025-09-21T06:30:00.000Z"
-    },
-    "4579959": {
-      "title": "Laver Cup - Day Sessions 2",
-      "web_url": "17875",
-      "cover_url": "https://thumbor.prod.vidiocdn.com/tXf99cnH6HYhZKWz4psqeQlL-y8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4579959/9c3015.jpg",
-      "start_time": "2025-09-20T20:00:00.000Z"
     },
     "4579960": {
       "title": "Laver Cup - Night Sessions 2",
@@ -333,6 +327,12 @@
       "cover_url": "https://thumbor.prod.vidiocdn.com/ASLvJEzn8iA3hYluyuk6_q1xfds=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6954/misa-katedral-3545fc.jpg",
       "start_time": "2025-09-21T01:30:00.000Z"
     },
+    "17141": {
+      "title": "2025 MXGP",
+      "web_url": "17141",
+      "cover_url": "https://thumbor.prod.vidiocdn.com/oWmj2GJmekD1JrfkvlsXV2pDbAA=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17141/2025-mxgp-45d5b5.jpg",
+      "start_time": "2025-09-20T23:55:00.000Z"
+    },
     "17884": {
       "title": "Formula 1",
       "web_url": "17884",
@@ -352,7 +352,7 @@
       "start_time": "2025-09-25T12:00:00.000Z"
     },
     "19587": {
-      "title": "TOP YOUTH PREMIER LEAGUE 2025 - MATCHDAY 4",
+      "title": "ASSA PRO SS vs BOGOR UNITED SS - Top Youth Premier League 2025 U-9",
       "web_url": "19587",
       "cover_url": "https://thumbor.prod.vidiocdn.com/F0rY8RR_aHKpyv9rt6A8Na74-JY=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/19587/top-youth-premier-league-2025-matchday-4-7fa14c.jpg",
       "start_time": "2025-09-20T23:30:00.000Z"
@@ -367,37 +367,37 @@
     "x-api-app-info": "tv-android/10/2.45.11-736",
     "referer": "androidtv-app://com.vidio.android.tv",
     "hash": "mJSzzAnUGzHcSOFJzbJUFJoMokizTrdcJ5AYsc9ezcb8hApVmPztWc9QaV4cZDUDMAnYJyawjUflJyOjDmQHlD9qUbA8WWtI8oAYof3MQXR7Vn004BVcTJPpaB5L4DbTmRrTPiELFNRDonfN7jp2ts",
-    "cookie": "country_id=ID; ahoy_visitor=092214ca-1729-49c7-af5f-724db038439f; ahoy_visit=e3e74b97-1850-408d-80a9-8b98d7705f80; shva=1; _vidio=true; plenty_id=190210651; x_user_token=xJpuE7pyQ_Ebj62v1cxY; access_token=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InR5cGUiOiJhY2Nlc3NfdG9rZW4iLCJ1aWQiOjE5MDIxMDY1MX0sImV4cCI6MTc1ODQ5ODg0NH0.7pU5tXYiB3n95tGyvQqTeI6MTB5Fnb7B8zLP3aGQYXM; _vidio_session=l%2BDXttojYjBB8rfU2PaFsEdE%2B1u4eoFHGq7zUZtv2vyNFFGkKixe%2FYpkGxwgHtEPvY3jF6UicagiNd%2Fv5RiCg0VIE%2BeOt6iDVi0eTCKZEn1OSW2UsBAnheT21Kz38J0yUhrhQb%2B7ZWW4oCjFpqjcOHlgA0soR8t9SpTOnhQBuBwx6lsP%2BftjS4K0QyUwIpvQoZpc%2FY4wqdJ9Q%2FT6ToAZTpp43xDNZpsjFrUtzNY7mmK6gwki78iH1gsOeQb6euKcfLGjnsawTa64O4BipKlrVQdxZLgw%2BJ48avMjPiFOMDT6wKnLI6ks1VG%2BWeePfZkL56PAMJLPeaaj9ai7TAAbKgA%2F40gi9DrsosnBhoP59zq2s1hXpJ1ByFLEtmmVfLEtnAKdUrxrBwF1pxFQw1QRtV9JkGIPcl9jVXqosY%2FylevnPTebqML4goO857%2Bnm1Xwa1CxxvSnHJZ14eJ9zcL3mpqkl45Q%2B7UrGPAf6u6NLkRH8GyL%2BWy3SPGN%2FmwxfqGN179Rqgv5Eq3RrXJ6GFbbhPRBNtYUqmeFZgJEC%2BGO6PZWh0hGD4JwGzhfZoAOtYF%2Fq1YYXKeqkhG%2BKnQcovolVJfQ%2FILSpHDqGvu74lFb2oIWUWrWQ5ygzQPRWlr3sJmwQhbTEO%2BeKR8vqTKUVhlpirdZpX2sjjWl6H83iKdp--K6qLuKYheL0tZKfX--n8bfjyQPABjoi6M1x8FEWQ%3D%3D",
+    "cookie": "country_id=ID; ahoy_visitor=877ce3dd-3844-40ea-b1ae-6703eda50b31; ahoy_visit=7011d509-9bed-4038-85e4-60b94153e13b; shva=1; _vidio=true; plenty_id=188933120; x_user_token=ETQKhEAj9hZY-FffmBwk; access_token=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InR5cGUiOiJhY2Nlc3NfdG9rZW4iLCJ1aWQiOjE4ODkzMzEyMH0sImV4cCI6MTc1ODQ5OTIwNH0.Z0m7fPI6afNB4A1oKiPug-UALVtBLohRIWHP3dCwAA8; _vidio_session=wKaA94HYVpeSCCp2t4SsvibwbjVSRRskJAUb5PJQDR4eDkA10U6HZz7gPbDUlBKNqjbQkTLhghdfnCFjnLPejOjKde%2Bt0KoK681ifF%2BqHY9vCLQBbPoEvEegljkx8oWsd0ttFR8VBKEZHxaVuYuWUwe5hpre4UXA0Sh6aUQxFfyI1kHdqQXLXbCmXECzrCbmRKPbYdIIAxFedRtSeTJ2qG06alvtVQ5ypDazqx0MoFm1W21SD4%2Fanfy95PKLrG8Uj9%2B27WlPs6SfLIC0OEuxlb4awxLhcDUcEQckPTxnA4sYNqNI34bnxvNsx%2B8VcTLbf2J%2FIHBTjiJrHdlGtSfVrQ227jMLzYzOGxYkSmJGUnKn%2BP5UenDUHHAWXmPgM08FQiC%2BOWEfuYs7fQYyH4hzx%2FhhRSJ15duUW4skp3ua%2FhjNUvfiaSJ3ubRwQCtxM2KSgjyHQbCrZJRtDiiYUJVLvpkgzRAT3PJM9yUSEF36nrDK8bqQtsixSu5DR4XjcaAf5S7Lt8lZ7A4RYvvFoAX44v1vYDLAond%2F4mEUsU%2FUAdM4%2BaX9BhBJVT6Vqbev1e4tPSgo5KbH0QA34FCIzuRgpXiE1qZo2J6f2fiWb54kUmt%2FS5EQPlk103AyS7f%2BX%2BqlX0dC5Q7yd3%2FdlYBjoD8waGPFxtYq4eYq8X9nXfXC--BHndBQnk1oRmlL0C--pGB4j4S5MJNi0X3FBnVSaA%3D%3D",
     "accept": "*/*",
     "origin": "https://www.vidio.com",
     "user-agent": "tv-android/2.45.11 (736)",
-    "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/lOQj/R4A2Jr7kAyGVz1GXD14OH78GqQT8py/42tZfYR2kOoI13ynXUz9Che/AYX7UqS2piQcam/R4ZU2PBGxhI=",
-    "x-client": "1758412448.66",
+    "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/jjAoGKBE30FGnIAfTN9WBVodfC8yukHCRSwK1PAxey60jNlwS48PA6TgZjGEDkYMaMiWXCHIQJHE4mT1z6NYPU=",
+    "x-client": "1758412809.205",
     "x-secure-level": "2",
-    "x-signature": "077c1e7b7fa89d493a7f82573e8753cf6ef6b729b9ac1bd571e07a098ab617d7",
-    "x-user-email": "stbpnwdi@gmail.com",
-    "luws": "D4D0970F-6BB8-3A6A-713C-05171026E6E6_190210651",
+    "x-signature": "3b9d9361a84647eb2d42c935ad23332498127965590f17913eb84b990373819c",
+    "x-user-email": "aenrpaod@gmail.com",
+    "luws": "7241ECA5-28C0-E810-5F44-A5E36C660CEF_188933120",
     "sec-ch-ua": "\"Not;A=Brand\";v=\"99\", \"HeadlessChrome\";v=\"139\", \"Chromium\";v=\"139\"",
     "sec-ch-ua-mobile": "?0",
     "sec-ch-ua-platform": "\"Windows\"",
-    "204-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/stream.mpd?hdnts=exp=1758426849~acl=/stream/204/file/*~id=190210651~hmac=818d34510292e4c4a5afb0bd7cb619ab52c7efa045f50cce7dfb8dd9a2e5b2e3",
-    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/master.m3u8?hdnts=exp=1758426849~acl=/stream/204/file/*~id=190210651~hmac=818d34510292e4c4a5afb0bd7cb619ab52c7efa045f50cce7dfb8dd9a2e5b2e3",
-    "204-drm": null,
-    "205-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/stream.mpd?hdnts=exp=1758426849~acl=/stream/205/file/*~id=190210651~hmac=8335693ce2803ba7894485a017b2d2c7efc3e6c12259f916ce6c05adf61f2983",
-    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/master.m3u8?hdnts=exp=1758426849~acl=/stream/205/file/*~id=190210651~hmac=8335693ce2803ba7894485a017b2d2c7efc3e6c12259f916ce6c05adf61f2983",
-    "205-drm": null,
-    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/stream.mpd?hdnts=exp=1758426849~acl=/stream/206/file/*~id=190210651~hmac=7970226c6e4847a78e4bd6a4c1def7983afade787ae934435801110e619c1e02",
-    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/master.m3u8?hdnts=exp=1758426849~acl=/stream/206/file/*~id=190210651~hmac=7970226c6e4847a78e4bd6a4c1def7983afade787ae934435801110e619c1e02",
+    "206-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/stream.mpd?hdnts=exp=1758427210~acl=/stream/206/file/*~id=188933120~hmac=ac9507c6531ce2ad253829b7c901a89645c96af59c374e6bdd01378fb9e7adf4",
+    "206-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/master.m3u8?hdnts=exp=1758427210~acl=/stream/206/file/*~id=188933120~hmac=ac9507c6531ce2ad253829b7c901a89645c96af59c374e6bdd01378fb9e7adf4",
     "206-drm": null,
-    "734-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/734/file/stream.mpd?hdnts=exp=1758426849~acl=/stream/734/file/*~id=190210651~hmac=7f2f59d274b0a2e0311116a2d5d8aca7bd2f28533a0dc226eb45cfb9e8fa64bf",
-    "734-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/734/file/master.m3u8?hdnts=exp=1758426849~acl=/stream/734/file/*~id=190210651~hmac=7f2f59d274b0a2e0311116a2d5d8aca7bd2f28533a0dc226eb45cfb9e8fa64bf",
-    "734-drm": null,
-    "733-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/733/file/dash/733_stream.mpd?hdnts=exp=1758426849~acl=/stream/733/file/*~id=190210651~hmac=340ec41a4eedf7985f907f5f9db90974266131c508e8bc8f817ab9381c7e516b",
-    "733-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/733/file/dash/733/master.m3u8?hdnts=exp=1758426849~acl=/stream/733/file/*~id=190210651~hmac=340ec41a4eedf7985f907f5f9db90974266131c508e8bc8f817ab9381c7e516b",
-    "733-drm": null,
-    "18105-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/stream.mpd?hdnts=exp=1758426849~acl=/stream/18105/file/*~id=190210651~hmac=756503fc2b2493b1645a8ca8e763771ab8b33aa8f98116f7f3b625768eb13caf",
-    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/master.m3u8?hdnts=exp=1758426849~acl=/stream/18105/file/*~id=190210651~hmac=756503fc2b2493b1645a8ca8e763771ab8b33aa8f98116f7f3b625768eb13caf",
+    "205-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/stream.mpd?hdnts=exp=1758427210~acl=/stream/205/file/*~id=188933120~hmac=8c16f6c5a3445fcdab25127e75cf5bb424a0f1096ef40623e9f596a9284bd4ad",
+    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/master.m3u8?hdnts=exp=1758427210~acl=/stream/205/file/*~id=188933120~hmac=8c16f6c5a3445fcdab25127e75cf5bb424a0f1096ef40623e9f596a9284bd4ad",
+    "205-drm": null,
+    "204-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/stream.mpd?hdnts=exp=1758427210~acl=/stream/204/file/*~id=188933120~hmac=79762ebd218a61620af4aebd7c76112e827565177d5001551145cd4c0b238d9f",
+    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/master.m3u8?hdnts=exp=1758427210~acl=/stream/204/file/*~id=188933120~hmac=79762ebd218a61620af4aebd7c76112e827565177d5001551145cd4c0b238d9f",
+    "204-drm": null,
+    "18105-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/stream.mpd?hdnts=exp=1758427210~acl=/stream/18105/file/*~id=188933120~hmac=2801589a7cfcbd1bef7aafb31d625a78277f3cb0f21d212362390323ffdcdc78",
+    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/master.m3u8?hdnts=exp=1758427210~acl=/stream/18105/file/*~id=188933120~hmac=2801589a7cfcbd1bef7aafb31d625a78277f3cb0f21d212362390323ffdcdc78",
     "18105-drm": null,
+    "734-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/734/file/stream.mpd?hdnts=exp=1758427210~acl=/stream/734/file/*~id=188933120~hmac=f41fa23b3fa955689a126d7c9a48ecffaab8e11bed2206225ee281c26bfe2f23",
+    "734-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/734/file/master.m3u8?hdnts=exp=1758427210~acl=/stream/734/file/*~id=188933120~hmac=f41fa23b3fa955689a126d7c9a48ecffaab8e11bed2206225ee281c26bfe2f23",
+    "734-drm": null,
+    "733-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/733/file/dash/733_stream.mpd?hdnts=exp=1758427210~acl=/stream/733/file/*~id=188933120~hmac=67b4a42e853c108250a45afeedd4793893d4c2bb0e8959bb9c06f0bc0927b25a",
+    "733-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/733/file/dash/733/master.m3u8?hdnts=exp=1758427210~acl=/stream/733/file/*~id=188933120~hmac=67b4a42e853c108250a45afeedd4793893d4c2bb0e8959bb9c06f0bc0927b25a",
+    "733-drm": null,
     "all-sections": "17139-17141-17323-17505-17875-17884-18190-18249-19354-19355-19375-19404-19488-19541-19542-19543-19548-19572-19584-19588-205-6299-6317-6685-6686-9182-9183",
     "all-vidiolivetv": [
       {
