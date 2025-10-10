@@ -1,5 +1,5 @@
 {
-  "time": "2025-10-10T03:10:02.779Z",
+  "time": "2025-10-10T03:20:02.196Z",
   "sections": {
     "18249": {
       "title": "Goh Soon Huat/Lai Shevon Jemie (MAS) vs Dechapol Puavaranukroh/Supissara Paewsampan (THA) - Mixed Doubles Quarterfinal | CLASH OF CLANS Arctic Open 2025",
@@ -199,12 +199,6 @@
       "cover_url": "https://thumbor.prod.vidiocdn.com/P6l-bFK-8LU49Ln44oZ_K_TXKUw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4639862/f9ab93.jpg",
       "start_time": "2025-10-10T01:30:00.000Z"
     },
-    "4640076": {
-      "title": "Philadelphia Eagles vs New York Giants - NFL",
-      "web_url": "19623",
-      "cover_url": "https://thumbor.prod.vidiocdn.com/3miD2gpswEapBPgl6MlXs9A-mHo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4640076/1bb7cc.jpg",
-      "start_time": "2025-10-10T00:05:00.000Z"
-    },
     "4640079": {
       "title": "Final Four: Petrokimia Gresik Pupuk Indonesia vs Bank Jatim - Livoli Divisi Utama",
       "web_url": "19488",
@@ -354,6 +348,12 @@
       "web_url": "17875",
       "cover_url": "https://thumbor.prod.vidiocdn.com/SdKxJDsbq6lP9D3TsuFIoiEIVD4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4640712/237d26.jpg",
       "start_time": "2025-10-14T14:00:00.000Z"
+    },
+    "4640881": {
+      "title": "ATP 250: BNP Paribas Nordic Open 2025 - Day 1",
+      "web_url": "6317",
+      "cover_url": "https://thumbor.prod.vidiocdn.com/uzXgPMkU0nE4iv7ylze747Z5Djg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4640881/beb50d.jpg",
+      "start_time": "2025-10-13T11:00:00.000Z"
     }
   },
   "vidioliveothers": {
@@ -384,7 +384,7 @@
     "734": {
       "title": "Trans7",
       "web_url": "734",
-      "cover_url": "https://thumbor.prod.vidiocdn.com/XSpSRDs94R38OpBmssaBVngAr2Q=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/734/trans7-9dade4.jpg",
+      "cover_url": "https://thumbor.prod.vidiocdn.com/ZBksotIbZPKfr77mFgVuzjQB2wg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/387064/fbf8e8.jpg",
       "start_time": "2016-04-22T20:02:00.000Z"
     },
     "777": {
@@ -716,46 +716,46 @@
     "content-type": "application/json",
     "x-api-platform": "tv-android",
     "x-api-auth": "laZOmogezono5ogekaso5oz4Mezimew1",
-    "x-user-token": "3Qi8cYv6v_znsv4S82vX",
+    "x-user-token": "gyyRC875As59_WYxU3ya",
     "x-visitor-id": "51b995d2-833d-4a3c-b021-952b647424cb",
     "x-api-app-info": "tv-android/10/2.50.11-790",
     "referer": "androidtv-app://com.vidio.android.tv",
     "hash": "aJnQrMYOciAdmKgzVwScSyi3g8AZBVuLuig06qgE2KZgbqW1dX98QGk0Sk4Pq7Lfzslt1EvVGt3krNjsl0T4KWCPihBSZGhVRQbKCdWRtStQDSy1dWQNWov3uDHJue4zmO3XGvv9vLNLpMwgJKrnFr",
-    "cookie": "country_id=ID; ahoy_visitor=1d901f96-0de8-4e6e-a7dc-30cf02c2b471; ahoy_visit=458d7cad-6e65-40da-8927-9b9bb5fc9924; shva=1; plenty_id=9806201; x_user_token=AjsG-LjnYTvf7bZK6RyK; access_token=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InR5cGUiOiJhY2Nlc3NfdG9rZW4iLCJ1aWQiOjk4MDYyMDF9LCJleHAiOjE3NjAxNTIyMDR9.hqF2UdpXzkJ_rV8p4bFfdrVFyIlK4TdWPVQF5vpMlD8; _vidio_session=9F0iWrJykIdl0LWERnpxDQMU%2B4jANC2vbnJcUXGsdJfsYsiJwydh3y%2B9WOJywbjVqu0I1H0Q9bYQt8PzwgCFqCXutY22BFxnLjAWDP3OL4nim%2BVnZK087RRKXM9nemnrZIvQcAFTlRSH79hExX%2FkFHBVE0uzcuD%2FnUgUSxwRGrhwcXprFZ6iJYxhmxbfrn9KfC9%2Bg6ALFlCiv7Umq%2B%2BcP9u2KBqThrPQDSa5uIAvYeK6FJLmTGgg2sB651H1NVTSNIVoxP4%2BTlYStfdQiEGuxKWNjqaBtDyeCFBt3IKFDf22E243lmmKKVu97vEE1u8VNK2OxcKUxb7s5meeGVqqvoAJFo%2BwMcW4NPEJ5ymS8qWV5BwIXcGvxKLH%2BUmsdtKP894nxuAE0NtudMPwUpyD%2B2bEm91O0qFfzpmY6d4hrC%2FyW5ni9apB9Fs7FwzBv%2FYvMItu4R6yFsbnrX6FLFMzAJI%2FwVjdZ%2BgOLAFRdjX83DKcULLldcZFjqjTsYq8dtFDQkGlotFEb5UcjDYQRC6lOZtbeW%2FhbnfgJNthSYrDsTcQ%2Bu2XjYMrW4lgi9ne5s%2BdpnoEoxBYsy8hJHOXjGAQKkp8wRWGAF%2FFBMK0aL0deZn1zEcPzWH3qt051n%2FQhAypTToCm6AykaJ5%2F4CpTjdBJlZiqDbi4mY8TKX9E0Nk--Ro4oeMbpOrXbCndV--44PZ7z9EdxBbPV9BpJXDRQ%3D%3D",
+    "cookie": "country_id=ID; ahoy_visitor=cb378a56-ba1d-4120-9be0-6a7925b27393; ahoy_visit=cbe80657-b878-49f8-b6e4-ea867f0c84dc; shva=1; plenty_id=9806201; x_user_token=A5EpXWLhypn7ZVW3xBGx; access_token=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InR5cGUiOiJhY2Nlc3NfdG9rZW4iLCJ1aWQiOjk4MDYyMDF9LCJleHAiOjE3NjAxNTI4MDR9.uUIhyC6357X7peEUXctK8h3fWXdC1LHeW56VS1D5Gvk; _vidio_session=zkldDrmUXzwqncFDD9oz52E9TXfy3vTu7lgWtHdOgr29sl80q%2BTdZG%2BbLrzjGe%2FM8Uz%2FFDjWZFXCldZZO1%2FHurRYUWtpMaHXntSWL22n202vz2rw1BxxhudRLz3407GFlF9TmRx6NQSq%2Bymc8VRbsPU%2Bicw3ZTZW8eUgQkeo8c0wBRoDb%2F7Tf7tbTRVN7%2FpL6OLb%2B153S0j9NaBnXDW14ZqKE%2Bo7ohnU%2BF%2Bq%2FCkW6fjtLFkW6%2FuFuDuUM6wbfmbtNn1%2FbGkL%2BHw%2F%2FnyuLo3%2F5qhF8g94dqlLdLhxSwKhWoGj6oCiyj%2FkrmH8YFPRGO70fnSyEj1%2B%2B8FOmP1ElEZEALP%2FoDNml0wtuKoWYGA3sH6JzsSQc1z7DLBev64sumlakR5Yp4INL3Ji4fKXH3iTq6BfFr6YiWnFRJozJd1Na4RH8wUPW6Q2e9AiAFdReyQs9iPFZrFIkQmekaMu4Jz2puouuLN%2B%2F7dg%2FXwSKoS525ZUO1z8bsHLM7h710olJmhrY26%2FHPxBZFGiTZde%2BTjNoTt4t5TVsfNZmuG6G1iMGGChdQuWIwecx31UWaylVykHki8LIp6OvKChNZ1DcWVTeWkWvxx51lQCQNLBerkzV%2BNs3Xl2MsSQFWILwqqIZK7DAWySgqGLfngRLfSI6XcqRzQGpTI0HW2k%2FREjRYhx--Orl0GqPQBaA5frP2--0rtoEFgOhivpB26WtaM8gg%3D%3D",
     "accept": "*/*",
     "origin": "https://www.vidio.com",
     "user-agent": "tv-android/2.50.11 (790)",
-    "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/nbzRQ4pLFf1XWkyzU6P42H/xjZSdZkg+nn5uDa0Sx0dJfYyQI2M1QJeQ+cOjruyjYPgFvSbIxgx3GJ17BeyUVo=",
-    "x-client": "1760065809.442",
+    "x-api-key": "CH1ZFsN4N/MIfAds1DL9mP151CNqIpWHqZGRr+LkvUyiq3FRPuP1Kt6aK+pG3nEC1FXt0ZAAJ5FKP8QU8CZ5/pzvgt+czCICM56IOZzIAfON0pfF0Kuin7obEjjIAxftMbbAxZOPouojr27wm6URgyKeJiPyoKFsl+zQpRprCC8=",
+    "x-client": "1760066410.241",
     "x-secure-level": "2",
-    "x-signature": "b8b3db66eb97cbef95541573d848d9f538b568c85ef1346bca698e882837b415",
+    "x-signature": "05bc77492d0d18f57c2cd0bc1ee9381f8a3de6ed850dfab091d176264b6ed201",
     "x-user-email": "jeffrybp@outlook.co.id",
-    "luws": "E8871D6C-0611-286E-B8EF-6333DF3D69FD_9806201",
+    "luws": "E01C04C2-4880-43A9-06D6-9F78B3A7AD5D_9806201",
     "sec-ch-ua": "\"Not;A=Brand\";v=\"99\", \"HeadlessChrome\";v=\"139\", \"Chromium\";v=\"139\"",
     "sec-ch-ua-mobile": "?0",
     "sec-ch-ua-platform": "\"Windows\"",
-    "204-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/stream.mpd?hdnts=exp=1760080211~acl=/stream/204/file/stream.mpd!/stream/204/file/*/aac/*!/stream/204/file/*/*-1080p/*!/stream/204/file/*/*-720p/*!/stream/204/file/*/*-480p/*!/stream/204/file/*/*-360p/*~id=9806201~hmac=51f9122cb4ec82177458f6d0e2442edbaa0f1df7a0a58a77d6b0b2b5465b8ee8",
-    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/master.m3u8?hdnts=exp=1760080211~acl=/stream/204/file/master.m3u8!/stream/204/file/*/aac/*!/stream/204/file/*/*-1080p/*!/stream/204/file/*/*-720p/*!/stream/204/file/*/*-480p/*!/stream/204/file/*/*-360p/*~id=9806201~hmac=7126f7d79ae39c2ef9f6346d0b809e5e84333deb4da9dd2f5e87840d01e861de",
-    "204-drm": null,
     "206-dash": null,
     "206-hls": null,
     "206-drm": null,
-    "19488-dash": null,
-    "19488-hls": null,
-    "19488-drm": null,
-    "18105-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/stream.mpd?hdnts=exp=1760080211~acl=/stream/18105/file/stream.mpd!/stream/18105/file/*/aac/*!/stream/18105/file/*/*-1080p/*!/stream/18105/file/*/*-720p/*!/stream/18105/file/*/*-480p/*!/stream/18105/file/*/*-360p/*~id=9806201~hmac=648de34cbadfe6106091ae6a5503cf9951baf266b20abf1389cafbabce4ed94f",
-    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/master.m3u8?hdnts=exp=1760080211~acl=/stream/18105/file/master.m3u8!/stream/18105/file/*/aac/*!/stream/18105/file/*/*-1080p/*!/stream/18105/file/*/*-720p/*!/stream/18105/file/*/*-480p/*!/stream/18105/file/*/*-360p/*~id=9806201~hmac=614b6567791f3f340d7952e0fa2569cf5dbca60b7386821edff36b2100279f6d",
-    "18105-drm": null,
-    "733-dash": null,
-    "733-hls": null,
-    "733-drm": null,
-    "205-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/stream.mpd?hdnts=exp=1760080211~acl=/stream/205/file/stream.mpd!/stream/205/file/*/aac/*!/stream/205/file/*/*-1080p/*!/stream/205/file/*/*-720p/*!/stream/205/file/*/*-480p/*!/stream/205/file/*/*-360p/*~id=9806201~hmac=db3ec05b1e01dd4f18ce4840bf11940a441bf740da7af8dcd863f3173ae1bce7",
-    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/master.m3u8?hdnts=exp=1760080211~acl=/stream/205/file/master.m3u8!/stream/205/file/*/aac/*!/stream/205/file/*/*-1080p/*!/stream/205/file/*/*-720p/*!/stream/205/file/*/*-480p/*!/stream/205/file/*/*-360p/*~id=9806201~hmac=9b00dc5e6752dda50c86caf9870eeac6a7c576a07d2a3c7ee47f55746e83456a",
+    "205-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/stream.mpd?hdnts=exp=1760080811~acl=/stream/205/file/stream.mpd!/stream/205/file/*/aac/*!/stream/205/file/*/*-1080p/*!/stream/205/file/*/*-720p/*!/stream/205/file/*/*-480p/*!/stream/205/file/*/*-360p/*~id=9806201~hmac=60ab005c3645362e725532867aae38fbaeabf5bd4ad674befd06b18d915d6615",
+    "205-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/master.m3u8?hdnts=exp=1760080811~acl=/stream/205/file/master.m3u8!/stream/205/file/*/aac/*!/stream/205/file/*/*-1080p/*!/stream/205/file/*/*-720p/*!/stream/205/file/*/*-480p/*!/stream/205/file/*/*-360p/*~id=9806201~hmac=b0aeb5364fcf1748f7038c6234ecd46f29d798bd5da24e57fa806932b51539f2",
     "205-drm": null,
     "734-dash": null,
     "734-hls": null,
     "734-drm": null,
-    "all-sections": "16890-17140-17505-17875-18189-18190-18249-18250-18252-18253-18832-19388-19488-19541-19542-19543-19548-19623-19657-19658-19662-19679-6317-6786",
+    "19488-dash": null,
+    "19488-hls": null,
+    "19488-drm": null,
+    "18105-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/stream.mpd?hdnts=exp=1760080811~acl=/stream/18105/file/stream.mpd!/stream/18105/file/*/aac/*!/stream/18105/file/*/*-1080p/*!/stream/18105/file/*/*-720p/*!/stream/18105/file/*/*-480p/*!/stream/18105/file/*/*-360p/*~id=9806201~hmac=3b3f8d368b09dfe91e629e05921d4a69a4f8d4e9061a0f153407182bfdb0df3a",
+    "18105-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18105/file/master.m3u8?hdnts=exp=1760080811~acl=/stream/18105/file/master.m3u8!/stream/18105/file/*/aac/*!/stream/18105/file/*/*-1080p/*!/stream/18105/file/*/*-720p/*!/stream/18105/file/*/*-480p/*!/stream/18105/file/*/*-360p/*~id=9806201~hmac=2c9623e2c72e2a96303c63ddabbda0cc4cb7a6257cacedb63c2e220818e04bdf",
+    "18105-drm": null,
+    "733-dash": null,
+    "733-hls": null,
+    "733-drm": null,
+    "204-dash": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/stream.mpd?hdnts=exp=1760080811~acl=/stream/204/file/stream.mpd!/stream/204/file/*/aac/*!/stream/204/file/*/*-1080p/*!/stream/204/file/*/*-720p/*!/stream/204/file/*/*-480p/*!/stream/204/file/*/*-360p/*~id=9806201~hmac=d9fcbbbb0bc09af22c41662f07eb042b920285ca876813276bfce9fe66ffd372",
+    "204-hls": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/master.m3u8?hdnts=exp=1760080811~acl=/stream/204/file/master.m3u8!/stream/204/file/*/aac/*!/stream/204/file/*/*-1080p/*!/stream/204/file/*/*-720p/*!/stream/204/file/*/*-480p/*!/stream/204/file/*/*-360p/*~id=9806201~hmac=677a4e2d474d5bc4bbfd988e28b13d9ccfaf2b28ec1c338d1e8c219e70b795c1",
+    "204-drm": null,
+    "all-sections": "16890-17140-17505-17875-18189-18190-18249-18250-18252-18253-18832-19388-19488-19541-19542-19543-19548-19657-19658-19662-19679-6317-6786",
     "all-vidiolivetv": []
   }
 }
