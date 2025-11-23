@@ -1,579 +1,579 @@
-#EXTM3U billed-msg="DO NOT SELL THIS PLAYLIST ! - 23 Nov 2025 07:33 WIB"
+#EXTM3U billed-msg="DO NOT SELL THIS PLAYLIST ! - 23 Nov 2025 08:0 WIB" x-tvg-url="https://epgtv123.vercel.app/starhubtvplussg.xml.gz"
 
-#EXTINF:-1 group-title="STARHUB SG (23 Nov 2025 07:33 WIB)",DO NOT SELL THIS PLAYLIST !
+#EXTINF:-1 group-title="STARHUB SG (23 Nov 2025 08:0 WIB)",DO NOT SELL THIS PLAYLIST !
 #https://ucdn.starhubgo.com
 
-#EXTINF:-1 tvg-id="cctv4.starhubtvplussg" group-title="STARHUB SG (23 Nov 2025 07:33 WIB)",CCTV-4
+#EXTINF:-1 tvg-id="cctv4.starhubtvplussg" group-title="STARHUB TV PLUS SG (23 Nov 2025 08:0 WIB)",CCTV-4
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=00000000000000000000000000000000:00000000000000000000000000000000
-https://SH-BKS400-10.starhubgo.com:443/bpk-token/2ab@a13iaof2xdbyvbxifr2vp1ra2kyohcqlajgopyca/bpk-tv/CCTV4/output/manifest.mpd?bkm-query
+https://SH-BKS400-10.starhubgo.com:443/bpk-token/2ab@a0jb05mdhfi5tcahzmevntcu5jqokq4haishvjda/bpk-tv/CCTV4/output/manifest.mpd?bkm-query
 
-#EXTINF:-1 tvg-id="zeethirai.starhubtvplussg" group-title="STARHUB SG (23 Nov 2025 07:33 WIB)",Zee Thirai
+#EXTINF:-1 tvg-id="zeethirai.starhubtvplussg" group-title="STARHUB TV PLUS SG (23 Nov 2025 08:0 WIB)",Zee Thirai
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=00000000000000000000000000000000:00000000000000000000000000000000
-https://bks05.starhubgo.com:443/bpk-token/2aa@ht34g5zbw112h0xiocu1513n41zmxxzphdzp2bba/bpk-tv/ZeeThirai/output/manifest.mpd?bkm-query
+https://SH-BKS400-11.starhubgo.com:443/bpk-token/2ab@dm1qcfpzndku2gxzrazsbwbfkoa1guizdy3jrtaa/bpk-tv/ZeeThirai/output/manifest.mpd?bkm-query
 
-#EXTINF:-1 tvg-id="zeetvhd.starhubtvplussg" group-title="STARHUB SG (23 Nov 2025 07:33 WIB)",Zee TV HD
+#EXTINF:-1 tvg-id="zeetvhd.starhubtvplussg" group-title="STARHUB TV PLUS SG (23 Nov 2025 08:0 WIB)",Zee TV HD
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=00000000000000000000000000000000:00000000000000000000000000000000
-https://MH-BKS400-07.starhubgo.com:443/bpk-token/2ac@ymue0wyyrsi1sfumd2afaijunbgdfrwfycfzzdba/bpk-tv/ZeeTV/output/manifest.mpd?bkm-query
+https://mh-bks400-03.starhubgo.com:443/bpk-token/2ac@bpznqh5xfxb42lti5jywhs1apgzlod2zbpqp5wda/bpk-tv/ZeeTV/output/manifest.mpd?bkm-query
 
-#EXTINF:-1 tvg-id="hgtvhd.starhubtvplussg" group-title="STARHUB SG (23 Nov 2025 07:33 WIB)",HGTV HD
+#EXTINF:-1 tvg-id="hgtvhd.starhubtvplussg" group-title="STARHUB TV PLUS SG (23 Nov 2025 08:0 WIB)",HGTV HD
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=c1ac1cd0128240e18b68f337fe871b59:372c1435914f835639e2595c0670b0ed
+https://sh-bks400-07.starhubgo.com:443/bpk-token/2aa@4f1pdv4cm5nuku0joabisw5gkfpz41iv41pu2aca/bpk-tv/HGTV/output/manifest.mpd?bkm-query
+
+#EXTINF:-1 tvg-id="fashiontvhd.starhubtvplussg" group-title="STARHUB TV PLUS SG (23 Nov 2025 08:0 WIB)",FashionTV HD
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=00000000000000000000000000000000:00000000000000000000000000000000
-https://CO2-BKS400-05.starhubgo.com:443/bpk-token/2ab@2e3c0kkyulilzuhia2omq0fuvehjxqws203atsca/bpk-tv/HGTV/output/manifest.mpd?bkm-query
+https://MH-BKS400-08.starhubgo.com:443/bpk-token/2ac@1g0j0la4ihjprmpj3moduutuxqwros4c1eduz4ba/bpk-tv/FashionTV/output/manifest.mpd?bkm-query
 
-#EXTINF:-1 tvg-id="fashiontvhd.starhubtvplussg" group-title="STARHUB SG (23 Nov 2025 07:33 WIB)",FashionTV HD
+#EXTINF:-1 tvg-id="arirangtvhd.starhubtvplussg" group-title="STARHUB TV PLUS SG (23 Nov 2025 08:0 WIB)",Arirang TV HD
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=00000000000000000000000000000000:00000000000000000000000000000000
-https://MH-BKS400-06.starhubgo.com:443/bpk-token/2ac@a1ni5hnaxb35e5eavoyvp1q4psyod05ja5jceiba/bpk-tv/FashionTV/output/manifest.mpd?bkm-query
+https://MH-BKS400-07.starhubgo.com:443/bpk-token/2ac@bt2itk0lsdnkz5g0nyow5zrgvmyeh0usb3nvq5da/bpk-tv/ArirangTV/output/manifest.mpd?bkm-query
 
-#EXTINF:-1 tvg-id="arirangtvhd.starhubtvplussg" group-title="STARHUB SG (23 Nov 2025 07:33 WIB)",Arirang TV HD
+#EXTINF:-1 tvg-id="foxnewschannelhd.starhubtvplussg" group-title="STARHUB TV PLUS SG (23 Nov 2025 08:0 WIB)",Fox News Channel HD
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=00000000000000000000000000000000:00000000000000000000000000000000
-https://MH-BKS400-08.starhubgo.com:443/bpk-token/2ac@ed1fs3scmxiwlxm1dif25wle1nzyormxebcyrida/bpk-tv/ArirangTV/output/manifest.mpd?bkm-query
+https://bks03.starhubgo.com:443/bpk-token/2aa@eqze12tpgtmtpalyl2v2ztjwzxbmgzg5eqvmukaa/bpk-tv/FNCHD/output/manifest.mpd?bkm-query
 
-#EXTINF:-1 tvg-id="foxnewschannelhd.starhubtvplussg" group-title="STARHUB SG (23 Nov 2025 07:33 WIB)",Fox News Channel HD
+#EXTINF:-1 tvg-id="phoenixchinesechannelhd.starhubtvplussg" group-title="STARHUB TV PLUS SG (23 Nov 2025 08:0 WIB)",Phoenix Chinese Channel HD
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=00000000000000000000000000000000:00000000000000000000000000000000
-https://bks06.starhubgo.com:443/bpk-token/2aa@y2jtapg4hnc2j04tibmeatgb4mgp0eytymn1pzba/bpk-tv/FNCHD/output/manifest.mpd?bkm-query
+https://sh-bks400-07.starhubgo.com:443/bpk-token/2aa@rkbpi2wzf2brlude4vfwmc4qy3ukydcxruvuxjca/bpk-tv/PCCHD/output/manifest.mpd?bkm-query
 
-#EXTINF:-1 tvg-id="phoenixchinesechannelhd.starhubtvplussg" group-title="STARHUB SG (23 Nov 2025 07:33 WIB)",Phoenix Chinese Channel HD
+#EXTINF:-1 tvg-id="cgtn.starhubtvplussg" group-title="STARHUB TV PLUS SG (23 Nov 2025 08:0 WIB)",CGTN
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=00000000000000000000000000000000:00000000000000000000000000000000
-https://MH-BKS400-05.starhubgo.com:443/bpk-token/2ac@5i4pxa2pz53ca4ayw0lli25obygs51fa5wbwxqaa/bpk-tv/PCCHD/output/manifest.mpd?bkm-query
+https://bks05.starhubgo.com:443/bpk-token/2aa@zyzglspkh1mj41gykusgitnwepgowzs2zi3xrmda/bpk-tv/CGTN/output/manifest.mpd?bkm-query
 
-#EXTINF:-1 tvg-id="cgtn.starhubtvplussg" group-title="STARHUB SG (23 Nov 2025 07:33 WIB)",CGTN
+#EXTINF:-1 tvg-id="fightsportshd.starhubtvplussg" group-title="STARHUB TV PLUS SG (23 Nov 2025 08:0 WIB)",FIGHT SPORTS HD
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=bc9238583b9c4c619683cdb633ba3d12:84a756647f362c601502ef6bb4a013da
+https://MH-BKS400-05.starhubgo.com:443/bpk-token/2ac@4nxbv5pz3gu45oipjluicodk5xo1ni354tiyvpda/bpk-tv/FightSportsHD/output/manifest.mpd?bkm-query
+
+#EXTINF:-1 tvg-id="ettvasiahd.starhubtvplussg" group-title="STARHUB TV PLUS SG (23 Nov 2025 08:0 WIB)",ETTV ASIA HD
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=00000000000000000000000000000000:00000000000000000000000000000000
-https://bks06.starhubgo.com:443/bpk-token/2aa@eibg0irpfyidvg2hc253jcmurkbkqrgkeyfov4ca/bpk-tv/CGTN/output/manifest.mpd?bkm-query
+https://MH-BKS400-05.starhubgo.com:443/bpk-token/2ac@13dzsrrqpelggx2evitdchsfd1p5iwmm1d2asbba/bpk-tv/ETTVHD/output/manifest.mpd?bkm-query
 
-#EXTINF:-1 tvg-id="fightsportshd.starhubtvplussg" group-title="STARHUB SG (23 Nov 2025 07:33 WIB)",FIGHT SPORTS HD
+#EXTINF:-1 tvg-id="historyhd.starhubtvplussg" group-title="STARHUB TV PLUS SG (23 Nov 2025 08:0 WIB)",HISTORY HD
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=00000000000000000000000000000000:00000000000000000000000000000000
-https://bks05.starhubgo.com:443/bpk-token/2aa@woufpittrw2bnsm3tw5yeil4qwvdnzd0w4quvwda/bpk-tv/FightSportsHD/output/manifest.mpd?bkm-query
+https://RCG-BKS400-06.starhubgo.com:443/bpk-token/2aa@mck1vqw0inxc0ghae1dm3uwlbntq0ofumwiavaca/bpk-tv/HistoryHD/output/manifest.mpd?bkm-query
 
-#EXTINF:-1 tvg-id="ettvasiahd.starhubtvplussg" group-title="STARHUB SG (23 Nov 2025 07:33 WIB)",ETTV ASIA HD
+#EXTINF:-1 tvg-id="bbclifestylehd.starhubtvplussg" group-title="STARHUB TV PLUS SG (23 Nov 2025 08:0 WIB)",BBC Lifestyle HD
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=00000000000000000000000000000000:00000000000000000000000000000000
-https://CO2-BKS400-05.starhubgo.com:443/bpk-token/2ab@thzk2ipxelrd3n2le55swsvyr42jwch0tzzivqda/bpk-tv/ETTVHD/output/manifest.mpd?bkm-query
+https://CO2-BKS400-04.starhubgo.com:443/bpk-token/2ab@jyug4nitt0yxrqf50onhjjn21acgvrpdjgintvaa/bpk-tv/BBCLifestyleHD/output/manifest.mpd?bkm-query
 
-#EXTINF:-1 tvg-id="historyhd.starhubtvplussg" group-title="STARHUB SG (23 Nov 2025 07:33 WIB)",HISTORY HD
+#EXTINF:-1 tvg-id="lifetimehd.starhubtvplussg" group-title="STARHUB TV PLUS SG (23 Nov 2025 08:0 WIB)",Lifetime HD
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=00000000000000000000000000000000:00000000000000000000000000000000
-https://sh-bks400-07.starhubgo.com:443/bpk-token/2aa@jt54cp0241l2jqkioamg553f4202xxytjnlf30ca/bpk-tv/HistoryHD/output/manifest.mpd?bkm-query
+https://mh-bks400-03.starhubgo.com:443/bpk-token/2ac@sehfc20h2uiq1b5g1qfqqokey3fzjraxseohnnca/bpk-tv/LifetimeHD/output/manifest.mpd?bkm-query
 
-#EXTINF:-1 tvg-id="bbclifestylehd.starhubtvplussg" group-title="STARHUB SG (23 Nov 2025 07:33 WIB)",BBC Lifestyle HD
+#EXTINF:-1 tvg-id="colorstamilhd.starhubtvplussg" group-title="STARHUB TV PLUS SG (23 Nov 2025 08:0 WIB)",COLORS Tamil HD
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=00000000000000000000000000000000:00000000000000000000000000000000
-https://mh-bks400-03.starhubgo.com:443/bpk-token/2ac@xdqd23scaoqx1cx5apf04ahy1v2a2apxxdzbtmca/bpk-tv/BBCLifestyleHD/output/manifest.mpd?bkm-query
+https://mh-bks400-03.starhubgo.com:443/bpk-token/2ac@qriv2gndcvs1egybt5yv0rkznknekfxjqrbxtxba/bpk-tv/COLORSTamilHD/output/manifest.mpd?bkm-query
 
-#EXTINF:-1 tvg-id="lifetimehd.starhubtvplussg" group-title="STARHUB SG (23 Nov 2025 07:33 WIB)",Lifetime HD
+#EXTINF:-1 tvg-id="tvbsasia.starhubtvplussg" group-title="STARHUB TV PLUS SG (23 Nov 2025 08:0 WIB)",TVBS Asia
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=00000000000000000000000000000000:00000000000000000000000000000000
-https://MH-BKS400-05.starhubgo.com:443/bpk-token/2ac@z4z2ip02htd3zfflpfmgetzr4mxpgh0tzagfi5ca/bpk-tv/LifetimeHD/output/manifest.mpd?bkm-query
+https://bks06.starhubgo.com:443/bpk-token/2aa@cepmvsdz2rvkoogsp1sqr4ykf5azdlv2cule0eaa/bpk-tv/TVBSAsia/output/manifest.mpd?bkm-query
 
-#EXTINF:-1 tvg-id="colorstamilhd.starhubtvplussg" group-title="STARHUB SG (23 Nov 2025 07:33 WIB)",COLORS Tamil HD
+#EXTINF:-1 tvg-id="cbeebieshd.starhubtvplussg" group-title="STARHUB TV PLUS SG (23 Nov 2025 08:0 WIB)",Cbeebies HD
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=00000000000000000000000000000000:00000000000000000000000000000000
-https://MH-BKS400-07.starhubgo.com:443/bpk-token/2ac@otmsnandsjwbewxbyx1j5ze1as1etmdio33povaa/bpk-tv/COLORSTamilHD/output/manifest.mpd?bkm-query
+https://bks03.starhubgo.com:443/bpk-token/2aa@qtcgmfr3kyqvu0qu0hzv4fmyks2uqbljqtoodtca/bpk-tv/CbeebiesHD/output/manifest.mpd?bkm-query
 
-#EXTINF:-1 tvg-id="tvbsasia.starhubtvplussg" group-title="STARHUB SG (23 Nov 2025 07:33 WIB)",TVBS Asia
+#EXTINF:-1 tvg-id="beinsports3hd.starhubtvplussg" group-title="STARHUB TV PLUS SG (23 Nov 2025 08:0 WIB)",beIN SPORTS 3 HD
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=00000000000000000000000000000000:00000000000000000000000000000000
-https://bks06.starhubgo.com:443/bpk-token/2aa@tl3x0et5v5ktmuuwk2zso0pvjw2k5vgzt1z5vsaa/bpk-tv/TVBSAsia/output/manifest.mpd?bkm-query
+https://SH-BKS400-11.starhubgo.com:443/bpk-token/2ab@fvbxaqh3g2caothfsrt4tdoba5jnyfa2fbhotgaa/bpk-tv/beINSports3NEW/output/manifest.mpd?bkm-query
 
-#EXTINF:-1 tvg-id="cbeebieshd.starhubtvplussg" group-title="STARHUB SG (23 Nov 2025 07:33 WIB)",Cbeebies HD
+#EXTINF:-1 tvg-id="sunmusic.starhubtvplussg" group-title="STARHUB TV PLUS SG (23 Nov 2025 08:0 WIB)",Sun Music
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=00000000000000000000000000000000:00000000000000000000000000000000
-https://bks03.starhubgo.com:443/bpk-token/2aa@zozgpucif12rkmseswbgesn4i3wlwzdvzovoacba/bpk-tv/CbeebiesHD/output/manifest.mpd?bkm-query
+https://SH-BKS400-09.starhubgo.com:443/bpk-token/2ab@5iqg0o3kb0i1fmf4022lianu30hcurwl5a2avyca/bpk-tv/SunMusic/output/manifest.mpd?bkm-query
 
-#EXTINF:-1 tvg-id="beinsports3hd.starhubtvplussg" group-title="STARHUB SG (23 Nov 2025 07:33 WIB)",beIN SPORTS 3 HD
+#EXTINF:-1 tvg-id="cnnhd.starhubtvplussg" group-title="STARHUB TV PLUS SG (23 Nov 2025 08:0 WIB)",CNN HD
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=00000000000000000000000000000000:00000000000000000000000000000000
-https://RCG-BKS400-06.starhubgo.com:443/bpk-token/2aa@ziouw2pkzr0s5tmpl0vgi2inzhgsdvf5z2mpwmda/bpk-tv/beINSports3NEW/output/manifest.mpd?bkm-query
+https://sh-bks400-08.starhubgo.com:443/bpk-token/2aa@euoyc2t50blqpvorvqv2r3qfyhavdwa5e4vqnkaa/bpk-tv/CNNHD/output/manifest.mpd?bkm-query
 
-#EXTINF:-1 tvg-id="sunmusic.starhubtvplussg" group-title="STARHUB SG (23 Nov 2025 07:33 WIB)",Sun Music
+#EXTINF:-1 tvg-id="ktvhd.starhubtvplussg" group-title="STARHUB TV PLUS SG (23 Nov 2025 08:0 WIB)",KTV HD
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=00000000000000000000000000000000:00000000000000000000000000000000
-https://MH-BKS400-07.starhubgo.com:443/bpk-token/2ac@5uedw325smywd2g0akflqjgm1zhfzqnh50v4viba/bpk-tv/SunMusic/output/manifest.mpd?bkm-query
+https://CO2-BKS400-05.starhubgo.com:443/bpk-token/2ab@dxj4gejmgz1qe2tswsztxt2ni0ynsxbjdjj2p2ba/bpk-tv/KTVHD/output/manifest.mpd?bkm-query
 
-#EXTINF:-1 tvg-id="cnnhd.starhubtvplussg" group-title="STARHUB SG (23 Nov 2025 07:33 WIB)",CNN HD
+#EXTINF:-1 tvg-id="beinsports2hd.starhubtvplussg" group-title="STARHUB TV PLUS SG (23 Nov 2025 08:0 WIB)",beIN SPORTS 2 HD
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=00000000000000000000000000000000:00000000000000000000000000000000
-https://SH-BKS400-10.starhubgo.com:443/bpk-token/2ab@z1s3kad5lwlb235rpu1gof1vag4wmxcyzjj1fwaa/bpk-tv/CNNHD/output/manifest.mpd?bkm-query
+https://SH-BKS400-11.starhubgo.com:443/bpk-token/2ab@qg3edpg2utm2zn5ylamuu0jg4uujhzytqs13qzba/bpk-tv/beINSportsHD2/output/manifest.mpd?bkm-query
 
-#EXTINF:-1 tvg-id="ktvhd.starhubtvplussg" group-title="STARHUB SG (23 Nov 2025 07:33 WIB)",KTV HD
+#EXTINF:-1 tvg-id="tvbxinghehd.starhubtvplussg" group-title="STARHUB TV PLUS SG (23 Nov 2025 08:0 WIB)",TVB Xing He HD
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=00000000000000000000000000000000:00000000000000000000000000000000
-https://SH-BKS400-11.starhubgo.com:443/bpk-token/2ab@zj5kma5m3lrb2bbhex1gk4vya4o0xcdyz3zt5waa/bpk-tv/KTVHD/output/manifest.mpd?bkm-query
+https://bks05.starhubgo.com:443/bpk-token/2aa@moxrupuu3gs4rzynrlmnfodj5at1ne3dm4taoraa/bpk-tv/TVBXingHeChannel/output/manifest.mpd?bkm-query
 
-#EXTINF:-1 tvg-id="beinsports2hd.starhubtvplussg" group-title="STARHUB SG (23 Nov 2025 07:33 WIB)",beIN SPORTS 2 HD
+#EXTINF:-1 tvg-id="vannathirai.starhubtvplussg" group-title="STARHUB TV PLUS SG (23 Nov 2025 08:0 WIB)",Vannathirai
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=00000000000000000000000000000000:00000000000000000000000000000000
-https://MH-BKS400-06.starhubgo.com:443/bpk-token/2ac@0cez5hfhqe55u4y03oyb2is5pcwaj45j0gateiba/bpk-tv/beINSportsHD2/output/manifest.mpd?bkm-query
+https://sh-bks400-08.starhubgo.com:443/bpk-token/2aa@rnzqcqxffdka4af0rqtwcsbfapnlgua2rhcyngaa/bpk-tv/Vannathirai/output/manifest.mpd?bkm-query
 
-#EXTINF:-1 tvg-id="tvbxinghehd.starhubtvplussg" group-title="STARHUB SG (23 Nov 2025 07:33 WIB)",TVB Xing He HD
+#EXTINF:-1 tvg-id="cinemaoneglobal.starhubtvplussg" group-title="STARHUB TV PLUS SG (23 Nov 2025 08:0 WIB)",Cinema One Global
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=00000000000000000000000000000000:00000000000000000000000000000000
-https://CO2-BKS400-04.starhubgo.com:443/bpk-token/2ab@stwyb3lh0chupwud3bvq4nrd052ufoi5snktmfda/bpk-tv/TVBXingHeChannel/output/manifest.mpd?bkm-query
+https://bks05.starhubgo.com:443/bpk-token/2aa@qnn42eedvzttawbqw5jvc02zjamlthhbq3jpg0aa/bpk-tv/CinemaOne/output/manifest.mpd?bkm-query
 
-#EXTINF:-1 tvg-id="vannathirai.starhubtvplussg" group-title="STARHUB SG (23 Nov 2025 07:33 WIB)",Vannathirai
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=00000000000000000000000000000000:00000000000000000000000000000000
-https://SH-BKS400-10.starhubgo.com:443/bpk-token/2ab@c4nxmhzrx3s3u455khyrf1ozo0qp1f1jcmwrdrca/bpk-tv/Vannathirai/output/manifest.mpd?bkm-query
-
-#EXTINF:-1 tvg-id="cinemaoneglobal.starhubtvplussg" group-title="STARHUB SG (23 Nov 2025 07:33 WIB)",Cinema One Global
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=00000000000000000000000000000000:00000000000000000000000000000000
-https://sh-bks400-07.starhubgo.com:443/bpk-token/2aa@rgfti0apumcjt4x1ivgxukgruzujzesgryrixpaa/bpk-tv/CinemaOne/output/manifest.mpd?bkm-query
-
-#EXTINF:-1 tvg-id="hubsports2hd.starhubtvplussg" group-title="STARHUB SG (23 Nov 2025 07:33 WIB)",Hub Sports 2 HD
+#EXTINF:-1 tvg-id="hubsports2hd.starhubtvplussg" group-title="STARHUB TV PLUS SG (23 Nov 2025 08:0 WIB)",Hub Sports 2 HD
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=fd72f19fac0c441b808996ea993d06d2:8f0be65b978ef60062b4c7dabb226a1d
-https://bks05.starhubgo.com:443/bpk-token/2aa@ivvfb0qgwweitgsttrgftllcubknnjqgifru1eaa/bpk-tv/HubSports2HD/output/manifest.mpd?bkm-query
+https://CO2-BKS400-04.starhubgo.com:443/bpk-token/2ab@g4crwlvtle0ovkuhrk4zffcnx0rxiu3kga401tba/bpk-tv/HubSports2HD/output/manifest.mpd?bkm-query
 
-#EXTINF:-1 tvg-id="thefilipinochannelhd.starhubtvplussg" group-title="STARHUB SG (23 Nov 2025 07:33 WIB)",The Filipino Channel HD
+#EXTINF:-1 tvg-id="thefilipinochannelhd.starhubtvplussg" group-title="STARHUB TV PLUS SG (23 Nov 2025 08:0 WIB)",The Filipino Channel HD
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=00000000000000000000000000000000:00000000000000000000000000000000
-https://MH-BKS400-05.starhubgo.com:443/bpk-token/2ac@chvkze0jukftij5du3jqxkvsjuzjvkgrczktzuca/bpk-tv/TheFilipinoChannel/output/manifest.mpd?bkm-query
+https://CO2-BKS400-04.starhubgo.com:443/bpk-token/2ab@gua5kr5ac2lfo3ugwetyrb4vc5bfyxk2gk2uhjda/bpk-tv/TheFilipinoChannel/output/manifest.mpd?bkm-query
 
-#EXTINF:-1 tvg-id="hubpremier2hd.starhubtvplussg" group-title="STARHUB SG (23 Nov 2025 07:33 WIB)",Hub Premier 2 (HD)
+#EXTINF:-1 tvg-id="hubpremier2hd.starhubtvplussg" group-title="STARHUB TV PLUS SG (23 Nov 2025 08:0 WIB)",Hub Premier 2 (HD)
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=17e9c5d34f514dd3bce90fcc7deaeaa6:ab86716fe05961647a3713243e95dcd2
-https://SH-BKS400-11.starhubgo.com:443/bpk-token/2ab@0mcmbmgyjqfqzhwixrnaaeycyegtalat0yevs0ba/bpk-tv/HubPremier12/output/manifest.mpd?bkm-query
+https://SH-BKS400-10.starhubgo.com:443/bpk-token/2ab@kgy34tgsax1pk2blxocavq13h3sbox5ukud1rfba/bpk-tv/HubPremier12/output/manifest.mpd?bkm-query
 
-#EXTINF:-1 tvg-id="hubsports5hd.starhubtvplussg" group-title="STARHUB SG (23 Nov 2025 07:33 WIB)",Hub Sports 5 HD
+#EXTINF:-1 tvg-id="hubsports5hd.starhubtvplussg" group-title="STARHUB TV PLUS SG (23 Nov 2025 08:0 WIB)",Hub Sports 5 HD
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=14d1d427e8144c7b80cd5a8a6b9aa5e3:b3992507b4df8956717e3d5d798b7ab0
+https://SH-BKS400-09.starhubgo.com:443/bpk-token/2ab@vitvlyqsnwobdesoduh5iglxqjf0m3cgva5teoda/bpk-tv/HubSports5HD/output/manifest.mpd?bkm-query
+
+#EXTINF:-1 tvg-id="axnhd.starhubtvplussg" group-title="STARHUB TV PLUS SG (23 Nov 2025 08:0 WIB)",AXN HD
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=00000000000000000000000000000000:00000000000000000000000000000000
-https://sh-bks400-07.starhubgo.com:443/bpk-token/2aa@bpsu2kmvjsslrqtal5oxhejzvyytefxcbrgpd5aa/bpk-tv/HubSports5HD/output/manifest.mpd?bkm-query
+https://mh-bks400-03.starhubgo.com:443/bpk-token/2ac@nsot1ye20nodtpdaa2hp33gxrbsu12ggnshrujaa/bpk-tv/AXNHD/output/manifest.mpd?bkm-query
 
-#EXTINF:-1 tvg-id="axnhd.starhubtvplussg" group-title="STARHUB SG (23 Nov 2025 07:33 WIB)",AXN HD
+#EXTINF:-1 tvg-id="onehd.starhubtvplussg" group-title="STARHUB TV PLUS SG (23 Nov 2025 08:0 WIB)",ONE HD
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=00000000000000000000000000000000:00000000000000000000000000000000
-https://bks06.starhubgo.com:443/bpk-token/2aa@kloqulkczbsojpsojloap2ajx20sde3sk1ky13ba/bpk-tv/AXNHD/output/manifest.mpd?bkm-query
+https://MH-BKS400-04.starhubgo.com:443/bpk-token/2ac@k52akfkttdivitbzzejahzbukm0hhqkrk5kzkvca/bpk-tv/ONEHD/output/manifest.mpd?bkm-query
 
-#EXTINF:-1 tvg-id="onehd.starhubtvplussg" group-title="STARHUB SG (23 Nov 2025 07:33 WIB)",ONE HD
+#EXTINF:-1 tvg-id="suntv.starhubtvplussg" group-title="STARHUB TV PLUS SG (23 Nov 2025 08:0 WIB)",Sun TV
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=00000000000000000000000000000000:00000000000000000000000000000000
-https://RCG-BKS400-06.starhubgo.com:443/bpk-token/2aa@ofjbkdkgefinyjj3bekitscug2ljkq0qorl0ktca/bpk-tv/ONEHD/output/manifest.mpd?bkm-query
+https://MH-BKS400-07.starhubgo.com:443/bpk-token/2ac@u1zqte3lhdosegm1byz3otbhjc3og2ejuvinqraa/bpk-tv/SunTV/output/manifest.mpd?bkm-query
 
-#EXTINF:-1 tvg-id="suntv.starhubtvplussg" group-title="STARHUB SG (23 Nov 2025 07:33 WIB)",Sun TV
+#EXTINF:-1 tvg-id="zeetamilhd.starhubtvplussg" group-title="STARHUB TV PLUS SG (23 Nov 2025 08:0 WIB)",Zee Tamil HD
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=00000000000000000000000000000000:00000000000000000000000000000000
-https://bks03.starhubgo.com:443/bpk-token/2aa@sca3s3ohaulwl04zpifq2a0f1fuaixmxscmv3lba/bpk-tv/SunTV/output/manifest.mpd?bkm-query
+https://bks06.starhubgo.com:443/bpk-token/2aa@sbl0wyolmj1c1wfsu0hq0wunr3myswfwsrpszoba/bpk-tv/ZeeTamil/output/manifest.mpd?bkm-query
 
-#EXTINF:-1 tvg-id="zeetamilhd.starhubtvplussg" group-title="STARHUB SG (23 Nov 2025 07:33 WIB)",Zee Tamil HD
+#EXTINF:-1 tvg-id="anc.starhubtvplussg" group-title="STARHUB TV PLUS SG (23 Nov 2025 08:0 WIB)",ANC
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=00000000000000000000000000000000:00000000000000000000000000000000
-https://bks03.starhubgo.com:443/bpk-token/2aa@iyqda2codoaqldpsarfejbhayvcg2aaxiy2lpkba/bpk-tv/ZeeTamil/output/manifest.mpd?bkm-query
+https://RCG-BKS400-06.starhubgo.com:443/bpk-token/2aa@k0v5yhvyx4d5ujenwnybnl5rp0so3h4jkoxeyxba/bpk-tv/ANC/output/manifest.mpd?bkm-query
 
-#EXTINF:-1 tvg-id="anc.starhubtvplussg" group-title="STARHUB SG (23 Nov 2025 07:33 WIB)",ANC
+#EXTINF:-1 tvg-id="karisma.starhubtvplussg" group-title="STARHUB TV PLUS SG (23 Nov 2025 08:0 WIB)",Karisma
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=00000000000000000000000000000000:00000000000000000000000000000000
-https://RCG-BKS400-06.starhubgo.com:443/bpk-token/2aa@1bli0nlumbjx33xpfm3c0wqu1woycso11vjt03da/bpk-tv/ANC/output/manifest.mpd?bkm-query
+https://MH-BKS400-07.starhubgo.com:443/bpk-token/2ac@ecfdjzrgumefxamfifx33kgssdrizikoemu4kmaa/bpk-tv/Karisma/output/manifest.mpd?bkm-query
 
-#EXTINF:-1 tvg-id="karisma.starhubtvplussg" group-title="STARHUB SG (23 Nov 2025 07:33 WIB)",Karisma
+#EXTINF:-1 tvg-id="bloombergoriginals.starhubtvplussg" group-title="STARHUB TV PLUS SG (23 Nov 2025 08:0 WIB)",Bloomberg Originals
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=00000000000000000000000000000000:00000000000000000000000000000000
-https://MH-BKS400-08.starhubgo.com:443/bpk-token/2ac@5zohwx3j13y4wig3ckqlk3omptpw1r3n51x0vcaa/bpk-tv/Karisma/output/manifest.mpd?bkm-query
+https://SH-BKS400-09.starhubgo.com:443/bpk-token/2ab@mkw1tzsazopg1qfdeihmnmxhtfts34mwmc032pba/bpk-tv/Quicktake/output/manifest.mpd?bkm-query
 
-#EXTINF:-1 tvg-id="bloombergoriginals.starhubtvplussg" group-title="STARHUB SG (23 Nov 2025 07:33 WIB)",Bloomberg Originals
+#EXTINF:-1 tvg-id="hubsports4hd.starhubtvplussg" group-title="STARHUB TV PLUS SG (23 Nov 2025 08:0 WIB)",Hub Sports 4 HD
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=00000000000000000000000000000000:00000000000000000000000000000000
-https://SH-BKS400-09.starhubgo.com:443/bpk-token/2ab@hmfoowt1vyzz4kyigwq0bk22m5blrtt3hejibaaa/bpk-tv/Quicktake/output/manifest.mpd?bkm-query
+https://MH-BKS400-07.starhubgo.com:443/bpk-token/2ac@1wnfs5mvwvi4td5o1iedu1ke5zwnlr2h1y2yrkba/bpk-tv/HubSports4HDnew/output/manifest.mpd?bkm-query
 
-#EXTINF:-1 tvg-id="hubsports4hd.starhubtvplussg" group-title="STARHUB SG (23 Nov 2025 07:33 WIB)",Hub Sports 4 HD
+#EXTINF:-1 tvg-id="dwenglishhd.starhubtvplussg" group-title="STARHUB TV PLUS SG (23 Nov 2025 08:0 WIB)",DW English HD
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=00000000000000000000000000000000:00000000000000000000000000000000
-https://MH-BKS400-07.starhubgo.com:443/bpk-token/2ac@lh2ca4arqlayt4rearedxyfa2z0bxaqhljn5dlba/bpk-tv/HubSports4HDnew/output/manifest.mpd?bkm-query
+https://SH-BKS400-11.starhubgo.com:443/bpk-token/2ab@qltcqlbhnkaov03ryj4vogfaxs20ua2kq5v1d3ca/bpk-tv/DW/output/manifest.mpd?bkm-query
 
-#EXTINF:-1 tvg-id="dwenglishhd.starhubtvplussg" group-title="STARHUB SG (23 Nov 2025 07:33 WIB)",DW English HD
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=00000000000000000000000000000000:00000000000000000000000000000000
-https://MH-BKS400-06.starhubgo.com:443/bpk-token/2ac@trqmzs3tcsflga3cx3st0bzsflmeelwmtvugc3ba/bpk-tv/DW/output/manifest.mpd?bkm-query
-
-#EXTINF:-1 tvg-id="previewchannel.starhubtvplussg" group-title="STARHUB SG (23 Nov 2025 07:33 WIB)",Preview Channel
+#EXTINF:-1 tvg-id="previewchannel.starhubtvplussg" group-title="STARHUB TV PLUS SG (23 Nov 2025 08:0 WIB)",Preview Channel
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=94472526cc92471493d46543faefadda:36658f2faa1f09f206a2f448ac653e2d
-https://MH-BKS400-04.starhubgo.com:443/bpk-token/2ac@d0cugysplq0alkullshsnfinqfqwavbwd0ungica/bpk-tv/Preview/output/manifest.mpd?bkm-query
+https://MH-BKS400-06.starhubgo.com:443/bpk-token/2ac@bx1ktmhsolns3jqvmy3wxxvgz4y3w0e1bt5aidda/bpk-tv/Preview/output/manifest.mpd?bkm-query
 
-#EXTINF:-1 tvg-id="phoenixinfonewschannelhd.starhubtvplussg" group-title="STARHUB SG (23 Nov 2025 07:33 WIB)",Phoenix InfoNews Channel HD
+#EXTINF:-1 tvg-id="phoenixinfonewschannelhd.starhubtvplussg" group-title="STARHUB TV PLUS SG (23 Nov 2025 08:0 WIB)",Phoenix InfoNews Channel HD
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=00000000000000000000000000000000:00000000000000000000000000000000
-https://MH-BKS400-07.starhubgo.com:443/bpk-token/2ac@lgo5mqd2y3tbog43oxtcv24za5sr1hd2li5cpfca/bpk-tv/PINCHD/output/manifest.mpd?bkm-query
+https://MH-BKS400-07.starhubgo.com:443/bpk-token/2ac@mk0jlxsfjhn30bkfneamnutwoftso00vmeluicda/bpk-tv/PINCHD/output/manifest.mpd?bkm-query
 
-#EXTINF:-1 tvg-id="kalaignartv.starhubtvplussg" group-title="STARHUB SG (23 Nov 2025 07:33 WIB)",Kalaignar TV
+#EXTINF:-1 tvg-id="kalaignartv.starhubtvplussg" group-title="STARHUB TV PLUS SG (23 Nov 2025 08:0 WIB)",Kalaignar TV
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=00000000000000000000000000000000:00000000000000000000000000000000
-https://MH-BKS400-06.starhubgo.com:443/bpk-token/2ac@y2ik1ub5djntg0opu2rfaruwjtghs0gnyymaa1ba/bpk-tv/KalaignarTV/output/manifest.mpd?bkm-query
+https://sh-bks400-08.starhubgo.com:443/bpk-token/2aa@chdadh0pmam2ygbzjaiqxgagouzzayyrcnyimrba/bpk-tv/KalaignarTV/output/manifest.mpd?bkm-query
 
-#EXTINF:-1 tvg-id="hitsmovieshd.starhubtvplussg" group-title="STARHUB SG (23 Nov 2025 07:33 WIB)",HITS MOVIES HD
+#EXTINF:-1 tvg-id="hitsmovieshd.starhubtvplussg" group-title="STARHUB TV PLUS SG (23 Nov 2025 08:0 WIB)",HITS MOVIES HD
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=00000000000000000000000000000000:00000000000000000000000000000000
-https://bks03.starhubgo.com:443/bpk-token/2aa@komlg3iwrnzudmd3ecfbfywm0bsd1sjhkoadjlda/bpk-tv/HitsMoviesHD/output/manifest.mpd?bkm-query
+https://CO2-BKS400-05.starhubgo.com:443/bpk-token/2ab@ivd5zxgfo2h5k1mjgnaeth4tpfk3yp4vild3qpca/bpk-tv/HitsMoviesHD/output/manifest.mpd?bkm-query
 
-#EXTINF:-1 tvg-id="cinemaxhd.starhubtvplussg" group-title="STARHUB SG (23 Nov 2025 07:33 WIB)",Cinemax HD
+#EXTINF:-1 tvg-id="cinemaxhd.starhubtvplussg" group-title="STARHUB TV PLUS SG (23 Nov 2025 08:0 WIB)",Cinemax HD
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=00000000000000000000000000000000:00000000000000000000000000000000
-https://CO2-BKS400-05.starhubgo.com:443/bpk-token/2ab@xhegckyyqyiir0ljcqo1wimeuy3brrqcxzeelsaa/bpk-tv/CinemaxHD/output/manifest.mpd?bkm-query
+https://CO2-BKS400-05.starhubgo.com:443/bpk-token/2ab@31ozpshg1f5j4vxpfwsoo3s5ep5wl4t23fo1gkda/bpk-tv/CinemaxHD/output/manifest.mpd?bkm-query
 
-#EXTINF:-1 tvg-id="cartoonnetwork.starhubtvplussg" group-title="STARHUB SG (23 Nov 2025 07:33 WIB)",Cartoon Network
+#EXTINF:-1 tvg-id="cartoonnetwork.starhubtvplussg" group-title="STARHUB TV PLUS SG (23 Nov 2025 08:0 WIB)",Cartoon Network
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=00000000000000000000000000000000:00000000000000000000000000000000
-https://CO2-BKS400-04.starhubgo.com:443/bpk-token/2ab@edgrcrw2yekekckyjad25mcfcnzqjuiue300pjca/bpk-tv/CartoonNetwork/output/manifest.mpd?bkm-query
+https://CO2-BKS400-05.starhubgo.com:443/bpk-token/2ab@4omhgnysr3yubezo0cnjeyom0qxd1rjd4qmfpvaa/bpk-tv/CartoonNetwork/output/manifest.mpd?bkm-query
 
-#EXTINF:-1 tvg-id="nhkworldpremiumhd.starhubtvplussg" group-title="STARHUB SG (23 Nov 2025 07:33 WIB)",NHK World Premium HD
+#EXTINF:-1 tvg-id="nhkworldpremiumhd.starhubtvplussg" group-title="STARHUB TV PLUS SG (23 Nov 2025 08:0 WIB)",NHK World Premium HD
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=00000000000000000000000000000000:00000000000000000000000000000000
-https://mh-bks400-03.starhubgo.com:443/bpk-token/2ac@zpgeyyhtzqad52iid3xggmiqrh5tbbg4zppgxjda/bpk-tv/NHKWPHD/output/manifest.mpd?bkm-query
+https://mh-bks400-03.starhubgo.com:443/bpk-token/2ac@4u5d4oby4py1ft1gy42jq5h230g35qxl4uwbr5ba/bpk-tv/NHKWPHD/output/manifest.mpd?bkm-query
 
-#EXTINF:-1 tvg-id="hbohd.starhubtvplussg" group-title="STARHUB SG (23 Nov 2025 07:33 WIB)",HBO HD
+#EXTINF:-1 tvg-id="hbohd.starhubtvplussg" group-title="STARHUB TV PLUS SG (23 Nov 2025 08:0 WIB)",HBO HD
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=eec131c3a0af46359a1734acfa9b0e50:fbd97ce2ca444ba3090bd2968809511c
+https://MH-BKS400-07.starhubgo.com:443/bpk-token/2ac@tpd0aiasnidarxsyurptggubqy21qgactbshd3ba/bpk-tv/HBOHD/output/manifest.mpd?bkm-query
+
+#EXTINF:-1 tvg-id="nickelodeonasiahd.starhubtvplussg" group-title="STARHUB TV PLUS SG (23 Nov 2025 08:0 WIB)",Nickelodeon Asia HD
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=00000000000000000000000000000000:00000000000000000000000000000000
-https://MH-BKS400-07.starhubgo.com:443/bpk-token/2ac@ssgyvcqb0axka11i31kr2nqlfquubovas2xfwxba/bpk-tv/HBOHD/output/manifest.mpd?bkm-query
+https://bks06.starhubgo.com:443/bpk-token/2aa@kwmwkgxiszkzm0d5suyavzmvm4sftvszkgi4fqaa/bpk-tv/NickelodeonHD/output/manifest.mpd?bkm-query
 
-#EXTINF:-1 tvg-id="nickelodeonasiahd.starhubtvplussg" group-title="STARHUB SG (23 Nov 2025 07:33 WIB)",Nickelodeon Asia HD
+#EXTINF:-1 tvg-id="hubsports3hd.starhubtvplussg" group-title="STARHUB TV PLUS SG (23 Nov 2025 08:0 WIB)",Hub Sports 3 HD
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=00000000000000000000000000000000:00000000000000000000000000000000
-https://bks05.starhubgo.com:443/bpk-token/2aa@4pohgwyqz3yyc4r2csajg2ommr5t1rrf45kw2iaa/bpk-tv/NickelodeonHD/output/manifest.mpd?bkm-query
+https://MH-BKS400-05.starhubgo.com:443/bpk-token/2ac@cp1wjhfzn1g3ee1ucfyrhwntosz1wn0jcrepjxba/bpk-tv/HubSports3HDNEW/output/manifest.mpd?bkm-query
 
-#EXTINF:-1 tvg-id="hubsports3hd.starhubtvplussg" group-title="STARHUB SG (23 Nov 2025 07:33 WIB)",Hub Sports 3 HD
+#EXTINF:-1 tvg-id="france24.starhubtvplussg" group-title="STARHUB TV PLUS SG (23 Nov 2025 08:0 WIB)",France24
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=00000000000000000000000000000000:00000000000000000000000000000000
-https://CO2-BKS400-05.starhubgo.com:443/bpk-token/2ab@qumdfgmasnuyatt3qtivqzgkmaef1irbqkmbm4aa/bpk-tv/HubSports3HDNEW/output/manifest.mpd?bkm-query
+https://MH-BKS400-06.starhubgo.com:443/bpk-token/2ac@iyaxx0ykd24kdm2jc0gfjbopvrcgy3vgi2e3mvaa/bpk-tv/France24/output/manifest.mpd?bkm-query
 
-#EXTINF:-1 tvg-id="france24.starhubtvplussg" group-title="STARHUB SG (23 Nov 2025 07:33 WIB)",France24
+#EXTINF:-1 tvg-id="bloombergtelevisionhd.starhubtvplussg" group-title="STARHUB TV PLUS SG (23 Nov 2025 08:0 WIB)",Bloomberg Television HD
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=00000000000000000000000000000000:00000000000000000000000000000000
-https://MH-BKS400-06.starhubgo.com:443/bpk-token/2ac@ctdk3ashoivdy5eku5lq5hu0bey2qkhqcxhagpca/bpk-tv/France24/output/manifest.mpd?bkm-query
+https://bks06.starhubgo.com:443/bpk-token/2aa@dmcthhhzjm4222viacysbegpowaty2zzd2g1iraa/bpk-tv/BloombergTelevisionHD/output/manifest.mpd?bkm-query
 
-#EXTINF:-1 tvg-id="bloombergtelevisionhd.starhubtvplussg" group-title="STARHUB SG (23 Nov 2025 07:33 WIB)",Bloomberg Television HD
+#EXTINF:-1 tvg-id="zeecinemahd.starhubtvplussg" group-title="STARHUB TV PLUS SG (23 Nov 2025 08:0 WIB)",Zee Cinema HD
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=00000000000000000000000000000000:00000000000000000000000000000000
-https://MH-BKS400-05.starhubgo.com:443/bpk-token/2ac@3xvx3xytw4w5c20w0papwlp1pj4n3n5f3jko3haa/bpk-tv/BloombergTelevisionHD/output/manifest.mpd?bkm-query
+https://bks03.starhubgo.com:443/bpk-token/2aa@mifwoedsvy0r23d1swzmjkm3iwdkrvdzmij4bsaa/bpk-tv/ZeeCinema/output/manifest.mpd?bkm-query
 
-#EXTINF:-1 tvg-id="zeecinemahd.starhubtvplussg" group-title="STARHUB SG (23 Nov 2025 07:33 WIB)",Zee Cinema HD
+#EXTINF:-1 tvg-id="citraentertainment.starhubtvplussg" group-title="STARHUB TV PLUS SG (23 Nov 2025 08:0 WIB)",Citra Entertainment
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=00000000000000000000000000000000:00000000000000000000000000000000
-https://bks06.starhubgo.com:443/bpk-token/2aa@zvejmyo4serblko4fxhgsjsyqfofjcdwzfabdoba/bpk-tv/ZeeCinema/output/manifest.mpd?bkm-query
+https://mh-bks400-03.starhubgo.com:443/bpk-token/2ac@v2jftzx4hvmgp1fnlix4atkgthepkzm4v2ah2ida/bpk-tv/CitraEntertainment/output/manifest.mpd?bkm-query
 
-#EXTINF:-1 tvg-id="citraentertainment.starhubtvplussg" group-title="STARHUB SG (23 Nov 2025 07:33 WIB)",Citra Entertainment
+#EXTINF:-1 tvg-id="vijaytvhd.starhubtvplussg" group-title="STARHUB TV PLUS SG (23 Nov 2025 08:0 WIB)",Vijay TV HD
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=00000000000000000000000000000000:00000000000000000000000000000000
-https://bks05.starhubgo.com:443/bpk-token/2aa@mh5tknvq2pkvvh1tie3nx4hv0c1z5uklmx1cqtba/bpk-tv/CitraEntertainment/output/manifest.mpd?bkm-query
+https://CO2-BKS400-04.starhubgo.com:443/bpk-token/2ab@dahvmgtk2uszmfpktxyszokzmwayjftzd414b4da/bpk-tv/VijayTV/output/manifest.mpd?bkm-query
 
-#EXTINF:-1 tvg-id="vijaytvhd.starhubtvplussg" group-title="STARHUB SG (23 Nov 2025 07:33 WIB)",Vijay TV HD
+#EXTINF:-1 tvg-id="asianet.starhubtvplussg" group-title="STARHUB TV PLUS SG (23 Nov 2025 08:0 WIB)",Asianet
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=00000000000000000000000000000000:00000000000000000000000000000000
-https://bks05.starhubgo.com:443/bpk-token/2aa@wo2mf03jrtvihclcxtwzeyzkutvdhlrow4y35eba/bpk-tv/VijayTV/output/manifest.mpd?bkm-query
+https://sh-bks400-08.starhubgo.com:443/bpk-token/2aa@rxshtd1lk4momyidki0wwfpgho3v2z2yr3jp2vaa/bpk-tv/Asianet/output/manifest.mpd?bkm-query
 
-#EXTINF:-1 tvg-id="asianet.starhubtvplussg" group-title="STARHUB SG (23 Nov 2025 07:33 WIB)",Asianet
+#EXTINF:-1 tvg-id="animaxhd.starhubtvplussg" group-title="STARHUB TV PLUS SG (23 Nov 2025 08:0 WIB)",Animax HD
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=00000000000000000000000000000000:00000000000000000000000000000000
-https://sh-bks400-08.starhubgo.com:443/bpk-token/2aa@g4gaorll1ayfot5pbgtyfna2cxqxbql2gu3ibhaa/bpk-tv/Asianet/output/manifest.mpd?bkm-query
+https://MH-BKS400-07.starhubgo.com:443/bpk-token/2ac@fexqeqw22csakuurrtd4robjanbzfebufkgnhfda/bpk-tv/AnimaxHD/output/manifest.mpd?bkm-query
 
-#EXTINF:-1 tvg-id="animaxhd.starhubtvplussg" group-title="STARHUB SG (23 Nov 2025 07:33 WIB)",Animax HD
+#EXTINF:-1 tvg-id="astrosensasihd.starhubtvplussg" group-title="STARHUB TV PLUS SG (23 Nov 2025 08:0 WIB)",Astro Sensasi HD
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=00000000000000000000000000000000:00000000000000000000000000000000
-https://bks03.starhubgo.com:443/bpk-token/2aa@pltadxzyncm2wqbfraqlpgbgol10eyynpl5imbca/bpk-tv/AnimaxHD/output/manifest.mpd?bkm-query
+https://bks05.starhubgo.com:443/bpk-token/2aa@rrcagkctkayizqc1zsow0famummuaqrsrbgr2uca/bpk-tv/HubSensasiHD/output/manifest.mpd?bkm-query
 
-#EXTINF:-1 tvg-id="astrosensasihd.starhubtvplussg" group-title="STARHUB SG (23 Nov 2025 07:33 WIB)",Astro Sensasi HD
+#EXTINF:-1 tvg-id="spotv.starhubtvplussg" group-title="STARHUB TV PLUS SG (23 Nov 2025 08:0 WIB)",SPOTV
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=a9b08ce3328f467dac1c6ff03b4cf358:499e104ca0c44ebc78d601094001cd67
+https://MH-BKS400-08.starhubgo.com:443/bpk-token/2ac@op4lrrzrzpfgwwjfmjtjh2xcd11t5kmmonhwseaa/bpk-tv/SPOTVNEW/output/manifest.mpd?bkm-query
+
+#EXTINF:-1 tvg-id="kbsworldhd.starhubtvplussg" group-title="STARHUB TV PLUS SG (23 Nov 2025 08:0 WIB)",KBS World HD
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=00000000000000000000000000000000:00000000000000000000000000000000
-https://MH-BKS400-04.starhubgo.com:443/bpk-token/2ac@jruwtl3os0oof2qg0i4h1jnhxskev32kjrcpt1ba/bpk-tv/HubSensasiHD/output/manifest.mpd?bkm-query
+https://SH-BKS400-09.starhubgo.com:443/bpk-token/2ab@eemhsbvwq3iguntm0i13ryoedcbb1rmiemab3xca/bpk-tv/KBSWorldHD/output/manifest.mpd?bkm-query
 
-#EXTINF:-1 tvg-id="spotv.starhubtvplussg" group-title="STARHUB SG (23 Nov 2025 07:33 WIB)",SPOTV
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=00000000000000000000000000000000:00000000000000000000000000000000
-https://MH-BKS400-08.starhubgo.com:443/bpk-token/2ac@dq5qjvzo4dgvg0ddzfrtz5btkta2hmkndsgnkaaa/bpk-tv/SPOTVNEW/output/manifest.mpd?bkm-query
-
-#EXTINF:-1 tvg-id="kbsworldhd.starhubtvplussg" group-title="STARHUB SG (23 Nov 2025 07:33 WIB)",KBS World HD
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=00000000000000000000000000000000:00000000000000000000000000000000
-https://RCG-BKS400-06.starhubgo.com:443/bpk-token/2aa@wgoxjerty3gref210vzzu2oti0vr1ncjwsmmjuba/bpk-tv/KBSWorldHD/output/manifest.mpd?bkm-query
-
-#EXTINF:-1 tvg-id="testchannel996.starhubtvplussg" group-title="STARHUB SG (23 Nov 2025 07:33 WIB)",TestChannel 996
+#EXTINF:-1 tvg-id="testchannel996.starhubtvplussg" group-title="STARHUB TV PLUS SG (23 Nov 2025 08:0 WIB)",TestChannel 996
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=00000000000000000000000000000000:00000000000000000000000000000000
 https://starhubgo.secureswiftcontent.com/bpk-tv/TestChannel996/output/manifest.mpd
 
-#EXTINF:-1 tvg-id="euronewshd.starhubtvplussg" group-title="STARHUB SG (23 Nov 2025 07:33 WIB)",Euronews HD
+#EXTINF:-1 tvg-id="euronewshd.starhubtvplussg" group-title="STARHUB TV PLUS SG (23 Nov 2025 08:0 WIB)",Euronews HD
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=00000000000000000000000000000000:00000000000000000000000000000000
-https://mh-bks400-03.starhubgo.com:443/bpk-token/2ac@khebrj4tqeegz5l5rjpaxicct21bjimskhnd4yca/bpk-tv/Euronews/output/manifest.mpd?bkm-query
+https://MH-BKS400-05.starhubgo.com:443/bpk-token/2ac@gkk4kegpjzlryf45wujynu2viuqssxcrguvhkuca/bpk-tv/Euronews/output/manifest.mpd?bkm-query
 
-#EXTINF:-1 tvg-id="hbohitshd.starhubtvplussg" group-title="STARHUB SG (23 Nov 2025 07:33 WIB)",HBO Hits HD
+#EXTINF:-1 tvg-id="hbohitshd.starhubtvplussg" group-title="STARHUB TV PLUS SG (23 Nov 2025 08:0 WIB)",HBO Hits HD
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=00000000000000000000000000000000:00000000000000000000000000000000
-https://MH-BKS400-07.starhubgo.com:443/bpk-token/2ac@rbrvflvtewwmfc1v1d4x0cllwkmimnzkrpaig4aa/bpk-tv/HBOHitsHD/output/manifest.mpd?bkm-query
+https://bks03.starhubgo.com:443/bpk-token/2aa@bkw2di13zspan21rhq5wnmzhq4qsf5a0bk0um4aa/bpk-tv/HBOHitsHD/output/manifest.mpd?bkm-query
 
-#EXTINF:-1 tvg-id="ctiasiahd.starhubtvplussg" group-title="STARHUB SG (23 Nov 2025 07:33 WIB)",CTI Asia HD
+#EXTINF:-1 tvg-id="ctiasiahd.starhubtvplussg" group-title="STARHUB TV PLUS SG (23 Nov 2025 08:0 WIB)",CTI Asia HD
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=00000000000000000000000000000000:00000000000000000000000000000000
-https://bks05.starhubgo.com:443/bpk-token/2aa@i2ipst4ad3jo0vbzgicebr4ehfch0t2uimm4inca/bpk-tv/CTITVHD/output/manifest.mpd?bkm-query
+https://bks06.starhubgo.com:443/bpk-token/2aa@4ftcaf50mkau2jqsybzisgfak4pzuaiz4vxkptaa/bpk-tv/CTITVHD/output/manifest.mpd?bkm-query
 
-#EXTINF:-1 tvg-id="ccm.starhubtvplussg" group-title="STARHUB SG (23 Nov 2025 07:33 WIB)",CCM
+#EXTINF:-1 tvg-id="ccm.starhubtvplussg" group-title="STARHUB TV PLUS SG (23 Nov 2025 08:0 WIB)",CCM
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=00000000000000000000000000000000:00000000000000000000000000000000
-https://RCG-BKS400-06.starhubgo.com:443/bpk-token/2aa@5cgojcz4yyfjehsowv0l2m2sesxqrlsi5wevjsba/bpk-tv/CCM/output/manifest.mpd?bkm-query
+https://CO2-BKS400-05.starhubgo.com:443/bpk-token/2ab@zox3j5jj3wh3hbrahfuheo1t4lw1np0pzqx5ahba/bpk-tv/CCM/output/manifest.mpd?bkm-query
 
-#EXTINF:-1 tvg-id="hubvvdramahd.starhubtvplussg" group-title="STARHUB SG (23 Nov 2025 07:33 WIB)",Hub VV Drama HD
+#EXTINF:-1 tvg-id="hubvvdramahd.starhubtvplussg" group-title="STARHUB TV PLUS SG (23 Nov 2025 08:0 WIB)",Hub VV Drama HD
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=00000000000000000000000000000000:00000000000000000000000000000000
-https://SH-BKS400-10.starhubgo.com:443/bpk-token/2ab@f12rl0kgthojlj1tzug4pzdxufzgp2swfjhxemba/bpk-tv/HubVVDramaHD/output/manifest.mpd?bkm-query
+https://SH-BKS400-10.starhubgo.com:443/bpk-token/2ab@itk5r31gk3hw5kaogjve5v4d1p0u0pm5ibrz4laa/bpk-tv/HubVVDramaHD/output/manifest.mpd?bkm-query
 
-#EXTINF:-1 tvg-id="rockentertainmenthd.starhubtvplussg" group-title="STARHUB SG (23 Nov 2025 07:33 WIB)",ROCK Entertainment HD
+#EXTINF:-1 tvg-id="rockentertainmenthd.starhubtvplussg" group-title="STARHUB TV PLUS SG (23 Nov 2025 08:0 WIB)",ROCK Entertainment HD
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=00000000000000000000000000000000:00000000000000000000000000000000
-https://SH-BKS400-10.starhubgo.com:443/bpk-token/2ab@2juephvxrs23up4htgynkij4okpcfz1j21pcarca/bpk-tv/BlueAntEntertainmentHD/output/manifest.mpd?bkm-query
+https://SH-BKS400-10.starhubgo.com:443/bpk-token/2ab@xf4iw525ydz4tapu3ke1s2rm5rnrhs3hxxfozjda/bpk-tv/BlueAntEntertainmentHD/output/manifest.mpd?bkm-query
 
-#EXTINF:-1 tvg-id="bbcearthhd.starhubtvplussg" group-title="STARHUB SG (23 Nov 2025 07:33 WIB)",BBC Earth HD
+#EXTINF:-1 tvg-id="bbcearthhd.starhubtvplussg" group-title="STARHUB TV PLUS SG (23 Nov 2025 08:0 WIB)",BBC Earth HD
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=00000000000000000000000000000000:00000000000000000000000000000000
-https://MH-BKS400-04.starhubgo.com:443/bpk-token/2ac@cqs11kiokoplbjwu22orzfxxviau24wccqec10aa/bpk-tv/BBCEarthHD/output/manifest.mpd?bkm-query
+https://SH-BKS400-09.starhubgo.com:443/bpk-token/2ab@3xszywznkgd1gr0cv3qpwftrnl5vmgwn3545xaca/bpk-tv/BBCEarthHD/output/manifest.mpd?bkm-query
 
-#EXTINF:-1 tvg-id="hubsports6hd.starhubtvplussg" group-title="STARHUB SG (23 Nov 2025 07:33 WIB)",Hub Sports 6 HD
+#EXTINF:-1 tvg-id="hubsports6hd.starhubtvplussg" group-title="STARHUB TV PLUS SG (23 Nov 2025 08:0 WIB)",Hub Sports 6 HD
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0bed9555084b4eaa9bfea62c3ca52871:ccac45f8beaf3eb8aafbd934d1791584
+https://bks03.starhubgo.com:443/bpk-token/2aa@4kxqe4443csy1iaqrteimobj2fx0ferx4k1yliba/bpk-tv/HubSports6/output/manifest.mpd?bkm-query
+
+#EXTINF:-1 tvg-id="tvbsnews.starhubtvplussg" group-title="STARHUB TV PLUS SG (23 Nov 2025 08:0 WIB)",TVBS-NEWS
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=00000000000000000000000000000000:00000000000000000000000000000000
-https://mh-bks400-03.starhubgo.com:443/bpk-token/2ac@hb05jckki5hjyebt4vk01u5teuiq4psqhbt3gtca/bpk-tv/HubSports6/output/manifest.mpd?bkm-query
+https://bks03.starhubgo.com:443/bpk-token/2aa@rd05vobdi5x0fgzgg12x4u5l302q4pvlrdwx0yca/bpk-tv/TVBSNews/output/manifest.mpd?bkm-query
 
-#EXTINF:-1 tvg-id="tvbsnews.starhubtvplussg" group-title="STARHUB SG (23 Nov 2025 07:33 WIB)",TVBS-NEWS
+#EXTINF:-1 tvg-id="dreamworkshd.starhubtvplussg" group-title="STARHUB TV PLUS SG (23 Nov 2025 08:0 WIB)",DreamWorks HD
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=00000000000000000000000000000000:00000000000000000000000000000000
-https://bks03.starhubgo.com:443/bpk-token/2aa@uepm50wh2r3l1oxjx4g2q4y4vvfzd1xwuedeqmba/bpk-tv/TVBSNews/output/manifest.mpd?bkm-query
+https://MH-BKS400-06.starhubgo.com:443/bpk-token/2ac@glzmvmncftvsffjxp13zpszkzczkglflgp3godba/bpk-tv/DreamworksHD/output/manifest.mpd?bkm-query
 
-#EXTINF:-1 tvg-id="dreamworkshd.starhubtvplussg" group-title="STARHUB SG (23 Nov 2025 07:33 WIB)",DreamWorks HD
+#EXTINF:-1 tvg-id="hbosignaturehd.starhubtvplussg" group-title="STARHUB TV PLUS SG (23 Nov 2025 08:0 WIB)",HBO Signature HD
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=7dd4f16f5fd647d79589d923060df12d:e29e7f9e4bd59c0515dd0ad1e83b18a7
+https://MH-BKS400-08.starhubgo.com:443/bpk-token/2ac@vm2kiijvrlbbvfgs2v55ayvqqcfdxcckvofxl3aa/bpk-tv/HBOSignatureHD/output/manifest.mpd?bkm-query
+
+#EXTINF:-1 tvg-id="cnbchd.starhubtvplussg" group-title="STARHUB TV PLUS SG (23 Nov 2025 08:0 WIB)",CNBC HD
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=00000000000000000000000000000000:00000000000000000000000000000000
-https://CO2-BKS400-04.starhubgo.com:443/bpk-token/2ab@t20q1ejcldotesgdz2ztavbxjsexg2gjtcg1w2ba/bpk-tv/DreamworksHD/output/manifest.mpd?bkm-query
+https://sh-bks400-08.starhubgo.com:443/bpk-token/2aa@vdbwoxq1ey03c4v2sga54cm3oj2iqv1fvj04bbda/bpk-tv/CNBCHD/output/manifest.mpd?bkm-query
 
-#EXTINF:-1 tvg-id="hbosignaturehd.starhubtvplussg" group-title="STARHUB SG (23 Nov 2025 07:33 WIB)",HBO Signature HD
+#EXTINF:-1 tvg-id="tv5mondehd.starhubtvplussg" group-title="STARHUB TV PLUS SG (23 Nov 2025 08:0 WIB)",TV5MONDE HD
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=00000000000000000000000000000000:00000000000000000000000000000000
-https://MH-BKS400-07.starhubgo.com:443/bpk-token/2ac@h4fx2tkwx2sp0nt2kpc0flozh3rpzf5uhquk5gda/bpk-tv/HBOSignatureHD/output/manifest.mpd?bkm-query
+https://SH-BKS400-09.starhubgo.com:443/bpk-token/2ab@miu3uxurrwt4cxmgxlanji1jpbdcnh3fmay11bda/bpk-tv/TV5MONDEAsieHD/output/manifest.mpd?bkm-query
 
-#EXTINF:-1 tvg-id="cnbchd.starhubtvplussg" group-title="STARHUB SG (23 Nov 2025 07:33 WIB)",CNBC HD
+#EXTINF:-1 tvg-id="hubsports1hd.starhubtvplussg" group-title="STARHUB TV PLUS SG (23 Nov 2025 08:0 WIB)",Hub Sports 1  HD
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=00000000000000000000000000000000:00000000000000000000000000000000
-https://MH-BKS400-08.starhubgo.com:443/bpk-token/2ac@egsidlrwicnmfbthva43vergwkrre0ykeelva4aa/bpk-tv/CNBCHD/output/manifest.mpd?bkm-query
+https://CO2-BKS400-05.starhubgo.com:443/bpk-token/2ab@ocrch0laek2i5i3uiswi3cfouxtiuyr4o2raocda/bpk-tv/HubSports1HDnew1/output/manifest.mpd?bkm-query
 
-#EXTINF:-1 tvg-id="tv5mondehd.starhubtvplussg" group-title="STARHUB SG (23 Nov 2025 07:33 WIB)",TV5MONDE HD
+#EXTINF:-1 tvg-id="sonymax.starhubtvplussg" group-title="STARHUB TV PLUS SG (23 Nov 2025 08:0 WIB)",SONY MAX
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=00000000000000000000000000000000:00000000000000000000000000000000
-https://mh-bks400-03.starhubgo.com:443/bpk-token/2ac@2izhhqiif52as3hsssdnispoajgk4zbe2iqfibaa/bpk-tv/TV5MONDEAsieHD/output/manifest.mpd?bkm-query
+https://MH-BKS400-05.starhubgo.com:443/bpk-token/2ac@gfyudsz0atoigmnqdqsztqjhetibg3qmg1hndcba/bpk-tv/SonyMAX/output/manifest.mpd?bkm-query
 
-#EXTINF:-1 tvg-id="hubsports1hd.starhubtvplussg" group-title="STARHUB SG (23 Nov 2025 07:33 WIB)",Hub Sports 1  HD
+#EXTINF:-1 tvg-id="skynewshd.starhubtvplussg" group-title="STARHUB TV PLUS SG (23 Nov 2025 08:0 WIB)",Sky News HD
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=00000000000000000000000000000000:00000000000000000000000000000000
-https://MH-BKS400-05.starhubgo.com:443/bpk-token/2ac@apq0cjmqbklebxqgmapvhavfsazduwicarpdczaa/bpk-tv/HubSports1HDnew1/output/manifest.mpd?bkm-query
+https://sh-bks400-08.starhubgo.com:443/bpk-token/2aa@piiqv5uibbw4dwxybleljqal5zcccm3hpcty0jda/bpk-tv/SkyNewsHD/output/manifest.mpd?bkm-query
 
-#EXTINF:-1 tvg-id="sonymax.starhubtvplussg" group-title="STARHUB SG (23 Nov 2025 07:33 WIB)",SONY MAX
+#EXTINF:-1 tvg-id="beinsportshd.starhubtvplussg" group-title="STARHUB TV PLUS SG (23 Nov 2025 08:0 WIB)",beIN SPORTS HD
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=00000000000000000000000000000000:00000000000000000000000000000000
-https://bks06.starhubgo.com:443/bpk-token/2aa@k4zbszykhhigd5fsbihbftdetzspoqmgko3j3pda/bpk-tv/SonyMAX/output/manifest.mpd?bkm-query
+https://bks03.starhubgo.com:443/bpk-token/2aa@dzoce15x1jqm5311ydwsl3eiwpiwtaz4dzcklnaa/bpk-tv/BeINSportsHD/output/manifest.mpd?bkm-query
 
-#EXTINF:-1 tvg-id="skynewshd.starhubtvplussg" group-title="STARHUB SG (23 Nov 2025 07:33 WIB)",Sky News HD
+#EXTINF:-1 tvg-id="testchannel2.starhubtvplussg" group-title="STARHUB TV PLUS SG (23 Nov 2025 08:0 WIB)",TestChannel2
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=00000000000000000000000000000000:00000000000000000000000000000000
-https://sh-bks400-08.starhubgo.com:443/bpk-token/2aa@amv3lbe3vwpfqpiu5elvbk1xcabln5kaagovexda/bpk-tv/SkyNewsHD/output/manifest.mpd?bkm-query
+https://CO2-BKS400-05.starhubgo.com:443/bpk-token/2ab@phhsyrdx2ich42i5qntkxoerd51zreo2pzhqrjda/bpk-tv/TestChannel997/output/manifest.mpd?bkm-query
 
-#EXTINF:-1 tvg-id="beinsportshd.starhubtvplussg" group-title="STARHUB SG (23 Nov 2025 07:33 WIB)",beIN SPORTS HD
+#EXTINF:-1 tvg-id="nhkworldjapanhd.starhubtvplussg" group-title="STARHUB TV PLUS SG (23 Nov 2025 08:0 WIB)",NHK WORLD - JAPAN HD
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=00000000000000000000000000000000:00000000000000000000000000000000
-https://mh-bks400-03.starhubgo.com:443/bpk-token/2ac@affmmbc0uqrfitqnhhlutkyycmjjbdlqafmodqca/bpk-tv/BeINSportsHD/output/manifest.mpd?bkm-query
+https://CO2-BKS400-04.starhubgo.com:443/bpk-token/2ab@k2kvnakylvwbyzqjdxlabvk1a2cxkndqkcw4ayca/bpk-tv/NHKWORLDJAPAN/output/manifest.mpd?bkm-query
 
-#EXTINF:-1 tvg-id="testchannel2.starhubtvplussg" group-title="STARHUB SG (23 Nov 2025 07:33 WIB)",TestChannel2
+#EXTINF:-1 tvg-id="onemalay.starhubtvplussg" group-title="STARHUB TV PLUS SG (23 Nov 2025 08:0 WIB)",ONE (Malay)
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=00000000000000000000000000000000:00000000000000000000000000000000
-https://MH-BKS400-04.starhubgo.com:443/bpk-token/2ac@35qdd5drdom25lkxqauogbhg4x5h2yy535g0dpda/bpk-tv/TestChannel997/output/manifest.mpd?bkm-query
+https://CO2-BKS400-04.starhubgo.com:443/bpk-token/2ab@glupeadhr4ram3hh4t1ypi5ia4zc3dbygviejyda/bpk-tv/ONEMalay/output/manifest.mpd?bkm-query
 
-#EXTINF:-1 tvg-id="nhkworldjapanhd.starhubtvplussg" group-title="STARHUB SG (23 Nov 2025 07:33 WIB)",NHK WORLD - JAPAN HD
+#EXTINF:-1 tvg-id="colors.starhubtvplussg" group-title="STARHUB TV PLUS SG (23 Nov 2025 08:0 WIB)",COLORS
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=00000000000000000000000000000000:00000000000000000000000000000000
-https://MH-BKS400-04.starhubgo.com:443/bpk-token/2ac@dwrwnzcug0wf1gsh0hhsvdn1sfqnunlwdwhpnjca/bpk-tv/NHKWORLDJAPAN/output/manifest.mpd?bkm-query
+https://MH-BKS400-05.starhubgo.com:443/bpk-token/2ac@azca0b3dlaihevk2zm1vlfaudcjwaqoiah3z0rba/bpk-tv/COLORS/output/manifest.mpd?bkm-query
 
-#EXTINF:-1 tvg-id="onemalay.starhubtvplussg" group-title="STARHUB SG (23 Nov 2025 07:33 WIB)",ONE (Malay)
+#EXTINF:-1 tvg-id="bbcnewshd.starhubtvplussg" group-title="STARHUB TV PLUS SG (23 Nov 2025 08:0 WIB)",BBC News HD
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=00000000000000000000000000000000:00000000000000000000000000000000
-https://sh-bks400-07.starhubgo.com:443/bpk-token/2aa@p31ui330ptcvxosclfvldxjr0ll5gfkppdppxiba/bpk-tv/ONEMalay/output/manifest.mpd?bkm-query
+https://mh-bks400-03.starhubgo.com:443/bpk-token/2ac@onqd2lb4boqpfdpfyp4jdahyx0kd2a5konzbt0ba/bpk-tv/BBCWorldNewsHD/output/manifest.mpd?bkm-query
 
-#EXTINF:-1 tvg-id="colors.starhubtvplussg" group-title="STARHUB SG (23 Nov 2025 07:33 WIB)",COLORS
+#EXTINF:-1 tvg-id="premiersports.starhubtvplussg" group-title="STARHUB TV PLUS SG (23 Nov 2025 08:0 WIB)",Premier Sports
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=00000000000000000000000000000000:00000000000000000000000000000000
-https://bks06.starhubgo.com:443/bpk-token/2aa@gar0zi3tekhdftah235zzcvtr0biuogkgqvsw4ca/bpk-tv/COLORS/output/manifest.mpd?bkm-query
+https://SH-BKS400-11.starhubgo.com:443/bpk-token/2ab@bexzlwjc2gpzgd5gfuqxrotxm1azn4snbqrayaca/bpk-tv/PremierSP/output/manifest.mpd?bkm-query
 
-#EXTINF:-1 tvg-id="bbcnewshd.starhubtvplussg" group-title="STARHUB SG (23 Nov 2025 07:33 WIB)",BBC News HD
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=00000000000000000000000000000000:00000000000000000000000000000000
-https://CO2-BKS400-05.starhubgo.com:443/bpk-token/2ab@s0m12urbtnttwpzzm5rrmzwzjtug1ghnsemzvmba/bpk-tv/BBCWorldNewsHD/output/manifest.mpd?bkm-query
-
-#EXTINF:-1 tvg-id="premiersports.starhubtvplussg" group-title="STARHUB SG (23 Nov 2025 07:33 WIB)",Premier Sports
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=00000000000000000000000000000000:00000000000000000000000000000000
-https://bks03.starhubgo.com:443/bpk-token/2aa@rybql3olhaovlxlpzefwidax03eoa2kxrynyelba/bpk-tv/PremierSP/output/manifest.mpd?bkm-query
-
-#EXTINF:-1 tvg-id="hubpremier1.starhubtvplussg" group-title="STARHUB SG (23 Nov 2025 07:33 WIB)",Hub Premier 1
+#EXTINF:-1 tvg-id="hubpremier1.starhubtvplussg" group-title="STARHUB TV PLUS SG (23 Nov 2025 08:0 WIB)",Hub Premier 1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=d9df2aa9c4974ed3bbf0730defad68fe:0cac792b5d5ef9ffb24e324a52c3da0b
-https://MH-BKS400-06.starhubgo.com:443/bpk-token/2ac@02o1iml31ndr34vymv3aa3wryggx1gc10ykrtdda/bpk-tv/HubPremier1/output/manifest.mpd?bkm-query
+https://sh-bks400-07.starhubgo.com:443/bpk-token/2aa@2s0gepcyk1q2jvzq0dmm2vni4uxuwbzt2mo310ca/bpk-tv/HubPremier1/output/manifest.mpd?bkm-query
 
-#EXTINF:-1 tvg-id="hitshd.starhubtvplussg" group-title="STARHUB SG (23 Nov 2025 07:33 WIB)",Hits HD
+#EXTINF:-1 tvg-id="hitshd.starhubtvplussg" group-title="STARHUB TV PLUS SG (23 Nov 2025 08:0 WIB)",Hits HD
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=00000000000000000000000000000000:00000000000000000000000000000000
-https://bks03.starhubgo.com:443/bpk-token/2aa@ffpmyoqh2rb1rrnih3m5t4yq3yjzddwdffdexyda/bpk-tv/HITSHD/output/manifest.mpd?bkm-query
+https://bks06.starhubgo.com:443/bpk-token/2aa@eceuzix3qqgdnrv5d3523iitrorabng0esa2w4aa/bpk-tv/HITSHD/output/manifest.mpd?bkm-query
 
-#EXTINF:-1 tvg-id="sonyentertainmenttelevision.starhubtvplussg" group-title="STARHUB SG (23 Nov 2025 07:33 WIB)",Sony Entertainment Television
+#EXTINF:-1 tvg-id="sonyentertainmenttelevision.starhubtvplussg" group-title="STARHUB TV PLUS SG (23 Nov 2025 08:0 WIB)",Sony Entertainment Television
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=00000000000000000000000000000000:00000000000000000000000000000000
-https://MH-BKS400-08.starhubgo.com:443/bpk-token/2ac@k2ks2wq0ljs1c3mvi5abbveznzcxsexfk4tp5dba/bpk-tv/SonyEntertainmentTelevision/output/manifest.mpd?bkm-query
+https://MH-BKS400-07.starhubgo.com:443/bpk-token/2ac@o1xzhzxb5g5e5rfgfcxipptpsx14n4j4ovgeemca/bpk-tv/SonyEntertainmentTelevision/output/manifest.mpd?bkm-query
 
-#EXTINF:-1 tvg-id="abcaustraliahd.starhubtvplussg" group-title="STARHUB SG (23 Nov 2025 07:33 WIB)",ABC Australia HD
+#EXTINF:-1 tvg-id="abcaustraliahd.starhubtvplussg" group-title="STARHUB TV PLUS SG (23 Nov 2025 08:0 WIB)",ABC Australia HD
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=00000000000000000000000000000000:00000000000000000000000000000000
-https://RCG-BKS400-06.starhubgo.com:443/bpk-token/2aa@44bir11uhafo5jzqvjwiedqcx5xpak244kdtrlda/bpk-tv/ABCAustralia/output/manifest.mpd?bkm-query
+https://SH-BKS400-11.starhubgo.com:443/bpk-token/2ab@tnao3skqbyvlkm33o5csca20fnmdqlxutzgxoeba/bpk-tv/ABCAustralia/output/manifest.mpd?bkm-query
 
-#EXTINF:-1 tvg-id="asianetmovies.starhubtvplussg" group-title="STARHUB SG (23 Nov 2025 07:33 WIB)",Asianet Movies
+#EXTINF:-1 tvg-id="asianetmovies.starhubtvplussg" group-title="STARHUB TV PLUS SG (23 Nov 2025 08:0 WIB)",Asianet Movies
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=00000000000000000000000000000000:00000000000000000000000000000000
-https://MH-BKS400-06.starhubgo.com:443/bpk-token/2ac@4msygcx5jc1i2tpzns0iaerneghtewry4iws3nda/bpk-tv/AsianetMov/output/manifest.mpd?bkm-query
+https://MH-BKS400-06.starhubgo.com:443/bpk-token/2ac@qkzooepgf1zrm2kr4wzums32iwukwtdzqo3evlda/bpk-tv/AsianetMov/output/manifest.mpd?bkm-query
 
-#EXTINF:-1 tvg-id="astrowarnahd.starhubtvplussg" group-title="STARHUB SG (23 Nov 2025 07:33 WIB)",Astro Warna HD
+#EXTINF:-1 tvg-id="astrowarnahd.starhubtvplussg" group-title="STARHUB TV PLUS SG (23 Nov 2025 08:0 WIB)",Astro Warna HD
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=00000000000000000000000000000000:00000000000000000000000000000000
-https://mh-bks400-03.starhubgo.com:443/bpk-token/2ac@f1og5qjl1z2dwdaxs4t5p3m4bdywtzhmf1heqbba/bpk-tv/Astro_warna_new/output/manifest.mpd?bkm-query
+https://CO2-BKS400-05.starhubgo.com:443/bpk-token/2ab@h0pvmv2b5vsvsh4jthb1n5kzkzr4lflfhepxfnaa/bpk-tv/Astro_warna_new/output/manifest.mpd?bkm-query
 
-#EXTINF:-1 tvg-id="spotv2.starhubtvplussg" group-title="STARHUB SG (23 Nov 2025 07:33 WIB)",SPOTV2
+#EXTINF:-1 tvg-id="spotv2.starhubtvplussg" group-title="STARHUB TV PLUS SG (23 Nov 2025 08:0 WIB)",SPOTV2
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=a3fab992070540f69551d9497a1499ab:6c48e33896b10978099f81ca0b454aff
+https://bks06.starhubgo.com:443/bpk-token/2aa@jahxklyq22knr4wnseohzoovwacyzv0cjqd5f3da/bpk-tv/SPOTV2NEW/output/manifest.mpd?bkm-query
+
+#EXTINF:-1 tvg-id="dragontv.starhubtvplussg" group-title="STARHUB TV PLUS SG (23 Nov 2025 08:0 WIB)",Dragon TV
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=00000000000000000000000000000000:00000000000000000000000000000000
-https://bks05.starhubgo.com:443/bpk-token/2aa@whepezrxq2rex5scgdxzwi4ist3bzdjowxa44hba/bpk-tv/SPOTV2NEW/output/manifest.mpd?bkm-query
+https://MH-BKS400-08.starhubgo.com:443/bpk-token/2ac@fjymnkvkbtvjfeospx45lqz0ucjcgltkflbro5aa/bpk-tv/DragonTV/output/manifest.mpd?bkm-query
 
-#EXTINF:-1 tvg-id="dragontv.starhubtvplussg" group-title="STARHUB SG (23 Nov 2025 07:33 WIB)",Dragon TV
+#EXTINF:-1 tvg-id="travelxphd.starhubtvplussg" group-title="STARHUB TV PLUS SG (23 Nov 2025 08:0 WIB)",Travelxp HD
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=00000000000000000000000000000000:00000000000000000000000000000000
-https://MH-BKS400-08.starhubgo.com:443/bpk-token/2ac@5djn5wlbev31oifex4qk4s04nx5ik1x35bqq2dca/bpk-tv/DragonTV/output/manifest.mpd?bkm-query
+https://MH-BKS400-04.starhubgo.com:443/bpk-token/2ac@usfmyla5wqbpbox25no32lyqxyvmbd4custvy1aa/bpk-tv/TravelxpHD/output/manifest.mpd?bkm-query
 
-#EXTINF:-1 tvg-id="travelxphd.starhubtvplussg" group-title="STARHUB SG (23 Nov 2025 07:33 WIB)",Travelxp HD
+#EXTINF:-1 tvg-id="adithyatv.starhubtvplussg" group-title="STARHUB TV PLUS SG (23 Nov 2025 08:0 WIB)",ADITHYA TV
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=00000000000000000000000000000000:00000000000000000000000000000000
-https://sh-bks400-07.starhubgo.com:443/bpk-token/2aa@ven2qrqburdgcjkwpjd5q0ybdzfjdhmev0zhpeaa/bpk-tv/TravelxpHD/output/manifest.mpd?bkm-query
+https://CO2-BKS400-05.starhubgo.com:443/bpk-token/2ab@3inhvwwkv3u0kmgik1aoi0oknnhk1jvv3wnf2oca/bpk-tv/ADITHYATV/output/manifest.mpd?bkm-query
 
-#EXTINF:-1 tvg-id="adithyatv.starhubtvplussg" group-title="STARHUB SG (23 Nov 2025 07:33 WIB)",ADITHYA TV
+#EXTINF:-1 tvg-id="hubecityhd.starhubtvplussg" group-title="STARHUB TV PLUS SG (23 Nov 2025 08:0 WIB)",Hub E City HD
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=00000000000000000000000000000000:00000000000000000000000000000000
-https://CO2-BKS400-04.starhubgo.com:443/bpk-token/2ab@bsxqjefb4cgre4c1zvzx3pbticq2fmcjbml1e2ba/bpk-tv/ADITHYATV/output/manifest.mpd?bkm-query
+https://MH-BKS400-04.starhubgo.com:443/bpk-token/2ac@pi1ij1rendfnx3btnfwljwrswdd0gk0opinrjlba/bpk-tv/HubECityHD825/output/manifest.mpd?bkm-query
 
-#EXTINF:-1 tvg-id="hubecityhd.starhubtvplussg" group-title="STARHUB SG (23 Nov 2025 07:33 WIB)",Hub E City HD
+#EXTINF:-1 tvg-id="celestialmovieshd.starhubtvplussg" group-title="STARHUB TV PLUS SG (23 Nov 2025 08:0 WIB)",Celestial Movies HD
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=00000000000000000000000000000000:00000000000000000000000000000000
-https://sh-bks400-07.starhubgo.com:443/bpk-token/2aa@w35lxi315p3cvjbpu05zc5xorcn550fkwdlqi3ba/bpk-tv/HubECityHD825/output/manifest.mpd?bkm-query
+https://SH-BKS400-10.starhubgo.com:443/bpk-token/2ab@b3dmqadspqbcmue55z1wdhyabgi5adeybpyk5waa/bpk-tv/CelestialMoviesHD/output/manifest.mpd?bkm-query
 
-#EXTINF:-1 tvg-id="celestialmovieshd.starhubtvplussg" group-title="STARHUB SG (23 Nov 2025 07:33 WIB)",Celestial Movies HD
+#EXTINF:-1 tvg-id="crimeinvestigationhd.starhubtvplussg" group-title="STARHUB TV PLUS SG (23 Nov 2025 08:0 WIB)",Crime + Investigation HD
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=00000000000000000000000000000000:00000000000000000000000000000000
-https://SH-BKS400-11.starhubgo.com:443/bpk-token/2ab@ynxuflmf3swmbzv01dofcojlwqo1fnzcyzrnw3da/bpk-tv/CelestialMoviesHD/output/manifest.mpd?bkm-query
+https://CO2-BKS400-04.starhubgo.com:443/bpk-token/2ab@p0q0kpyzdkl3bctwuemlnbvv4qtguw0dpemrhxaa/bpk-tv/CrimeplusInvestigationHD/output/manifest.mpd?bkm-query
 
-#EXTINF:-1 tvg-id="crimeinvestigationhd.starhubtvplussg" group-title="STARHUB SG (23 Nov 2025 07:33 WIB)",Crime + Investigation HD
+#EXTINF:-1 tvg-id="hbofamilyhd.starhubtvplussg" group-title="STARHUB TV PLUS SG (23 Nov 2025 08:0 WIB)",HBO Family HD
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=00000000000000000000000000000000:00000000000000000000000000000000
-https://mh-bks400-03.starhubgo.com:443/bpk-token/2ac@jjqskfkabkkvilcziejglafvkelcuukrjjzqfuca/bpk-tv/CrimeplusInvestigationHD/output/manifest.mpd?bkm-query
+https://SH-BKS400-09.starhubgo.com:443/bpk-token/2ab@c0srlb1blgofmcpgbe1qnfdxcwqwm2kycs4xexaa/bpk-tv/HBOFamilyHD/output/manifest.mpd?bkm-query
 
-#EXTINF:-1 tvg-id="hbofamilyhd.starhubtvplussg" group-title="STARHUB SG (23 Nov 2025 07:33 WIB)",HBO Family HD
+#EXTINF:-1 tvg-id="tvbjadehd.starhubtvplussg" group-title="STARHUB TV PLUS SG (23 Nov 2025 08:0 WIB)",TVB Jade HD
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=00000000000000000000000000000000:00000000000000000000000000000000
-https://MH-BKS400-07.starhubgo.com:443/bpk-token/2ac@hmecna42riubimmtqxl0bie0a2bdridqhcv5ovda/bpk-tv/HBOFamilyHD/output/manifest.mpd?bkm-query
+https://RCG-BKS400-06.starhubgo.com:443/bpk-token/2aa@xgp3a1vt2vdmhwvixbw1u40bwtvzlhyoxsngalba/bpk-tv/TVBJadeHD/output/manifest.mpd?bkm-query
 
-#EXTINF:-1 tvg-id="tvbjadehd.starhubtvplussg" group-title="STARHUB SG (23 Nov 2025 07:33 WIB)",TVB Jade HD
+#EXTINF:-1 tvg-id="nickjrhd.starhubtvplussg" group-title="STARHUB TV PLUS SG (23 Nov 2025 08:0 WIB)",Nick Jr. HD
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=00000000000000000000000000000000:00000000000000000000000000000000
-https://RCG-BKS400-06.starhubgo.com:443/bpk-token/2aa@500ylwzgldpzgnd23uqlmvrxmtxwg4sn5oydlgba/bpk-tv/TVBJadeHD/output/manifest.mpd?bkm-query
+https://SH-BKS400-10.starhubgo.com:443/bpk-token/2ab@0bngqxvnuza4gc0z0jqb00map1oitb2n0twa5bca/bpk-tv/NickJr/output/manifest.mpd?bkm-query
 
-#EXTINF:-1 tvg-id="nickjrhd.starhubtvplussg" group-title="STARHUB SG (23 Nov 2025 07:33 WIB)",Nick Jr. HD
+#EXTINF:-1 tvg-id="discoveryhd.starhubtvplussg" group-title="STARHUB TV PLUS SG (23 Nov 2025 08:0 WIB)",Discovery HD
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=00000000000000000000000000000000:00000000000000000000000000000000
-https://MH-BKS400-04.starhubgo.com:443/bpk-token/2ac@jp0gqnjrj1awfcw2cj3hhuna1s0twbmljpm5q3ba/bpk-tv/NickJr/output/manifest.mpd?bkm-query
+https://MH-BKS400-04.starhubgo.com:443/bpk-token/2ac@ywnl0rm4wnjhc1vj2mdfu1wudzwn1soeyw1s0baa/bpk-tv/DiscoveryCh/output/manifest.mpd?bkm-query
 
-#EXTINF:-1 tvg-id="discoveryhd.starhubtvplussg" group-title="STARHUB SG (23 Nov 2025 07:33 WIB)",Discovery HD
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=00000000000000000000000000000000:00000000000000000000000000000000
-https://MH-BKS400-05.starhubgo.com:443/bpk-token/2ac@1qy0i4agcldztv33mvedyrvr2zhewgsh1ohdioaa/bpk-tv/DiscoveryCh/output/manifest.mpd?bkm-query
-
-#EXTINF:-1 tvg-id="hubecityhd.starhubtvplussg" group-title="STARHUB SG (23 Nov 2025 07:33 WIB)",Hub E City HD
+#EXTINF:-1 tvg-id="hubecityhd.starhubtvplussg" group-title="STARHUB TV PLUS SG (23 Nov 2025 08:0 WIB)",Hub E City HD
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=f8c6b1144723408ca3635040b159d5d1:127040955c9dc320212f110d31f7aac9
-https://MH-BKS400-06.starhubgo.com:443/bpk-token/2ac@cgwod02wy0nidj00wqgrvm3gubqrv1qgccseyvaa/bpk-tv/HubECityHD/output/manifest.mpd?bkm-query
+https://MH-BKS400-04.starhubgo.com:443/bpk-token/2ac@aw00b335klhuhwzsebvvvvvd01qvwoipawmdbnba/bpk-tv/HubECityHD/output/manifest.mpd?bkm-query
 
-#EXTINF:-1 tvg-id="testchannel1.starhubtvplussg" group-title="STARHUB SG (23 Nov 2025 07:33 WIB)",TestChannel1
+#EXTINF:-1 tvg-id="testchannel1.starhubtvplussg" group-title="STARHUB TV PLUS SG (23 Nov 2025 08:0 WIB)",TestChannel1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=00000000000000000000000000000000:00000000000000000000000000000000
-https://bks05.starhubgo.com:443/bpk-token/2aa@r4kcb3bpljeuxesuqbvxevec0luxsiiproot1dba/bpk-tv/TestChannel994/output/manifest.mpd?bkm-query
+https://CO2-BKS400-05.starhubgo.com:443/bpk-token/2ab@5t4rhkog0h4iz04absok43dpu25up2rs5n4tosca/bpk-tv/TestChannel994/output/manifest.mpd?bkm-query
 
-#EXTINF:-1 tvg-id="cricbuzz2.starhubtvplussg" group-title="STARHUB SG (23 Nov 2025 07:33 WIB)",Cricbuzz 2
+#EXTINF:-1 tvg-id="cricbuzz2.starhubtvplussg" group-title="STARHUB TV PLUS SG (23 Nov 2025 08:0 WIB)",Cricbuzz 2
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=00000000000000000000000000000000:00000000000000000000000000000000
-https://sh-bks400-07.starhubgo.com:443/bpk-token/2aa@jj0vzmaqjxgtryfp13nhlultzyksongdjxoogzaa/bpk-tv/Cbuzz2/output/manifest.mpd?bkm-query
+https://MH-BKS400-05.starhubgo.com:443/bpk-token/2ac@red42hg4myt5y4i4wpiwqg2zpmfzqh5rr02h2xca/bpk-tv/Cbuzz2/output/manifest.mpd?bkm-query
 
-#EXTINF:-1 tvg-id="cricbuzz.starhubtvplussg" group-title="STARHUB SG (23 Nov 2025 07:33 WIB)",Cricbuzz
+#EXTINF:-1 tvg-id="cricbuzz.starhubtvplussg" group-title="STARHUB TV PLUS SG (23 Nov 2025 08:0 WIB)",Cricbuzz
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=00000000000000000000000000000000:00000000000000000000000000000000
-https://MH-BKS400-06.starhubgo.com:443/bpk-token/2ac@dk3vzzaevxghdcqm1nhtn0lttjqkpnogdoz5cwaa/bpk-tv/Cbuzz/output/manifest.mpd?bkm-query
+https://sh-bks400-08.starhubgo.com:443/bpk-token/2aa@xkez5yb1re5dhn1nf4x1mis5r1ucj4hoxa5rqoca/bpk-tv/Cbuzz/output/manifest.mpd?bkm-query
 
-#EXTINF:-1 tvg-id="hubruyi.starhubtvplussg" group-title="STARHUB SG (23 Nov 2025 07:33 WIB)",Hub Ruyi
+#EXTINF:-1 tvg-id="hubruyi.starhubtvplussg" group-title="STARHUB TV PLUS SG (23 Nov 2025 08:0 WIB)",Hub Ruyi
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=00000000000000000000000000000000:00000000000000000000000000000000
-https://bks03.starhubgo.com:443/bpk-token/2aa@thgzjs5nyehjo0kb3vsswmstep2rjos2thkrgeaa/bpk-tv/HubRuyi/output/manifest.mpd?bkm-query
+https://SH-BKS400-11.starhubgo.com:443/bpk-token/2ab@yawbwcorygykywb100keymdmfugqnqvqyuqyfuba/bpk-tv/HubRuyi/output/manifest.mpd?bkm-query
 
-#EXTINF:-1 tvg-id="hubpremier4.starhubtvplussg" group-title="STARHUB SG (23 Nov 2025 07:33 WIB)",Hub Premier 4
+#EXTINF:-1 tvg-id="hubpremier4.starhubtvplussg" group-title="STARHUB TV PLUS SG (23 Nov 2025 08:0 WIB)",Hub Premier 4
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=624bceaf2e78422c8ee1b8f31c638fb4:5223fbfd77b228f2f01e20358972850b
-https://sh-bks400-07.starhubgo.com:443/bpk-token/2aa@2zh3dmpw5upqnjqb5q3mkp0hywp4j5a12htg2zda/bpk-tv/HubPremier4/output/manifest.mpd?bkm-query
+https://MH-BKS400-06.starhubgo.com:443/bpk-token/2ac@hdkafjicibuercefkdp15uaksizqcijchhok4gaa/bpk-tv/HubPremier4/output/manifest.mpd?bkm-query
 
-#EXTINF:-1 tvg-id="hubpremier3.starhubtvplussg" group-title="STARHUB SG (23 Nov 2025 07:33 WIB)",Hub Premier 3
+#EXTINF:-1 tvg-id="hubpremier3.starhubtvplussg" group-title="STARHUB TV PLUS SG (23 Nov 2025 08:0 WIB)",Hub Premier 3
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=d02ff184351548eea3981c38b6f48d9b:42d56d760c19c180ceaf2e7ef512e5be
-https://CO2-BKS400-04.starhubgo.com:443/bpk-token/2ab@a4yxsa3sd5kcum5oky1vfrpfbkqh4veiaae25yba/bpk-tv/HubPremier3/output/manifest.mpd?bkm-query
+https://bks06.starhubgo.com:443/bpk-token/2aa@2mun3naarwvxrmp0mpnnai101ihdnlpd22qfs1da/bpk-tv/HubPremier3/output/manifest.mpd?bkm-query
 
-#EXTINF:-1 tvg-id="hubpremier8.starhubtvplussg" group-title="STARHUB SG (23 Nov 2025 07:33 WIB)",Hub Premier 8
+#EXTINF:-1 tvg-id="hubpremier8.starhubtvplussg" group-title="STARHUB TV PLUS SG (23 Nov 2025 08:0 WIB)",Hub Premier 8
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=8453cc1161814eaab26bca37dc85e360:72c9a9cad5387966e5715eee5cc1a94b
-https://sh-bks400-08.starhubgo.com:443/bpk-token/2aa@u3axqbmhd2cgqy0ckjl3cbobdamhyfmaux155xda/bpk-tv/HubPremier8/output/manifest.mpd?bkm-query
+https://MH-BKS400-06.starhubgo.com:443/bpk-token/2ac@hmy3cr34bxleg5k2uat1bq1fclbdoximhi2xz4ba/bpk-tv/HubPremier8/output/manifest.mpd?bkm-query
 
-#EXTINF:-1 tvg-id="hubpremier5.starhubtvplussg" group-title="STARHUB SG (23 Nov 2025 07:33 WIB)",Hub Premier 5
+#EXTINF:-1 tvg-id="hubpremier5.starhubtvplussg" group-title="STARHUB TV PLUS SG (23 Nov 2025 08:0 WIB)",Hub Premier 5
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=549415570a894df19a2aaa524d035bb6:8cd102efa9e4feeb98b62b1e8b1f10a4
-https://bks03.starhubgo.com:443/bpk-token/2aa@zgu55lboq45pf1ui4o4hui55x0wb355kzgyxq3ca/bpk-tv/HubPremier5/output/manifest.mpd?bkm-query
+https://mh-bks400-03.starhubgo.com:443/bpk-token/2ac@kkv2kb5hvslf2xfkue1ankzvc4tkfxkykk24fqda/bpk-tv/HubPremier5/output/manifest.mpd?bkm-query
 
-#EXTINF:-1 tvg-id="hubpremier6.starhubtvplussg" group-title="STARHUB SG (23 Nov 2025 07:33 WIB)",Hub Premier 6
+#EXTINF:-1 tvg-id="hubpremier6.starhubtvplussg" group-title="STARHUB TV PLUS SG (23 Nov 2025 08:0 WIB)",Hub Premier 6
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=ecd1e866cc4e4bb1a230dda645081865:edaf41fe7af1249eef03bfac6e9ab632
-https://SH-BKS400-11.starhubgo.com:443/bpk-token/2ab@odqe2pxgasq53h00dp2i5ajy5g1aeb51oxw3pzaa/bpk-tv/HubPremier6/output/manifest.mpd?bkm-query
+https://sh-bks400-08.starhubgo.com:443/bpk-token/2aa@hw0a2ecjkdqtio4n05j0vvbyj2qvgahrh2bitsba/bpk-tv/HubPremier6/output/manifest.mpd?bkm-query
 
-#EXTINF:-1 tvg-id="hubsports8hd.starhubtvplussg" group-title="STARHUB SG (23 Nov 2025 07:33 WIB)",Hub Sports 8 HD
+#EXTINF:-1 tvg-id="hubsports8hd.starhubtvplussg" group-title="STARHUB TV PLUS SG (23 Nov 2025 08:0 WIB)",Hub Sports 8 HD
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=760126fc9c2640f8b32e647c0f43fa09:f139ce2dd6ebe611388fa8e175e99baf
+https://bks05.starhubgo.com:443/bpk-token/2aa@chacqacvaiaciy0a1zlqxaeabuybqaeqcxetk4ca/bpk-tv/HubSports8/output/manifest.mpd?bkm-query
+
+#EXTINF:-1 tvg-id="hubsports7hd.starhubtvplussg" group-title="STARHUB TV PLUS SG (23 Nov 2025 08:0 WIB)",Hub Sports 7 HD
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=16f39f24603a4b9ea70fa22d91f55d29:bab7601e930f1d08ccfa005548dbbace
+https://MH-BKS400-06.starhubgo.com:443/bpk-token/2ac@31mvxvg0tv4w0zqwakboozkpl35gl3nv35i5m0ca/bpk-tv/HubSports7/output/manifest.mpd?bkm-query
+
+#EXTINF:-1 tvg-id="beinsports4hd.starhubtvplussg" group-title="STARHUB TV PLUS SG (23 Nov 2025 08:0 WIB)",beIN SPORTS 4 HD
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=b6addeb1135a4279b917e35c26d5b0f5:7f5599f34b2a49e23f98045a5a0f512a
+https://bks05.starhubgo.com:443/bpk-token/2aa@rhuhtublq4mswnd1jyrxwipgjl2b3zenrxqwjkba/bpk-tv/beINSports4/output/manifest.mpd?bkm-query
+
+#EXTINF:-1 tvg-id="beinsports5hd.starhubtvplussg" group-title="STARHUB TV PLUS SG (23 Nov 2025 08:0 WIB)",beIN SPORTS 5 HD
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=7f8252e59f9b439cb89cb8628ced2443:4faba8fd3d200f9825dc29ca98d97e33
+https://SH-BKS400-11.starhubgo.com:443/bpk-token/2ab@13gkzmdf1ift3tkcp33ccnuszooxrkg11jatk0aa/bpk-tv/beINSports5/output/manifest.mpd?bkm-query
+
+#EXTINF:-1 tvg-id="afn.starhubtvplussg" group-title="STARHUB TV PLUS SG (23 Nov 2025 08:0 WIB)",AFN
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=00000000000000000000000000000000:00000000000000000000000000000000
-https://mh-bks400-03.starhubgo.com:443/bpk-token/2ac@iqjyfwnngbxygnhw3tqfztqlmldmcorniqa0khba/bpk-tv/HubSports8/output/manifest.mpd?bkm-query
+https://SH-BKS400-10.starhubgo.com:443/bpk-token/2ab@rr2haggps5ayywa5zriw0zpameme5bqrrdhbpqba/bpk-tv/AFN/output/manifest.mpd?bkm-query
 
-#EXTINF:-1 tvg-id="hubsports7hd.starhubtvplussg" group-title="STARHUB SG (23 Nov 2025 07:33 WIB)",Hub Sports 7 HD
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=00000000000000000000000000000000:00000000000000000000000000000000
-https://MH-BKS400-04.starhubgo.com:443/bpk-token/2ac@2ajhqltpe3ao3vshcj4mysoax4hi0b202a54q1da/bpk-tv/HubSports7/output/manifest.mpd?bkm-query
-
-#EXTINF:-1 tvg-id="beinsports4hd.starhubtvplussg" group-title="STARHUB SG (23 Nov 2025 07:33 WIB)",beIN SPORTS 4 HD
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=00000000000000000000000000000000:00000000000000000000000000000000
-https://MH-BKS400-05.starhubgo.com:443/bpk-token/2ac@abvn4rwkuwzh02wjhodu1k12dfjintpua5ku4bca/bpk-tv/beINSports4/output/manifest.mpd?bkm-query
-
-#EXTINF:-1 tvg-id="beinsports5hd.starhubtvplussg" group-title="STARHUB SG (23 Nov 2025 07:33 WIB)",beIN SPORTS 5 HD
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=00000000000000000000000000000000:00000000000000000000000000000000
-https://MH-BKS400-05.starhubgo.com:443/bpk-token/2ac@mgg5nkrxy2xjfzka4x4nvm41ucsrzptkmyzgn0ba/bpk-tv/beINSports5/output/manifest.mpd?bkm-query
-
-#EXTINF:-1 tvg-id="afn.starhubtvplussg" group-title="STARHUB SG (23 Nov 2025 07:33 WIB)",AFN
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=00000000000000000000000000000000:00000000000000000000000000000000
-https://MH-BKS400-08.starhubgo.com:443/bpk-token/2ac@xffkt1g3uinolo5ruig0skugxvnjr02wxh2xqoda/bpk-tv/AFN/output/manifest.mpd?bkm-query
-
-#EXTINF:-1 tvg-id="testchannel995.starhubtvplussg" group-title="STARHUB SG (23 Nov 2025 07:33 WIB)",TestChannel 995
+#EXTINF:-1 tvg-id="testchannel995.starhubtvplussg" group-title="STARHUB TV PLUS SG (23 Nov 2025 08:0 WIB)",TestChannel 995
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=00000000000000000000000000000000:00000000000000000000000000000000
 https://starhubgo.secureswiftcontent.com/bpk-tv/TestChannel995/output/manifest.mpd
